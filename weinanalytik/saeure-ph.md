@@ -7,7 +7,7 @@
 - **Methoden:** Gesamtsäure durch Titration mit Natronlauge 0,1 mol/L bis pH 7,0 – mit pH-Meter (Referenzmethode, auch für Rotwein), mit dem Indikator Bromthymolblau oder mit einem Winzer-Säuremess-Set. pH-Wert mit pH-Meter und Glaselektrode nach Zwei- oder Dreipunktkalibrierung.
 - **Aufwand:** Gesamtsäure etwa 10 min je Probe, pH-Wert etwa 5 min je Probe nach der Kalibrierung. Das pH-Meter ist die wichtigste Anschaffung für das Kellerlabor, weil es für beide Messungen dient.
 - **Genauigkeit (eigene Abschätzung):** Gesamtsäure potentiometrisch etwa ±0,05 g/L, mit Indikator etwa ±0,1–0,15 g/L, bei Rotwein mit Indikator schlechter. pH-Wert etwa ±0,02–0,05 bei frischen Puffern und Kalibrierung bei Messtemperatur.
-- **Säurekorrektur:** Nur nach einem Vorversuch im Labormaßstab. Entsäuern ist in Österreich (Weinbauzone B) erlaubt, Säuern nur in Ausnahmejahren mit Zulassung.
+- **Säurekorrektur:** Nur nach einem Vorversuch im Labormaßstab. Seit der Reform durch VO (EU) 2021/2117 sind Säuern (bis 4 g/L als Weinsäure) und Entsäuern nach EU-Recht nicht mehr auf bestimmte Weinbauzonen beschränkt; nationale Einschränkungen in Österreich vorher prüfen (Abschnitt „Rechtsrahmen“).
 
 Verwandte Dateien: [Laborgrundlagen](grundlagen-labor.md), [Schweflige Säure](schweflige-saeure.md), [Flüchtige Säure](fluechtige-saeure.md), [Äpfel- und Milchsäure, BSA](apfel-milchsaeure-bsa.md), [Grenzwerte und Recht](grenzwerte-recht.md), [Stabilitätstests](stabilitaetstests.md), [Einkaufsliste](einkaufsliste.md).
 
@@ -293,7 +293,7 @@ n = Laugenverbrauch in mL, c = Konzentration der Lauge in mol/L (mit Titerfaktor
 |---|---|---|
 | Most: GS über 11 g/L, pH unter 3,0 | sehr sauer, viel Äpfelsäure wahrscheinlich | Äpfelsäure bestimmen ([Fotometrie und Enzymatik](fotometrie-enzymatik.md) oder [Papierchromatographie](apfel-milchsaeure-bsa.md)); Entsäuerung nach Vorversuch erwägen; bei Rotwein senkt der BSA zusätzlich |
 | Most: GS 6–10 g/L, pH 3,1–3,4 | ausgewogen | keine Korrektur |
-| Most: GS unter 5,5 g/L, pH über 3,6 | säurearm, hoher pH | SO2-Bedarf und Hygiene einplanen; Säuerung nur, wenn für den Jahrgang zugelassen; Verschnitt mit säurereichen Partien |
+| Most: GS unter 5,5 g/L, pH über 3,6 | säurearm, hoher pH | SO2-Bedarf und Hygiene einplanen; Säuerung nach Vorversuch (Rechtsrahmen beachten); Verschnitt mit säurereichen Partien |
 | Wein: GS unter 3,5 g/L | unter dem EU-Mindestwert für Wein [15] | nicht verkehrsfähig als Wein; Ursache klären, Verschnitt |
 | Wein: pH über 3,7 | mikrobiell anfällig, SO2 wirkt schwach | [SO2](schweflige-saeure.md) nach pH bemessen, kühl lagern, mikrobiologisch prüfen ([Mikroskopie](mikrobiologie-mikroskopie.md)) |
 | Wein: GS sinkt während der Lagerung, pH steigt | Weinsteinausfall oder unbemerkter BSA | Äpfelsäure prüfen, [Weinsteinstabilität](stabilitaetstests.md) prüfen |
@@ -312,18 +312,19 @@ Die Grenzen dieser Tabelle sind Orientierungswerte (nicht belegt), außer dem EU
 
 ### Rechtsrahmen in Österreich
 
-Ganz Österreich gehört zur Weinbauzone B (VO (EU) Nr. 1308/2013, Anhang VII Anlage I) [15]. Für Zone B gilt nach Anhang VIII Teil I Abschnitt C dieser Verordnung (Fassung 2013) [15]:
+Ganz Österreich gehört zur Weinbauzone B (VO (EU) Nr. 1308/2013, Anhang VII Anlage I) [15]. Säuerung und Entsäuerung regelt Anhang VIII Teil I Abschnitt C dieser Verordnung. Die VO (EU) 2021/2117 hat diesen Abschnitt neu gefasst [15, 26]:
 
-| Maßnahme | Zulässigkeit in Zone B | Höchstmenge (als Weinsäure) |
+| Maßnahme | Fassung bis 2021 (Zone B) | Fassung nach VO (EU) 2021/2117 |
 |---|---|---|
-| Entsäuerung von Trauben, Most, Jungwein | zulässig | keine zahlenmäßige Grenze in der EU-Vorschrift |
-| Entsäuerung von Wein | zulässig | 1 g/L ≙ 13,3 meq/L |
-| Säuerung von Trauben, Most, Jungwein | grundsätzlich nicht; der Mitgliedstaat kann sie in Jahren mit außergewöhnlichen Witterungsverhältnissen zulassen | 1,5 g/L ≙ 20 meq/L |
-| Säuerung von Wein | wie oben | 2,5 g/L ≙ 33,3 meq/L |
+| Entsäuerung von Trauben, Most, Jungwein | zulässig | zulässig, ohne Zonenbeschränkung |
+| Entsäuerung von Wein | zulässig bis 1 g/L ≙ 13,3 meq/L | weiterhin bis 1 g/L (nach Kenntnisstand) |
+| Säuerung von Trauben, Most, Jungwein und Wein | nur in Jahren mit außergewöhnlichen Witterungsverhältnissen, wenn der Mitgliedstaat sie zuließ; Most 1,5 g/L, Wein 2,5 g/L | ohne Zonenbeschränkung zulässig, höchstens 4 g/L als Weinsäure ≙ 53,3 meq/L |
+
+Unverändert gilt: Gesäuert und entsäuert wird nur in der Weinbauzone, in der die Trauben geerntet wurden [26]. Säuerung und Entsäuerung desselben Erzeugnisses schließen einander aus, ebenso Säuerung und Anreicherung, soweit keine Ausnahme gilt [15].
 
 Die Umrechnungen in meq/L sind nachgerechnet (1 g/L Weinsäure = 13,33 meq/L). Zugelassene Mittel (VO (EU) 2019/934, Anhang I Teil A) [16]: zur Entsäuerung neutrales Kaliumtartrat, Kaliumhydrogencarbonat, Calciumcarbonat (auch mit geringen Mengen des Calcium-Doppelsalzes von Wein- und Äpfelsäure als Impfkristall), Calciumtartrat, L(+)-Weinsäure (für die erweiterte Doppelsalzentsäuerung) und eine Mischung aus Weinsäure und Calciumcarbonat; zur Säuerung L(+)-Weinsäure, L-Äpfelsäure, DL-Äpfelsäure und Milchsäure.
 
-> **Offen:** Tabelle und Mittelliste stammen aus dem Fachwissen zur Fassung 2013 und wurden nicht online geprüft. Anhang VIII der VO (EU) Nr. 1308/2013 wurde durch die VO (EU) 2021/2117 geändert. Ob sich dabei die Zonenregelung für die Säuerung geändert hat, konnte nicht online geprüft werden. Ebenso nicht geprüft: die Liste der Mittel in VO (EU) 2019/934, Anhang I Teil A, in der aktuellen Fassung. Vor jeder Säuerung den aktuellen Text bei EUR-Lex lesen und bei der Bundeskellereiinspektion oder der Landwirtschaftskammer fragen, ob für den Jahrgang eine Ausnahme gilt.
+> **Offen:** Die neue Fassung (4 g/L, keine Zonenbeschränkung) ist durch eine Suche im EUR-Lex-Text der VO (EU) 2021/2117 belegt; der Wortlaut zur Entsäuerung von Wein (1 g/L) und die aktuelle Mittelliste in VO (EU) 2019/934 wurden nicht im Original gelesen. Ob das österreichische Weingesetz oder eine Verordnung die Säuerung zusätzlich einschränkt (etwa für Prädikatsweine), ist ungeprüft. Vor jeder Säuerung den aktuellen Text bei EUR-Lex bzw. im RIS lesen und bei der Bundeskellereiinspektion oder der Landwirtschaftskammer nachfragen.
 
 ### Bio
 
@@ -427,11 +428,11 @@ In der Praxis liegt die Dosis dazwischen, je nach Kaliumgehalt, Temperatur und Z
 
 > **Offen:** Die pH-Senkung von etwa 0,1–0,2 je g/L Weinsäure ist ein Erfahrungswert aus dem Fachwissen. Eine eigene Modellrechnung (vereinfachtes Säure-Basen-Modell) ergab für einen typischen Wein etwa −0,14. Der tatsächliche Wert hängt von der Pufferkapazität ab und wurde nicht gegen eine Quelle geprüft.
 
-**Milchsäure.** Fällt nicht aus und wirkt milder. Gleiche Säuremenge in Milliäquivalenten: 1,20 g Milchsäure (100 %) entsprechen 1 g Weinsäure; bei einer 80-%-Lösung sind das 1,50 g, bei 90 % 1,33 g (eigene Rechnung). Die Höchstmengen 1,5 g/L (Most) und 2,5 g/L (Wein) als Weinsäure entsprechen 1,80 g/L bzw. 3,00 g/L Milchsäure (100 %).
+**Milchsäure.** Fällt nicht aus und wirkt milder. Gleiche Säuremenge in Milliäquivalenten: 1,20 g Milchsäure (100 %) entsprechen 1 g Weinsäure; bei einer 80-%-Lösung sind das 1,50 g, bei 90 % 1,33 g (eigene Rechnung). Die Höchstmenge von 4 g/L als Weinsäure (Fassung nach VO (EU) 2021/2117) entspricht 4,80 g/L Milchsäure (100 %); die früheren Grenzen 1,5 g/L (Most) und 2,5 g/L (Wein) entsprachen 1,80 g/L bzw. 3,00 g/L.
 
 **Äpfelsäure** (nur konventionell). L-Äpfelsäure wird im BSA wieder abgebaut. DL-Äpfelsäure enthält zur Hälfte D-Äpfelsäure, die Bakterien nicht abbauen; sie täuscht in der Papierchromatographie später unvollständigen BSA vor (siehe [BSA](apfel-milchsaeure-bsa.md)).
 
-**Beispiel:** 3000 L Most, Zulassung für den Jahrgang vorausgesetzt, Ziel +1,0 g/L. Weinsäure = 1,0 g/L · 3000 L = **3,0 kg**. Das liegt unter der Höchstmenge von 1,5 g/L für Most.
+**Beispiel:** 3000 L Most, Ziel +1,0 g/L. Weinsäure = 1,0 g/L · 3000 L = **3,0 kg**. Das liegt deutlich unter der Höchstmenge von 4 g/L.
 
 ## Fehlerquellen und Grenzen
 
@@ -500,3 +501,4 @@ Stand: November 2026
 23. Methodenverordnung (Österreich), Anlage 1, Fassung vom 24.11.2024. RIS, Gesetzesnummer 10010553. https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010553&FassungVom=2024-11-24&Anlage=1 – Existenz online gesehen; Inhalt zur Gesamtsäure [nicht online geprüft]
 24. Abfallwirtschaftsgesetz 2002 (AWG 2002). RIS. [nicht online geprüft]
 25. OIV (2015): Volatile acidity (OIV-MA-AS313-02, Typ I). Compendium of International Methods of Wine and Must Analysis. https://www.oiv.int/public/medias/3732/oiv-ma-as313-02.pdf – Verwendung von CO2-befreitem Wein. [online geprüft]
+26. Verordnung (EU) 2021/2117 des Europäischen Parlaments und des Rates vom 2. Dezember 2021 zur Änderung u. a. der Verordnung (EU) Nr. 1308/2013; Anhang VIII Teil I Abschnitt C (Säuerung und Entsäuerung). https://eur-lex.europa.eu/eli/reg/2021/2117/oj [online geprüft – Säuerungsgrenze 4 g/L und Zonenregel in einer Suchzusammenfassung des EUR-Lex-Textes gesehen, Original nicht gelesen]

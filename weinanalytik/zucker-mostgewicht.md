@@ -115,7 +115,7 @@ Von Hand gepresster Beerensaft stammt vor allem aus dem Fruchtfleisch; Säure un
 
 ### 4.2 Mostwaage (Aräometer)
 
-**Prinzip:** Ein Schwimmkörper aus Glas (Spindel, Aräometer) taucht umso weniger tief ein, je dichter die Flüssigkeit ist. Die Skala im Hals zeigt die Dichte, °Oe oder °KMW an. Mostwaagen sind auf eine Bezugstemperatur justiert, heute meist 20 °C; sie steht auf der Spindel.
+**Prinzip:** Ein Schwimmkörper aus Glas (Spindel, Aräometer) taucht umso weniger tief ein, je dichter die Flüssigkeit ist. Refraktometrie und Aräometrie gehören zu den Standardverfahren der Lehrbücher für Most- und Weinanalytik [20–22]. Die Skala im Hals zeigt die Dichte, °Oe oder °KMW an. Mostwaagen sind auf eine Bezugstemperatur justiert, heute meist 20 °C; sie steht auf der Spindel.
 
 **Material:**
 
@@ -295,7 +295,7 @@ Alkohol bricht das Licht stärker als Wasser. Ein Zuckerrefraktometer ist deshal
 
 ### 7.1 Methoden im Überblick
 
-Die Angaben zu Bereich und Genauigkeit sind Größenordnungen aus dem Fachwissen und nicht gegen eine Quelle geprüft.
+Die Lehrbücher der Weinanalytik beschreiben Kupfer-Reduktionsverfahren (Fehling-Varianten, Tabletten-Schnelltests) und enzymatische Verfahren für Zucker [20–22]. Die Angaben zu Bereich und Genauigkeit in der Tabelle sind Größenordnungen aus dem Fachwissen und nicht gegen eine Quelle geprüft.
 
 | Methode | Was wird erfasst | Genauigkeit | Aufwand | Eignung |
 |---|---|---|---|---|

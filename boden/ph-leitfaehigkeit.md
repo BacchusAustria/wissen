@@ -99,7 +99,7 @@ Preise und Bezugsquellen stehen in der [Einkaufsliste](einkaufsliste.md).
 
 **Schritt 3 – pH-Meter kalibrieren** (an jedem Messtag vor der Serie)
 
-1. Pufferlösungen und Proben auf Raumtemperatur bringen. Die Norm misst bei etwa 20 °C [2].
+1. Pufferlösungen und Proben auf Raumtemperatur bringen. Die Normpuffer sind auf 20 °C bezogen [2]; Puffer und Proben bei gleicher Temperatur messen.
 2. Elektrode mit deionisiertem Wasser abspülen und mit einem weichen Tuch abtupfen. Nicht reiben – das lädt die Glasmembran elektrostatisch auf.
 3. In Puffer pH 7,00 tauchen und nach Geräteanleitung kalibrieren. Spülen.
 4. Für alkalische Böden mit Puffer pH 10,01 (oder 9,22) als zweitem Punkt kalibrieren, für saure Böden mit pH 4,01.
@@ -148,7 +148,7 @@ Zur Norm: Die internationale Norm ISO 10390:2021 (in Österreich ÖNORM EN ISO 1
 
 - Die Farbskalen sind meist in Schritten von 0,5 pH-Einheiten abgestuft. Genauer als etwa ± 0,5 lässt sich nicht ablesen. Belastbare Vergleichsstudien wurden für diesen Text nicht ausgewertet.
 - Dunkle, humusreiche oder trübe Proben verfälschen den Farbeindruck.
-- Viele Garten-Sets reichen nur bis pH 8. Für alkalische Böden ein Set wählen, das bis pH 9 reicht. Geeignete Indikatorfarbstoffe für diesen Bereich sind zum Beispiel Kresolrot (Umschlag pH 7,2–8,8) und Thymolblau (pH 8,0–9,6).
+- Viele Garten-Sets reichen nur bis pH 8. Für alkalische Böden ein Set wählen, das bis pH 9 reicht. Geeignete Indikatorfarbstoffe für diesen Bereich sind zum Beispiel Kresolrot und Thymolblau, die etwa zwischen pH 7 und 9,6 umschlagen (Fachwissen, nicht geprüft).
 
 **Teststreifen.** In der CaCl₂-Suspension flockt der Ton aus. Nach 30–60 min Absetzen ist der Überstand meist klar genug für Teststreifen. „Nicht ausblutende“ Streifen mit einem Messbereich bis pH 10 verwenden; sie sind laut Herstellern in Stufen von etwa 0,3–0,5 abgestuft (nicht geprüft). Streifen sofort und bei Tageslicht ablesen. Sie genügen, um „unter 7“, „um 7,5“ und „über 8“ zu unterscheiden. Für eine Einstufung nahe an Klassengrenzen sind sie zu grob. Gelegentlich mit dem pH-Meter vergleichen.
 
@@ -198,7 +198,7 @@ Die Zuordnung der CO₂-Gehalte zu Bodensituationen ist eine grobe Orientierung;
 Was daraus folgt:
 
 - **Im Labor** steht die Suspension etwa mit der Außenluft im Gleichgewicht. Rechnerisch liegt pH(H₂O) dann bei 8,2 und pH(CaCl₂) bei 7,7. Weil Bodenorganismen in der Suspension etwas CO₂ nachliefern, liegen Messwerte oft etwas darunter. Typisch für kalkhaltige Böden sind deshalb pH(CaCl₂) 7,2–7,7 und pH(H₂O) 7,8–8,3. Die Kalkmenge spielt dafür kaum eine Rolle: Ein Boden mit 2 % und einer mit 40 % Kalk zeigen fast denselben pH-Wert.
-- **Im Wurzelraum** ist mehr CO₂ vorhanden. Der pH-Wert ist dort niedriger, die Hydrogencarbonat-Konzentration aber drei- bis siebenmal höher als im Labor. Hydrogencarbonat ist der wichtigste Auslöser der Kalkchlorose [25, 26]. Deshalb sind verdichtete und vernässte Kalkböden besonders chlorosegefährdet (Teil C6 und [Eisenmangel und Kalkchlorose](../alkalische-boeden/eisen-chlorose.md)).
+- **Im Wurzelraum** ist mehr CO₂ vorhanden. Der pH-Wert ist dort niedriger, die Hydrogencarbonat-Konzentration aber drei- bis siebenmal höher als im Labor. Hydrogencarbonat ist der wichtigste Auslöser der Kalkchlorose [25, 26]. Deshalb sind verdichtete und vernässte Kalkböden besonders chlorosegefährdet (Teil C7 und [Eisenmangel und Kalkchlorose](../alkalische-boeden/eisen-chlorose.md)).
 
 **pH über 8,5 in Wasser: Natrium?**
 
@@ -214,7 +214,7 @@ Kalk allein kann den pH-Wert bei Luft-CO₂ kaum über 8,3 (Wasser) treiben (Tab
 
 ECe ist die Leitfähigkeit des Sättigungsextrakts (Teil B). ESP (*exchangeable sodium percentage*) ist der Anteil des austauschbaren Natriums an der Kationenaustauschkapazität. Beratungsunterlagen nennen pH-Werte über 8,4–8,5 als Hinweis auf ein Natriumproblem, betonen aber, dass der pH-Wert allein nicht genügt: In salz- und natriumhaltigen Böden drücken die gelösten Salze den pH-Wert unter 8,5 [10].
 
-In Österreich kommen Salz- und Sodaböden (Solontschak, Solonetz) natürlicherweise vor allem im Seewinkel östlich des Neusiedler Sees vor [11]. Dort bei pH(H₂O) über 8,5 oder pH(CaCl₂) über 8,0 immer die EC messen und im Labor das austauschbare Natrium (ESP) und den SAR-Wert (Natrium-Adsorptionsverhältnis, Teil C5) bestimmen lassen.
+In Österreich kommen Salz- und Sodaböden (Solontschak, Solonetz) natürlicherweise vor allem im Seewinkel östlich des Neusiedler Sees vor [11]. Dort bei pH(H₂O) über 8,5 oder pH(CaCl₂) über 8,0 immer die EC messen und im Labor das austauschbare Natrium (ESP) und den SAR-Wert (Natrium-Adsorptionsverhältnis, Teil C6) bestimmen lassen.
 
 **Tabelle A-5: Was der Messwert bedeutet und was als Nächstes zu tun ist**
 
@@ -353,7 +353,7 @@ Relativer Ertrag (%) = 100 − 9,6 · (ECe − 1,5) für ECe über 1,5 dS/m
 | 50 % | 6,7 | 4,5 |
 | 0 % | 12 | 7,9 |
 
-> **Offen:** Schwelle 1,5 dS/m und Steigung 9,6 %/(dS/m) stammen aus Fachwissen und wurden nicht online gegen Maas und Hoffman (1977) oder FAO 29 geprüft. Die daraus berechneten Werte der Tabelle stimmen mit der aus dem Gedächtnis bekannten FAO-Tabelle überein.
+> **Offen:** Schwelle 1,5 dS/m und Steigung 9,6 %/(dS/m) stammen aus Fachwissen und wurden nicht online gegen Maas und Hoffman (1977) oder FAO 29 geprüft. Die daraus berechneten Werte stimmen mit den Tabellenwerten in FAO 29 überein, soweit diese aus Fachwissen bekannt sind.
 
 **Tabelle B-4: Welche EC₁:₅ entspricht der Schadschwelle?** (eigene Rechnung aus Tabelle B-1; in Kalkböden den Grundpegel von etwa 0,1 dS/m beachten)
 
