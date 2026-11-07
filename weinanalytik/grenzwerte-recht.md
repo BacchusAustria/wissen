@@ -211,12 +211,12 @@ Nach Kenntnisstand sind für Bio-Wein **verboten** [8]:
 
 **Eingeschränkt** sind:
 
-- Wärmebehandlung: höchstens 70 °C,
+- Wärmebehandlung: höchstens 75 °C (nach VO (EU) 2018/848; unter der alten VO (EG) Nr. 889/2008 waren es 70 °C, siehe [Bio-Weinbereitung](../kellerwirtschaft/bio-weinbereitung.md)),
 - Filtration: Porenweite nicht unter 0,2 µm.
 
 Nicht im Anhang V gelistet und damit nach Kenntnisstand für Bio **nicht zugelassen** sind unter anderem Sorbinsäure bzw. Kaliumsorbat.
 
-> **Offen:** Prüfen, ob die Regeln zur Entalkoholisierung für Bio-Wein seit der Zulassung entalkoholisierter Weine (Reform 2021) geändert wurden, ob die Temperaturgrenze 70 °C noch gilt und welche weiteren Stoffe (z. B. PVPP, Lysozym, Dimethyldicarbonat) ausdrücklich ausgeschlossen sind.
+> **Offen:** Prüfen, ob die Regeln zur Entalkoholisierung für Bio-Wein seit der Zulassung entalkoholisierter Weine (Reform 2021) geändert wurden, welche weiteren Stoffe (z. B. PVPP, Lysozym, Dimethyldicarbonat) ausdrücklich ausgeschlossen sind.
 
 ### 6.4 SO2-Höchstwerte für Bio-Wein
 
