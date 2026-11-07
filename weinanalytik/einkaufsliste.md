@@ -202,7 +202,7 @@ Die Artikel wurden mit den Abschnitten „Material“ aller Anleitungen in diese
 
 > **Offen:** In [Flüchtige Säure](fluechtige-saeure.md) steht Phenolphthalein 1 % als Indikator. Wegen der CMR-Einstufung wäre ein pH-Endpunkt besser; die Anleitung sollte das prüfen.
 
-> **Offen:** Die Kapazität „Waage 0,001 g“ genügt für das Pyknometer (± 0,02 % vol laut [Alkohol](alkohol.md)); 0,1 mg ist nicht zwingend. Eine Analysenwaage (ca. 900–2.500 €, Schätzung) ist deshalb nicht in der Liste.
+> **Offen:** Eine Waage mit 0,001 g Ablesbarkeit genügt für das Pyknometer (± 0,02 % vol laut [Alkohol](alkohol.md)); 0,1 mg ist nicht zwingend. Eine Analysenwaage (ca. 900–2.500 €, Schätzung) ist deshalb nicht in der Liste.
 
 > **Offen:** Für das Fotometer verlangt [Stabilitätstests](stabilitaetstests.md) Testsätze für Kupfer, Eisen und Calcium. Deren Preise wurden nicht ermittelt.
 
