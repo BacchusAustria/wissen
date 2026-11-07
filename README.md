@@ -22,6 +22,7 @@ Wie Texte aufgebaut sind, welche Quellen zählen und wie zitiert wird, steht im 
 
 - **Quellenprüfung:** Während der Erstellung waren Volltexte (z. B. EUR-Lex, InfoXgen) aus der Arbeitsumgebung nicht abrufbar, und das Suchbudget war begrenzt. Viele Quellen tragen deshalb `[nicht online geprüft]`. Nächster Schritt: die „Offen“-Kästen Datei für Datei gegen die Originale prüfen. Vorrang haben Rechtswerte (SO₂-Höchstwerte Bio, Anhang II und V der DVO (EU) 2021/1165, österreichisches Weingesetz), die Gehaltsklassen der „Richtlinien für die sachgerechte Düngung im Weinbau“ (BML 2024) und die Kalktoleranz der Unterlagen.
 - **Bio-Zulässigkeit önologischer Mittel:** Kupfercitrat, Hefezellwände, Mannoproteine, inaktivierte Hefen, Lysozym, Chitosan und Silberchlorid mit der Kontrollstelle klären.
+- **Preise:** Die Preise in den Einkaufslisten sind Schätzungen; vor dem Kauf aktuelle Angebote einholen. Laborpreise von Klosterneuburg und Eisenstadt fehlen.
 - **Verbandsrichtlinien:** Werte von Bio Austria, Demeter und Respekt-BIODYN nachtragen.
 - **Eigene Daten:** Analysen, Bodenbefunde und Streifenversuche des Betriebs dokumentieren, damit eigene Umrechnungsfaktoren und Erfahrungswerte entstehen.
 - **Mögliche neue Themen:** Kellerbuch und Kennzeichnung, Rebschutz im Bio-Weinbau, Sensorik und Verkostungsschema, Gärführung und Hefewahl, Schaumwein.
