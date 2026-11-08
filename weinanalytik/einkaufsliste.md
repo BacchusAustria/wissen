@@ -168,7 +168,7 @@ Belegte Zahlen sind selten. Die folgenden Angaben wurden nur als Suchtreffer ges
 | FTIR-Paket (Most oder Wein) | Schätzung: ca. 10–30 € je Probe | – |
 | Enzymatisch L-Äpfelsäure oder YAN im Labor | Schätzung: ca. 10–35 € je Parameter | – |
 
-> **Offen:** Aktuelle Preislisten der HBLA und des Bundesamts für Wein- und Obstbau Klosterneuburg, des Bundesamts für Weinbau in Eisenstadt und privater Weinlabors fehlen. Direkt anfragen.
+> **Offen:** Aktuelle Preislisten der HBLA und des Bundesamts für Wein- und Obstbau Klosterneuburg, des Bundesamts für Weinbau in Eisenstadt und privater Weinlabors fehlen; auch die aktuelle Gebühr für die Prüfnummer (Tarif 2011 oben) wurde in der Nachprüfung (November 2026) nicht gefunden. Direkt anfragen.
 
 **Lohnt sich das eigene Gerät?** Grobe Rechnung mit den Schätzungen oben:
 
@@ -183,11 +183,11 @@ Die eigene Messung dient der Kellersteuerung. Werte für die Prüfnummer, den Ex
 
 ## Hinweise zu Gefahrstoffen, Gewerbekunden und Versand
 
-> **Achtung:** Schwefelsäure über 15 % und Wasserstoffperoxid über 12 % sind beschränkte Ausgangsstoffe für Explosivstoffe nach VO (EU) 2019/1148, Anhang I [3]. Sie dürfen nicht an die Allgemeinheit abgegeben werden. Ein Weinbaubetrieb kauft als beruflicher Verwender; der Händler verlangt dafür eine Kundenerklärung mit dem Verwendungszweck. Wasserstoffperoxid wird hier nur 3 %ig gebraucht (Apotheke).
+> **Achtung:** Schwefelsäure über 15 % (Massenanteil) und Wasserstoffperoxid über 12 % (Massenanteil) sind beschränkte Ausgangsstoffe für Explosivstoffe nach VO (EU) 2019/1148, Anhang I [3]. Sie dürfen nicht an die Allgemeinheit abgegeben werden. Ein Weinbaubetrieb kauft als beruflicher Verwender; der Händler verlangt dafür eine Kundenerklärung mit dem Verwendungszweck. Wasserstoffperoxid wird hier nur 3 %ig gebraucht (Apotheke).
 
 - **Phenolphthalein** ist als krebserzeugend Kat. 1B eingestuft. Die Abgabe an Private ist nach REACH Anhang XVII beschränkt [4].
   - Die [Anleitung zur flüchtigen Säure](fluechtige-saeure.md) verwendet die Lösung als Indikator.
-  - Ein potentiometrischer Endpunkt mit dem pH-Meter ist möglich; den Endpunkt-pH vor einer Umstellung in der Anleitung festlegen.
+  - Ein potentiometrischer Endpunkt mit dem pH-Meter ist möglich; die Anleitung nennt dafür pH 8,2.
   - **Natriumtetraborat** ist reproduktionstoxisch; Handschuhe tragen.
 - **Ameisensäure, konzentriert,** ist ätzend und giftig beim Einatmen. In Österreich gelten für als Gift eingestufte Stoffe zusätzliche Regeln für Bezug und Aufbewahrung nach dem Chemikaliengesetz 1996 [5]. Vor der Bestellung mit dem Händler klären, oder das fertige Laufmittel kaufen.
 - **Gewerbekunden:** Carl Roth, VWR, Sigma-Aldrich/Merck, Th. Geyer und neoLab beliefern nach Fachwissen nur oder überwiegend Gewerbe, Behörden und Institute (nicht geprüft). Ein Kundenkonto mit Betriebsnummer bzw. UID-Nummer anlegen. Kellereibedarf, Apotheke, Hanna und Kern verkaufen auch an Private.
@@ -200,9 +200,9 @@ Die eigene Messung dient der Kellersteuerung. Werte für die Prüfnummer, den Ex
 
 Die Artikel wurden mit den Abschnitten „Material“ aller Anleitungen in diesem Ordner abgeglichen. Dabei fiel auf:
 
-> **Offen:** In [Flüchtige Säure](fluechtige-saeure.md) steht Phenolphthalein 1 % als Indikator. Wegen der CMR-Einstufung wäre ein pH-Endpunkt besser; die Anleitung sollte das prüfen.
+- [Flüchtige Säure](fluechtige-saeure.md) verwendet Phenolphthalein als Indikator, beschreibt aber bereits eine Variante ohne Phenolphthalein (potentiometrisch bis pH 8,2). Wer kein Phenolphthalein kaufen will, braucht dafür nur das pH-Meter der Stufe 1.
 
-> **Offen:** Eine Waage mit 0,001 g Ablesbarkeit genügt für das Pyknometer (± 0,02 % vol laut [Alkohol](alkohol.md)); 0,1 mg ist nicht zwingend. Eine Analysenwaage (ca. 900–2.500 €, Schätzung) ist deshalb nicht in der Liste.
+- Eine Waage mit 0,001 g Ablesbarkeit genügt für das Pyknometer (± 0,02 % vol laut [Alkohol](alkohol.md)); 0,1 mg ist nicht zwingend. Eine Analysenwaage (ca. 900–2.500 €, Schätzung) ist deshalb nicht in der Liste.
 
 > **Offen:** Für das Fotometer verlangt [Stabilitätstests](stabilitaetstests.md) Testsätze für Kupfer, Eisen und Calcium. Deren Preise wurden nicht ermittelt.
 
@@ -212,7 +212,7 @@ Stand: November 2026
 
 1. Republik Österreich (2011): Verordnung, BGBl. II Nr. 221/2011 (Gebühren für die staatliche Prüfnummer). RIS. https://ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2011_II_221/BGBLA_2011_II_221.pdf [nicht online geprüft – nur als Suchtreffer gesehen; Zahlen aus der Suchzusammenfassung, Geltung offen]
 2. DLR Rheinpfalz (2025): Preisliste 2025. https://www.obstbau.rlp.de/Internet/global/themen.nsf/2eca2af4a2290c7fc1256e8b005161c9/9027194FE0249ACBC12571C6003EB25A/$FILE/Preisliste_2025.pdf [nicht online geprüft – nur als Suchtreffer gesehen; Zahl aus der Suchzusammenfassung]
-3. Verordnung (EU) 2019/1148 über die Vermarktung und Verwendung von Ausgangsstoffen für Explosivstoffe, Anhang I. Konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
+3. Verordnung (EU) 2019/1148 über die Vermarktung und Verwendung von Ausgangsstoffen für Explosivstoffe, Anhang I. ABl. L 186 vom 11.7.2019, S. 1. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R1148 [online geprüft – Originaltext EUR-Lex, Anhang I: Wasserstoffperoxid Grenzwert 12 % w/w, Schwefelsäure 15 % w/w; spätere Änderungen nicht geprüft]
 4. Verordnung (EG) Nr. 1907/2006 (REACH), Anhang XVII, Einträge 28–30; Einstufung von Phenolphthalein nach Verordnung (EG) Nr. 1272/2008 (CLP), Anhang VI. Konsolidierte Fassungen bei EUR-Lex prüfen. [nicht online geprüft]
 5. Chemikaliengesetz 1996 (ChemG 1996), BGBl. I Nr. 53/1997 idgF, und Giftverordnung. Aktuelle Fassung im RIS prüfen. [nicht online geprüft]
 6. Maß- und Eichgesetz (MEG), BGBl. Nr. 152/1950 idgF. Aktuelle Fassung im RIS prüfen. [nicht online geprüft]

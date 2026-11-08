@@ -7,7 +7,7 @@
 - **Was:** Kalkchlorose ist Eisenmangel der Rebe auf kalkhaltigen Böden, obwohl der Boden reichlich Eisen enthält. Hauptauslöser ist Hydrogencarbonat in der Bodenlösung. Es entsteht vor allem in nassen, verdichteten und kalten Böden [1, 5, 10, 11].
 - **Wichtigster Hebel:** Bei der Neuanlage die Unterlage nach dem Gehalt an aktivem Kalk (und, wenn verfügbar, nach dem IPC-Wert) wählen. Diese Entscheidung wirkt über die ganze Nutzungsdauer der Anlage [1, 18, 21, 22].
 - **Bestandsanlage:** Verdichtung und Staunässe beseitigen, Begrünung und organische Substanz gezielt einsetzen, im Frühjahr Nitratspitzen vermeiden. Bei akuter Chlorose helfen Blattspritzungen mit Eisen(II)-sulfat. Sie wirken nur auf die behandelten Blätter und nur für kurze Zeit [1, 4, 30].
-- **Bio:** Eisen(II)-sulfat ist als anorganischer Spurenelementdünger zulässig. Synthetische Chelate (EDDHA, EDTA, DTPA u. a.) sind nicht zulässig. Vivianit ist weder gelistet noch als Dünger erhältlich. Komplexe mit Lignosulfonat, Aminosäuren oder Gluconat nur nach Klärung mit der Kontrollstelle [44–46].
+- **Bio:** Eisen(II)-sulfat ist als mineralischer Spurennährstoffdünger zulässig. Ob synthetische Chelate (EDDHA, EDTA, DTPA u. a.) zulässig sind, ist ungeklärt: Der EU-Text schließt sie nicht ausdrücklich aus, die Einstufung durch die Kontrollstellen ist nicht geprüft. Vivianit ist nicht namentlich gelistet und als Dünger nicht erhältlich. Chelate und Komplexe mit Lignosulfonat, Aminosäuren oder Gluconat nur nach schriftlicher Klärung mit der Kontrollstelle [44–46].
 - **Diagnose:** Bonitur und Chlorophyllmeter (SPAD). Der Gesamt-Eisengehalt im Blatt ist wenig aussagekräftig („Chlorose-Paradoxon“) [6, 12].
 - **Aufwand:** Die richtige Unterlage kostet nichts extra. Bodenmaßnahmen kosten mittel bis viel. Blattspritzungen sind billig, aber arbeitsaufwendig und nur ein Notbehelf.
 
@@ -113,7 +113,7 @@ IPC = aktiver Kalk (%) × 10 000 / (leicht extrahierbares Fe in mg/kg)²
 
 Ein eisenreicher Boden ist also bei gleichem aktivem Kalk weniger chlorosegefährdet. Das Verfahren ist in Frankreich als Norm beschrieben (AFNOR FD X31-146) [58]. Österreichische Routinelabors bieten den IPC nach unserem Kenntnisstand nicht standardmäßig an; vorher anfragen.
 
-> **Offen:** Formel und Extraktionsverfahren des IPC wurden nicht an der Originalquelle [18] bzw. der Norm [58] geprüft. Den IPC nur vom Labor berechnen lassen, nicht selbst aus anderen Eisenwerten.
+> **Offen:** Formel und Extraktionsverfahren des IPC wurden nicht an der Originalquelle [18] bzw. der Norm [58] geprüft; die Norm (Ausgabe Juli 1996) ist kostenpflichtig, und die Suche lieferte die Formel nicht. Eine spanische Feldstudie fand den IPC als Vorhersage der Chlorose wenig treffsicher (bibliografische Angaben nicht geprüft). Den IPC nur vom Labor berechnen lassen, nicht selbst aus anderen Eisenwerten.
 
 > **Achtung:** Tabellenwerte sind Erfahrungswerte, keine scharfen Grenzen. Im Walliser Unterlagenversuch (Pinot noir, Böden mit über 60 % Gesamtkalk, 1997–2005) hing die tatsächliche Chloroseneigung der Böden **nur schwach** mit aktivem Kalk und IPC zusammen [53]. Nässe, Verdichtung und Jahreswitterung wirken mit. Bei der Wahl deshalb einen Sicherheitsabstand einplanen und das Verhalten benachbarter Anlagen auf gleichem Boden einbeziehen.
 
@@ -149,7 +149,7 @@ Aktiver Kalk und IPC: französische Referenzwerte (Pouget, Galet, IFV) [19, 21, 
 | **Riparia Gloire de Montpellier** | V. riparia | 6 | 5 | nicht geprüft | schwach | gering | für Kalkböden ungeeignet; Riparia-Unterlagen verursachten auf Kalkböden starke Chlorose [1, 13] |
 | **Börner** | V. riparia × V. cinerea | keine gesicherte Zahl | – | – | mittel bis stark | gering bis mittel | Im Wallis auf allen drei Versuchsflächen zu chloroseempfindlich [53]; reblausimmun, aber nicht für Kalkböden |
 
-> **Offen:** Die Kalk- und IPC-Werte ohne Vermerk „online geprüft“ sind die in der französischen Literatur verbreiteten Referenzwerte aus dem Fachwissen. Sie wurden nicht gegen die Quelle geprüft. Vor einer Pflanzentscheidung mit dem aktuellen IFV-Katalog (Plantgrape [22]) und der österreichischen Weinbauberatung abgleichen. Für **Georgikon 28** (ungarische Züchtung) wurden keine überprüfbaren Daten gefunden; die Unterlage ist deshalb nicht in der Tabelle.
+> **Offen:** Die Kalk- und IPC-Werte ohne Vermerk „online geprüft“ sind die in der französischen Literatur verbreiteten Referenzwerte aus dem Fachwissen. Drei gezielte Websuchen (November 2026) fanden keine zitierfähige Originaltabelle (Galet, Pouget, IFV); bestätigt sind nur Fercal [22], die Rangfolge im Walliser Versuch [53] und eine hohe Kalkverträglichkeit von Fercal in einem tschechischen Vorversuch (Pavloušek 2008, Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis; bibliografische Angaben nicht vollständig geprüft). Den Wert 25 % für 161-49 C nennt nur eine Händlerseite (als Beleg nicht zulässig). Vor einer Pflanzentscheidung mit dem aktuellen IFV-Katalog (Plantgrape [22]) und der österreichischen Weinbauberatung abgleichen. Für **Georgikon 28** (ungarische Züchtung) wurden keine überprüfbaren Daten gefunden; die Unterlage ist deshalb nicht in der Tabelle.
 
 **Faustregeln aus der Tabelle** (Sicherheitsabstand einrechnen, siehe Achtung-Hinweis in Abschnitt 2):
 
@@ -202,14 +202,16 @@ Die vollständige Rechtstabelle steht in [Bio-Rechtsrahmen](bio-rechtsrahmen.md)
 
 | Eisenform | Bio-zulässig (EU)? | Fundstelle | Hinweise |
 |---|---|---|---|
-| **Eisen(II)-sulfat** (FeSO₄·7H₂O, rund 20 % Fe; Monohydrat rund 33 % Fe, nachgerechnet) | **ja**, als anorganischer Mikronährstoffdünger | DVO (EU) 2021/1165, Anhang II, Eintrag Spurenelemente [45]; VO (EU) 2018/848 Anhang II Teil I: nur im erforderlichen Ausmaß [44] | Bedarf dokumentieren (Symptome, Fotos, Bonitur, Analysen) |
-| **Synthetische Chelate** (Fe-EDDHA, Fe-EDDHMA, Fe-HBED, Fe-EDTA, Fe-DTPA, Fe-IDHA) | **nein** | in Anhang II nicht aufgeführt [45] | Fe-EDDHA ist das konventionelle Standardmittel gegen Kalkchlorose [4]; im Bio-Weinbau fällt es weg |
-| **Organische Komplexe** (Lignosulfonat, Gluconat, Citrat, Aminosäuren, Humate) | **ungeklärt** | hängt vom aktuellen Wortlaut ab | nur Produkte aus dem österreichischen Betriebsmittelkatalog (InfoXgen) [46] oder nach schriftlicher Auskunft der Kontrollstelle |
-| **Vivianit** (Eisen(II)-phosphat) | **nicht gelistet**, Zulässigkeit unklar | – | als Dünger nicht im Handel; Herstellung aus Eisensulfat und Phosphatsalzen; Vivianit aus Klärschlamm-Rückgewinnung ist im Bio-Landbau ausgeschlossen |
+| **Eisen(II)-sulfat** (FeSO₄·7H₂O, rund 20 % Fe; Monohydrat rund 33 % Fe, nachgerechnet) | **ja**, als mineralischer Spurennährstoffdünger | DVO (EU) 2021/1165, Anhang II, Eintrag „Mineralische Spurennährstoffdünger“ [45]; VO (EU) 2018/848 Anhang II Teil I: nur im erforderlichen Ausmaß [44] | Bedarf dokumentieren (Symptome, Fotos, Bonitur, Analysen) |
+| **Synthetische Chelate** (Fe-EDDHA, Fe-EDDHMA, Fe-HBED, Fe-EDTA, Fe-DTPA, Fe-IDHA) | **ungeklärt** | nicht namentlich aufgeführt; der Eintrag „Mineralische Spurennährstoffdünger“ verwies aber bis 15.7.2022 auf Anhang I Teil E der VO 2003/2003, der Chelatformen einschloss [45] | Fe-EDDHA ist das konventionelle Standardmittel gegen Kalkchlorose [4]; im Bio-Weinbau nur nach schriftlicher Auskunft der Kontrollstelle |
+| **Organische Komplexe** (Lignosulfonat, Gluconat, Citrat, Aminosäuren, Humate) | **ungeklärt** | Gelistet sind nur Calcium- und Magnesiumgluconat (aus Fermentation), hydrolysierte Proteine pflanzlichen Ursprungs, tierische nur „nicht auf essbare Teile“, Humin- und Fulvinsäuren mit Gewinnungsbedingung [45]; Eisengluconat, Lignosulfonat, Citrat nicht | nur Produkte aus dem österreichischen Betriebsmittelkatalog (InfoXgen) [46] oder nach schriftlicher Auskunft der Kontrollstelle |
+| **Vivianit** (Eisen(II)-phosphat) | **nicht gelistet**, Zulässigkeit unklar | – | als Dünger nicht im Handel; Herstellung aus Eisensulfat und Phosphatsalzen. Zurückgewonnener Vivianit (z. B. aus Kläranlagen) ist nicht von vornherein ausgeschlossen: Der Eintrag „Zurückgewonnener Struvit und gefällte Phosphatsalze“ lässt Produkte zu, die die VO (EU) 2019/1009 erfüllen (CMC 12, auch aus kommunalem Abwasser; Auslegung) [45] |
 | **Zitronensäure als Zusatz zur Spritzbrühe** | **nicht ausdrücklich geregelt** | – | vor der Anwendung die Kontrollstelle fragen |
 | **Kompost, Stallmist, Elementarschwefel** | ja, mit Bedingungen | Anhang II [45] | siehe [Organische Substanz](organische-substanz.md), [Schwefel und Ansäuerung](schwefel-ansaeuerung.md) |
 
-> **Offen:** Der aktuelle Wortlaut von Anhang II der DVO (EU) 2021/1165 (konsolidierte Fassung) konnte nicht eingesehen werden. Eine Suche ergab einen Änderungsentwurf aus 2025, der Anhang II ändert; ob er angenommen wurde und ob er Spurenelemente betrifft, ist offen. Vor der Anwendung bei EUR-Lex und bei der Kontrollstelle nachfragen.
+Der Wortlaut von Anhang II wurde am konsolidierten Text (Stand 01.01.2026) geprüft [45]. Die Änderung aus 2025 (DVO 2025/973) ist angenommen; sie ändert den Spurenelement-Eintrag nicht, nimmt aber Calcium- und Magnesiumgluconat neu auf. Einzelheiten: [Bio-Rechtsrahmen](bio-rechtsrahmen.md), Abschnitt 5.
+
+> **Offen:** Einstufung von Eisenchelaten und organischen Eisenkomplexen durch die österreichischen Kontrollstellen und den InfoXgen-Katalog. Vor der Anwendung schriftlich bei der Kontrollstelle nachfragen.
 
 #### Eisensulfat in den Boden – meist wirkungslos
 
@@ -220,7 +222,7 @@ Ausnahmen mit schwacher Beleglage:
 - **Gezielt in Löcher oder Bänder im Wurzelraum, gemischt mit Kompost oder Mist.** Die organische Substanz hält Eisen in Komplexen, und die Oxidation von Eisen(II) setzt Säure frei (4 Fe²⁺ + O₂ + 10 H₂O → 4 Fe(OH)₃ + 8 H⁺). Das säuert kleinräumig an. Das Verfahren wird in Übersichten zu Obstanlagen genannt [2, 3], Rebversuche dazu sind uns nicht bekannt.
 - **Rességuier-Methode:** Frische Schnittwunden werden nach dem Winterschnitt mit einer Lösung aus Eisensulfat und Zitronensäure bestrichen. Die Methode stammt aus Frankreich und wurde in spanischen Feldversuchen als Vergleichsbehandlung eingesetzt [51].
 
-> **Offen:** Konzentrationen und Wirksamkeit der Rességuier-Methode konnten nicht nachgelesen werden (Volltext von [51] prüfen).
+> **Offen:** Konzentrationen der Rességuier-Methode. Díaz et al. [51] verwendeten sie in Montilla-Moriles als Vergleichsbehandlung (Eisensulfat und Zitronensäure in g/L, mit dem Pinsel auf die Schnittwunden) und zitieren dafür Reynier (2002, *Manuel de viticulture*). Die Zahlen stehen im Volltext von [51]; in den online sichtbaren Auszügen waren sie abgeschnitten, und der Volltext war nicht abrufbar.
 
 #### Blattspritzung mit Eisensulfat – der Notbehelf
 
@@ -254,7 +256,7 @@ Vivianit ist ein Eisen(II)-phosphat (Fe₃(PO₄)₂·8H₂O, rund 33 % Fe und 1
 | Díaz et al. 2010 [34] | Reben im Topf | Prüfung der Vorbeugewirkung |
 | Bavaresco et al. 2010 [52] | Reben auf Kalkboden | alle Behandlungen (Vivianit, Fe-EDDHA, Begrünung mit *Festuca ovina*) verringerten die Chlorose gegenüber unbehandelt |
 
-**Bewertung:** Vivianit ist bei Reben im Feld belegt wirksam. Im Bio-Landbau ist es nicht gelistet und als Dünger nicht erhältlich. Eine Herstellung aus Eisensulfat und Phosphatsalzen scheitert an den Phosphatsalzen (Ammonium- und Natriumphosphate sind nicht zugelassen). Nur nach Klärung mit der Kontrollstelle.
+**Bewertung:** Vivianit ist bei Reben im Feld belegt wirksam. Im Bio-Landbau ist es nicht namentlich gelistet und als Dünger nicht erhältlich. Eine Herstellung im Betrieb aus Eisensulfat und Phosphatsalzen scheitert an den Phosphatsalzen (Ammonium- und Natriumphosphate sind nicht gelistet). Ein zurückgewonnenes Vivianit-Produkt, das als EU-Düngeprodukt die Anforderungen an gefällte Phosphatsalze (CMC 12 der VO 2019/1009) erfüllt, könnte unter den Struvit-Eintrag fallen (Auslegung) [45]. Nur nach Klärung mit der Kontrollstelle.
 
 #### Stamminjektion
 
@@ -366,8 +368,8 @@ Gelbe Blätter im Frühjahr?
 | Eisensulfat in den Boden, breitflächig | keine | Chemie [1, 9] | ja | nicht empfohlen |
 | Eisensulfat lokal mit Kompost, Rességuier-Methode | gering, unsicher | Obst-Übersichten [2, 3]; Rességuier als Vergleich in Rebversuchen [51] | ja (Zitronensäure klären) | nur Versuch auf kleiner Fläche |
 | Lokale Ansäuerung mit Schwefel | gering, kleinräumig | schwach | ja | siehe [Schwefel und Ansäuerung](schwefel-ansaeuerung.md) |
-| Vivianit | stark, mehrjährig | Reben, Feld [51] | nicht gelistet | derzeit keine Option |
-| Fe-EDDHA | sehr stark | konventionell Standard [4] | **nein** | – |
+| Vivianit | stark, mehrjährig | Reben, Feld [51] | nicht namentlich gelistet; evtl. als gefälltes Phosphatsalz (Auslegung) | derzeit keine Option (kein Produkt) |
+| Fe-EDDHA | sehr stark | konventionell Standard [4] | **ungeklärt** (Abschnitt 3.4) | nur nach schriftlicher Auskunft der Kontrollstelle |
 | Stamminjektion | bei Obstbäumen belegt [35] | Reben nicht | Stoff ja, Verfahren ungeprüft | nicht empfohlen |
 
 ## 7 Aufwand und Kosten
@@ -494,9 +496,9 @@ Stand: November 2026
 
 [43] Meggio F., Zarco-Tejada P.J., Núñez L.C., Sepulcre-Cantó G., González M.R., Martín P. (2010): Grape quality assessment in vineyards affected by iron deficiency chlorosis using narrow-band physiological remote sensing indices. Remote Sensing of Environment 114. [nicht online geprüft]
 
-[44] Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen, Anhang II Teil I (Bodenfruchtbarkeit und Düngung). Aktuelle konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
+[44] Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen, Anhang II Teil I (Bodenfruchtbarkeit und Düngung). Konsolidierte Fassung Stand 25.03.2025. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 25.03.2025, Anhang II Teil I Nr. 1.9]
 
-[45] Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang II (Düngemittel, Bodenverbesserer und Nährstoffe). Aktuelle konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft – Existenz und Gültigkeit in Suchergebnis gesehen, Wortlaut von Anhang II nicht]
+[45] Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang II (Düngemittel, Bodenverbesserer und Nährstoffe). Konsolidierte Fassung Stand 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026, Anhang II vollständig]
 
 [46] InfoXgen: Betriebsmittelkatalog für die biologische Landwirtschaft in Österreich (laufend aktualisiert). [nicht online geprüft]
 
@@ -522,4 +524,4 @@ Stand: November 2026
 
 [57] Bundesministerium für Land- und Forstwirtschaft (Fachbeirat für Bodenfruchtbarkeit und Bodenschutz): Richtlinien für die sachgerechte Düngung im Weinbau. Wien (aktuelle Auflage prüfen). [nicht online geprüft]
 
-[58] AFNOR FD X31-146: Qualité du sol – Détermination de l'indice de pouvoir chlorosant selon Juste et Pouget. AFNOR, Paris. [online geprüft – nur Existenz]
+[58] AFNOR FD X31-146 (Juli 1996): Qualité du sol – Détermination de l'indice de pouvoir chlorosant selon Juste et Pouget. AFNOR, Paris. [online geprüft – Existenz und Ausgabedatum im AFNOR-Katalog (Suchergebnis); Inhalt nicht]

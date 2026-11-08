@@ -2,14 +2,14 @@
 
 Diese Datei fasst zusammen, welche Mittel und Maßnahmen zur Verbesserung alkalischer, kalkhaltiger Weingartenböden nach EU-Bio-Recht, österreichischem Recht und den Richtlinien der Bio-Verbände zulässig sind. Die fachliche Begründung, warum diese Böden Nährstoffe festlegen, steht in [Grundlagen](grundlagen.md); die Maßnahmen stehen in den Dateien [Phosphor](phosphor.md), [Organische Substanz](organische-substanz.md), [Eisen und Kalkchlorose](eisen-chlorose.md), [Begrünung](begruenung.md), [Schwefel und Ansäuerung](schwefel-ansaeuerung.md), [Mikroorganismen](mikroorganismen.md), [Weitere Nährstoffe](weitere-naehrstoffe.md) und im [Maßnahmenplan](massnahmenplan.md).
 
-> **Achtung:** Bei der Erstellung dieser Datei konnten weder EUR-Lex noch RIS, AMA, Bio Austria oder InfoXgen online eingesehen werden. Alle Rechtsangaben stammen aus dem Fachwissen und sind **sinngemäß**, nicht wörtlich wiedergegeben. Jeder Eintrag trägt deshalb eine Einschätzung der Sicherheit (Abschnitt 3.2). Vor jeder Kaufentscheidung den aktuellen konsolidierten Text bei EUR-Lex bzw. im RIS nachlesen und die eigene Bio-Kontrollstelle fragen.
+> **Achtung:** Die EU-Rechtsangaben (VO (EU) 2018/848, Stand 25.03.2025; DVO (EU) 2021/1165, Stand 01.01.2026; VO (EU) 2019/1009, Stand 30.12.2025) wurden im November 2026 am konsolidierten Text bei EUR-Lex geprüft. Österreichisches Recht (RIS), der InfoXgen-Katalog und die Verbandsrichtlinien konnten nicht eingesehen werden; diese Angaben sind als ungeprüft gekennzeichnet. Vor jeder Kaufentscheidung den aktuellen Text nachlesen und die eigene Bio-Kontrollstelle fragen.
 
 ## Kurzfassung
 
 - **Rangfolge im Bio-Recht:** Bodenfruchtbarkeit wird in erster Linie über Begrünung (bei Dauerkulturen: Gründüngung, Leguminosen, Pflanzenvielfalt) und organische Substanz erhalten. Zugekaufte Dünger und Bodenverbesserer sind nur erlaubt, wenn sie in Anhang II der Durchführungsverordnung (EU) 2021/1165 stehen, und nur „im erforderlichen Ausmaß“. Ihre Verwendung ist aufzuzeichnen [1, 2].
-- **Die typischen konventionellen Werkzeuge gegen alkalische Böden sind verboten:** Mineralsäuren (Schwefel-, Phosphor-, Salpetersäure), mineralische Stickstoffdünger wie Ammoniumsulfat, leicht lösliche Phosphatdünger (Superphosphat, Ammonphosphate) und Eisenchelate mit synthetischen Chelatbildnern (z. B. Fe-EDDHA).
-- **Zulässig und für Kalkböden wichtig:** Komposte, Wirtschaftsdünger (nicht aus industrieller Tierhaltung), tierische und pflanzliche Nebenprodukte, Pflanzenkohle, elementarer Schwefel, natürlicher Gips, Kaliumsulfat, Kieserit, anorganische Spurenelementsalze, Mikroorganismen-Präparate und biologisch-dynamische Präparate. Ein Eintrag, das Aluminium-Calcium-Phosphat, ist sogar ausdrücklich auf basische Böden (pH über 7,5) beschränkt – ist aber praktisch nicht im Handel (nicht verifiziert).
-- **Kontraproduktiv, obwohl zugelassen:** Kalkprodukte, Algenkalk, Holzasche, Thomasphosphat, Natriumchlorid. Wenig wirksam: weicherdiges Rohphosphat.
+- **Die typischen konventionellen Werkzeuge gegen alkalische Böden sind verboten:** Mineralsäuren (Schwefel-, Phosphor-, Salpetersäure), mineralische Stickstoffdünger wie Ammoniumsulfat und leicht lösliche Phosphatdünger (Superphosphat, Ammonphosphate). **Ungeklärt** ist der Status von Eisenchelaten mit synthetischen Chelatbildnern (z. B. Fe-EDDHA): Der EU-Text schließt sie nicht ausdrücklich aus; die Einstufung durch Kontrollstellen ist nicht geprüft (Abschnitt 5).
+- **Zulässig und für Kalkböden wichtig:** Komposte, Wirtschaftsdünger (nicht aus industrieller Tierhaltung), tierische und pflanzliche Nebenprodukte, Pflanzenkohle, elementarer Schwefel, natürlicher Gips, Kaliumsulfat, Kieserit, anorganische Spurenelementsalze, Mikroorganismen-Präparate und biologisch-dynamische Präparate. Ein Eintrag, das Aluminiumcalciumphosphat, ist sogar ausdrücklich auf alkalische Böden beschränkt („pH > 7,5“) [2]; ob es in Österreich im Handel ist, wurde nicht geprüft.
+- **Kontraproduktiv, obwohl zugelassen:** Kalkprodukte, Algenkalk, Holzasche, Thomasphosphat, Natriumchlorid, Kaliumchlorid natürlichen Ursprungs. Wenig wirksam: weicherdiges Rohphosphat.
 - **In Österreich zusätzlich:** Düngemittelrecht (DMG 2021, Düngemittelverordnung 2004), Kompostverordnung, Nitrat-Aktionsprogramm-Verordnung, Recht der tierischen Nebenprodukte. Die Verbände (Bio Austria, Demeter, respekt-BIODYN) sind teils strenger.
 - **Vor dem Kauf:** Produkt im österreichischen Betriebsmittelkatalog (InfoXgen) suchen und im Zweifel die Kontrollstelle schriftlich fragen. Bedarf, Kauf und Ausbringung dokumentieren.
 
@@ -20,7 +20,7 @@ Für jedes Düngemittel gelten alle Ebenen gleichzeitig: Ein Produkt muss als D�
 | Ebene | Rechtsquelle | Was sie für dieses Thema regelt |
 |---|---|---|
 | EU, Bio-Recht | VO (EU) 2018/848 (Bio-Basisverordnung) [1] | Grundsätze, Regeln zur Bodenfruchtbarkeit (Anhang II Teil I Nr. 1.9), GVO-Verbot, Zulassung von Betriebsmitteln (Art. 24) |
-| EU, Bio-Recht | Durchführungs-VO (EU) 2021/1165, Anhang II [2], mit Änderungen [3, 4] | Abschließende Liste der zugelassenen Düngemittel, Bodenverbesserer und Nährstoffe mit Bedingungen |
+| EU, Bio-Recht | Durchführungs-VO (EU) 2021/1165, Anhang II [2], geändert durch DVO 2023/121, 2023/2229 und 2025/973 [3, 4, 30] | Abschließende Liste der zugelassenen Düngemittel, Bodenverbesserer und Nährstoffe mit Bedingungen |
 | EU, Bio-Recht (alt) | VO (EG) Nr. 889/2008, Anhang I [5] | Vorgängerliste bis Ende 2021; die meisten Einträge wurden in 2021/1165 übernommen |
 | EU, Düngemittelrecht | VO (EU) 2019/1009 (EU-Düngeprodukte) [6]; VO (EG) Nr. 2003/2003 [7] (mit 16. Juli 2022 aufgehoben, aber im Bio-Anhang zitiert) | Typen, Mindestgehalte, Schadstoffgrenzwerte der Düngeprodukte |
 | EU, Tierische Nebenprodukte | VO (EG) Nr. 1069/2009 [8], VO (EU) Nr. 142/2011 [9] | Verarbeitung und Verwendung von Knochen-, Blut-, Fleisch-, Federmehl, Gärresten |
@@ -37,11 +37,11 @@ Für jedes Düngemittel gelten alle Ebenen gleichzeitig: Ein Produkt muss als D�
 
 ### 2.1 Grundsätze
 
-Die Bio-Basisverordnung legt in ihren allgemeinen und besonderen Grundsätzen (Art. 5 und 6) sinngemäß fest [1]:
+Die Bio-Basisverordnung legt in ihren allgemeinen und besonderen Grundsätzen (Art. 5 und 6) fest [1]:
 
 - Bodenleben, natürliche Bodenfruchtbarkeit, Bodenstabilität und Bodenbiodiversität sind zu erhalten und zu fördern.
 - Pflanzen sollen vorrangig über das Ökosystem Boden ernährt werden.
-- Externe Betriebsmittel sind zu beschränken. Wo sie nötig sind, sollen sie aus Bio-Erzeugung stammen, natürliche oder naturnah gewonnene Stoffe sein oder **schwer lösliche** mineralische Dünger.
+- Externe Betriebsmittel sind zu beschränken. Wo sie nötig sind, beschränken sie sich auf Produktionsmittel aus Bio-Erzeugung, „natürliche oder auf natürlichem Wege gewonnene Stoffe“ und „schwer lösliche mineralische Düngemittel“ (Art. 5 Buchstabe g).
 
 Der letzte Punkt erklärt, warum leicht lösliche Phosphor- und Stickstoffdünger nicht zugelassen sind, Rohphosphat aber schon.
 
@@ -49,11 +49,11 @@ Außerdem verbietet Art. 11 die Verwendung von gentechnisch veränderten Organis
 
 ### 2.2 Anhang II Teil I Nr. 1.9: Bodenbewirtschaftung und Düngung
 
-| Nr. | Inhalt (sinngemäß) [1] | Bedeutung im Weingarten auf Kalkboden |
+| Nr. | Inhalt (verkürzt; Wortlaut geprüft, Stand 25.03.2025) [1] | Bedeutung im Weingarten auf Kalkboden |
 |---|---|---|
 | 1.9.1 | Bodenbearbeitungs- und Anbauverfahren müssen die organische Substanz erhalten oder vermehren, Bodenstabilität und Bodenbiodiversität verbessern sowie Verdichtung und Erosion verhindern | Grundlage für Begrünung, schonende Befahrung und Humusaufbau – zugleich die wichtigsten Maßnahmen gegen Kalkchlorose ([Grundlagen](grundlagen.md), Abschnitt 3.3) |
-| 1.9.2 | Fruchtbarkeit und biologische Aktivität des Bodens sind zu erhalten und zu steigern: (a) bei Fruchtfolgekulturen durch mehrjährige Fruchtfolge mit Leguminosen; (b) bei Gewächshäusern und mehrjährigen Kulturen (außer Futterbau) durch kurzfristige Gründüngung, Leguminosen und Pflanzenvielfalt; (c) in allen Fällen durch Wirtschaftsdünger oder organische Substanz, beide vorzugsweise kompostiert, aus ökologischer/biologischer Produktion | Für Weingärten gilt (b) und (c): Begrünung mit Leguminosen und artenreichen Mischungen sowie Kompost und Mist aus Bio-Herkunft sind der vorgesehene Hauptweg ([Begrünung](begruenung.md), [Organische Substanz](organische-substanz.md)) |
-| 1.9.3 | Reichen diese Maßnahmen für den Nährstoffbedarf nicht aus, dürfen nur nach Art. 24 zugelassene Düngemittel und Bodenverbesserer verwendet werden (Anhang II der VO 2021/1165), und nur im erforderlichen Ausmaß. Über die Verwendung sind Aufzeichnungen zu führen | Zukaufdünger sind nachrangig; Bedarf (Boden- oder Blattanalyse, Symptome) und Ausbringung dokumentieren |
+| 1.9.2 | Fruchtbarkeit und biologische Aktivität des Bodens sind zu erhalten und zu steigern: (a) bei Fruchtfolgekulturen durch mehrjährige Fruchtfolge mit Leguminosen; (b) „im Falle von Treibhäusern oder anderen mehrjährigen Kulturen als Futterkulturen durch die Nutzung von Kurzzeit-Gründüngungspflanzen und Leguminosen sowie die Nutzung der Pflanzenvielfalt“; (c) „in jedem Falle durch Einsatz von aus ökologischer/biologischer Produktion stammenden Wirtschaftsdüngern tierischer Herkunft oder organischen Substanzen, die vorzugsweise kompostiert sind“ | Für Weingärten gilt (b) und (c): Begrünung mit Leguminosen und artenreichen Mischungen sowie Kompost und Mist aus Bio-Herkunft sind der vorgesehene Hauptweg ([Begrünung](begruenung.md), [Organische Substanz](organische-substanz.md)) |
+| 1.9.3 | Reichen diese Maßnahmen für den Nährstoffbedarf nicht aus, dürfen nur nach Art. 24 zugelassene Düngemittel und Bodenverbesserer verwendet werden (Anhang II der VO 2021/1165), und nur „in dem erforderlichen Maße“. Aufzuzeichnen sind Zeitpunkt, Bezeichnung des Erzeugnisses, ausgebrachte Menge sowie Kulturen und Parzellen (Satz eingefügt durch Delegierte VO (EU) 2021/1691) | Zukaufdünger sind nachrangig; Bedarf (Boden- oder Blattanalyse, Symptome) und Ausbringung dokumentieren |
 | 1.9.4 | Höchstens 170 kg Stickstoff je Hektar und Jahr aus Wirtschaftsdünger (im Sinne der Nitratrichtlinie). Gilt für Stallmist, getrockneten Stallmist und Geflügelmist, kompostierte tierische Exkremente einschließlich Geflügelmist, kompostierten Stallmist und flüssige tierische Exkremente | Im Weingarten praktisch nie erreicht; die NAPV setzt kulturbezogen meist engere Grenzen |
 | 1.9.5 | Kooperationsvereinbarungen mit anderen Bio-Betrieben zur Ausbringung überschüssigen Wirtschaftsdüngers sind möglich; die 170-kg-Grenze gilt dann für alle beteiligten Flächen gemeinsam | Weinbaubetriebe ohne Tierhaltung können Bio-Mist aus Nachbarbetrieben schriftlich vereinbart übernehmen |
 | 1.9.6 | Mikroorganismen-Zubereitungen dürfen verwendet werden, um den Gesamtzustand des Bodens oder die Verfügbarkeit von Nährstoffen in Boden oder Kultur zu verbessern | Rechtsgrundlage für Präparate mit phosphatlösenden Bakterien oder Mykorrhizapilzen ([Mikroorganismen](mikroorganismen.md)) |
@@ -61,11 +61,11 @@ Außerdem verbietet Art. 11 die Verwendung von gentechnisch veränderten Organis
 | 1.9.8 | Mineralische Stickstoffdünger dürfen nicht verwendet werden | Schließt Ammoniumsulfat, Harnstoff, Nitratdünger aus – auch als „Ansäuerungsdünger“ |
 | 1.9.9 | Biologisch-dynamische Präparate dürfen verwendet werden | Hornmist, Hornkiesel, Kompostpräparate |
 
-> **Offen:** Wortlaut und Nummerierung sind aus dem Fachwissen wiedergegeben und nicht am aktuellen konsolidierten Text geprüft. Insbesondere prüfen: genaue Formulierung von Nr. 1.9.2 Buchstabe b und c, und ob nach 1.9.9 weitere Nummern folgen.
+Nummerierung und Wortlaut wurden am konsolidierten Text (Stand 25.03.2025) geprüft. Nach Nr. 1.9.9 folgt Nr. 1.10 (Pflanzenschutz); weitere Düngungsnummern gibt es nicht [1].
 
 ### 2.3 Zulassung neuer Betriebsmittel (Art. 24)
 
-Die Kommission nimmt Betriebsmittel über Durchführungsrechtsakte in die Listen auf [1]. Die Grundlage dafür bilden Empfehlungen der Expertengruppe EGTOP und Anträge der Mitgliedstaaten. Was nicht in Anhang II steht, darf nicht als Düngemittel oder Bodenverbesserer verwendet werden. Einzelausnahmen für nicht gelistete Düngemittel sind nach meinem Kenntnisstand nicht vorgesehen.
+Die Kommission nimmt Betriebsmittel über Durchführungsrechtsakte in die Listen auf [1]. Die Grundlage dafür bilden Empfehlungen der Expertengruppe EGTOP und Anträge der Mitgliedstaaten. Was nicht in Anhang II steht, darf nicht als Düngemittel oder Bodenverbesserer verwendet werden. Einzelausnahmen für nicht gelistete Düngemittel sieht Art. 2 der DVO 2021/1165 nicht vor („dürfen nur die in Anhang II … aufgeführten Erzeugnisse und Stoffe … verwendet werden“) [2].
 
 ## 3 Die Positivliste: Anhang II der VO (EU) 2021/1165
 
@@ -75,12 +75,10 @@ Die Kommission nimmt Betriebsmittel über Durchführungsrechtsakte in die Listen
 2. **Düngemittelrecht gilt zusätzlich.** Die Produkte müssen den EU- und nationalen Düngemittelvorschriften entsprechen [2, 6, 13, 14].
 3. **Mischungen:** Jeder Bestandteil eines Handelsprodukts muss gelistet sein. Ein „organisch-mineralischer“ Dünger mit einem nicht gelisteten Bestandteil (z. B. Ammoniumsulfat) ist insgesamt unzulässig.
 4. **Konventionelle Herkunft** ist bei den meisten Einträgen erlaubt, sofern keine Bedingung sie ausschließt (z. B. „nicht aus industrieller Tierhaltung“). Bio-Herkunft hat aber nach Nr. 1.9.2 Vorrang, und Verbände schränken konventionelle Herkunft oft weiter ein (Abschnitt 8).
-5. **„Industrielle Tierhaltung“** (umgangssprachlich oft „Massentierhaltung“): Der Begriff ist im EU-Text nach meinem Kenntnisstand nicht abschließend definiert und wird national ausgelegt. Vor dem Zukauf konventioneller Wirtschaftsdünger die Kontrollstelle fragen.
-6. **Verweise auf aufgehobenes Recht.** Viele Einträge verweisen auf Typen der VO (EG) Nr. 2003/2003, die mit 16. Juli 2022 durch die VO (EU) 2019/1009 abgelöst wurde [6, 7]. Ob und wie diese Verweise in den Änderungsverordnungen angepasst wurden, konnte nicht geprüft werden.
+5. **„Industrielle Tierhaltung“** (umgangssprachlich oft „Massentierhaltung“): Weder die VO 2018/848 noch die DVO 2021/1165 definieren den Begriff (Volltextsuche im konsolidierten Text, Stand 25.03.2025 bzw. 01.01.2026); er wird national ausgelegt. Vor dem Zukauf konventioneller Wirtschaftsdünger die Kontrollstelle fragen.
+6. **Verweise auf aufgehobenes Recht.** Die VO (EG) Nr. 2003/2003 wurde mit Wirkung vom 16. Juli 2022 aufgehoben (Art. 53 VO (EU) 2019/1009) [6, 7]. Die betroffenen Einträge sind zweistufig formuliert: Typ- oder Grenzwertangaben gelten „bis zum 15. Juli 2022“, seither die „einschlägigen Beschränkungen des Gehalts an Kontaminanten gemäß der Verordnung (EU) 2019/1009“ [2].
 
-**Änderungsstand.** Der Anhang wurde seit 2021 mehrfach geändert, nach meinem Kenntnisstand unter anderem durch die Durchführungsverordnungen (EU) 2023/121 [3] und 2023/2229 [4]. Weitere Änderungen in den Jahren 2024 bis 2026 sind wahrscheinlich.
-
-> **Offen:** Inhalt der Änderungsverordnungen 2023/121, 2023/2229 und etwaiger späterer Änderungen (2024–2026) wurde nicht eingesehen. Den Anhang II in der aktuellen konsolidierten Fassung bei EUR-Lex prüfen.
+**Änderungsstand** (konsolidierter Text Stand 01.01.2026) [2]: Anhang II wurde geändert durch die DVO (EU) 2023/121 (Struvit und gefällte Phosphatsalze, Natriumnitrat, Kaliumchlorid) [3], die DVO (EU) 2023/2229 (Bioabfälle neu gefasst, Selensalze) [4] und die DVO (EU) 2025/973 (unter anderem pflanzliche Nebenprodukte, Steinmehl und Tonminerale, Calciumacetat, Calciumphosphat aus Klärschlammasche, Calcium- und Magnesiumgluconat) [30]; dazu kommt eine Berichtigung vom 3.7.2025 (Humin- und Fulvinsäuren). Die DVO (EU) 2025/2501 [31] ist im konsolidierten Text vermerkt, betrifft Anhang II aber nicht. Spätere Änderungen nach dem 01.01.2026 vor der Anwendung bei EUR-Lex nachsehen.
 
 ### 3.2 Lesehilfe für die Tabellen
 
@@ -184,9 +182,9 @@ Die Kommission nimmt Betriebsmittel über Durchführungsrechtsakte in die Listen
 
 | Ziel | Zulässige Mittel mit Wirkung | Zulässig, aber wenig wirksam oder kontraproduktiv | Weiter in |
 |---|---|---|---|
-| Phosphor freisetzen | Kompost, Mist, Begrünung, Mykorrhiza, Guano, Knochen- und Fleischknochenmehl (langsam), Struvit (Status prüfen), lokale Ansäuerung mit Schwefel | Rohphosphat ohne Kompostierung, Thomasphosphat | [Phosphor](phosphor.md) |
+| Phosphor freisetzen | Kompost, Mist, Begrünung, Mykorrhiza, Guano, Knochen- und Fleischknochenmehl (langsam), Struvit (fein gemahlen), lokale Ansäuerung mit Schwefel | Rohphosphat ohne Kompostierung, Thomasphosphat | [Phosphor](phosphor.md) |
 | Eisen, Mangan, Zink, Bor | Anorganische Salze als Blattdüngung; organische Substanz; Gräser in der Begrünung; kalkverträgliche Unterlage | Bodengaben von Spurenelementsalzen ohne organische Substanz oder Ansäuerung (werden rasch festgelegt) | [Eisen](eisen-chlorose.md), [Weitere Nährstoffe](weitere-naehrstoffe.md) |
-| Kalium, Magnesium | Kaliumsulfat, Kaliumsulfat mit Magnesium, Kieserit, Vinasse | Kainit (Chlorid, Natrium), Holzasche (alkalisch), Dolomit | [Weitere Nährstoffe](weitere-naehrstoffe.md) |
+| Kalium, Magnesium | Kaliumsulfat, Kaliumsulfat mit Magnesium, Kieserit, Bittersalz natürlichen Ursprungs, Magnesiumgluconat (Blatt), Vinasse | Kainit (Chlorid, Natrium), Kaliumchlorid, Holzasche (alkalisch), Dolomit | [Weitere Nährstoffe](weitere-naehrstoffe.md) |
 | Örtlich ansäuern | Elementarer Schwefel (Band, Pflanzloch, Kompost) | Flächige Schwefelgaben auf kalkreichen Böden ([Grundlagen](grundlagen.md), Abschnitt 3) | [Schwefel](schwefel-ansaeuerung.md) |
 | Humus und Struktur | Komposte, Mist, Stroh, Holzhäcksel, Rindenmulch, Begrünung, Pflanzenkohle im Kompost | Torf (im Weingarten nicht zulässig) | [Organische Substanz](organische-substanz.md) |
 | Natriumböden sanieren | Natürlicher Gips, organische Substanz | Natriumchlorid, Kainit | [Grundlagen](grundlagen.md), 4.13 |
@@ -235,7 +233,7 @@ Fe-EDDHA ist im konventionellen Weinbau das Standardmittel gegen Kalkchlorose [2
 **Mikroorganismen.** Nr. 1.9.6 erlaubt Mikroorganismen-Zubereitungen zur Verbesserung des Bodenzustands und der Nährstoffverfügbarkeit [1]. Bedingungen:
 
 - Keine gentechnisch veränderten Mikroorganismen und keine Erzeugnisse daraus (Art. 11) [1].
-- Das Produkt muss als Düngeprodukt verkehrsfähig sein. Als CE-gekennzeichnetes mikrobielles Biostimulans nach VO (EU) 2019/1009 sind nach meinem Kenntnisstand nur Azotobacter, Mykorrhizapilze, Rhizobium und Azospirillum zugelassen [6]. Präparate mit anderen Organismen (z. B. Bacillus, Pseudomonas, Trichoderma) werden national in Verkehr gebracht, in Österreich etwa als Pflanzenhilfsmittel nach dem Düngemittelgesetz [13].
+- Das Produkt muss als Düngeprodukt verkehrsfähig sein. Als CE-gekennzeichnetes mikrobielles Biostimulans nach VO (EU) 2019/1009 sind nur Azotobacter spp., Mykorrhizapilze, Rhizobium spp. und Azospirillum spp. zugelassen (CMC 7, Stand 30.12.2025) [6]. Präparate mit anderen Organismen (z. B. Bacillus, Pseudomonas, Trichoderma) werden national in Verkehr gebracht, in Österreich etwa als Pflanzenhilfsmittel nach dem Düngemittelgesetz [13].
 - Wird eine Wirkung gegen Krankheiten oder Schädlinge beworben, ist das Produkt ein Pflanzenschutzmittel und braucht eine entsprechende Zulassung.
 
 Wie gut solche Präparate auf Kalkböden wirken, ist eine fachliche, keine rechtliche Frage: [Mikroorganismen](mikroorganismen.md).
@@ -248,27 +246,27 @@ Wie gut solche Präparate auf Kalkböden wirken, ist eine fachliche, keine recht
 
 ### 7.1 Düngemittelrecht
 
-In Österreich dürfen Düngemittel, Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel nur in Verkehr gebracht werden, wenn sie dem Düngemittelgesetz 2021 und der Düngemittelverordnung 2004 entsprechen oder als EU-Düngeprodukte nach VO (EU) 2019/1009 gekennzeichnet sind [6, 13, 14]. Die Verordnung regelt unter anderem Typen, Kennzeichnung und Schadstoffgrenzwerte. Die Kontrolle obliegt nach meinem Kenntnisstand dem Bundesamt für Ernährungssicherheit (BAES) mit der AGES.
+In Österreich dürfen Düngemittel, Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel nur in Verkehr gebracht werden, wenn sie dem Düngemittelgesetz 2021 und der Düngemittelverordnung 2004 entsprechen oder als EU-Düngeprodukte nach VO (EU) 2019/1009 gekennzeichnet sind [6, 13, 14]. Die Verordnung regelt unter anderem Typen, Kennzeichnung und Schadstoffgrenzwerte. Zuständige Behörde für Zulassung und Kontrolle ist laut Landwirtschaftsministerium das Bundesamt für Ernährungssicherheit (BAES) [13]. Das Düngemittelgesetz 2021 ist als BGBl. I Nr. 103/2021 kundgemacht und am 1. Oktober 2021 in Kraft getreten [13].
 
 Für den Bio-Betrieb heißt das: Erst muss ein Produkt rechtmäßig als Düngemittel verkauft werden dürfen; dann muss es zusätzlich im Bio-Anhang stehen. Eine CE-Kennzeichnung sagt nichts über die Bio-Zulässigkeit.
 
-> **Offen:** Fundstelle (BGBl.) und aktuelle Änderungen des Düngemittelgesetzes 2021 sowie die Zuständigkeiten wurden nicht im RIS geprüft.
+> **Offen:** Fundstelle und Inkrafttreten des DMG 2021 stammen aus Suchergebnissen (FAOLEX/UNEP-LEAP, Seite des Landwirtschaftsministeriums), nicht aus dem RIS. Spätere Novellen des DMG 2021 und der Düngemittelverordnung 2004 wurden nicht geprüft.
 
 ### 7.2 Kompostverordnung
 
-Die Kompostverordnung [15] unterscheidet nach meinem Kenntnisstand die Qualitätsklassen A+, A und B. Die Grenzwerte der Klasse A+ entsprechen den Bio-Grenzwerten für Bioabfallkompost (Abschnitt 3.3). Damit gilt:
+Die Kompostverordnung [15] unterscheidet die Qualitätsklassen A+, A und B; Klasse B ist die Mindestqualität (Unternehmensserviceportal des Bundes, gesehen im Suchergebnis). Die Grenzwerte der Klasse A+ entsprechen nach Fachwissen den Bio-Grenzwerten für Bioabfallkompost (Abschnitt 3.3; nicht am RIS-Text geprüft). Damit gilt:
 
 - **Kompost aus Bioabfall (Biotonne):** im Bio-Betrieb nur in Qualitätsklasse A+.
 - **Reiner Grüngut- oder Rindenkompost:** fällt im Bio-Anhang unter „Gemische pflanzlicher Stoffe“, für die keine eigenen Schwermetallgrenzwerte genannt sind. Viele Kontrollstellen und Verbände erwarten trotzdem A+-Qualität oder eine aktuelle Analyse.
-- **Klärschlamm und Klärschlammkompost** sind im Bio-Anhang nicht gelistet und damit nicht zulässig.
+- **Klärschlamm und Klärschlammkompost** sind im Bio-Anhang nicht gelistet und damit nicht zulässig. Zulässig sind dagegen daraus zurückgewonnene Phosphorprodukte, die die VO (EU) 2019/1009 erfüllen: Struvit und gefällte Phosphatsalze (auch aus kommunalem Abwasser) sowie Calciumphosphat aus Klärschlammasche (Abschnitt 3.6) [2, 6].
 
 Die Kompostverordnung und die NAPV begrenzen auch die Ausbringungsmengen. Bei hohen Kompostgaben (z. B. bei der Neuanlage) die zulässige Menge vorher mit der Beratung klären.
 
-> **Offen:** Qualitätsklassen, Grenzwerte und Mengenbegrenzungen der Kompostverordnung wurden nicht am aktuellen Text im RIS geprüft.
+> **Offen:** Die Grenzwerte der Klassen A+ und A (Anlage 2 der Kompostverordnung) und die Mengenbegrenzungen für die Landwirtschaft wurden nicht am RIS-Text geprüft; nur die Einteilung in A+, A und B ist bestätigt.
 
 ### 7.3 Nitrat-Aktionsprogramm-Verordnung (NAPV)
 
-Die NAPV [16] gilt für alle Betriebe, auch für biologische. Sie regelt unter anderem:
+Die NAPV [16] gilt für alle Betriebe, auch für biologische. Die geltende Fassung ist die Neuerlassung BGBl. II Nr. 495/2022 (in Kraft seit 1.1.2023), zuletzt geändert durch BGBl. II Nr. 277/2024. Sie regelt unter anderem:
 
 - Zeiträume im Winter, in denen keine stickstoffhaltigen Dünger ausgebracht werden dürfen,
 - Ausbringungsverbote auf wassergesättigten, gefrorenen oder schneebedeckten Böden,
@@ -278,16 +276,15 @@ Die NAPV [16] gilt für alle Betriebe, auch für biologische. Sie regelt unter a
 
 Für die Ansäuerung kalkhaltiger Böden ist die NAPV insofern wichtig, als stickstoffreiche organische Dünger nicht in beliebiger Menge „zur Bodenverbesserung“ ausgebracht werden dürfen.
 
-> **Offen:** Konkrete Fristen, Höchstmengen für Weingärten und Aufzeichnungsschwellen der NAPV in der geltenden Fassung wurden nicht geprüft.
+> **Offen:** Verbotszeiträume, kulturbezogene Stickstoff-Höchstmengen für Weingärten und Aufzeichnungsschwellen der NAPV (BGBl. II Nr. 495/2022 i. d. F. BGBl. II Nr. 277/2024) wurden nicht am RIS-Text geprüft; die Fundstellen stammen aus Suchergebnissen.
 
 ### 7.4 Tierische Nebenprodukte
 
 Knochen-, Fleischknochen-, Blut-, Feder- und Hornmehl sowie Gärreste mit tierischen Nebenprodukten unterliegen der VO (EG) Nr. 1069/2009 und der VO (EU) Nr. 142/2011 [8, 9]. Für die Praxis wichtig:
 
-- Nach meinem Kenntnisstand dürfen Nutztiere Flächen, auf die organische Dünger aus tierischen Nebenprodukten (außer Gülle, Mist und Magen-Darm-Inhalt) ausgebracht wurden, frühestens 21 Tage danach beweiden; auch Futter darf erst danach geschnitten werden. Das betrifft Weingärten mit **Schafbeweidung**.
+- Nutztiere dürfen Flächen, auf die organische Düngemittel oder Bodenverbesserungsmittel aus tierischen Nebenprodukten ausgebracht wurden, erst nach einer Wartezeit von mindestens 21 Tagen beweiden; auch Grünfutter darf erst danach geschnitten werden (Art. 11 Abs. 1 Buchstabe c VO 1069/2009; VO 142/2011 Anhang II Kapitel II) [8, 9]. Ausgenommen sind Flächen, auf die nur Gülle (im Sinne des Rechts der tierischen Nebenprodukte, also tierische Exkremente mit oder ohne Einstreu) oder Guano bzw. Magen- und Darminhalt, Milch, Milcherzeugnisse und Kolostrum ausgebracht wurden, sofern die Behörde bei Letzteren kein Seuchenrisiko sieht [9]. Das betrifft Weingärten mit **Schafbeweidung**. Die Säcke tragen den Hinweis „Keine Beweidung durch Nutztiere und keine Verwendung der Pflanzen als Grünfutter für die Dauer von mindestens 21 Tagen nach der Ausbringung“ [9].
 - Lieferpapiere (Handelspapiere) aufbewahren.
 
-> **Offen:** Die 21-Tage-Frist und ihre Ausnahmen sind aus dem Fachwissen wiedergegeben und nicht am aktuellen Text geprüft.
 
 ### 7.5 Weinrecht: Trester und andere Nebenerzeugnisse
 
@@ -305,28 +302,28 @@ Mitglieder eines Bio-Verbands müssen zusätzlich dessen Richtlinien einhalten. 
 |---|---|---|---|
 | Konventionelle Wirtschaftsdünger | Erlaubt, wenn nicht aus industrieller Tierhaltung | Häufig weitere Einschränkungen (Herkunft, Haltungsform, Menge) | Einzelheiten bei Bio Austria und Demeter nicht geprüft |
 | Zugekaufte Handelsdünger | Erlaubt nach Anhang II | Teils Mengenbegrenzungen oder Ausschluss einzelner Stoffe | nicht geprüft |
-| Spurenelemente | Anorganische Salze | Teils ausdrücklicher Bedarfsnachweis | nicht geprüft |
+| Spurenelemente | „Mineralische Spurennährstoffdünger“; Chelate ungeklärt | Teils ausdrücklicher Bedarfsnachweis | nicht geprüft |
 | Biologisch-dynamische Präparate | Erlaubt | Demeter und respekt-BIODYN: verpflichtend | Grundsatz gesichert, Einzelheiten nicht geprüft |
-| Kupfer | 28 kg/ha in 7 Jahren | Teils niedrigere Jahreshöchstmengen | Zahlen nicht geprüft |
+| Kupfer | 28 kg/ha in 7 Jahren (geprüft) | Teils niedrigere Jahreshöchstmengen | Verbandszahlen nicht geprüft |
 
-**Bio Austria** [17] ist der größte österreichische Bio-Verband. Seine Produktionsrichtlinien enthalten nach meinem Kenntnisstand zusätzliche Einschränkungen beim Zukauf von Düngemitteln, insbesondere konventioneller Herkunft.
+**Bio Austria** [17] ist der größte österreichische Bio-Verband. Seine Produktionsrichtlinien enthalten nach Fachwissen (nicht eingesehen) zusätzliche Einschränkungen beim Zukauf von Düngemitteln, insbesondere konventioneller Herkunft.
 
-**Demeter** [18] stellt die betriebseigene Kompostwirtschaft und die biologisch-dynamischen Präparate in den Mittelpunkt. Zukaufdünger und konventionelle Wirtschaftsdünger sind nach meinem Kenntnisstand stärker eingeschränkt als im EU-Recht.
+**Demeter** [18] stellt die betriebseigene Kompostwirtschaft und die biologisch-dynamischen Präparate in den Mittelpunkt. Zukaufdünger und konventionelle Wirtschaftsdünger sind nach Fachwissen (nicht eingesehen) stärker eingeschränkt als im EU-Recht.
 
 **respekt-BIODYN** [19] ist ein Zusammenschluss biologisch-dynamisch arbeitender Weingüter mit eigenen Richtlinien.
 
-> **Offen:** Die konkreten Bestimmungen der aktuellen Richtlinien von Bio Austria, Demeter Österreich und respekt-BIODYN zu Düngemitteln, Spurenelementen und Kupfer wurden nicht eingesehen. Vor Maßnahmen den eigenen Verband fragen.
+> **Offen:** Die konkreten Bestimmungen der aktuellen Richtlinien von Bio Austria, Demeter Österreich und respekt-BIODYN zu Düngemitteln, Spurenelementen, Chelaten, Struvit und Kupfer wurden nicht eingesehen; eine Websuche fand die Verbandszahlen nicht. Vor Maßnahmen den eigenen Verband fragen.
 
 ## 9 Kupfer (kurz)
 
 Kupfer ist kein Thema der Düngung, aber eines der Bodenfruchtbarkeit im Bio-Weinbau.
 
-- **EU:** Kupferverbindungen als Pflanzenschutzmittel sind nach meinem Kenntnisstand auf höchstens 28 kg Kupfer je Hektar in sieben Jahren begrenzt, also durchschnittlich 4 kg/ha und Jahr [11]. Diese Grenze gilt für alle Betriebe; der Bio-Anhang I der VO 2021/1165 verweist darauf.
+- **EU:** Kupferverbindungen als Pflanzenschutzmittel sind auf höchstens 28 kg Kupfer je Hektar in sieben Jahren begrenzt, also durchschnittlich 4 kg/ha und Jahr [11]. Diese Grenze gilt für alle Betriebe. Anhang I der DVO 2021/1165 nennt sie bei Kupferhydroxid, Kupferoxychlorid, Kupferoxid, Bordeauxbrühe und dreibasischem Kupfersulfat ausdrücklich: „nur Verwendungen zulässig, bei denen die Gesamtausbringung maximal 28 kg Kupfer je Hektar während eines Zeitraums von 7 Jahren beträgt“ (Stand 01.01.2026) [2].
 - **Verbände** begrenzen Kupfer teilweise strenger (Abschnitt 8).
-- **Genehmigung:** Die EU-Genehmigung der Kupferverbindungen ist befristet. Den aktuellen Stand der Genehmigung und der österreichischen Zulassungen prüfen.
+- **Genehmigung:** Die mit der DVO (EU) 2018/1981 bis 31.12.2025 befristete EU-Genehmigung wurde mit der DVO (EU) 2025/1489 um 42 Monate bis **30. Juni 2029** verlängert, weil die Bewertung des Erneuerungsantrags noch nicht abgeschlossen ist [11, 32]. Die österreichischen Produktzulassungen und Etikettauflagen gesondert prüfen.
 - **Bezug zu Kalkböden:** Auf kalkreichen Böden ist Kupfer weniger löslich und damit für Bodenleben und Wurzeln weniger giftig als auf sauren Böden ([Grundlagen](grundlagen.md), Abschnitt 4.5). Es reichert sich aber im Oberboden an. Humus bindet Kupfer; organische Substanz ist deshalb auch hier vorteilhaft.
 
-> **Offen:** Aktueller Genehmigungsstatus der Kupferverbindungen (die Genehmigung nach VO (EU) 2018/1981 war befristet) und die geltenden Verbandsgrenzen wurden nicht geprüft.
+> **Offen:** Die Kupfer-Jahresgrenzen von Bio Austria, Demeter und respekt-BIODYN wurden nicht gefunden (Websuche ohne Ergebnis); beim Verband erfragen.
 
 ## 10 Ist ein Produkt erlaubt? Prüfablauf und Dokumentation
 
@@ -366,14 +363,14 @@ Die deutsche FiBL-Betriebsmittelliste [21] ist eine gute Orientierung, weil sie 
 | Phosphorsäure | Phosphordüngung und Ansäuerung über Tropfbewässerung | Nicht gelistet; leicht löslicher Mineraldünger | Organische P-Quellen, Begrünung ([Phosphor](phosphor.md)) |
 | Salpetersäure | Stickstoffdüngung und Ansäuerung | Mineralischer Stickstoff (Nr. 1.9.8) | Leguminosen, organische Dünger |
 | Ammoniumsulfat, Ammoniumsulfatlösung (auch aus Abluftwäsche oder Biogas-Strippung) | Ansäuernder Stickstoffdünger | Mineralischer Stickstoff (Nr. 1.9.8) | Leguminosen, Horn- und Haarmehl |
-| Harnstoff, Ammoniumnitrat, Kalkammonsalpeter, Kalksalpeter, Natursalpeter (Natriumnitrat) | Stickstoffdüngung | Mineralischer Stickstoff (Nr. 1.9.8) | Leguminosen, organische Dünger |
+| Harnstoff, Ammoniumnitrat, Kalkammonsalpeter, Kalksalpeter, Natursalpeter (Natriumnitrat) | Stickstoffdüngung | Mineralischer Stickstoff (Nr. 1.9.8); Natriumnitrat nur für Algenproduktion in geschlossenen Systemen gelistet | Leguminosen, organische Dünger |
 | Superphosphat, Triple-Superphosphat, Mono- und Diammonphosphat, Polyphosphate | Leicht lösliche Phosphordüngung | Nicht gelistet; Grundsatz der schwer löslichen Mineraldünger | [Phosphor](phosphor.md) |
-| Eisen-, Mangan-, Zinkchelate mit synthetischen Chelatbildnern (Fe-EDDHA, Fe-EDDHMA, Fe-HBED, Fe-DTPA, Zn-EDTA usw.) | Behandlung von Kalkchlorose und Spurenelementmangel | Nach meinem Kenntnisstand nur anorganische Mikronährstoffe gelistet (Abschnitt 5) | Unterlage, Bodenstruktur, Begrünung, Blattdüngung mit Eisensulfat ([Eisen](eisen-chlorose.md)) |
-| Kaliumchlorid (Kalisalz 60er) | Kaliumdüngung | Nicht gelistet (nur Rohkalisalz/Kainit) | Kaliumsulfat |
-| Kaliumphosphonat, Phosphit-Blattdünger | Als „Phosphordünger“ beworben, wirkt gegen Peronospora | Nicht als Dünger gelistet; als Pflanzenschutzmittel im Bio-Anhang nach meinem Kenntnisstand nicht zugelassen; Rückstände von Phosphonsäure gefährden die Bio-Vermarktung | – |
+| Eisen-, Mangan-, Zinkchelate mit synthetischen Chelatbildnern (Fe-EDDHA, Fe-EDDHMA, Fe-HBED, Fe-DTPA, Zn-EDTA usw.) | Behandlung von Kalkchlorose und Spurenelementmangel | **Status ungeklärt:** im EU-Text nicht ausdrücklich ausgeschlossen, Einstufung durch Kontrollstellen nicht geprüft (Abschnitt 5); nur nach schriftlicher Auskunft der Kontrollstelle | Unterlage, Bodenstruktur, Begrünung, Blattdüngung mit Eisensulfat ([Eisen](eisen-chlorose.md)) |
+| Kaliumchlorid synthetischen bzw. industriell aufbereiteten Ursprungs | Kaliumdüngung | Seit DVO 2023/121 ist nur Kaliumchlorid „natürlichen Ursprungs“ gelistet; ob ein Handelsprodukt (z. B. Kalisalz 60er) darunter fällt, mit der Kontrollstelle klären. Für Reben wegen Chlorid ohnehin ungeeignet | Kaliumsulfat |
+| Kaliumphosphonat, Phosphit-Blattdünger | Als „Phosphordünger“ beworben, wirkt gegen Peronospora | Weder in Anhang II noch in Anhang I (Pflanzenschutz) der DVO 2021/1165 gelistet (Stand 01.01.2026); Rückstände von Phosphonsäure gefährden die Bio-Vermarktung | – |
 | Aluminiumsulfat, Eisen(III)-chlorid | Ansäuerung (z. B. bei Heidelbeeren) | Nicht gelistet | Elementarer Schwefel |
 | Gips aus der Rauchgasentschwefelung (REA-Gips) | Natriumböden, Schwefeldüngung | Nicht natürlichen Ursprungs | Natürlicher Gips |
-| Klärschlamm, Klärschlammkompost, Bioabfallkompost unter Qualitätsklasse A+ | Organische Substanz | Nicht gelistet bzw. Grenzwerte überschritten | Kompost A+, Grüngutkompost, Mist |
+| Klärschlamm, Klärschlammkompost, Bioabfallkompost unter Qualitätsklasse A+ | Organische Substanz | Nicht gelistet bzw. Grenzwerte überschritten (zurückgewonnenes Struvit und Calciumphosphat aus Klärschlammasche sind dagegen gelistet, Abschnitt 3.6) | Kompost A+, Grüngutkompost, Mist |
 | Mist, Gülle, Gärreste aus industrieller Tierhaltung | Organische Düngung | Bedingung im Anhang II | Mist aus Bio- oder extensiver Haltung |
 | Torf als Bodenverbesserer im Ertragsweingarten | Humus, Ansäuerung | Nur im Gartenbau zulässig | Kompost, Rindenmulch |
 | Gentechnisch veränderte Mikroorganismen und Produkte aus GVO | Biostimulanzien, Dünger | Art. 11 VO 2018/848 | GVO-freie Präparate |
@@ -400,22 +397,22 @@ Stand: November 2026
 
 ## Quellen
 
-1. Europäisches Parlament und Rat (2018): Verordnung (EU) 2018/848 vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007. Amtsblatt der EU L 150 vom 14.6.2018, S. 1; konsolidierte Fassung bei EUR-Lex. [nicht online geprüft]
-2. Europäische Kommission (2021): Durchführungsverordnung (EU) 2021/1165 vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion und zur Erstellung entsprechender Verzeichnisse, Anhang II. Amtsblatt der EU L 253 vom 16.7.2021, S. 13; konsolidierte Fassung bei EUR-Lex. [nicht online geprüft]
-3. Europäische Kommission (2023): Durchführungsverordnung (EU) 2023/121 zur Änderung und Berichtigung der Durchführungsverordnung (EU) 2021/1165. Amtsblatt der EU. Inhalt nicht verifiziert. [nicht online geprüft]
-4. Europäische Kommission (2023): Durchführungsverordnung (EU) 2023/2229 zur Änderung der Durchführungsverordnung (EU) 2021/1165. Amtsblatt der EU. Inhalt nicht verifiziert. [nicht online geprüft]
+1. Europäisches Parlament und Rat (2018): Verordnung (EU) 2018/848 vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007. Amtsblatt der EU L 150 vom 14.6.2018, S. 1; konsolidierte Fassung 02018R0848, Stand 25.03.2025. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 25.03.2025: Art. 5, Art. 11, Anhang II Teil I Nr. 1.9]
+2. Europäische Kommission (2021): Durchführungsverordnung (EU) 2021/1165 vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion und zur Erstellung entsprechender Verzeichnisse, Anhang II. Amtsblatt der EU L 253 vom 16.7.2021, S. 13; konsolidierte Fassung 02021R1165, Stand 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026: Art. 2, Anhang I (Kupfer), Anhang II vollständig]
+3. Europäische Kommission (2023): Durchführungsverordnung (EU) 2023/121 vom 17. Januar 2023 zur Änderung und Berichtigung der Durchführungsverordnung (EU) 2021/1165. Amtsblatt der EU L 16 vom 18.1.2023, S. 24. [online geprüft – Änderungsvermerk ►M1 und geänderte Einträge im konsolidierten Text EUR-Lex Stand 01.01.2026]
+4. Europäische Kommission (2023): Durchführungsverordnung (EU) 2023/2229 vom 25. Oktober 2023 zur Änderung der Durchführungsverordnung (EU) 2021/1165. Amtsblatt der EU L 2229 vom 26.10.2023, S. 1. [online geprüft – Änderungsvermerk ►M2 und geänderte Einträge im konsolidierten Text EUR-Lex Stand 01.01.2026]
 5. Europäische Kommission (2008): Verordnung (EG) Nr. 889/2008 vom 5. September 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007, Anhang I. Amtsblatt der EU L 250 vom 18.9.2008, S. 1. [nicht online geprüft]
-6. Europäisches Parlament und Rat (2019): Verordnung (EU) 2019/1009 vom 5. Juni 2019 mit Vorschriften für die Bereitstellung von EU-Düngeprodukten auf dem Markt. Amtsblatt der EU L 170 vom 25.6.2019, S. 1. [nicht online geprüft]
-7. Europäisches Parlament und Rat (2003): Verordnung (EG) Nr. 2003/2003 vom 13. Oktober 2003 über Düngemittel. Amtsblatt der EU L 304 vom 21.11.2003, S. 1. [nicht online geprüft]
+6. Europäisches Parlament und Rat (2019): Verordnung (EU) 2019/1009 vom 5. Juni 2019 mit Vorschriften für die Bereitstellung von EU-Düngeprodukten auf dem Markt. Amtsblatt der EU L 170 vom 25.6.2019, S. 1; konsolidierte Fassung 02019R1009, Stand 30.12.2025. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 30.12.2025: Art. 53 (Aufhebung VO 2003/2003), PFC 1(C)(I) Cadmium 60 mg/kg P₂O₅, PFC 1(C)(II) Spurennährstoff-Chelatdünger, CMC 7, CMC 12, CMC 14 (PAK₁₆ 6 mg/kg)]
+7. Europäisches Parlament und Rat (2003): Verordnung (EG) Nr. 2003/2003 vom 13. Oktober 2003 über Düngemittel. Amtsblatt der EU L 304 vom 21.11.2003, S. 1. [online geprüft – Originaltext EUR-Lex: Anhang I Teil E „Mineralische Spurennährstoffdünger“ mit Abschnitt E.3 (Chelat- und Komplexbildner); Tabellen im HTML nicht enthalten]
 8. Europäisches Parlament und Rat (2009): Verordnung (EG) Nr. 1069/2009 vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte. Amtsblatt der EU L 300 vom 14.11.2009, S. 1. [nicht online geprüft]
-9. Europäische Kommission (2011): Verordnung (EU) Nr. 142/2011 vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009. Amtsblatt der EU L 54 vom 26.2.2011, S. 1. [nicht online geprüft]
+9. Europäische Kommission (2011): Verordnung (EU) Nr. 142/2011 vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009. Amtsblatt der EU L 54 vom 26.2.2011, S. 1; konsolidierte Fassung Stand 29.10.2025. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex (PDF) Stand 29.10.2025: Anhang II Kapitel II (21-Tage-Wartezeit) und Kennzeichnungsvorschrift Anhang VIII]
 10. Rat der Europäischen Gemeinschaften (1991): Richtlinie 91/676/EWG vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen. Amtsblatt der EG L 375 vom 31.12.1991, S. 1. [nicht online geprüft]
-11. Europäische Kommission (2018): Durchführungsverordnung (EU) 2018/1981 zur Erneuerung der Genehmigung der Wirkstoffe Kupferverbindungen als Substitutionskandidaten. Amtsblatt der EU. [nicht online geprüft]
+11. Europäische Kommission (2018): Durchführungsverordnung (EU) 2018/1981 vom 13. Dezember 2018 zur Erneuerung der Genehmigung für die Wirkstoffe Kupferverbindungen als Substitutionskandidaten. Amtsblatt der EU. [online geprüft – Befristung bis 31.12.2025 laut Erwägungsgrund der DVO (EU) 2025/1489 [32]; 28 kg/7 Jahre im Anhang I der DVO 2021/1165 [2]; Text von 2018/1981 selbst nicht eingesehen]
 12. Republik Österreich: EU-Qualitätsregelungen-Durchführungsgesetz (EU-QuaDG), BGBl. I Nr. 130/2015 in der geltenden Fassung. RIS. [nicht online geprüft]
-13. Republik Österreich: Düngemittelgesetz 2021 (DMG 2021) in der geltenden Fassung. Fundstelle im RIS nachsehen. [nicht online geprüft]
+13. Republik Österreich: Düngemittelgesetz 2021 (DMG 2021), BGBl. I Nr. 103/2021, in Kraft seit 1.10.2021, in der geltenden Fassung. [nicht online geprüft – Fundstelle, Inkrafttreten und Zuständigkeit des BAES in Suchergebnissen (FAOLEX/UNEP-LEAP, Seite des Landwirtschaftsministeriums) gesehen; RIS-Text nicht eingesehen]
 14. Republik Österreich: Düngemittelverordnung 2004, BGBl. II Nr. 100/2004 in der geltenden Fassung. RIS. [nicht online geprüft]
-15. Republik Österreich: Kompostverordnung, BGBl. II Nr. 292/2001 in der geltenden Fassung. RIS. [nicht online geprüft]
-16. Republik Österreich: Nitrat-Aktionsprogramm-Verordnung (NAPV), BGBl. II Nr. 385/2017 in der geltenden Fassung. RIS. [nicht online geprüft]
+15. Republik Österreich: Kompostverordnung, BGBl. II Nr. 292/2001 in der geltenden Fassung. RIS. [nicht online geprüft – Fundstelle und Qualitätsklassen A+, A, B in Suchergebnis (usp.gv.at) gesehen; Grenzwerte nicht]
+16. Republik Österreich: Nitrat-Aktionsprogramm-Verordnung (NAPV), BGBl. II Nr. 495/2022 (Neuerlassung, in Kraft seit 1.1.2023), zuletzt geändert durch BGBl. II Nr. 277/2024. RIS. [nicht online geprüft – Fundstellen in Suchergebnissen (BML, Land NÖ, RIS-Link) gesehen; Text nicht eingesehen. Die frühere Angabe BGBl. II Nr. 385/2017 betraf die Vorgängerfassung]
 17. BIO AUSTRIA (Hrsg.): BIO AUSTRIA Produktionsrichtlinien. Jährlich aktualisierte Fassung. [nicht online geprüft]
 18. Demeter International bzw. Demeter Österreich (Hrsg.): Richtlinien für die Zertifizierung „Demeter“ und „Biodynamisch“ (Erzeugung). Aktuelle Fassung. [nicht online geprüft]
 19. respekt-BIODYN (Hrsg.): Richtlinien. Aktuelle Fassung. [nicht online geprüft]
@@ -423,9 +420,12 @@ Stand: November 2026
 21. FiBL Deutschland (Hrsg.): Betriebsmittelliste für den ökologischen Landbau in Deutschland. Jährliche Ausgabe. [nicht online geprüft]
 22. Chien, S. H., Menon, R. G. (1995): Factors affecting the agronomic effectiveness of phosphate rock for direct application. Fertilizer Research 41, 227–234. [nicht online geprüft]
 23. Demeyer, A., Voundi Nkana, J. C., Verloo, M. G. (2001): Characteristics of wood ash and influence on soil properties and nutrient uptake: an overview. Bioresource Technology 77, 287–295. [nicht online geprüft]
-24. Jeffery, S., Verheijen, F. G. A., van der Velde, M., Bastos, A. C. (2011): A quantitative review of the effects of biochar application to soils on crop productivity using meta-analysis. Agriculture, Ecosystems and Environment 144, 175–187. [nicht online geprüft]
-25. Degryse, F., Baird, R., da Silva, R. C., McLaughlin, M. J. (2017): Dissolution rate and agronomic effectiveness of struvite fertilizers – effect of soil pH, granulation and base excess. Plant and Soil 410, 139–152. [nicht online geprüft]
-26. Talboys, P. J., Heppell, J., Roose, T., Healey, J. R., Jones, D. L., Withers, P. J. A. (2016): Struvite: a slow-release fertiliser for sustainable phosphorus management? Plant and Soil 401, 109–123. [nicht online geprüft]
-27. Rose, M. T., Patti, A. F., Little, K. R., Brown, A. L., Jackson, W. R., Cavagnaro, T. R. (2014): A meta-analysis and review of plant-growth response to humic substances: practical implications for agriculture. Advances in Agronomy 124, 37–89. [nicht online geprüft]
+24. Jeffery, S., Verheijen, F. G. A., van der Velde, M., Bastos, A. C. (2011): A quantitative review of the effects of biochar application to soils on crop productivity using meta-analysis. Agriculture, Ecosystems and Environment 144, 175–187. https://doi.org/10.1016/j.agee.2011.08.015 [online geprüft – bibliografische Angaben und Kernaussage (im Mittel rund +10 % Ertrag, Spanne −28 bis +39 %) in Katalogeinträgen gesehen]
+25. Degryse, F., Baird, R., da Silva, R. C., McLaughlin, M. J. (2017): Dissolution rate and agronomic effectiveness of struvite fertilizers – effect of soil pH, granulation and base excess. Plant and Soil 410, 139–152. https://doi.org/10.1007/s11104-016-2990-2 [online geprüft – Kurzfassung: Auflösung von Granulat in alkalischem Boden rund 0,03 mg/Tag, in saurem rund 0,43 mg/Tag; fein eingemischt ähnlich wirksam wie MAP]
+26. Talboys, P. J., Heppell, J., Roose, T., Healey, J. R., Jones, D. L., Withers, P. J. A. (2016): Struvite: a slow-release fertiliser for sustainable phosphorus management? Plant and Soil 401, 109–123. [online geprüft – bibliografische Angaben im Repositorium der University of Southampton gesehen]
+27. Rose, M. T., Patti, A. F., Little, K. R., Brown, A. L., Jackson, W. R., Cavagnaro, T. R. (2014): A meta-analysis and review of plant-growth response to humic substances: practical implications for agriculture. Advances in Agronomy 124, 37–89. [online geprüft – bibliografische Angaben und Kernaussage (im Mittel +22 % Spross-, +21 % Wurzeltrockenmasse) in Katalogeinträgen gesehen]
 28. Richards, L. A. (Hrsg.) (1954): Diagnosis and Improvement of Saline and Alkali Soils. USDA Agriculture Handbook No. 60. United States Department of Agriculture, Washington, D.C. [nicht online geprüft]
 29. Tagliavini, M., Rombolà, A. D. (2001): Iron deficiency and chlorosis in orchard and vineyard ecosystems. European Journal of Agronomy 15, 71–92. [nicht online geprüft]
+30. Europäische Kommission (2025): Durchführungsverordnung (EU) 2025/973 vom 23. Mai 2025 zur Änderung der Durchführungsverordnung (EU) 2021/1165. Amtsblatt der EU L 973 vom 26.5.2025, S. 1. [online geprüft – Änderungsvermerk ►M3 und geänderte Einträge im konsolidierten Text EUR-Lex Stand 01.01.2026]
+31. Europäische Kommission (2025): Durchführungsverordnung (EU) 2025/2501 vom 11. Dezember 2025 zur Änderung der Durchführungsverordnung (EU) 2021/1165. Amtsblatt der EU L 2501 vom 12.12.2025, S. 1. [online geprüft – als ►M4 im konsolidierten Text EUR-Lex Stand 01.01.2026 aufgeführt; in Anhang II kein M4-Vermerk]
+32. Europäische Kommission (2025): Durchführungsverordnung (EU) 2025/1489 vom 24. Juli 2025 zur Änderung der Durchführungsverordnung (EU) Nr. 540/2011 hinsichtlich der Verlängerung der Laufzeit der Genehmigungen für die Wirkstoffe … Kupferverbindungen …. Amtsblatt der EU. [online geprüft – Wortlaut EUR-Lex: Teil E Eintrag 10 Kupferverbindungen, Befristung „30. Juni 2029“]

@@ -307,8 +307,8 @@ Die Grenzen dieser Tabelle sind Orientierungswerte (nicht belegt), außer dem EU
 - **Most vor Wein:** Korrekturen im Most binden sich besser ein. Ausfälle (Weinstein, Calciumtartrat) erfolgen dann noch während der Gärung [6, 12].
 - **Erst messen, dann rechnen, dann Vorversuch.** Die Dosierung nach Formel ist eine Schätzung. Weinsteinausfall, Pufferung und Sensorik entscheiden über das Ergebnis.
 - **Alternativen prüfen:** Verschnitt säurereicher und säurearmer Partien, biologischer Säureabbau bei Rotwein, angepasster Lesezeitpunkt.
-- **Dokumentieren:** Säuerung und Entsäuerung sind im Kellerbuch zu vermerken (VO (EU) 2018/273) [19].
-- **Ausschlüsse:** Säuerung und Entsäuerung desselben Erzeugnisses schließen einander aus. Säuerung und Anreicherung (Aufbesserung) ebenfalls, soweit keine Ausnahme gilt [15].
+- **Dokumentieren:** Säuerung und Entsäuerung sind im Ein- und Ausgangsregister (Kellerbuch) einzutragen (VO (EU) 2018/273, Art. 29 Abs. 2 Buchst. c) [19].
+- **Ausschlüsse:** Säuerung und Entsäuerung desselben Erzeugnisses schließen einander aus. Säuerung und Anreicherung (Aufbesserung) ebenfalls, ausgenommen Abweichungen durch delegierten Rechtsakt (VO (EU) 1308/2013, Anhang VIII Teil I Abschnitt C Nr. 5) [15].
 
 ### Rechtsrahmen in Österreich
 
@@ -317,25 +317,27 @@ Ganz Österreich gehört zur Weinbauzone B (VO (EU) Nr. 1308/2013, Anhang VII An
 | Maßnahme | Fassung bis 2021 (Zone B) | Fassung nach VO (EU) 2021/2117 |
 |---|---|---|
 | Entsäuerung von Trauben, Most, Jungwein | zulässig | zulässig, ohne Zonenbeschränkung |
-| Entsäuerung von Wein | zulässig bis 1 g/L ≙ 13,3 meq/L | weiterhin bis 1 g/L (nach Kenntnisstand) |
-| Säuerung von Trauben, Most, Jungwein und Wein | nur in Jahren mit außergewöhnlichen Witterungsverhältnissen, wenn der Mitgliedstaat sie zuließ; Most 1,5 g/L, Wein 2,5 g/L | ohne Zonenbeschränkung zulässig, höchstens 4 g/L als Weinsäure ≙ 53,3 meq/L |
+| Entsäuerung von Wein | zulässig bis 1 g/L ≙ 13,3 meq/L | weiterhin bis 1 g/L ≙ 13,3 meq/L (Abschnitt C Nr. 3) |
+| Säuerung von Trauben, Most, Jungwein und Wein | nur in Jahren mit außergewöhnlichen Witterungsverhältnissen, wenn der Mitgliedstaat sie zuließ; Most 1,5 g/L, Wein 2,5 g/L | ohne Zonenbeschränkung zulässig, höchstens 4 g/L als Weinsäure ≙ 53,3 meq/L (Abschnitt C Nr. 2) |
 
-Unverändert gilt: Gesäuert und entsäuert wird nur in der Weinbauzone, in der die Trauben geerntet wurden [26]. Säuerung und Entsäuerung desselben Erzeugnisses schließen einander aus, ebenso Säuerung und Anreicherung, soweit keine Ausnahme gilt [15].
+Unverändert gilt: Wein wird nur in der Weinbauzone gesäuert und entsäuert, in der die Trauben geerntet wurden (Abschnitt D Nr. 3) [15]. Säuerung und Entsäuerung von Wein sind ganzjährig möglich, die übrigen Behandlungen in Zone B nur bis 16. März (Abschnitt D Nr. 6 und 7) [15]. Säuerung und Entsäuerung desselben Erzeugnisses schließen einander aus, ebenso Säuerung und Anreicherung, soweit keine Ausnahme gilt [15].
 
-Die Umrechnungen in meq/L sind nachgerechnet (1 g/L Weinsäure = 13,33 meq/L). Zugelassene Mittel (VO (EU) 2019/934, Anhang I Teil A) [16]: zur Entsäuerung neutrales Kaliumtartrat, Kaliumhydrogencarbonat, Calciumcarbonat (auch mit geringen Mengen des Calcium-Doppelsalzes von Wein- und Äpfelsäure als Impfkristall), Calciumtartrat, L(+)-Weinsäure (für die erweiterte Doppelsalzentsäuerung) und eine Mischung aus Weinsäure und Calciumcarbonat; zur Säuerung L(+)-Weinsäure, L-Äpfelsäure, DL-Äpfelsäure und Milchsäure.
+Die Umrechnungen in meq/L sind nachgerechnet (1 g/L Weinsäure = 13,33 meq/L). Zugelassene Mittel (VO (EU) 2019/934, Anhang I Teil A Tabelle 2, Gruppe 1 „Säureregulatoren“, konsolidiert Stand 29.12.2024) [16]: L(+)-Weinsäure (1.1), Äpfelsäure D,L- und L- (1.2), Milchsäure (1.3), Kalium-L(+)-tartrat (1.4), Kaliumbicarbonat (1.5), Calciumcarbonat (1.6), Calciumsulfat (1.8, nur für bestimmte Likörweine), Kaliumcarbonat (1.9). Dazu kommen physikalische Verfahren wie Kationenaustauscher zur Säuerung und Elektromembranbehandlung (Tabelle 1).
 
-> **Offen:** Die neue Fassung (4 g/L, keine Zonenbeschränkung) ist durch eine Suche im EUR-Lex-Text der VO (EU) 2021/2117 belegt; der Wortlaut zur Entsäuerung von Wein (1 g/L) und die aktuelle Mittelliste in VO (EU) 2019/934 wurden nicht im Original gelesen. Ob das österreichische Weingesetz oder eine Verordnung die Säuerung zusätzlich einschränkt (etwa für Prädikatsweine), ist ungeprüft. Vor jeder Säuerung den aktuellen Text bei EUR-Lex bzw. im RIS lesen und bei der Bundeskellereiinspektion oder der Landwirtschaftskammer nachfragen.
+> **Achtung:** Weinsäure zur **Entsäuerung** (erweiterte Doppelsalzentsäuerung) ist nach Anlage 1 Nr. 1 zu Anhang I nur für Erzeugnisse aus Elbling und Riesling zugelassen, die in Deutschland in der Weinbauzone A geerntet wurden. In Österreich ist sie damit nicht zulässig [16]. Calciumtartrat steht in VO (EU) 2019/934 nur bei der Weinsteinstabilisierung (Gruppe 6), nicht bei den Säureregulatoren.
+
+Österreich: Eine nationale Einschränkung der Säuerung (etwa für Prädikatsweine) wurde in den gesichteten Gesetzesmaterialien nicht gefunden; eine parlamentarische Anfragebeantwortung (XXIV. GP) bezeichnet den Säurezusatz zu Wein als erlaubt (siehe [Grenzwerte und Recht](grenzwerte-recht.md), Kapitel 3).
+
+> **Offen:** Ob das Weingesetz 2009 oder eine Verordnung die Säuerung für Kabinett oder Prädikatswein einschränkt oder eine Meldung verlangt, im RIS-Wortlaut prüfen (RIS war bei der Prüfung nicht erreichbar) und bei der Bundeskellereiinspektion oder der Landwirtschaftskammer nachfragen.
 
 ### Bio
 
-Nach VO (EU) 2021/1165, Anhang V (zugelassene Erzeugnisse für Bio-Wein) sind nach unserem Kenntnisstand zugelassen [18]:
+Nach DVO (EU) 2021/1165, Anhang V Teil D (konsolidiert Stand 01.01.2026) sind für Bio-Wein von den Säureregulatoren zugelassen [18]:
 
-- zur **Säuerung:** Milchsäure und L(+)-Weinsäure,
-- zur **Entsäuerung:** L(+)-Weinsäure, Calciumcarbonat, neutrales Kaliumtartrat und Kaliumhydrogencarbonat.
+- zur **Säuerung:** L(+)-Weinsäure und Milchsäure,
+- zur **Entsäuerung:** Calciumcarbonat, Kalium-L(+)-tartrat und Kaliumbicarbonat (Kaliumhydrogencarbonat); außerdem Calciumsulfat (nur für die Likörweine nach Tabelle 2 Nr. 1.8).
 
-L- und DL-Äpfelsäure sind dort nicht genannt. Die Zonenregeln und Höchstmengen gelten für Bio-Wein genauso. Verbandsrichtlinien (z. B. Bio Austria, Demeter, respekt-BIODYN) können strenger sein. Details: [Grenzwerte und Recht](grenzwerte-recht.md).
-
-> **Offen:** Die Bio-Liste stammt aus dem Fachwissen (Übernahme aus dem früheren Anhang VIIIa der VO (EG) Nr. 889/2008) und wurde nicht online geprüft.
+L- und DL-Äpfelsäure und Kaliumcarbonat stehen nicht in Teil D und sind für Bio nicht zugelassen. Weinsäure ist zwar gelistet, zur Entsäuerung aber ohnehin nur für deutschen Elbling und Riesling erlaubt (siehe oben). Die Zonenregeln und Höchstmengen gelten für Bio-Wein genauso. Verbandsrichtlinien (z. B. Bio Austria, Demeter, respekt-BIODYN) können strenger sein. Details: [Grenzwerte und Recht](grenzwerte-recht.md).
 
 ### Vorversuch im Labormaßstab
 
@@ -418,7 +420,7 @@ In der Praxis liegt die Dosis dazwischen, je nach Kaliumgehalt, Temperatur und Z
 5. Niederschlag abtrennen (absetzen lassen und abziehen, filtrieren oder separieren).
 6. Klare, entsäuerte Teilmenge mit dem Rest vereinigen. Nach 1–2 Tagen Gesamtsäure und pH-Wert messen.
 
-**Grenze:** Weil Wein- und Äpfelsäure 1 : 1 (in Mol) ausfallen, braucht die Teilmenge genug Weinsäure. Je 1 g Weinsäure können höchstens 0,89 g Äpfelsäure als Doppelsalz fallen (134,09 ÷ 150,09; eigene Rechnung). Ist mehr Äpfelsäure vorhanden, bleibt sie als lösliches Calciummalat zurück. Dafür gibt es die erweiterte Doppelsalzentsäuerung mit Weinsäurezusatz zur Teilmenge [16]. Dieses Verfahren nur mit Herstelleranleitung und Beratung anwenden.
+**Grenze:** Weil Wein- und Äpfelsäure 1 : 1 (in Mol) ausfallen, braucht die Teilmenge genug Weinsäure. Je 1 g Weinsäure können höchstens 0,89 g Äpfelsäure als Doppelsalz fallen (134,09 ÷ 150,09; eigene Rechnung). Ist mehr Äpfelsäure vorhanden, bleibt sie als lösliches Calciummalat zurück. Dafür gibt es die erweiterte Doppelsalzentsäuerung mit Weinsäurezusatz zur Teilmenge. Sie ist nach VO (EU) 2019/934 (Anhang I Anlage 1 Nr. 1) nur für Elbling und Riesling aus der deutschen Weinbauzone A zugelassen, in Österreich also nicht [16].
 
 > **Offen:** Der pH-Schwellenwert von etwa 4,5, die Rührzeiten und die Restsäure R stammen aus dem Fachwissen [11, 12] und wurden nicht online geprüft. Die Herstelleranleitung des verwendeten Entsäuerungskalks hat Vorrang.
 
@@ -490,11 +492,11 @@ Stand: November 2026
 12. Troost, G. (1988): Technologie des Weines. 6. Aufl., Ulmer, Stuttgart. [nicht online geprüft]
 13. Galster, H. (1991): pH Measurement – Fundamentals, Methods, Applications, Instrumentation. VCH, Weinheim. Ergänzend: Bedienungsanleitungen der Elektrodenhersteller (nur für Gerätedaten). [nicht online geprüft]
 14. Buck, R.P. et al. (2002): Measurement of pH. Definition, standards, and procedures (IUPAC Recommendations 2002). Pure and Applied Chemistry 74. [nicht online geprüft]
-15. Verordnung (EU) Nr. 1308/2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, Anhang VII Teil II und Anlage I, Anhang VIII Teil I Abschnitt C; geändert u. a. durch VO (EU) 2021/2117. EUR-Lex. Zitierte Stellen nach Fassung 2013. [nicht online geprüft]
-16. Delegierte Verordnung (EU) 2019/934 (önologische Verfahren), Anhang I Teil A. Konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng – Existenz und Anhang I Teil C online gesehen; die hier zitierten Stellen aus Teil A [nicht online geprüft]
-17. Delegierte Verordnung (EU) 2019/33, Anhang III Teil B (Angaben zum Zuckergehalt). EUR-Lex. [nicht online geprüft]
-18. Verordnung (EU) 2018/848 (ökologische Produktion), Anhang II Teil VI; Durchführungsverordnung (EU) 2021/1165, Anhang V. EUR-Lex. [nicht online geprüft]
-19. Delegierte Verordnung (EU) 2018/273 (u. a. Ein- und Ausgangsbücher im Weinsektor). EUR-Lex. [nicht online geprüft]
+15. Verordnung (EU) Nr. 1308/2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, Anhang VII Teil II und Anlage I, Anhang VIII Teil I Abschnitte C und D; geändert u. a. durch VO (EU) 2021/2117. Konsolidierte Fassung EUR-Lex, Stand 18.08.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.08.2026: Mindestsäure 3,5 g/L, Zone B für Österreich, Säuerung 4 g/L, Entsäuerung von Wein 1 g/L, Ausschlüsse, Zonen- und Fristregeln]
+16. Delegierte Verordnung (EU) 2019/934 (önologische Verfahren), Anhang I Teil A. Konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Tabelle 2 Gruppe 1 und Anlage 1 (Weinsäure-Entsäuerung nur Elbling/Riesling, Deutschland Zone A)]
+17. Delegierte Verordnung (EU) 2019/33, Anhang III Teil B (Angaben zum Zuckergehalt). Konsolidierte Fassung EUR-Lex, Stand 18.01.2025. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.01.2025: Anhang III Teil B]
+18. Verordnung (EU) 2018/848 (ökologische Produktion), Anhang II Teil VI; Durchführungsverordnung (EU) 2021/1165, Anhang V Teil D. Konsolidierte Fassungen EUR-Lex, Stand 25.03.2025 bzw. 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex: Stoffliste Teil D]
+19. Delegierte Verordnung (EU) 2018/273 (u. a. Ein- und Ausgangsregister im Weinsektor), Art. 29 Abs. 2 Buchst. c. ABl. L 58 vom 28.2.2018, S. 1. [online geprüft – Originaltext EUR-Lex: Art. 29 (Säuerung und Entsäuerung eintragen)]
 20. Plane, R.A., Mattick, L.R., Weirs, L.D. (1980): An acidity index for the taste of wines. American Journal of Enology and Viticulture 31. [nicht online geprüft]
 21. Mira de Orduña, R. (2010): Climate change associated effects on grape and wine quality and production. Food Research International 43. [nicht online geprüft]
 22. Verordnung (EG) Nr. 1272/2008 (CLP-Verordnung), Anhang VI. EUR-Lex. [nicht online geprüft]

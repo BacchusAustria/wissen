@@ -572,9 +572,9 @@ Die Einstufungen sind Auszüge aus Fachwissen und den harmonisierten Einstufunge
 - **Verschlucken:** Mund ausspülen, Wasser in kleinen Schlucken trinken, kein Erbrechen auslösen. Vergiftungsinformationszentrale anrufen, SDB bereithalten.
 - **Einatmen** von SO2, Säuredämpfen oder CO2: an die frische Luft; bei Atemnot Notruf 144. CO2-Unfälle siehe Warnung in Abschnitt 3.4.
 - **Verbrennung** an Heizplatte oder Dampf: 10 Minuten mit handwarmem Leitungswasser kühlen.
-- **Notrufe in Österreich:** Rettung 144, Euro-Notruf 112, Feuerwehr 122, Vergiftungsinformationszentrale (VIZ) +43 1 406 43 43.
+- **Notrufe in Österreich:** Rettung 144, Euro-Notruf 112, Feuerwehr 122, Vergiftungsinformationszentrale (VIZ) +43 1 406 43 43 (aus Österreich 01 406 43 43, rund um die Uhr) [21].
 
-> **Offen:** Die Telefonnummer der VIZ stammt aus dem Fachwissen und wurde nicht online geprüft. Vor dem Aushang im Labor kontrollieren.
+Am Telefon bereithalten: Name des Stoffes (Etikett, Sicherheitsdatenblatt), Menge, Alter, Gewicht und Zustand der Person, Zeitpunkt [21].
 
 ### 10.5 Lagerung
 
@@ -640,3 +640,4 @@ Stand: November 2026
 18. Haynes, W. M. (Hrsg.) (2016): CRC Handbook of Chemistry and Physics. 97. Auflage, CRC Press, Boca Raton. (Dichte von Wasser und wässrigen Lösungen, Grundlage der Größenordnung in Abschnitt 5.9.) [nicht online geprüft]
 19. JCGM 200:2012: International vocabulary of metrology – Basic and general concepts and associated terms (VIM), 3. Auflage. Joint Committee for Guides in Metrology. [nicht online geprüft]
 20. Ellison, S. L. R.; Williams, A. (Hrsg.) (2012): Eurachem/CITAC Guide: Quantifying Uncertainty in Analytical Measurement. 3. Auflage, Eurachem. [nicht online geprüft]
+21. Gesundheitsportal Österreich (gesundheit.gv.at): Vergiftungsinformationszentrale. https://www.gesundheit.gv.at/service/notruf/vergiftungsinformationszentrale.html; ebenso oesterreich.gv.at. [online geprüft – nur Suchergebnis-Auszug: Notrufnummer 01 406 43 43, 0–24 Uhr, benötigte Angaben]

@@ -88,19 +88,21 @@ Für ein Betriebslabor praktikabler (eigene Empfehlung): Einen Wein, dessen Alko
 
 1. Wein entgasen (Vakuum, siehe [Laborpraxis](grundlagen-labor.md), Abschnitt 4) und auf 20 °C temperieren.
 2. Messkolben 200 mL bei 20 °C genau bis zur Marke füllen.
-3. Wein in den Rundkolben gießen. Den Messkolben dreimal mit wenig Laborwasser (je etwa 5 mL) ausspülen und das Spülwasser ebenfalls in den Rundkolben geben.
+3. Wein in den Rundkolben gießen. Den Messkolben viermal mit je 5 mL Laborwasser ausspülen und das Spülwasser ebenfalls in den Rundkolben geben [24].
 4. 10 mL gut geschüttelte Kalkmilch und einige Siedesteinchen zugeben; bei schäumenden Weinen 1–2 Tropfen Antischaummittel.
-5. Apparatur zusammenbauen. In den leeren Messkolben (Vorlage) etwa 10 mL Laborwasser geben; das Auslaufrohr muss eintauchen. Die Vorlage in kaltes Wasser oder Eiswasser stellen.
+5. Apparatur zusammenbauen. Das Destillat wird im selben 200-mL-Messkolben aufgefangen, mit dem der Wein abgemessen wurde. In diesen Kolben (Vorlage) einige Milliliter Laborwasser geben (z. B. 10 mL); das Auslaufrohr muss bis zum Boden reichen und eintauchen [24]. Die Vorlage in kaltes Wasser oder Eiswasser stellen.
 6. Kühlwasser **vor** dem Heizen aufdrehen.
 7. Gleichmäßig erhitzen und zügig, aber ohne Überschäumen destillieren.
-8. Destillieren, bis etwa drei Viertel des Probenvolumens (rund 150 mL) übergegangen sind. Der Alkohol geht zuerst über; danach ist der Rückstand praktisch alkoholfrei.
+8. Destillieren, bis drei Viertel des Ausgangsvolumens (rund 150 mL) übergegangen sind [24]. Der Alkohol geht zuerst über; danach ist der Rückstand praktisch alkoholfrei.
 9. Heizung abschalten, Vorlage abnehmen, das Auslaufrohr mit wenig Laborwasser in die Vorlage abspülen.
 10. Vorlage 30 Minuten im Wasserbad auf 20 °C temperieren.
 11. Mit Laborwasser von 20 °C genau bis zur Marke auffüllen, verschließen und gründlich mischen.
 12. Dichte messen: mit dem Alkoholometer (Abschnitt 3.5) oder dem Pyknometer (Abschnitt 3.6).
 13. Doppelbestimmung: zweite Destillation mit neuer Probe.
 
-> **Offen:** Die Einzelschritte 3, 5 und 8 (Spülmengen, vorgelegtes Wasser, „drei Viertel“) entsprechen der üblichen Praxis und der Beschreibung im Auftrag, wurden aber im Wortlaut der OIV-Methode nicht nachgelesen. Vor Verwendung mit dem aktuellen Text von OIV-MA-AS312-01A vergleichen [1].
+Die Schritte 3, 5 und 8 sind gegen die frühere EU-Referenzmethode geprüft (VO (EWG) Nr. 2676/90, Anhang Kapitel 3, Nr. 3.4), auf die die Kommission 2010 für die OIV-Methode OIV-AS-312-01 verwiesen hat [24]. Dort steht außerdem: Die Temperatur des aufgefüllten Destillats soll höchstens ± 2 °C von der Ausgangstemperatur des Weins abweichen.
+
+> **Offen:** Ob die aktuelle OIV-Fassung OIV-MA-AS312-01A in diesen Einzelheiten von der Fassung 2676/90 abweicht, wurde nicht im OIV-Original gelesen (oiv.int war nicht erreichbar) [1].
 
 ### 3.5 Messen mit dem Alkoholometer
 
@@ -265,11 +267,11 @@ Zuckerfreier Extrakt = Gesamtextrakt − Gesamtzucker (Definition der OIV [4]). 
 
 Nach Art. 44 der Delegierten Verordnung (EU) 2019/33 [5, 6]:
 
-- Der vorhandene Alkoholgehalt wird in **ganzen oder halben Volumenprozent** angegeben, gefolgt von „% vol“; davor darf „vorhandener Alkoholgehalt“, „Alkohol“ oder „alc.“ stehen.
+- Der vorhandene Alkoholgehalt wird in **vollen oder gegebenenfalls halben Volumenprozent** angegeben, gefolgt von „% vol“; davor dürfen „vorhandener Alkoholgehalt“, „vorhandener Alkohol“, „alc.“ oder „Alk.“ stehen.
 - Die Angabe darf vom Analysenwert um höchstens **± 0,5 % vol** abweichen, unbeschadet der Toleranzen der Referenzmethode.
-- **± 0,8 % vol** gelten für Erzeugnisse mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe, die länger als drei Jahre in Flaschen gelagert wurden, sowie unter anderem für Schaumweine, Qualitätsschaumweine, Likörweine und Weine aus überreifen Trauben.
+- **± 0,8 % vol** gelten für Erzeugnisse mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe, die über drei Jahre in Flaschen gelagert wurden, sowie für Schaumweine, Qualitätsschaumweine, Schaumweine mit zugesetzter Kohlensäure, Perlweine, Perlweine mit zugesetzter Kohlensäure, Likörweine und Weine aus überreifen Trauben.
 
-> **Offen:** Eine Sekundärquelle zum Online-Handel nennt zusätzlich die Angabe „mit höchstens einer Nachkommastelle“. Ob sich die Regel der ganzen oder halben Einheiten geändert hat, im aktuellen konsolidierten Text auf EUR-Lex prüfen. Die britische Fassung wurde 2023 auf eine Nachkommastelle umgestellt [6]; das betrifft das Vereinigte Königreich, nicht die EU.
+Im konsolidierten Text der VO (EU) 2019/33 (Stand 18.01.2025) gilt unverändert die Regel der vollen oder halben Einheiten; eine Angabe „mit einer Nachkommastelle“ steht dort nicht [5]. Die britische Fassung wurde 2023 auf eine Nachkommastelle umgestellt [6]; das betrifft das Vereinigte Königreich, nicht die EU.
 
 **Rechenbeispiele (eigene Rechnung, Toleranz ± 0,5 % vol):**
 
@@ -284,10 +286,10 @@ Nach Art. 44 der Delegierten Verordnung (EU) 2019/33 [5, 6]:
 ### 9.2 Österreich: Kategorien und Prüfnummer
 
 - **Landwein:** vorhandener Alkoholgehalt mindestens 8,5 % vol [8].
-- **Kabinett:** Obergrenze für den Alkoholgehalt (nach Fachwissen 13 % vol; siehe Offen-Hinweis in [Zucker und Mostgewicht](zucker-mostgewicht.md), Abschnitt 9).
-- **Staatliche Prüfnummer:** Qualitätswein wird vor dem Inverkehrbringen in Flaschen chemisch analysiert und sensorisch geprüft. Die Werte auf dem Etikett (Alkohol, Geschmacksangabe) müssen zur Prüfnummernanalyse passen. Wird die Partie danach verändert (Verschnitt, Süßung), stimmt die Analyse nicht mehr.
+- **Kabinett:** Alkoholgehalt höchstens 12,9 % vol seit der Weingesetz-Novelle BGBl. I Nr. 47/2016 (vorher 13 % vol); nur über Gesetzesmaterialien geprüft, siehe [Zucker und Mostgewicht](zucker-mostgewicht.md), Abschnitt 9 [25].
+- **Staatliche Prüfnummer:** Qualitäts- und Prädikatswein werden vor dem Inverkehrbringen chemisch analysiert und sensorisch geprüft. Antrag elektronisch über „Wein-Online“; zuständig ist das Bundesamt für Weinbau in Eisenstadt (Details und Quellen in [Grenzwerte und Recht](grenzwerte-recht.md), Kapitel 5). Die Werte auf dem Etikett (Alkohol, Geschmacksangabe) müssen zur Prüfnummernanalyse passen. Wird die Partie danach verändert (Verschnitt, Süßung), stimmt die Analyse nicht mehr.
 
-> **Offen:** Ablauf, zuständige Stelle und Analysenumfang der Prüfnummer wurden bei der Erstellung nicht online geprüft. Vor der Einreichung im Weingesetz 2009 (RIS) nachlesen und beim Bundesamt für Weinbau oder der Landwirtschaftskammer nachfragen. Weitere Grenzwerte: [Grenzwerte und Recht](grenzwerte-recht.md).
+> **Offen:** Der verbindliche Analysenumfang der Prüfnummer und die Zahl der Probeflaschen wurden nicht gefunden. Vor der Einreichung beim Bundesamt für Weinbau oder der Landwirtschaftskammer nachfragen. Weitere Grenzwerte: [Grenzwerte und Recht](grenzwerte-recht.md).
 
 ## 10. Sicherheit und Entsorgung
 
@@ -323,7 +325,7 @@ Stand: November 2026
 2. OIV (2009): Alcoholic strength by volume – Type IV methods. Methode OIV-MA-AS312-01B. https://www.oiv.int/public/medias/2490/oiv-ma-as312-01b.pdf [online geprüft – Auszug: Messung des Destillats bei 20 °C oder Umgebungstemperatur mit Korrekturtabelle, Thermometer mit mindestens 0,05 °C Auflösung; ob die Methode inzwischen ersetzt wurde, nicht geprüft]
 3. OIV: Tabellen für Alkohol-Wasser-Gemische (Methode OIV-MA-AS312-02) sowie Neuordnung der Dichtemethoden in OIV-MA-AS2-01 durch die Resolutionen OIV-OENO 601A/601B-2021. https://www.oiv.int/public/medias/8151/en-oiv-oeno-601b-2021.pdf [online geprüft – nur Hinweise im Suchergebnis; Tabelleninhalt nicht eingesehen]
 4. OIV: Total dry matter (densimetrische Bestimmung des Gesamtextrakts, Formel nach Tabarié und Extrakttabelle). Methode OIV-MA-AS2-03B. In: Compendium of International Methods of Wine and Must Analysis. [nicht online geprüft]
-5. Delegierte Verordnung (EU) 2019/33 der Kommission, Art. 44 (vorhandener Alkoholgehalt). EUR-Lex: https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX%3A32019R0033 [online geprüft – Auszüge: Symbol „% vol“, ganze oder halbe Einheiten, Toleranz 0,5 bzw. 0,8 % vol und betroffene Erzeugnisse; aktuelle konsolidierte Fassung nicht vollständig gelesen]
+5. Delegierte Verordnung (EU) 2019/33 der Kommission, Art. 44 (vorhandener Alkoholgehalt). EUR-Lex: https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX%3A32019R0033 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.01.2025: Art. 44 vollständig; Auszüge: Symbol „% vol“, ganze oder halbe Einheiten, Toleranz 0,5 bzw. 0,8 % vol und betroffene Erzeugnisse; aktuelle konsolidierte Fassung nicht vollständig gelesen]
 6. Delegierte Verordnung (EU) 2019/33, Art. 44, ursprüngliche Fassung sowie britische Änderung 2023. https://legislation.gov.uk/eur/2019/33/article/44/adopted/data.htm [online geprüft]
 7. Verordnung (EG) Nr. 491/2009 des Rates, Anhang I (Begriffsbestimmungen: vorhandener, potenzieller und Gesamtalkoholgehalt). https://legislation.gov.uk/eur/2009/491/annex/I/data.pdf [online geprüft]
 8. Weingesetz 2009 (WeinG), BGBl. I Nr. 111/2009 in der geltenden Fassung, § 9 (Landwein). RIS: https://ris.bka.gv.at/eli/bgbl/i/2009/111/P9/NOR40181264 [online geprüft – Mindestmostgewicht 14 °KMW, vorhandener Alkohol mindestens 8,5 % vol]
@@ -341,4 +343,6 @@ Stand: November 2026
 20. OIML (1975): International Recommendation R 22 – International alcoholometric tables. Organisation Internationale de Métrologie Légale, Paris. [nicht online geprüft]
 21. Würdig, G.; Woller, R. (Hrsg.) (1989): Chemie des Weines. Ulmer, Stuttgart. [nicht online geprüft]
 22. OIV (2012): Evaluation by refractometry of the sugar concentration in grape musts … Methode OIV-MA-AS2-02, Tabelle mit 16,83 g/L Zucker je % vol (z. B. 191,9 g/L = 11,40 % vol). https://www.oiv.int/public/medias/2469/oiv-ma-as2-02.pdf [online geprüft]
-23. Verordnung (EU) Nr. 1308/2013, Anhang II Teil IV (Begriffsbestimmungen im Weinsektor), konsolidierte Fassung. EUR-Lex. [nicht online geprüft]
+23. Verordnung (EU) Nr. 1308/2013, Anhang II Teil IV (Begriffsbestimmungen im Weinsektor), konsolidierte Fassung. EUR-Lex, Stand 18.08.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.08.2026: Nr. 13–16]
+24. Verordnung (EWG) Nr. 2676/90 der Kommission zur Festlegung gemeinschaftlicher Analysenmethoden für den Weinsektor (aufgehoben), Anhang Kapitel 3 „Alkoholgehalt“. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31990R2676; Verweis darauf in der Mitteilung der Kommission, ABl. C 43 vom 19.2.2010, Kapitel 9. [online geprüft – Wortlaut Originaltext EUR-Lex: Nr. 3.1–3.4 (viermal 5 mL spülen, einige mL Wasser in der Vorlage, drei Viertel überdestillieren, ± 2 °C)]
+25. Republik Österreich, Nationalrat (2016): Beschluss zu 1061 der Beilagen XXV. GP, Bundesgesetz, mit dem das Weingesetz 2009 geändert wird (BGBl. I Nr. 47/2016). https://www.parlament.gv.at/dokument/XXV/BNR/328/fnameorig_533502.html [online geprüft – nur Suchergebnis-Auszug: Kabinett höchstens 12,9 % vol]

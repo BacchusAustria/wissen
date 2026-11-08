@@ -65,11 +65,13 @@ Die Umrechnungen sind nachgerechnet (18 meq/L · 0,06005 = 1,081 g/L; 2,4 g/L ÷
 
 **Frühere österreichische Werte.** Nach der VO (EG) Nr. 1428/2004 galten 30 meq/L (1,8 g/L) für Beerenauslese und Eiswein und 40 meq/L (2,4 g/L) für Ausbruch, Trockenbeerenauslese und Strohwein [7]. Ältere Unterlagen nennen deshalb noch 1,8 g/L für Beerenauslese und Eiswein. Seit der Weingesetz-Novelle 2016 gilt nach den gesichteten Quellen 2,4 g/L für alle fünf Kategorien [8, 9].
 
-> **Offen:** Der Wortlaut von § 11 Weingesetz 2009 und die aktuelle Ausnahmeliste der Kommission wurden nur über Suchergebnisse gesichtet. Die Zuordnung der Werte aus VO (EG) Nr. 1428/2004 zu österreichischen Weinen ergibt sich aus den Bezeichnungen (Ausbruch, Strohwein) und ist nicht im Volltext geprüft. Vor rechtlich relevanten Entscheidungen den aktuellen Text im RIS und bei EUR-Lex lesen. Für alle anderen Weine, auch Spätlese und Auslese, gelten nach unserem Kenntnisstand die allgemeinen Höchstwerte.
+Die EU-Grundlage für nationale Ausnahmen ist im Wortlaut geprüft: Nach VO (EU) 2019/934, Anhang I Teil C Nr. 3 können die Mitgliedstaaten Ausnahmen gewähren (a) für bestimmte g.U./g.g.A.-Weine, die mindestens zwei Jahre ausgebaut oder nach besonderen Verfahren hergestellt wurden, und (b) für Weine mit mindestens 13 % vol Gesamtalkohol; sie melden diese binnen eines Monats der Kommission [5]. Die österreichische Regel in § 11 WeinG verweist in der Fassung 2016 noch auf die Vorgängerbestimmung (Anhang I C Z 3 lit. a zweiter Anstrich der VO (EG) Nr. 606/2009) [8].
+
+> **Offen:** Der aktuelle RIS-Wortlaut von § 11 Weingesetz 2009 (Fassung nach 2016, Verweis auf VO (EU) 2019/934) und die aktuelle Ausnahmeliste der Kommission wurden nur über Suchergebnisse gesichtet (RIS nicht erreichbar). Für alle anderen Weine, auch Spätlese und Auslese, gelten nach den gesichteten Quellen die allgemeinen Höchstwerte.
 
 **Bio.** Ein eigener Höchstwert für flüchtige Säure in Bio-Wein ist uns nicht bekannt; es gelten die allgemeinen Werte. Weil Bio-Wein mit weniger SO2 auskommen muss (VO (EU) 2018/848, VO (EU) 2021/1165 [23]), sind Hygiene, Spundvoll-Lagerung und regelmäßige Kontrolle der flüchtigen Säure hier besonders wichtig. Verbandsrichtlinien können strengere Vorgaben enthalten. Details: [Grenzwerte und Recht](grenzwerte-recht.md).
 
-> **Offen:** Dass das Bio-Recht keinen eigenen Höchstwert enthält, ist Fachwissen und wurde nicht online geprüft.
+Geprüft: VO (EU) 2018/848 (Anhang II Teil VI) und DVO (EU) 2021/1165 (Anhang V Teil D) enthalten keinen eigenen Wert für flüchtige Säure (Textsuche in den konsolidierten Fassungen, November 2026) [23].
 
 ## Prinzip
 
@@ -164,7 +166,7 @@ Die Titration im selben Destillat fortsetzen [1, 2]:
 3. Gesättigte Natriumtetraborat-Lösung zugeben, bis die Rosafärbung wieder erscheint [1, 2]. Die Lösung ist dann alkalisch, und die im Destillat an Acetaldehyd gebundene SO2 wird freigesetzt. Ohne Phenolphthalein: Boratlösung zugeben, bis das pH-Meter über etwa 8,5 anzeigt (eigene Ableitung).
 4. **Gebundene SO2** mit Iodlösung 0,005 mol/L bis zur Blaufärbung titrieren. Verbrauch **n″** (mL).
 
-> **Offen:** Die Mengen „4 Tropfen Salzsäure 1 + 4, 2 mL Stärkelösung, einige Kristalle Kaliumiodid“ stammen aus dem Fachwissen zur EU- und OIV-Vorschrift. Online geprüft sind die Iodlösung 0,005 mol/L, der Boratzusatz bis zum Wiedererscheinen der Rosafärbung und die Berechnungsformel [1, 2].
+Die Mengen in Schritt 1 sind im Wortlaut der früheren EU-Methode geprüft: 4 Tropfen Salzsäure (ρ20 = 1,18–1,19 g/mL) 1 : 4 verdünnt, 2 mL Stärkelösung 5 g/L, einige Kaliumiodidkristalle [3].
 
 Bei Weinen ohne SO2-Zusatz entfällt die Korrektur. Wer zur raschen Übersicht ohne Korrektur misst, muss das Ergebnis als „nicht SO2-korrigiert“ kennzeichnen; es ist dann etwas zu hoch (siehe Rechenbeispiel).
 
@@ -176,7 +178,7 @@ Nur nötig, wenn Sorbinsäure (Kaliumsorbat) eingesetzt wurde:
 - Bei 250 mL Destillat gehen 96 % der Sorbinsäure über. 100 mg Sorbinsäure entsprechen 0,89 meq Säure oder 0,053 g Essigsäure [1].
 - Korrektur (meq/L) = Sorbinsäure (mg/L) · 0,96 · 0,0089.
 
-Kaliumsorbat ist nach unserem Kenntnisstand für Bio-Wein nicht zugelassen [23]; dort entfällt diese Korrektur (nicht online geprüft).
+Kaliumsorbat ist für Bio-Wein nicht zugelassen, weil es in DVO (EU) 2021/1165, Anhang V Teil D nicht gelistet ist [23]; dort entfällt diese Korrektur.
 
 ## Berechnung
 
@@ -285,9 +287,9 @@ Stand: November 2026
 
 1. OIV (2015): Volatile acidity (OIV-MA-AS313-02, Typ I). Compendium of International Methods of Wine and Must Analysis. Internationale Organisation für Rebe und Wein, Paris. https://www.oiv.int/public/medias/3732/oiv-ma-as313-02.pdf – Prinzip, 20 mL CO2-freier Wein, etwa 0,5 g Weinsäure, mindestens 250 mL Destillat, Natronlauge 0,1 mol/L, Iodlösung 0,005 mol/L, Boratzusatz, A = 5 (n − 0,1 n′ − 0,05 n″), Sorbinsäure (96 %, 0,89 meq je 100 mg), Apparateprüfung (19,9 mL bzw. 1,0 mL), Milchsäure-Prüflösung. [online geprüft]
 2. Europäische Kommission (2010): Liste und Beschreibung der Analysemethoden für Wein nach Art. 120g der VO (EG) Nr. 1234/2007 (Mitteilung). Amtsblatt der EU C 43 vom 19.2.2010. https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:043:0001:0060:EN:PDF – Ablauf der SO2-Korrektur und Formel A = 5 (n − 0,1 n′ − 0,05 n″). [online geprüft]
-3. Verordnung (EWG) Nr. 2676/90 zur Festlegung gemeinschaftlicher Analysenmethoden für den Weinsektor (aufgehoben; historische Fassung). https://eur-lex.europa.eu/eli/reg/1990/2676/oj/eng – Ausdruck in g/L Essigsäure: 0,300 (n − 0,1 n′ − 0,05 n″). [online geprüft]
+3. Verordnung (EWG) Nr. 2676/90 zur Festlegung gemeinschaftlicher Analysenmethoden für den Weinsektor (aufgehoben; historische Fassung), Anhang Kapitel 14. https://eur-lex.europa.eu/eli/reg/1990/2676/oj/eng – Ausdruck in g/L Essigsäure: 0,300 (n − 0,1 n′ − 0,05 n″). [online geprüft – deutscher Originaltext EUR-Lex: Reagenzien 3.4–3.7 und Durchführung (4 Tropfen HCl 1 : 4, 2 mL Stärke 5 g/L, KI-Kristalle)]
 4. Methodenverordnung (Österreich), Anlage 1, Fassung vom 24.11.2024. RIS, Gesetzesnummer 10010553. https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010553&FassungVom=2024-11-24&Anlage=1 – Definition der flüchtigen Säure, Angabe in g/L Essigsäure. [online geprüft]
-5. Delegierte Verordnung (EU) 2019/934 (önologische Verfahren), Anhang I Teil C (Höchstgehalte an flüchtiger Säure). Konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft]
+5. Delegierte Verordnung (EU) 2019/934 (önologische Verfahren), Anhang I Teil C (Höchstgehalte an flüchtiger Säure). Konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Teil C Nr. 1–3]
 6. Europäische Kommission, GD Landwirtschaft und ländliche Entwicklung (2022): List of derogations to the maximum volatile acid content of wine notified by the Member States. https://agriculture.ec.europa.eu/system/files/2022-10/derogations-volatile-acidity-wine_en.pdf – Höchstwerte von 25, 30, 35 und 40 meq/L für bestimmte g.U.-Weine; einzelne Einträge nicht im Volltext geprüft. [online geprüft]
 7. Verordnung (EG) Nr. 1428/2004 der Kommission vom 9. August 2004 (Änderung der VO (EG) Nr. 1622/2000). https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32004R1428 – 30 meq/L für Beerenauslese und Eiswein, 40 meq/L für Ausbruch, Trockenbeerenauslese, Strohwein; Inhalt nur aus Suchergebnissen. [online geprüft]
 8. Weingesetz 2009, BGBl. I Nr. 111/2009, § 11 (Prädikatswein) in der Fassung BGBl. I Nr. 47/2016. RIS. https://ris.bka.gv.at/eli/bgbl/i/2009/111/P11/NOR40181266 – 2,4 g/L für Beerenauslese, Eiswein, Ausbruch, Trockenbeerenauslese und Strohwein. [online geprüft]
@@ -305,6 +307,6 @@ Stand: November 2026
 20. Bartowsky, E.J. (2009): Bacterial spoilage of wine and approaches to minimize it. Letters in Applied Microbiology 48. [nicht online geprüft]
 21. Vilela-Moura, A., Schuller, D., Mendes-Faia, A., Silva, R.D., Chaves, S.R., Sousa, M.J., Côrte-Real, M. (2011): The impact of acetate metabolism on yeast fermentative performance and wine quality: reduction of volatile acidity of grape musts and wines. Applied Microbiology and Biotechnology 89. [nicht online geprüft]
 22. Dittrich, H.H., Großmann, M. (2011): Mikrobiologie des Weines. 4. Aufl., Ulmer, Stuttgart. [nicht online geprüft]
-23. Verordnung (EU) 2018/848 (ökologische Produktion), Anhang II Teil VI; Durchführungsverordnung (EU) 2021/1165, Anhang V. EUR-Lex. [nicht online geprüft]
+23. Verordnung (EU) 2018/848 (ökologische Produktion), Anhang II Teil VI; Durchführungsverordnung (EU) 2021/1165, Anhang V Teil D. Konsolidierte Fassungen EUR-Lex, Stand 25.03.2025 bzw. 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex: keine Regel zur flüchtigen Säure; Kaliumsorbat nicht in Teil D]
 24. Verordnung (EG) Nr. 1272/2008 (CLP-Verordnung), Anhang VI. EUR-Lex. [nicht online geprüft]
 25. Abfallwirtschaftsgesetz 2002 (AWG 2002). RIS. [nicht online geprüft]

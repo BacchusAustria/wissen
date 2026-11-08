@@ -427,7 +427,9 @@ Die Angaben für Weine (nicht Schaumwein) sind in VO (EU) 2019/33, Anhang III Te
 - Nahe an einer Grenze die Messunsicherheit beachten ([Laborpraxis](grundlagen-labor.md), Abschnitt 7.9). Kupfer-Methoden messen eher etwas mehr als Glucose + Fructose; Enzymtest oder Labor schaffen Klarheit.
 - Für die Gesamtsäure gilt der Wert des fertigen Weines, nicht des Mostes.
 
-> **Offen:** Eine Sekundärquelle nennt für die Angabe des Zuckergehalts eine zulässige Abweichung von höchstens 1 g/L vom Etikett [9]. Wortlaut und Geltungsbereich im aktuellen Text der VO (EU) 2019/33 auf EUR-Lex prüfen; ebenso, wie die Grenze bei genau 45 g/L (lieblich „höchstens“, süß „mindestens“) auszulegen ist.
+- **Toleranz:** Der tatsächliche Zuckergehalt darf höchstens 1 g/L von der Angabe auf dem Etikett abweichen, unbeschadet der Verwendungsbedingungen in Anhang III Teil B (VO (EU) 2019/33, Art. 52; bei Schaumwein Art. 47: 3 g/L) [9]. Die Grenzen selbst (z. B. 4 g/L für „trocken“) werden dadurch nicht erweitert.
+- **Genau 45 g/L:** „lieblich“ gilt bis „nicht mehr als 45 g/L“, „süß“ ab „mindestens 45 g/L“. Bei genau 45 g/L sind damit beide Begriffe zulässig; Art. 52 bestimmt für diesen Fall, dass nur einer der beiden gewählt wird [9].
+- Die Geschmacksangabe ist bei Stillwein nach EU-Recht freiwillig („kann … angegeben werden“, Art. 52) [9].
 
 Rechtliche Details und weitere Grenzwerte: [Grenzwerte und Recht](grenzwerte-recht.md).
 
@@ -439,16 +441,18 @@ Das Weingesetz 2009 legt die Mindestmostgewichte in °KMW fest [6, 7]. °Oe und 
 |---|---|---|---|---|---|
 | Landwein | 14 °KMW | 68 | 8,9 % vol | vorhandener Alkohol mindestens 8,5 % vol | § 9 WeinG [6, 7] |
 | Qualitätswein | 15 °KMW | 73 | 9,5 % vol | staatliche Prüfnummer | § 10 WeinG [6–8] |
-| Kabinett | 17 °KMW | 84 | 10,9 % vol | keine Anreicherung | § 10 WeinG [6] |
+| Kabinett | 17 °KMW | 84 | 10,9 % vol | keine Anreicherung, keine Süßung, höchstens 12,9 % vol Alkohol (seit 2016) | § 10 Abs. 5 WeinG [6, 7, 28] |
 | Spätlese | 19 °KMW | 94 | 12,3 % vol | vollreif gelesene Trauben | § 11 WeinG [6] |
 | Auslese | 21 °KMW | 105 | 13,8 % vol | sorgfältig ausgelesene Trauben | § 11 WeinG [6] |
 | Beerenauslese | 25 °KMW | 127 | 16,7 % vol | überreife oder edelfaule Beeren | § 11 WeinG [6] |
 | Eiswein | 25 °KMW | 127 | 16,7 % vol | Trauben bei Lese und Kelterung gefroren | § 11 WeinG [6] |
-| Strohwein / Schilfwein | 25 °KMW (Offen) | 127 | 16,7 % vol | getrocknete Trauben | § 11 WeinG |
+| Strohwein / Schilfwein | 25 °KMW | 127 | 16,7 % vol | Trauben vor dem Pressen mindestens drei Monate auf Stroh oder Schilf gelagert oder aufgehängt | § 11 WeinG [6] |
 | Ausbruch | 27 °KMW | 139 | 18,2 % vol | edelfaule oder überreife, natürlich eingetrocknete Beeren | § 11 WeinG [6] |
 | Trockenbeerenauslese | 30 °KMW | 156 | 20,6 % vol | überwiegend edelfaule, weitgehend eingeschrumpfte Beeren | § 11 WeinG [6] |
 
-> **Offen:** Folgende Angaben wurden bei der Erstellung nicht im Gesetzestext gesehen und sind vor Verwendung im RIS zu prüfen: Kabinett höchstens 9 g/L Restzucker (in einer Sekundärquelle genannt) und höchstens 13 % vol Alkohol (Fachwissen); Strohwein/Schilfwein 25 °KMW (in einem Fachbuchauszug genannt) samt Mindesttrocknungsdauer; Verbot von Anreicherung und Süßung bei Prädikatswein (Fachwissen); Mindestmostgewicht für „Wein“ ohne geschützte Herkunft (Sekundärquellen nennen 10,6 bzw. 10,7 °KMW); Melde- und Nachweispflichten bei der Lese von Prädikatsweinen.
+Nachgeprüft (November 2026, über Gesetzesmaterialien und Suchergebnisse, nicht im RIS-Wortlaut): Kabinett darf nicht angereichert und nicht gesüßt werden, Süßung ist auch bei Prädikatswein unzulässig (§ 5 Abs. 2 WeinG), und der Alkoholgehalt von Kabinett ist seit der Novelle BGBl. I Nr. 47/2016 auf höchstens 12,9 % vol begrenzt (vorher 13 % vol) [7, 28]. Strohwein/Schilfwein: 25 °KMW und mindestens drei Monate Trocknung; die Fassung von 2009 nannte zwei Monate [6].
+
+> **Offen:** Weiter im RIS zu prüfen: ob die Kabinett-Restzuckergrenze von 9 g/L (BMLUK-Übersicht [7], Stand vor 2016) noch gilt; ob „Ausbruch“ (27 °KMW) außerhalb von Rust noch verwendet werden darf; Mindestmostgewicht für „Wein“ ohne geschützte Herkunft (Sekundärquellen nennen 10,6 bzw. 10,7 °KMW); Melde- und Nachweispflichten bei der Lese von Prädikatsweinen. Das RIS war bei der Nachprüfung nicht erreichbar.
 
 - Die Fassungen der §§ 9 und 11 gelten laut Rechtsdatenbank seit 14.06.2016 [6]. Das Gesetz wurde seither mehrfach geändert; vor rechtlich relevanten Entscheidungen den aktuellen Text im RIS lesen und bei der Bundeskellereiinspektion oder der Landwirtschaftskammer nachfragen.
 - Für DAC-Weine können die Verordnungen der einzelnen Gebiete strengere Vorgaben enthalten.
@@ -508,9 +512,9 @@ Stand: November 2026
 6. Weingesetz 2009 (WeinG), BGBl. I Nr. 111/2009 in der geltenden Fassung, § 9 (Landwein), § 10 (Qualitätswein, Kabinett), § 11 (Prädikatswein). RIS: https://ris.bka.gv.at/eli/bgbl/i/2009/111/P9/NOR40181264 und https://ris.bka.gv.at/eli/bgbl/i/2009/111/P11/NOR40181266 ; konsolidiert auch https://www.jusline.at/gesetz/weing/paragraf/11 [online geprüft – Auszüge; Mindestmostgewichte 14, 15, 17, 19, 21, 25 (Beerenauslese, Eiswein), 27 und 30 °KMW, Landwein mindestens 8,5 % vol]
 7. BMLUK (o. J.): Weingesetz 2009 (Informationsseite des Bundesministeriums). https://www.bmluk.gv.at/themen/landwirtschaft/gemeinsame-agrarpolitik-foerderungen/gmo-rechtsinfo/gmo-wein/Weingesetz.html [online geprüft – Landwein 14 °KMW, Qualitätswein 15 °KMW]
 8. BML (o. J.): Produktspezifikationen österreichischer Weine mit geschützter Ursprungsbezeichnung, z. B. Wagram: https://info.bml.gv.at/dam/jcr:7c2e6fda-1e08-47ff-bebd-dabdfe539bef/Wagram%20Produktspezifikation.pdf und Kärnten: https://info.bml.gv.at/dam/jcr:c93ae92a-09ea-4e06-95cd-6714cdc13d1f/K%C3%A4rnten%20Produktspezifikation.pdf [online geprüft – Angabe „15° KMW (= 9,5 % vol.)“ in einer dieser Spezifikationen gesehen]
-9. Delegierte Verordnung (EU) 2019/33 der Kommission, Anhang III Teil B (Angaben zum Zuckergehalt), ursprüngliche Fassung. https://legislation.gov.uk/eur/2019/33/annex/III/2020-01-31 [online geprüft – Existenz; Grenzwerte über Sekundärquelle [10] bestätigt; aktuelle Fassung auf EUR-Lex nicht eingesehen]
+9. Delegierte Verordnung (EU) 2019/33 der Kommission, Art. 47, Art. 52 und Anhang III Teil B (Angaben zum Zuckergehalt). Konsolidierte Fassung EUR-Lex, Stand 18.01.2025. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02019R0033-20250118 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.01.2025: Anhang III Teil B, Toleranz 1 g/L, Wahl eines Begriffs bei Überschneidung]
 10. Österreich Wein Marketing (o. J.): Residual sugar content (Restzuckergehalt). https://www.austrianwine.com/our-wine/wine-law/residual-sugar-content [online geprüft]
-11. Verordnung (EG) Nr. 491/2009 des Rates, Anhang I (Begriffsbestimmungen: potenzieller und Gesamtalkoholgehalt). https://legislation.gov.uk/eur/2009/491/annex/I/data.pdf [online geprüft]. Heute geregelt in Verordnung (EU) Nr. 1308/2013, Anhang II Teil IV [nicht online geprüft].
+11. Verordnung (EG) Nr. 491/2009 des Rates, Anhang I (Begriffsbestimmungen: potenzieller und Gesamtalkoholgehalt). https://legislation.gov.uk/eur/2009/491/annex/I/data.pdf [online geprüft]. Heute geregelt in Verordnung (EU) Nr. 1308/2013, Anhang II Teil IV Nr. 13–16 (siehe [24]).
 12. Innerhofer, G. (2010): Refraktometrische Alkoholbestimmung. Haidegger Perspektiven 4/2010, Land Steiermark. https://www.agrar.steiermark.at/cms/dokumente/11305333_13888112/92e200e3/2010-04%20Refraktometrische%20Alkoholbestimmung.pdf [online geprüft – nur Auszug]
 13. Sigler, J. (2021): Beitrag zu Oechslegrad und Alkoholgehalt (Originaltitel nicht ermittelt). Der Deutsche Weinbau, Heft 13/2021, S. 20–23. https://www.meininger.de/sites/meininger.de/files/fields/field_a_dateiupload/2021_ddw13_20-23_Oechsle-Sigler_ipad.pdf [online geprüft – nur Auszug]
 14. DLR Rheinland-Pfalz (o. J. und 2025): Kellerwirtschaftlicher Informationsservice: KIS 8 (Rheinhessen) „Alkoholausbeute, flüchtige Säure, Hektarertragsregelung“ und KIS vom 17.09.2025, Anlage „Alkoholausbeute“. https://www.dlr.rlp.de/Internet/global/Themen.nsf/(DLR_RLP_Aktu_Wb_XP)/D7DA955C09D41DD0C1258A2F0044205F/$FILE/KIS%208%20(Rhh)%20Alkoholausbeute,%20fl%C3%BCchtige%20S%C3%A4ure,%20Hektarertragsregelung.pdf und https://www.weinbau.rlp.de/Internet/global/Themen.nsf/543c72e9d768da11c1257e660039c4d8/7bd12f33f1cedb91c1258d08003bc4a8/$FILE/kis250917_10_Anlage_Alkoholausbeute.pdf [online geprüft – nur Auszüge; Formel und Streichung der Anlage 8 WeinV dort gesehen, Zuordnung zum jeweiligen Dokument nicht gesichert]
@@ -523,7 +527,8 @@ Stand: November 2026
 21. Zoecklein, B. W.; Fugelsang, K. C.; Gump, B. H.; Nury, F. S. (1995): Wine Analysis and Production. Chapman & Hall, New York. [nicht online geprüft]
 22. Ough, C. S.; Amerine, M. A. (1988): Methods for Analysis of Musts and Wines. 2. Auflage, John Wiley & Sons, New York. [nicht online geprüft]
 23. Ribéreau-Gayon, P.; Dubourdieu, D.; Donèche, B.; Lonvaud, A. (2006): Handbook of Enology, Volume 1: The Microbiology of Wine and Vinifications. 2. Auflage, John Wiley & Sons, Chichester. [nicht online geprüft – Glucophilie der Hefe, Botrytis-Inhaltsstoffe]
-24. Verordnung (EU) Nr. 1308/2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, Anhang II Teil IV (Begriffsbestimmungen im Weinsektor), konsolidierte Fassung. EUR-Lex. [nicht online geprüft]
+24. Verordnung (EU) Nr. 1308/2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, Anhang II Teil IV (Begriffsbestimmungen im Weinsektor), konsolidierte Fassung. EUR-Lex, Stand 18.08.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.08.2026: Nr. 13–16 vorhandener, potenzieller, Gesamt- und natürlicher Alkoholgehalt]
 25. OIV: Reducing substances. Methode OIV-MA-AS311-01A. In: Compendium of International Methods of Wine and Must Analysis. [nicht online geprüft – Prinzip aus dem Fachwissen]
 26. Haynes, W. M. (Hrsg.) (2016): CRC Handbook of Chemistry and Physics. 97. Auflage, CRC Press, Boca Raton (Dichte und Brechzahl wässriger Saccharose- und Ethanollösungen). [nicht online geprüft]
 27. University of Minnesota Extension (2024): Beitrag im Fruit and Vegetable IPM Blog zur Beerenprobenahme. https://blog-fruit-vegetable-ipm.extension.umn.edu/2024/08/madeline-wimmer-extension-educator-and.html [online geprüft]
+28. Republik Österreich, Nationalrat (2016): Beschluss zu 1061 der Beilagen XXV. GP, Bundesgesetz, mit dem das Weingesetz 2009 geändert wird (BGBl. I Nr. 47/2016). https://www.parlament.gv.at/dokument/XXV/BNR/328/fnameorig_533502.html [online geprüft – nur Suchergebnis-Auszug: Kabinett 17 °KMW, höchstens 12,9 % vol, keine Süßung; § 5 Abs. 2]

@@ -8,7 +8,7 @@ Dieser Plan fasst die Einzeltexte dieses Ordners zu einer Reihenfolge zusammen: 
 - **Reihenfolge:** (1) Diagnose, (2) Wasser und Gefüge, (3) organische Substanz, (4) Begrünung, (5) gezielte Einzelmaßnahmen bei nachgewiesenem Mangel, (6) bei Neuanlage die Unterlage nach aktivem Kalk wählen. Alles Neue zuerst im Streifenversuch prüfen.
 - **Phosphor:** Die Rebe braucht wenig. Auf Kalkböden hilft vor allem Kompost oder Mist im Wurzelraum. Rohphosphat wirkt direkt gestreut auf diesen Böden praktisch nicht ([phosphor.md](phosphor.md)).
 - **Eisen (Kalkchlorose):** Hauptauslöser ist Hydrogencarbonat in nassen, verdichteten Böden. Darum zuerst Struktur und Wasser verbessern; Eisen(II)-sulfat als Blattspritzung ist nur ein Notbehelf ([eisen-chlorose.md](eisen-chlorose.md)).
-- **Verbotene Abkürzungen:** Mineralsäuren, Ammoniumsulfat, Superphosphat und synthetische Eisenchelate (Fe-EDDHA) sind im Bio-Weinbau nicht zulässig ([bio-rechtsrahmen.md](bio-rechtsrahmen.md)).
+- **Verbotene Abkürzungen:** Mineralsäuren, Ammoniumsulfat und Superphosphat sind im Bio-Weinbau nicht zulässig. Synthetische Eisenchelate (Fe-EDDHA) schließt der EU-Text nicht ausdrücklich aus; ihr Status ist ungeklärt, deshalb nur nach schriftlicher Auskunft der Kontrollstelle ([bio-rechtsrahmen.md](bio-rechtsrahmen.md), Abschnitt 5).
 
 ## Schritt 1: Diagnose (einmalig, dann alle 5 Jahre)
 
@@ -21,7 +21,7 @@ Dieser Plan fasst die Einzeltexte dieses Ordners zu einer Reihenfolge zusammen: 
 | Standardbefund (P, K, Mg, Humus) und Spurenelemente | Labor, Ober- und Unterboden getrennt | Vorrat; auf Kalk CAL-P und EDTA-Fe vorsichtig deuten | [../boden/laboranalysen-interpretation.md](../boden/laboranalysen-interpretation.md) |
 | Pflanze | Blattstielanalyse zur Blüte, Chlorose-Bonitur, Chlorophyllmeter | zeigt, was die Rebe wirklich aufnimmt | [eisen-chlorose.md](eisen-chlorose.md), [weitere-naehrstoffe.md](weitere-naehrstoffe.md) |
 
-Gute und schlechte Stellen paarweise beproben. Ohne Diagnose keine Düngung: Das Bio-Recht verlangt für zugekaufte Dünger und Spurenelemente einen nachgewiesenen Bedarf.
+Gute und schlechte Stellen paarweise beproben. Ohne Diagnose keine Düngung: Das Bio-Recht erlaubt zugekaufte Dünger und Spurenelemente nur „in dem erforderlichen Maße“ und verlangt Aufzeichnungen über Zeitpunkt, Erzeugnis, Menge, Kultur und Parzelle (VO 2018/848 Anhang II Teil I Nr. 1.9.3). Eine bestimmte Analyse schreibt der EU-Text nicht vor; ein dokumentierter Befund ist aber der beste Nachweis.
 
 ## Schritt 2: Wasser und Gefüge (vor allem gegen Chlorose)
 
@@ -53,11 +53,11 @@ Details und Mischungsvorschläge: [begruenung.md](begruenung.md).
 
 | Problem | Maßnahme (Bio-zulässig) | Erwartung | Datei |
 |---|---|---|---|
-| P niedrig im Boden **und** im Blattstiel | Kompost oder Mist in den Wurzelraum; Rohphosphat nur mitkompostiert; Struvit oder Knochenmehl nach Klärung mit der Kontrollstelle | Kompost belegt, der Rest teilweise oder schwach belegt | [phosphor.md](phosphor.md) |
+| P niedrig im Boden **und** im Blattstiel | Kompost oder Mist in den Wurzelraum; Rohphosphat nur mitkompostiert; Struvit (seit 2023 gelistet, fein gemahlen) oder Knochenmehl; Verbandsregeln prüfen | Kompost belegt, der Rest teilweise oder schwach belegt | [phosphor.md](phosphor.md) |
 | Akute Kalkchlorose | Blattspritzungen mit Eisen(II)-sulfat, mehrmals; Ursachen (Wasser, Gefüge) parallel beheben | kurzfristig, nur auf behandelten Blättern | [eisen-chlorose.md](eisen-chlorose.md) |
 | Zn-, Mn- oder B-Mangel (Blattstiel) | Blattdüngung mit Sulfaten bzw. Bor vor der Blüte, mit unbehandelter Kontrollreihe; bei Bor eng dosieren | wirksam, wenn der Mangel echt ist | [weitere-naehrstoffe.md](weitere-naehrstoffe.md) |
-| K-Mangel durch Ca-Konkurrenz | Kaliumsulfat natürlichen Ursprungs, Vinasse; nicht überdosieren (Most-pH, Mg-Mangel) | wirksam | [weitere-naehrstoffe.md](weitere-naehrstoffe.md) |
-| Mg-Mangel, Stiellähme | Kieserit bzw. Bittersalz, auch als Blattdünger; kein Dolomit | wirksam | [weitere-naehrstoffe.md](weitere-naehrstoffe.md) |
+| K-Mangel durch Ca-Konkurrenz | Kaliumsulfat aus Kalirohsalz (physikalisch gewonnen), Vinasse; nicht überdosieren (Most-pH, Mg-Mangel) | wirksam | [weitere-naehrstoffe.md](weitere-naehrstoffe.md) |
+| Mg-Mangel, Stiellähme | Kieserit bzw. Bittersalz natürlichen Ursprungs, auch als Blattdünger; kein Dolomit | wirksam | [weitere-naehrstoffe.md](weitere-naehrstoffe.md) |
 | Lokal mehr P, Fe, Zn (Versuch) | Elementarer Schwefel konzentriert im Unterstockband oder Pflanzloch, mit Kompost gemischt | saure Mikrozonen; in mitteleuropäischen Weingärten nicht geprüft | [schwefel-ansaeuerung.md](schwefel-ansaeuerung.md) |
 | Natrium (pH > 8,5, Seewinkel) | Gips | wirksam gegen Natrium, senkt den pH von Kalkböden nicht | [schwefel-ansaeuerung.md](schwefel-ansaeuerung.md) |
 
@@ -86,7 +86,9 @@ Die Unterlage ist der stärkste Hebel gegen Kalkchlorose und kostet nichts extra
 
 ## Offene Punkte
 
-> **Offen:** Mehrere Rechtseinträge (Aluminium-Calcium-Phosphat, Struvit, Spurenelement-Komplexe, Kompost-Höchstmengen) und viele Literaturwerte sind in den Einzeldateien als ungeprüft markiert. Vor einer Anwendung dort den Prüfvermerk lesen und bei der Kontrollstelle nachfragen.
+Die EU-Rechtseinträge (Aluminiumcalciumphosphat, Struvit, Kaliumchlorid, Magnesiumsulfat, Spurenelemente) wurden im November 2026 am konsolidierten Anhang II der DVO 2021/1165 (Stand 01.01.2026) geprüft ([bio-rechtsrahmen.md](bio-rechtsrahmen.md)).
+
+> **Offen:** Ungeklärt bleiben die Einstufung von Spurenelement-Chelaten und -Komplexen durch die Kontrollstellen, die Grenzwerte und Höchstmengen der Kompostverordnung, die Weingarten-Werte der NAPV, die Verbandsrichtlinien sowie viele Literaturwerte (z. B. Kalktoleranz der meisten Unterlagen). Vor einer Anwendung den Prüfvermerk in der Einzeldatei lesen und bei der Kontrollstelle nachfragen.
 
 Stand: November 2026
 

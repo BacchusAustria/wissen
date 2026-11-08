@@ -8,9 +8,9 @@ Diese Datei behandelt Stickstoff, Kalium, Magnesium, Calcium, Schwefel und die S
 
 - **Worum es geht:** Auf Kalkböden fehlt selten die Nährstoffmenge, meist fehlt die Verfügbarkeit. Zink, Mangan und Bor werden mit steigendem pH schwerer löslich. Kalium und Magnesium konkurrieren mit dem Überschuss an Calcium. Ammonium aus Wirtschaftsdüngern entweicht leichter als Ammoniakgas.
 - **Stickstoff:** Mit den Trauben verlassen nur etwa 10 bis 20 kg N/ha und Jahr den Weingarten (Überschlag in Abschnitt 1.1). Ein humoser Boden liefert ein Vielfaches davon nach. Wirtschaftsdünger kühl, vor Regen und rasch eingearbeitet ausbringen. Gesteuert wird nach Wuchs, Nmin und Most-YAN.
-- **Kalium und Magnesium:** Zuerst den Bodenbefund lesen. Zu viel Kalium hebt den Most-pH und fördert Magnesiummangel und Stiellähme. Bio-tauglich sind Kaliumsulfat natürlichen Ursprungs, Kaliumsulfat mit Magnesium, Vinasse, Kieserit und Bittersalz. Dolomit und Holzasche gehören nicht auf alkalische Böden.
+- **Kalium und Magnesium:** Zuerst den Bodenbefund lesen. Zu viel Kalium hebt den Most-pH und fördert Magnesiummangel und Stiellähme. Bio-tauglich sind Kaliumsulfat aus Kalirohsalz, Kaliumsulfat mit Magnesium, Vinasse, Kieserit und Bittersalz natürlichen Ursprungs. Dolomit und Holzasche gehören nicht auf alkalische Böden.
 - **Spurenelemente:** Bodengaben wirken auf Kalk schlecht (Zink, Mangan) oder sind riskant (Bor). Gezielte Blattdüngung vor der Blüte hilft. Sie ist aber nur bei nachgewiesenem Bedarf sinnvoll und immer mit einer unbehandelten Kontrollreihe. Bei Bor liegen Mangel und Giftigkeit nahe beieinander.
-- **Kupfer:** Es reichert sich im Oberboden an. Auf Kalk ist es weniger pflanzengiftig, aber es bleibt. EU-Obergrenze für Kupfer-Pflanzenschutzmittel: 28 kg Cu/ha in 7 Jahren.
+- **Kupfer:** Es reichert sich im Oberboden an. Auf Kalk ist es weniger pflanzengiftig, aber es bleibt. EU-Obergrenze für Kupfer-Pflanzenschutzmittel: 28 kg Cu/ha in 7 Jahren (DVO 2021/1165 Anhang I, Stand 01.01.2026 [39]).
 - **Aufwand und Genauigkeit:** Boden- und Blattstielanalysen macht das Labor; sie sind nicht im Betrieb durchführbar. Symptome allein sind unsicher, weil sich Mangelbilder, Viren, Milben und Witterungsschäden ähneln.
 
 ## Hintergrund
@@ -88,7 +88,7 @@ Die Rebe setzt also grob 30 bis 80 kg N/ha im Jahr um. Mit den Trauben verlassen
 
 **Bedarf ist nicht gleich Düngebedarf.** Zu düngen ist nur, was Export und unvermeidliche Verluste übersteigt und der Boden nicht nachliefert. Die österreichischen Richtlinien bemessen die Stickstoffgabe deshalb nach Wuchskraft, Begrünung und Ertrag [3].
 
-> **Offen:** Die konkreten Bemessungswerte (kg N/ha je Wuchsstufe und Bewirtschaftung) aus der aktuellen Fassung der Richtlinien [3] übernehmen. Zusätzlich gelten Obergrenzen, Sperrfristen und Aufzeichnungspflichten der Nitrat-Aktionsprogramm-Verordnung (NAPV) [10].
+> **Offen:** Die konkreten Bemessungswerte (kg N/ha je Wuchsstufe und Bewirtschaftung) aus der Broschüre „Sachgerechte Düngung im Weinbau“ [3] übernehmen; online war nur das Inhaltsverzeichnis erreichbar. Zusätzlich gelten Obergrenzen, Verbotszeiträume und Aufzeichnungspflichten der NAPV (BGBl. II Nr. 495/2022 i. d. F. BGBl. II Nr. 277/2024) [10]; die Werte für Weingärten wurden nicht am RIS-Text geprüft.
 
 **Zu viel Stickstoff** fördert starken Wuchs, dichte Laubwände, Botrytis und bei Rotwein eine schwächere Farbe [8]. Auf Kalkböden kann reichlich Nitrat zusätzlich die Chlorose verstärken [9]. **Zu wenig Stickstoff** zeigt sich in schwachem Wuchs, hellem Laub und wenig hefeverwertbarem Stickstoff im Most. Die Gärung wird dann träge [21].
 
@@ -181,11 +181,13 @@ Beispiel (eigene Rechnung, Annahmen (Offen)): 10 t Rindermist/ha mit 5 kg N/t en
 1. Ammoniumreiche Dünger bei kühlem, feuchtem und windstillem Wetter ausbringen, möglichst abends oder vor ergiebigem Regen. Nicht bei Hitze und praller Sonne.
 2. Rasch einarbeiten, am besten innerhalb weniger Stunden. Was erst nach einem Tag eingearbeitet wird, hat einen Großteil des Ammoniaks schon verloren.
 3. Flüssige Dünger bodennah in Bändern ausbringen (Schleppschlauch) oder verdünnen, damit sie rasch einsickern.
-4. Nicht auf trockene, verkrustete, gefrorene, schneebedeckte oder wassergesättigte Böden ausbringen. Die NAPV verbietet die Ausbringung auf gefrorene, schneebedeckte und wassergesättigte Böden ohnehin [10] (Offen: genaue Bestimmungen im RIS prüfen).
+4. Nicht auf trockene, verkrustete, gefrorene, schneebedeckte oder wassergesättigte Böden ausbringen. Die NAPV verbietet die Ausbringung auf gefrorene, schneebedeckte und wassergesättigte Böden ohnehin [10] (Wortlaut nicht im RIS geprüft).
 5. Wo nicht eingearbeitet werden kann (Dauerbegrünung, Unterstockbereich), ammoniumarme Dünger wählen: Kompost, Hornspäne, Vinasse.
 6. Den Zeitpunkt nach dem Bedarf der Rebe wählen: Frühjahr bis Blüte. Herbstgaben verlieren über Winter Stickstoff durch Auswaschung.
 
-> **Offen:** Österreich hat mit der Ammoniakreduktionsverordnung [20] Pflichten zur emissionsarmen Ausbringung und zur raschen Einarbeitung eingeführt. Ob und wie sie für Weingärten gilt, bei der Landwirtschaftskammer erfragen und im RIS nachlesen.
+Österreich hat mit der Ammoniakreduktionsverordnung (BGBl. II Nr. 395/2022, in Kraft seit 1.1.2023, geändert durch BGBl. II Nr. 24/2023 und Nr. 172/2024) Pflichten zur emissionsarmen Ausbringung eingeführt [20]. Nach den Erläuterungen des Ministeriums sind Gülle, Jauche, Gärreste und Geflügelmist auf Flächen ohne Bodenbedeckung unverzüglich, spätestens innerhalb von vier Stunden einzuarbeiten; seit 1.1.2026 gilt das auch für Festmist. Nicht stabilisierter Harnstoff (im Bio-Landbau ohnehin verboten) ist ebenfalls binnen vier Stunden einzuarbeiten [20].
+
+> **Offen:** Ob die Einarbeitungspflicht für begrünte Weingartengassen (Flächen mit Bodenbedeckung) und für steile Hanglagen gilt, ließ sich aus den gefundenen Erläuterungen nicht sicher ablesen; den Geltungsbereich (§ 1 bis § 3) im RIS nachlesen bzw. bei der Landwirtschaftskammer erfragen.
 
 ### 1.5 Steuern statt schätzen
 
@@ -233,17 +235,18 @@ Umrechnung (eigene Rechnung aus den Atommassen): 1 kg K = 1,205 kg K₂O; 1 kg K
 |---|---|---|---|---|
 | Kaliumsulfat | theoretisch 54 % K₂O und 18 % S (eigene Rechnung); Handelsware meist um 50 % K₂O (Offen) | Schwefel als Sulfat | zulässig, wenn aus Kalirohsalz durch physikalische Verfahren gewonnen; darf Magnesiumsalze enthalten | gut: chloridfrei, pH-neutral |
 | Kaliumsulfat mit Magnesium | z. B. 30 % K₂O und 10 % MgO laut Deklaration (Offen) | Magnesium, Schwefel | wie Kaliumsulfat | gut, wenn auch Magnesium fehlt |
-| Kalirohsalz, Kainit | wenig K₂O, viel Natriumchlorid (Offen) | Chlorid, Natrium | zulässig | **ungeeignet:** Reben sind chloridempfindlich und mäßig salzempfindlich [34] |
+| Kalirohsalz, Kainit | laut Bio-Anhang mindestens 9 % K₂O und 2 % MgO [2]; Rest überwiegend Natriumchlorid | Chlorid, Natrium | zulässig | **ungeeignet:** Reben sind chloridempfindlich und mäßig salzempfindlich [34] |
 | Vinasse (Zuckerrübenschlempe) | grob 5–8 % K₂O und einige % N (Offen) | Salze, organische Substanz | zulässig, ausgenommen Ammoniakschlempe | geeignet; liefert Stickstoff mit |
 | Holzasche | stark schwankend; einige % K₂O und sehr viel Calcium (Offen) | stark basisch (Offen: pH um 12–13), Schwermetalle | zulässig nur aus Holz, das nach dem Fällen nicht chemisch behandelt wurde | **ungeeignet:** hebt den pH; in Österreich zusätzlich die Richtlinie für Pflanzenaschen beachten [26] |
 | Traubentrester, frisch oder kompostiert | Kalium überwiegend wasserlöslich | Kerne, Gerbstoffe | betriebseigener Trester unproblematisch; Zukauf mit der Kontrollstelle klären | gut: schließt den Kaliumkreislauf |
 | Gesteinsmehle | Kalium fest in Silikaten gebunden | – | zulässig | als Kaliumdünger nicht belegt; Freisetzung sehr langsam [25] |
+| Kaliumchlorid | 60 % K₂O (Handelsware) | rund 47 % Chlorid | seit DVO 2023/121 zulässig, aber „nur natürlichen Ursprungs“ [2] | **ungeeignet:** Chlorid (siehe unten) |
 
-**Herkunft des Kaliumsulfats:** Kaliumsulfat wird teils chemisch aus Kaliumchlorid und Schwefelsäure hergestellt, teils aus natürlichen Salzen gewonnen. Bio-zulässig ist nur Ware aus Kalirohsalz, die durch physikalische Verfahren gewonnen wurde [2]. Deshalb nur Produkte mit Bio-Listung im Betriebsmittelkatalog kaufen.
+**Herkunft des Kaliumsulfats:** Kaliumsulfat wird teils chemisch aus Kaliumchlorid und Schwefelsäure hergestellt, teils aus natürlichen Salzen gewonnen. Bio-zulässig ist nur Ware, die „aus Kalirohsalz durch physikalische Extraktion gewonnen“ wurde [2]. Deshalb nur Produkte mit Bio-Listung im Betriebsmittelkatalog kaufen.
 
 **Trester:** Für Trester und Trub gelten weinrechtliche Vorgaben über Nebenerzeugnisse der Weinbereitung [27].
 
-> **Offen:** Welche Melde- oder Nachweispflichten für das Ausbringen von Trester im eigenen Weingarten gelten, bei der Bundeskellereiinspektion oder der Landwirtschaftskammer erfragen.
+> **Offen:** Welche Melde- oder Nachweispflichten für das Ausbringen von Trester im eigenen Weingarten gelten, bei der Bundeskellereiinspektion oder der Landwirtschaftskammer erfragen. Die Vorschriften über Nebenerzeugnisse der Weinbereitung (VO 2019/934 [27] und das österreichische Weingesetz) wurden in dieser Runde nicht geprüft (Prüfung Gruppe A betraf nur das Düngerecht).
 
 ### 2.6 Rechenbeispiel Kaliumdüngung
 
@@ -286,7 +289,7 @@ Eigene Rechnung:
 
 **Beispiel:** Befund 200 mg K/kg und 80 mg Mg/kg. Als Masse gerechnet ist K:Mg = 2,5. Als Oxide gerechnet ist K₂O:MgO = 241 : 133 = 1,8. In Ladungsäquivalenten ist das Verhältnis 0,51 : 0,66 = 0,78. Vor dem Vergleich mit einem Richtwert daher immer prüfen, in welcher Einheit der Richtwert angegeben ist.
 
-> **Offen:** Den Grenzwert, ab dem die österreichischen Richtlinien [3] eine Magnesiumgabe empfehlen, samt Einheit nachtragen.
+> **Offen:** Den Grenzwert, ab dem die österreichischen Richtlinien eine Magnesiumgabe empfehlen, samt Einheit nachtragen. Er steht in der Broschüre „Sachgerechte Düngung im Weinbau“ [3], Kapitel 1.4.4 „Magnesium (Mg)“ (laut online sichtbarem Inhaltsverzeichnis S. 22); der Text selbst war nicht erreichbar.
 
 ### 3.3 Stiellähme und was nicht Stiellähme ist
 
@@ -314,11 +317,12 @@ Eigene Rechnung:
 
 | Dünger | Gehalt | Einsatz | Bio-Status (EU) [2] | Eignung auf alkalischem Boden |
 |---|---|---|---|---|
-| Kieserit (MgSO₄·H₂O) | theoretisch 29 % MgO und 23 % S (eigene Rechnung); Handelsware um 25–27 % MgO und rund 20 % S (Offen) | Bodendünger | zulässig als Magnesiumsulfat natürlichen Ursprungs (Offen: Bedingung im aktuellen Text prüfen) | gut: wasserlöslich, pH-neutral |
-| Bittersalz (MgSO₄·7H₂O) | 16,3 % MgO, 13,0 % S (eigene Rechnung) | Blattdünger, auch für den Boden | als Magnesiumsulfat zulässig; Bio-Listung des Produkts prüfen (Offen) | gut |
+| Kieserit (MgSO₄·H₂O) | theoretisch 29 % MgO und 23 % S (eigene Rechnung); Handelsware um 25–27 % MgO und rund 20 % S (Offen) | Bodendünger | zulässig: „Magnesiumsulfat (Kieserit) – Nur natürlichen Ursprungs“ [2] | gut: wasserlöslich, pH-neutral |
+| Bittersalz (MgSO₄·7H₂O) | 16,3 % MgO, 13,0 % S (eigene Rechnung) | Blattdünger, auch für den Boden | nur zulässig, wenn natürlichen Ursprungs (z. B. aus Kieserit gewonnen); synthetisch aus Magnesiumoxid und Schwefelsäure hergestelltes Bittersalz nicht [2]. Herkunft beim Hersteller erfragen bzw. Bio-Listung prüfen | gut |
 | Kaliumsulfat mit Magnesium | z. B. 10 % MgO (Offen) | Bodendünger | zulässig | gut, wenn auch Kalium fehlt, sonst nicht |
 | Dolomit, Magnesiumkalk | theoretisch 21,9 % MgO (eigene Rechnung) | Kalkdünger | zulässig als Calcium- und Magnesiumcarbonat natürlichen Ursprungs | **ungeeignet** (siehe unten) |
-| Magnesiumchlorid | – | in konventionellen Spritzempfehlungen | in Anhang II nicht aufgeführt (Offen) | – |
+| Magnesiumchlorid | – | in konventionellen Spritzempfehlungen | in Anhang II nicht aufgeführt (Stand 01.01.2026) [2] | – |
+| Magnesiumgluconat | – | Blattdünger | zulässig: „Calcium- und Magnesiumgluconat – Aus mikrobieller Fermentation“, seit DVO 2025/973 [2] | Wirkung bei Reben nicht belegt |
 
 **Warum kein Dolomit auf alkalische Böden:** Dolomit (Calcium-Magnesium-Carbonat) ist ein Kalkdünger. Er löst sich nur, wenn Säure ihn angreift. Auf Böden mit freiem Kalk und pH über 7,5 ist die Bodenlösung mit Calciumcarbonat gesättigt und die Säure fehlt. Dolomit löst sich dort nur äußerst langsam, das Magnesium bleibt größtenteils gebunden [5, 6]. Jede Gabe vergrößert zudem den Carbonatvorrat, den man auf diesen Böden gerade nicht erhöhen will. Magnesium auf Kalkböden daher in Sulfatform düngen (Offen: entsprechende Empfehlung in [3] prüfen).
 
@@ -336,7 +340,7 @@ Eigene Rechnung. Die Blattdüngung bringt also nur rund ein Fünfzehntel der Bod
 
 **Calcium** ist auf Kalkböden im Überschuss vorhanden. Es belegt den größten Teil der Austauscherplätze [6]. Calciummangel der Rebe ist hier nicht zu erwarten, Calciumdüngung ist überflüssig. Probleme macht der Überschuss: Er verdrängt Kalium und Magnesium (Abschnitte 2 und 3). Über das Hydrogencarbonat in der Bodenlösung ist er an der Kalkchlorose beteiligt ([Eisenchlorose](eisen-chlorose.md)).
 
-Calciumchlorid-Lösung ist in Anhang II nur für die Blattbehandlung von Apfelbäumen bei nachgewiesenem Calciummangel aufgeführt [2] (Offen: aktuellen Text prüfen). Gips (Calciumsulfat) bringt auf Kalkböden kein benötigtes Calcium. Seinen möglichen Nutzen auf natriumreichen Böden beschreibt [Grundlagen](grundlagen.md).
+Calciumchlorid-Lösung ist in Anhang II nur „zur Blattbehandlung bei Apfelbäumen zur Vorbeugung von Calciummangel“ aufgeführt, Calciumacetat nur für Gemüse in Gewächshäusern und Apfelbäume [2]. Für Reben sind beide nicht zulässig. Gips (Calciumsulfat) bringt auf Kalkböden kein benötigtes Calcium. Seinen möglichen Nutzen auf natriumreichen Böden beschreibt [Grundlagen](grundlagen.md).
 
 **Schwefel** nimmt die Rebe als Sulfat auf. Der Bedarf ist klein: Bei 0,1–0,3 % S in 3–4 t jährlicher Trockenmasse sind es grob 3–12 kg S/ha (eigene Rechnung, Annahmen (Offen)). Im Bio-Weinbau kommt mehr als genug Schwefel aus dem Pflanzenschutz:
 
@@ -373,7 +377,7 @@ Die säuernde Wirkung ist auf Kalkböden verschwindend klein. Ein Boden mit 5 % 
 
 **Diagnose:** Blattstiel zur Vollblüte. Kalifornische Richtwerte: unter 15 mg/kg Mangel, 15–26 mg/kg fraglich, über 26 mg/kg ausreichend [23] (Offen). Zinkhaltige Spritzungen vor der Probenahme verfälschen das Ergebnis.
 
-**Maßnahme:** Blattspritzung mit Zinksulfat, bio-zulässig als anorganischer Mikronährstoff [2]. Ein- bis zweimal zwischen etwa zwei bis drei Wochen vor der Blüte und Blühbeginn spritzen [23] (Offen). Übliche Konzentration: 0,1–0,2 % Zinksulfat-Heptahydrat (Offen). Bei 400 L/ha und 0,2 % sind das 0,8 kg Produkt und 180 g Zn/ha (eigene Rechnung). Zink-Bodengaben wirken auf Kalk wenig [31].
+**Maßnahme:** Blattspritzung mit Zinksulfat, bio-zulässig als mineralischer Spurennährstoffdünger [2]. Ein- bis zweimal zwischen etwa zwei bis drei Wochen vor der Blüte und Blühbeginn spritzen [23] (Offen). Übliche Konzentration: 0,1–0,2 % Zinksulfat-Heptahydrat (Offen). Bei 400 L/ha und 0,2 % sind das 0,8 kg Produkt und 180 g Zn/ha (eigene Rechnung). Zink-Bodengaben wirken auf Kalk wenig [31].
 
 ### 5.3 Mangan
 
@@ -383,7 +387,7 @@ Die säuernde Wirkung ist auf Kalkböden verschwindend klein. Ein Boden mit 5 % 
 
 **Diagnose:** Blattstiel zur Blüte. Werte unter etwa 20 mg/kg gelten als Mangel, über 25 mg/kg als ausreichend [23] (Offen). Spritzbeläge verfälschen das Ergebnis.
 
-**Maßnahme:** Blattspritzung mit Mangansulfat, bio-zulässig als anorganischer Mikronährstoff [2]. Konzentration 0,1–0,2 % Mangansulfat-Monohydrat (Offen), ein- bis zweimal vor der Blüte oder bei Symptombeginn (Offen). Bei 400 L/ha und 0,2 % sind das 0,8 kg Produkt und 260 g Mn/ha (eigene Rechnung).
+**Maßnahme:** Blattspritzung mit Mangansulfat, bio-zulässig als mineralischer Spurennährstoffdünger [2]. Konzentration 0,1–0,2 % Mangansulfat-Monohydrat (Offen), ein- bis zweimal vor der Blüte oder bei Symptombeginn (Offen). Bei 400 L/ha und 0,2 % sind das 0,8 kg Produkt und 260 g Mn/ha (eigene Rechnung).
 
 ### 5.4 Bor
 
@@ -397,7 +401,7 @@ Die säuernde Wirkung ist auf Kalkböden verschwindend klein. Ein Boden mit 5 % 
 
 > **Achtung:** Bei Bor liegen Mangel und Giftigkeit näher beieinander als bei jedem anderen Nährstoff [4]. Reben gehören zu den borempfindlichen Kulturen. Bei Bewässerung kann schon Wasser mit 0,5–0,75 mg B/L Schäden verursachen [34] (Offen). Bor-Vergiftung zeigt sich zuerst an Blatträndern und Blattspitzen älterer Blätter, die braun werden und absterben [4]. Bor nie „auf Verdacht“ wiederholt spritzen. Bei borhaltigen Mehrnährstoff-Blattdüngern die Bormengen aller Produkte zusammenzählen.
 
-**Maßnahmen.** Bio-zulässig sind Borsäure und Natriumborate (Borax, Dinatriumoctaborat) als anorganische Mikronährstoffe [2] (Offen: Liste im aktuellen Text prüfen).
+**Maßnahmen.** Bio-zulässig sind Borsäure und Natriumborate (Borax, Dinatriumoctaborat) unter dem Eintrag „Mineralische Spurennährstoffdünger“ [2]. Der Eintrag enthält keine Stoffliste; er verwies bis 15.7.2022 auf Anhang I Teil E der VO 2003/2003, seither gelten die Kontaminanten-Grenzwerte der VO 2019/1009.
 
 1. **Blattspritzung vor der Blüte**, wenn ein Mangel nachgewiesen ist: ein- bis zweimal ab gut sichtbaren Gescheinen bis kurz vor Blühbeginn [23] (Offen). Übliche Aufwandmengen liegen in der Größenordnung von 50–150 g B/ha je Behandlung (Offen). Das entspricht zum Beispiel 0,1 % Borsäure bei 400 L/ha mit 70 g B/ha (eigene Rechnung).
 2. **Bodengabe** nur bei analysegestütztem Mangel und mit sehr gleichmäßiger Verteilung. Rechenbeispiel (eigene Rechnung): 1 kg B/ha, gleichmäßig auf 0–30 cm verteilt (4200 t Boden), erhöht den Gehalt um 0,24 mg/kg. Wird dieselbe Menge nur im Unterstockstreifen auf 30 % der Fläche ausgebracht, sind es dort 0,79 mg/kg. Heißwasserlösliche Borgehalte normal versorgter Böden liegen meist unter 1 bis etwa 2 mg/kg (Offen). Eine einzige zu hohe oder ungleichmäßige Gabe kann den Gehalt also vervielfachen.
@@ -425,7 +429,7 @@ Die säuernde Wirkung ist auf Kalkböden verschwindend klein. Ein Boden mit 5 % 
 | 4 kg Cu/ha und Jahr | 0–20 cm (2800 t Boden) | 1,4 mg/kg | 43 mg/kg |
 | 20–50 kg Cu/ha und Jahr (früher übliche Mengen, Offen) | 0–20 cm (2800 t Boden) | 7–18 mg/kg | – |
 
-**Rechtliche Obergrenze:** Für Kupferverbindungen als Pflanzenschutzmittel gilt EU-weit höchstens 28 kg Cu/ha in sieben Jahren, im Mittel also 4 kg je Jahr [36] (Offen: Zahl und Gültigkeit gegen den aktuellen Rechtstext prüfen). Die Genehmigung wurde 2018 befristet erneuert. Den aktuellen Stand der Genehmigung und die Auflagen der einzelnen Produkte (Etikett) bei AGES bzw. BAES prüfen. Bio-Verbände haben teils niedrigere Jahresgrenzen (Offen: aktuelle Verbandsrichtlinie prüfen).
+**Rechtliche Obergrenze:** Für Kupferverbindungen als Pflanzenschutzmittel gilt EU-weit höchstens 28 kg Cu/ha in sieben Jahren, im Mittel also 4 kg je Jahr [36, 39]. Die Genehmigung wurde 2018 bis 31.12.2025 befristet erneuert und mit der DVO (EU) 2025/1489 bis 30. Juni 2029 verlängert [40]. Die Auflagen der einzelnen Produkte (Etikett) bei AGES bzw. BAES prüfen. Bio-Verbände haben teils niedrigere Jahresgrenzen (Offen: Verbandszahlen online nicht gefunden; beim Verband erfragen).
 
 **Kupfer auf Kalkböden:** Bei hohem pH ist Kupfer stark an Humus, Oxide und Carbonate gebunden; gelöstes, pflanzengiftiges Kupfer ist selten [5, 37]. Kupferschäden an Reben und Begrünungspflanzen treten deshalb vor allem auf sauren Böden auf; auf Kalk ist das Risiko geringer [37]. Das ist kein Freibrief: Das Kupfer bleibt dauerhaft im Boden, Bodenlebewesen wie Regenwürmer reagieren empfindlich, und Erosion trägt kupferreichen Oberboden in Gräben und Gewässer [37]. Kupfer im Boden alle paar Jahre mitbestimmen lassen und die Werte mit der Beratung bewerten (Offen: geltende österreichische Richt- und Prüfwerte nachtragen).
 
@@ -455,7 +459,7 @@ Molybdän wird mit steigendem pH besser verfügbar. Mangel tritt vor allem auf s
 
 Quelle: kalifornische Richtwerte nach [23].
 
-> **Offen:** Alle Werte dieser Tabelle sind aus dem Fachwissen wiedergegeben und nicht gegen die Originaltabelle geprüft. Sie gelten nur für Blattstiele zur Vollblüte. Österreichische Labors verwenden teils andere Probenahmen (Blattspreite) und eigene Normwerte; diese haben Vorrang.
+> **Offen:** Alle Werte dieser Tabelle sind aus dem Fachwissen wiedergegeben und nicht gegen die Originaltabelle von Christensen et al. [23] geprüft; eine Websuche fand die Originaltabelle nicht. Andere nordamerikanische Beratungstabellen (Oklahoma State University, Perennia) setzen die Grenzen teils anders, z. B. „normal“ bei Zink erst ab etwa 30 mg/kg; das zeigt, wie stark die Richtwerte von Quelle und Probenahmezeitpunkt abhängen. Die Werte gelten nur für Blattstiele zur Vollblüte. Österreichische Labors verwenden teils andere Probenahmen (Blattspreite) und eigene Normwerte; diese haben Vorrang.
 
 **Verwechslungsgefahr**
 
@@ -502,7 +506,9 @@ Eigene Rechnung. Die Konzentrationen sind Orientierungswerte (Offen), siehe Absc
 5. Die Mischbarkeit mit Pflanzenschutzmitteln vorher in einem Glas prüfen (Ausflockung, Erwärmung) und die Herstellerangaben beachten.
 6. Unbehandelte Kontrollzeilen stehen lassen.
 
-> **Offen:** Anhang II der VO (EU) 2021/1165 lässt Spurenelemente als anorganische Mikronährstoffe zu [2]. Ob dafür ein dokumentierter Bedarf ausdrücklich vorgeschrieben ist, im aktuellen Text und bei der Kontrollstelle prüfen. Der allgemeine Grundsatz „nur im erforderlichen Umfang“ [1] gilt in jedem Fall. Synthetische Chelate (zum Beispiel EDTA) sind nach Kenntnisstand nicht zugelassen. Siehe [Bio-Rechtsrahmen](bio-rechtsrahmen.md).
+**Rechtslage Spurenelemente.** Anhang II der VO (EU) 2021/1165 lässt „Mineralische Spurennährstoffdünger“ zu [2]. Einen bestimmten Bedarfsnachweis schreibt der EU-Text nicht vor. Es gilt aber Nr. 1.9.3: nur „in dem erforderlichen Maße“, und Aufzeichnungen über Zeitpunkt, Erzeugnis, Menge, Kultur und Parzelle sind Pflicht [1].
+
+> **Offen:** Ob synthetische Chelate (zum Beispiel EDTA) unter den Eintrag fallen, ist ungeklärt: Der Wortlaut schließt sie nicht aus, die Einstufung durch Kontrollstellen und InfoXgen wurde nicht geprüft. Ebenso nicht geprüft: ob Kontrollstellen oder Verbände einen bestimmten Bedarfsnachweis verlangen. Siehe [Bio-Rechtsrahmen](bio-rechtsrahmen.md), Abschnitt 5.
 
 ## 6 Zusammenfassende Tabelle
 
@@ -516,7 +522,7 @@ Eigene Rechnung. Die Konzentrationen sind Orientierungswerte (Offen), siehe Absc
 | Zink | geringe Löslichkeit, Phosphor-Zink-Antagonismus | Blattstiel zur Blüte (Mangel unter 15 mg/kg, Offen) | Zinksulfat-Blattspritzung vor der Blüte | 0,1–0,2 % Zinksulfat-Heptahydrat (Offen) | [2, 5, 23, 31] |
 | Mangan | Oxidation bei hohem pH, guter Durchlüftung und Trockenheit | Blattstiel (Mangel unter 20 mg/kg, Offen), Symptombild an älteren Blättern | Mangansulfat-Blattspritzung | 0,1–0,2 % Mangansulfat-Monohydrat (Offen) | [2, 4, 23] |
 | Bor | Bindung an Kalk, Trockenheit; enges Fenster zur Giftigkeit | Blattstiel (Mangel unter 25 mg/kg, Offen), heißwasserlösliches Bor, Wasseranalyse | Borsäure- oder Natriumborat-Spritzung vor der Blüte | 50–150 g B/ha je Behandlung (Offen) | [2, 4, 23, 32, 34, 35] |
-| Kupfer | Anreicherung aus dem Pflanzenschutz; auf Kalk wenig pflanzengiftig, aber dauerhaft | Bodenanalyse | Kupfer sparen, Obergrenze einhalten | höchstens 28 kg Cu/ha in 7 Jahren (Offen) | [5, 36, 37] |
+| Kupfer | Anreicherung aus dem Pflanzenschutz; auf Kalk wenig pflanzengiftig, aber dauerhaft | Bodenanalyse | Kupfer sparen, Obergrenze einhalten | höchstens 28 kg Cu/ha in 7 Jahren | [5, 36, 37, 39] |
 | Molybdän | kein Problem, Verfügbarkeit steigt mit dem pH | nur bei Verdacht (Merlot mit schlechtem Fruchtansatz) | keine | – | [4, 38] |
 | Phosphor, Eisen | siehe eigene Dateien | – | – | – | [Phosphor](phosphor.md), [Eisenchlorose](eisen-chlorose.md) |
 
@@ -547,33 +553,33 @@ Die Einbindung in die übrigen Maßnahmen zeigt der [Maßnahmenplan](massnahmenp
 - Die Wirkung von Magnesiumspritzungen gegen Stiellähme ist uneinheitlich belegt.
 - Zur Stickstoffwirkung organischer Dünger im ersten Jahr unter pannonischen Bedingungen und zu Ammoniakverlusten aus Hornspänen und Mistpellets auf Kalkoberflächen gibt es wenige Daten.
 - Die Konzentrationen der Blattdünger sind Orientierungswerte aus der Beratungspraxis und noch nicht gegen Quellen geprüft.
-- Der Rechtsstatus einzelner Mittel (Kieserit „natürlichen Ursprungs“, Bittersalz, Spurenelemente, Calciumchlorid, Magnesiumchlorid) ist gegen den aktuellen Anhang II zu prüfen.
+- Der Rechtsstatus wurde gegen den konsolidierten Anhang II (Stand 01.01.2026) geprüft. Offen bleibt nur die Einstufung von Spurenelement-Chelaten und die Herkunft (natürlich oder synthetisch) einzelner Bittersalz-Produkte.
 - Bemessungswerte, Gehaltsklassengrenzen und der K/Mg-Grenzwert der österreichischen Richtlinien [3] sind noch nachzutragen.
 
 Stand: November 2026
 
 ## Quellen
 
-1. Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007, Anhang II Teil I Nummer 1.9 (Bodenbewirtschaftung und Düngung); konsolidierte Fassung, Stand vor Verwendung bei EUR-Lex prüfen. [nicht online geprüft]
-2. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Genehmigung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion und zur Erstellung entsprechender Verzeichnisse, Anhang II (Düngemittel, Bodenverbesserer und Nährstoffe); konsolidierte Fassung, Stand vor Verwendung bei EUR-Lex prüfen. [nicht online geprüft]
-3. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz beim Bundesministerium für Land- und Forstwirtschaft (Hrsg.) (Auflage und Jahr nicht geprüft): Richtlinien für die sachgerechte Düngung im Weinbau. Wien. [nicht online geprüft]
+1. Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007, Anhang II Teil I Nummer 1.9 (Bodenbewirtschaftung und Düngung); konsolidierte Fassung Stand 25.03.2025. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 25.03.2025]
+2. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Genehmigung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion und zur Erstellung entsprechender Verzeichnisse, Anhang II (Düngemittel, Bodenverbesserer und Nährstoffe); konsolidierte Fassung Stand 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026]
+3. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz beim Bundesministerium (Hrsg.): Sachgerechte Düngung im Weinbau. 2. Auflage 2014, Wien; eine neuere Fassung des BML ist online, Auflage nicht geprüft. [nicht online geprüft – Titel, Auflage 2014 und Inhaltsverzeichnis (Kap. 1.4.4 Magnesium) in Suchergebnis gesehen; Inhalt nicht]
 4. Marschner P (Hrsg.) (2012): Marschner's Mineral Nutrition of Higher Plants. 3. Auflage. Academic Press, London. [nicht online geprüft]
 5. Lindsay WL (1979): Chemical Equilibria in Soils. John Wiley & Sons, New York. [nicht online geprüft]
 6. Amelung W, Blume H-P, Fleige H, Horn R, Kandeler E, Kögel-Knabner I, Kretzschmar R, Stahr K, Wilke B-M (2018): Scheffer/Schachtschabel Lehrbuch der Bodenkunde. 17. Auflage. Springer Spektrum, Berlin. [nicht online geprüft]
 7. Kopittke PM, Menzies NW (2007): A review of the use of the basic cation saturation ratio and the "ideal" soil. Soil Science Society of America Journal 71, 259–265. [nicht online geprüft]
 8. Keller M (2020): The Science of Grapevines. 3. Auflage. Academic Press, London. [nicht online geprüft]
 9. Mengel K (1994): Iron availability in plant tissues – iron chlorosis on calcareous soils. Plant and Soil 165, 275–283. [nicht online geprüft]
-10. Nitrat-Aktionsprogramm-Verordnung (NAPV), Österreich, geltende Fassung; Fundstelle und Stand im RIS prüfen. [nicht online geprüft]
+10. Nitrat-Aktionsprogramm-Verordnung (NAPV), Österreich, BGBl. II Nr. 495/2022, zuletzt geändert durch BGBl. II Nr. 277/2024. [nicht online geprüft – Fundstellen in Suchergebnissen gesehen; Text nicht im RIS eingesehen]
 11. Gutser R, Ebertseder T, Weber A, Schraml M, Schmidhalter U (2005): Short-term and residual availability of nitrogen after long-term application of organic fertilizers on arable land. Journal of Plant Nutrition and Soil Science 168, 439–446. [nicht online geprüft]
 12. Peoples MB et al. (2009): The contributions of nitrogen-fixing crop legumes to the productivity of agricultural systems. Symbiosis 48, 1–17. [nicht online geprüft]
 13. Patrick AE, Smith R, Keck K, Berry AM (2004): Grapevine uptake of ¹⁵N-labeled nitrogen derived from a winter-annual leguminous cover-crop mix. American Journal of Enology and Viticulture 55, 187–190. [nicht online geprüft]
 14. Celette F, Findeling A, Gary C (2009): Competition for nitrogen in an unfertilized intercropping system: The case of an association of grapevine and grass cover in a Mediterranean climate. European Journal of Agronomy 30, 41–51. [nicht online geprüft]
-15. Kompostverordnung, BGBl. II Nr. 292/2001, geltende Fassung (Qualitätsklassen von Kompost); Stand im RIS prüfen. [nicht online geprüft]
+15. Kompostverordnung, BGBl. II Nr. 292/2001, geltende Fassung (Qualitätsklassen von Kompost). [nicht online geprüft – Fundstelle und Klassen A+, A, B in Suchergebnis (usp.gv.at) gesehen]
 16. Emerson K, Russo RC, Lund RE, Thurston RV (1975): Aqueous ammonia equilibrium calculations: effect of pH and temperature. Journal of the Fisheries Research Board of Canada 32, 2379–2383. [nicht online geprüft]
 17. Fenn LB, Hossner LR (1985): Ammonia volatilization from ammonium or ammonium-forming nitrogen fertilizers. Advances in Soil Science 1, 123–169. [nicht online geprüft]
 18. Sommer SG, Hutchings NJ (2001): Ammonia emission from field applied manure and its reduction – invited paper. European Journal of Agronomy 15, 1–15. [nicht online geprüft]
 19. Bittman S, Dedina M, Howard CM, Oenema O, Sutton MA (Hrsg.) (2014): Options for Ammonia Mitigation: Guidance from the UNECE Task Force on Reactive Nitrogen. Centre for Ecology and Hydrology, Edinburgh. [nicht online geprüft]
-20. Ammoniakreduktionsverordnung, Österreich, geltende Fassung; Fundstelle, Stand und Geltung für Dauerkulturen im RIS prüfen. [nicht online geprüft]
+20. Ammoniakreduktionsverordnung, Österreich, BGBl. II Nr. 395/2022, geändert durch BGBl. II Nr. 24/2023 und BGBl. II Nr. 172/2024; dazu Erläuterungen des Klimaschutzministeriums zur Novelle. [nicht online geprüft – Fundstellen und Vier-Stunden-Regel in Suchergebnissen (Erläuterungen BMK, LK NÖ) gesehen; RIS-Text und Geltung für Dauerkulturen nicht geprüft]
 21. Bell SJ, Henschke PA (2005): Implications of nitrogen nutrition for grapes, fermentation and wine. Australian Journal of Grape and Wine Research 11, 242–295. [nicht online geprüft]
 22. Mpelasoka BS, Schachtman DP, Treeby MT, Thomas MR (2003): A review of potassium nutrition in grapevines with special emphasis on berry accumulation. Australian Journal of Grape and Wine Research 9, 154–168. [nicht online geprüft]
 23. Christensen LP, Kasimatis AN, Jensen FL (1978): Grapevine Nutrition and Fertilization in the San Joaquin Valley. University of California, Division of Agricultural Sciences, Publication 4087. [nicht online geprüft]
@@ -589,6 +595,8 @@ Stand: November 2026
 33. Lindsay WL, Norvell WA (1978): Development of a DTPA soil test for zinc, iron, manganese, and copper. Soil Science Society of America Journal 42, 421–428. [nicht online geprüft]
 34. Ayers RS, Westcot DW (1985): Water quality for agriculture. FAO Irrigation and Drainage Paper 29, Rev. 1. FAO, Rom. [nicht online geprüft]
 35. Verordnung (EG) Nr. 1272/2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen (CLP), Anhang VI Teil 3 (harmonisierte Einstufung von Borsäure und Natriumboraten); konsolidierte Fassung, Stand bei EUR-Lex prüfen. [nicht online geprüft]
-36. Durchführungsverordnung (EU) 2018/1981 der Kommission vom 13. Dezember 2018 zur Erneuerung der Genehmigung für die Wirkstoffe Kupferverbindungen als Substitutionskandidaten gemäß der Verordnung (EG) Nr. 1107/2009; Stand und spätere Änderungen bei EUR-Lex prüfen. [nicht online geprüft]
+36. Durchführungsverordnung (EU) 2018/1981 der Kommission vom 13. Dezember 2018 zur Erneuerung der Genehmigung für die Wirkstoffe Kupferverbindungen als Substitutionskandidaten gemäß der Verordnung (EG) Nr. 1107/2009; Stand und spätere Änderungen bei EUR-Lex prüfen. [online geprüft – Befristung bis 31.12.2025 laut Erwägungsgrund der DVO (EU) 2025/1489 [40]; Text von 2018/1981 nicht eingesehen]
 37. Komárek M, Čadková E, Chrastný V, Bordas F, Bollinger J-C (2010): Contamination of vineyard soils with fungicides: A review of environmental and toxicological aspects. Environment International 36, 138–151. [nicht online geprüft]
 38. Williams CMJ, Maier NA, Bartlett L (2004): Effect of molybdenum foliar sprays on yield, berry size, seed formation, and petiolar nutrient composition of "Merlot" grapevines. Journal of Plant Nutrition 27 (Seiten nicht geprüft). [nicht online geprüft]
+39. Durchführungsverordnung (EU) 2021/1165 der Kommission, Anhang I (Wirkstoffe in Pflanzenschutzmitteln), Einträge Kupferverbindungen; konsolidierte Fassung Stand 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026: „maximal 28 kg Kupfer je Hektar während eines Zeitraums von 7 Jahren“]
+40. Durchführungsverordnung (EU) 2025/1489 der Kommission vom 24. Juli 2025 zur Änderung der Durchführungsverordnung (EU) Nr. 540/2011 hinsichtlich der Verlängerung der Laufzeit der Genehmigungen für die Wirkstoffe … Kupferverbindungen …. Amtsblatt der EU. [online geprüft – Wortlaut EUR-Lex: Befristung für Kupferverbindungen „30. Juni 2029“]
