@@ -84,7 +84,7 @@ Konsequenz: Auf diesen Standorten in Trockenjahren **jeden Jahrgang als UTA-gef�
 | Maßnahme | Umsetzung | Belegt durch |
 |---|---|---|
 | Begrünung an Trockenheit anpassen | keine reine Grasbegrünung; leguminosenreiche Mischungen; in Trockenperioden jede zweite Gasse offen halten oder Begrünung walzen statt mulchen, um Konkurrenz zu senken; Details: [Begrünung](../alkalische-boeden/begruenung.md) | [8] (Ursachen); Ausgestaltung Praxis |
-| Stickstoffversorgung sichern | Bio-zulässige organische N-Dünger und Leguminosen rechtzeitig (Mineralisation braucht Feuchte und Zeit); Bodenbearbeitung im Frühjahr zur N-Mobilisierung; Most-YAN messen ([Stickstoff/YAN](../weinanalytik/stickstoff-yan.md)) | [8, 18]; N allein ist keine Garantie [18] |
+| Stickstoffversorgung sichern | Bio-zulässige organische N-Dünger und Leguminosen rechtzeitig (Mineralisation braucht Feuchte und Zeit); Bodenbearbeitung im Frühjahr zur N-Mobilisierung; Most-YAN messen ([Stickstoff/YAN](../weinanalytik/stickstoff-yan.md)) | [8, 18]; N allein ist keine Garantie [18]; zum Einfluss der Stickstoffverbindungen der Traube auf Aromastoffe allgemein [25] |
 | Bewässerung (wo möglich) | starken Trockenstress in der Reifephase vermeiden, z. B. Tropfbewässerung | [7, 8] (Ursache); Dosierung nicht belegt |
 | Ertrag regulieren | Überlastung vermeiden, besonders in Trockenjahren und bei schwachen Stöcken | [8] |
 | Lesezeitpunkt | nicht zu früh lesen; ausreichende physiologische Reife abwarten | [8] |
@@ -102,12 +102,12 @@ Konsequenz: Auf diesen Standorten in Trockenjahren **jeden Jahrgang als UTA-gef�
 |---|---|---|
 | Wann einsetzen | nur bei **erhöhtem UTA-Risiko** (Testbefund, Trockenjahr, gefährdete Anlage); vorbeugender Einsatz ohne Befund wird nicht empfohlen | [8, 13] |
 | Dosis | **100 mg/L (10 g/hL)** bei UTA-neigenden Weinen | [9] |
-| Dosis bei hohem Risiko | bis **150 mg/L (15 g/hL)** | [10] |
+| Dosis bei hohem Risiko | bis **150 mg/L (15 g/hL)**; im Forschungsprojekt AiF 11770 N als Gabe vor der Schwefelung genannt, mit der sich UTA in der Regel verhindern ließ | [10, 26] |
 | Höchstmenge | 250 mg/L | [9] |
 | Zeitpunkt | möglichst früh: **vor bzw. mit der ersten Schwefelung nach der Gärung**; Zugabe zum Most schützt **nicht** (Ascorbinsäure wird bis dahin verbraucht) | [9, 10] |
 | Zusätzlich als Füllschutz | zusätzliche Gabe kurz vor der Füllung möglich; Summe unter Höchstmenge halten | [9] |
 | Begleitbedingung | immer mit ausreichend freier SO₂, sonst oxidationsfördernd ([Oxidation](oxidation.md), Abschnitt 2.4) | [19] |
-| Bio | zulässig (Anh. V Teil D, DVO (EU) 2021/1165) | [20, 21] |
+| Bio | zulässig: L-Ascorbinsäure (E 300) steht ohne Bio-Bedingung in Anh. V Teil D der DVO (EU) 2021/1165 | [20, 21] |
 
 Die Schutzwirkung der Ascorbinsäure gegen UTA wurde an der LWG Veitshöchheim entdeckt [12, 13]. Ascorbinsäure **verhindert** die AAP-Bildung, sie entfernt bereits gebildetes AAP **nicht** [8].
 
@@ -255,9 +255,10 @@ Hinweis zu den Prüfvermerken: Bei „[online geprüft]“ wurden Titel und die 
 17. N. N. (o. J.): Photochemical degradation of tryptophan in model wine: impact of heavy metals and oxygen on 2-aminoacetophenone formation. IVES Conference Series. https://ives-openscience.eu/40977/ [online geprüft: Titel]
 18. Linsenmeier, A.; Rauhut, D.; Kürbel, H.; Schubert, S.; Löhnertz, O. (*) (2007): Ambivalence of the influence of nitrogen supply on o-aminoacetophenone in „Riesling“ wine. Vitis 46, 91–97 (*). [online geprüft: Titel und Thema]
 19. Bradshaw, M. P.; Barril, C.; Clark, A. C.; Prenzler, P. D.; Scollary, G. R. (2011): Ascorbic acid: a review of its chemistry and reactivity in relation to a wine environment. Critical Reviews in Food Science and Nutrition 51, 479–498. [nicht online geprüft]
-20. Durchführungsverordnung (EU) 2021/1165, Anhang V Teil D; konsolidierte Fassung Stand 15.06.2025, EUR-Lex. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2025-06-15/eng [online geprüft: Existenz; Eintrag L-Ascorbinsäure nicht online geprüft]
+20. Durchführungsverordnung (EU) 2021/1165, Anhang V Teil D; konsolidierte Fassung Stand 15.06.2025, EUR-Lex. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2025-06-15/eng [online geprüft – Wortlaut von Anhang V Teil D im konsolidierten Text EUR-Lex Stand 01.01.2026: L-Ascorbinsäure, E 300, Verweis auf VO 2019/934 Tabelle 2 Nr. 2.6, ohne Bio-Bedingung]
 21. Bio-Garantie (2025): Info-Blatt Bio-Wein. https://www.bio-garantie.at/docs/transfer/2000737.pdf [online geprüft]
 22. Schmarr, H.-G. u. a. (*) (2007): Analysis of 2-aminoacetophenone in wine using a stable isotope dilution assay and multidimensional gas chromatography-mass spectrometry. Journal of Chromatography A (*). https://www.researchgate.net/publication/6779968 [online geprüft: Titel]
 23. N. N. (2016/2017): An improved method for the analysis of 2-aminoacetophenone in wine based on headspace solid-phase microextraction and heart-cut multidimensional gas chromatography with selective detection by tandem mass spectrometry. PubMed 27887699. https://pubmed.ncbi.nlm.nih.gov/27887699/ [online geprüft: Titel]
 24. N. N. (um 2016): Determination of 2-aminoacetophenone in wine by high-performance thin-layer chromatography – fluorescence detection. Journal of Chromatography A. https://www.sciencedirect.com/science/article/abs/pii/S0021967315018798 [online geprüft: Titel]
 25. Rapp, A.; Versini, G. (1995): Influence of nitrogen compounds in grapes on aroma compounds of wines. In: Proceedings of the International Symposium on Nitrogen in Grapes and Wine, Seattle. American Society for Enology and Viticulture, Davis. [nicht online geprüft]
+26. Forschungskreis der Ernährungsindustrie (FEI) / Universität Hamburg: AiF-Forschungsvorhaben 11770 N (untypische Alterungsnote), Projektzusammenfassung. https://fei-bonn.de/download/aif-11770-n.projekt [online geprüft – Suchauszug: 150 mg/L Ascorbinsäure vor der Schwefelung verhindert UTA in der Regel; Volltext und Autoren nicht eingesehen]

@@ -8,7 +8,7 @@ Fremdtöne sind Gerüche, die nicht aus Traube, Gärung und Reife stammen. Sie g
 - **Nicht jeder Korkton kommt vom Korken.** Chlor- und Bromphenole aus Reinigungs-, Holzschutz- und Flammschutzmitteln werden von Schimmelpilzen zu Haloanisolen umgebaut und belasten Kellerluft, Fässer, Kartons und Tankwein [4, 5]. Vorbeugung: keine Chlorreiniger, kein behandeltes Holz, trockene und gelüftete Räume, Korken und Kartons getrennt lagern.
 - **Korkeinkauf:** je Partie einen Prüfbericht über freisetzbares TCA nach ISO 20752 vertraglich verlangen und zusätzlich selbst eine Einweichprobe machen (5 × 20 Korken, 24 h; Anleitung in 1.7). Aufwand: rund eine Stunde Arbeit und 6 L Neutralwein je Lieferung.
 - **Erd-, Pilz-, Rauch- und grüne Töne** entstehen meist schon im Weingarten (Fäulnis, Mehltau, Rauch, Unreife, Marienkäfer). Im Keller lassen sie sich kaum entfernen. Wirksam sind Vorbeugung und konsequente Lesegut-Selektion.
-- **Behandlung:** Für Haloanisole gibt es mit Zeolith-Filterschichten eine gezielte, von der OIV anerkannte Behandlung; in der Bio-Positivliste ist sie nach unserem Kenntnisstand nicht enthalten [6, 7]. Aktivkohle ist im Bio-Betrieb zulässig [8], wirkt aber unspezifisch.
+- **Behandlung:** Für Haloanisole gibt es mit Zeolith-Filterschichten eine gezielte, von der OIV anerkannte Behandlung; im EU-Weinrecht ist sie zugelassen (VO (EU) 2019/934, Tabelle 1 Nr. 19) [24], im Bio-Wein aber nicht (nicht in VO (EU) 2018/848 Anhang II Teil VI aufgenommen) [6, 7, 56]. Aktivkohle ist im Bio-Betrieb zulässig [8], im Weinrecht aber nicht für Rotwein [24], und wirkt unspezifisch.
 - **Analysen** (Haloanisole, Rauchphenole, Methoxypyrazine) sind nur im Labor möglich; die Sensorik im Betrieb dient als Vorprüfung.
 
 ## 0 Welcher Fehler ist es?
@@ -49,11 +49,11 @@ Haloanisole sind Anisole (Methoxybenzole), an deren Ring Chlor- oder Bromatome h
 |---|---|---|---|---|
 | 2,4,6-Trichloranisol | TCA | muffig, nasser Karton, Keller, nasse Zeitung | je nach Studie etwa 1–5 ng/L; Konsumenten (Weißwein): Wahrnehmung 2,1 ng/L, Ablehnung 3,1 ng/L; geübte Verkoster unter 1 ng/L | [1, 2, 5] |
 | 2,4,6-Tribromanisol | TBA | muffig, wie TCA | etwa 4 ng/L (Geruch), im Geschmack teils darunter | [4, 10] |
-| 2,3,4,6-Tetrachloranisol | TeCA | muffig | höher als TCA (genauer Wert siehe „Offen“) | [10] |
+| 2,3,4,6-Tetrachloranisol | TeCA | muffig | höher als TCA; etwa 20 ng/L in Rot- und Weißwein, etwa 4 ng/L in Wasser (Nachschlagewerk) | [10, 58] |
 | Pentachloranisol | PCA | schwach | sehr hoch; als Ursache selten bedeutend | [10] |
 | 2-Methoxy-3,5-dimethylpyrazin | MDMP | muffig, erdig, „korkig“; aus Korken | nicht geprüft | [13] |
 
-> **Offen:** Für TeCA werden in der Literatur meist Schwellen um 10–15 ng/L genannt; dieser Wert konnte online nicht bestätigt werden. Ebenso fehlen hier geprüfte Werte für MDMP.
+> **Offen:** Für TeCA nennt das Oxford Companion to Wine eine Wahrnehmungsschwelle von etwa 20 ng/L in Wein [58]; die oft zitierten 10–15 ng/L und die zugrunde liegende Primärstudie wurden nicht gefunden. Für MDMP fehlen weiterhin geprüfte Werte.
 
 Zur wichtigsten Studie: Prescott et al. versetzten einen Weißwein mit Schraubverschluss mit steigenden TCA-Mengen (0,5 bis 32 ng/L) und ließen Konsumenten paarweise vergleichen. Wahrnehmung lag bei 2,1 ng/L, Ablehnung bei 3,1 ng/L. Konsumenten, die Korkton kannten oder empfindlicher waren, lehnten schon bei niedrigeren Gehalten ab [1, 2].
 
@@ -220,9 +220,9 @@ Dazu kommt die Verdünnung: In einer Sammelprobe verteilt sich das TCA eines Kor
 |---|---|---|---|---|
 | Belüften, Dekantieren, Abwarten | keine verlässliche Wirkung (nicht belegt) | – | – | hilft nicht |
 | Verschnitt mit einwandfreiem Wein | verdünnt rechnerisch | zulässig; Bezeichnungsrecht (Sorte, Jahrgang, Herkunft) beachten | nur mit Bio-Wein, sonst entfällt der Bio-Status [23] | nur bei geringer Belastung; „Maskierung“ bleibt möglich |
-| Filterschichten mit Zeolith Y (Faujasit) | adsorbieren Haloanisole gezielt; Ziel: unter die Wahrnehmungsschwelle [6] | OIV-Kodex; laut Übersicht auch in VO (EU) 2019/934 [7, 24] | nach unserem Kenntnisstand nicht in der Positivliste | wirksamste zugelassene Option für konventionellen Wein; nur geklärter Wein, Schichten vorher reinigen und desinfizieren [6] |
-| Aktivkohle („Holzkohle zu önologischen Zwecken“) | unspezifisch, entfernt auch Aroma | eingeschränkt zugelassen (nach unserem Kenntnisstand Moste, gärende Jungweine, Weißweine; Bedingungen prüfen) [24] | gelistet [8] | Wirkung auf TCA bei zulässiger Dosis hier nicht belegt |
-| Hefezellwände | mäßig: 400 mg/L senkten TCA um rund 27 % [7] | als önologisches Mittel zugelassen; Zweck und Höchstmenge prüfen [24] | offen | geringe Wirkung |
+| Filterschichten mit Zeolith Y (Faujasit) | adsorbieren Haloanisole gezielt; Ziel: unter die Wahrnehmungsschwelle [6] | zugelassen: VO (EU) 2019/934 Anhang I Teil A Tabelle 1 Nr. 19, „nur zur Adsorption von Haloanisolen“, nach OIV-Dossier 3.2.15 (2016) [24] | **nein**: erst nach 2010 zugelassen und nicht in Anhang II Teil VI der VO (EU) 2018/848 aufgenommen (Nr. 3.1, 3.4) [56] | wirksamste zugelassene Option für konventionellen Wein; nur geklärter Wein, Schichten vorher reinigen und desinfizieren [6] |
+| Aktivkohle („Holzkohle zu önologischen Zwecken“) | unspezifisch, entfernt auch Aroma | zugelassen nur für Weißwein und die Most-, Jungwein- und Konzentratkategorien 2, 10 und 14, **nicht für Rotwein**; Eintrag ins Kellerbuch [24]; früher höchstens 100 g/hL [57] | gelistet, ohne Bio-Bedingung [8] | Wirkung auf TCA bei zulässiger Dosis hier nicht belegt |
+| Hefezellwände | mäßig: 400 mg/L senkten TCA um rund 27 % [7] | zugelassen (Heferinden, Tabelle 2 Nr. 4.7; Zahl nur im OIV-Dossier, früher 40 g/hL) [24, 57] | ja (Teil D, ohne Bio-Bedingung) [8] | geringe Wirkung |
 | Polyethylenfolie | im Laborversuch über 90 % Aufnahme [7] | keine Zulassung als Behandlung gefunden | nein | nicht anwenden |
 | Andere Adsorbentien (z. B. aufbereitetes Korkpulver) | in Erforschung [7] | nicht zugelassen | nein | – |
 
@@ -230,7 +230,7 @@ Rechenbeispiel Verschnitt: Ein Wein mit 6 ng/L TCA, verschnitten mit fünf Teile
 
 > **Achtung:** Polyethylenfolie, Speiseöl und ähnliche „Hausmittel“ sind keine zugelassenen önologischen Behandlungen. Den Wein damit nicht behandeln.
 
-> **Offen:** Bio-Zulässigkeit von Zeolith-Filterschichten und Hefezellwänden nach VO (EU) 2021/1165 Anhang V Teil D (online nur der Eintrag Aktivkohle geprüft) sowie strengere Regeln von Bio Austria: mit der Kontrollstelle klären. Siehe auch [Bio-Weinbereitung](../kellerwirtschaft/bio-weinbereitung.md).
+> **Offen:** Strengere Regeln von Bio Austria und anderen Verbänden für Aktivkohle und Hefezellwände wurden nicht geprüft; beim Verband nachfragen. Die Einstufung der Zeolith-Filterschichten als „nicht Bio“ folgt aus Nr. 3.1/3.4 von Anhang II Teil VI; im Zweifel die Kontrollstelle fragen. Siehe auch [Bio-Weinbereitung](../kellerwirtschaft/bio-weinbereitung.md).
 
 ### 1.9 Verdacht auf Kellerkontamination: Vorgehen
 
@@ -263,7 +263,7 @@ Beeren mit Echtem Mehltau (Oidium, *Erysiphe necator*, früher *Uncinula necator
 
 Neuere französische Arbeiten beschreiben glykosidisch gebundene (an Zucker gebundene, geruchlose) Vorstufen von Pilznoten in Trauben; untersucht wurden Graufäule, Mehltau und der Pilz *Crustomyces subabruptus*. Mehltau hatte darin keinen eindeutigen Einfluss auf diese Vorstufen [30].
 
-> **Offen:** Für 1-Octen-3-on werden in Sekundärquellen Schwellen um 20–40 ng/L in Weißwein genannt; der Originalwert wurde nicht geprüft.
+> **Offen:** Für 1-Octen-3-on werden in Sekundärquellen Schwellen um 20–40 ng/L in Weißwein genannt; eine Nachrecherche (November 2026) fand keine Primärquelle. Nicht verwechseln mit 1-Octen-3-ol, dessen Schwelle deutlich höher liegt.
 
 ### 2.4 Schimmel in Keller und Fässern
 
@@ -313,10 +313,10 @@ Praxis: Fäulnisvorbeugung beginnt mit lockerer Laubwand, Entblätterung der Tra
 | Handlese, Blätter und Asche draußen lassen, kühl verarbeiten | weniger Eintrag und Extraktion | – |
 | Weiß/Rosé: Ganztraubenpressung, schonend; Pressfraktionen getrennt halten und einzeln verkosten | Phenole sitzen vor allem in den Schalen | späte Fraktionen getrennt ausbauen |
 | Rot: kurze Maischestandzeit, kein Presswein; notfalls Rosé statt Rotwein | weniger Extraktion | Farbe und Struktur leiden |
-| Aktivkohle (Most, Weißwein) | bindet freie Phenole | Glykoside bleiben und werden später frei [36]; Aromaverlust; zugelassen eingeschränkt [24], Bio zulässig [8] |
+| Aktivkohle (Most, Weißwein) | bindet freie Phenole | Glykoside bleiben und werden später frei [36]; Aromaverlust; nicht für Rotwein zugelassen [24], Bio zulässig [8] |
 | Eichenholz, Tannin | überdecken | behebt nichts |
 
-> **Offen:** Membranverfahren mit Adsorbern, wie sie in Übersee gegen Rauchgeschmack eingesetzt werden, sind in der EU nach unserem Kenntnisstand nicht für diesen Zweck zugelassen; Rechtslage vor Einsatz mit der Kontrollstelle klären.
+> **Offen:** Die VO (EU) 2019/934 lässt eine „Behandlung von Wein mithilfe einer Membrantechnik in Verbindung mit Adsorption an Aktivkohle oder adsorbierendem Granulat aus Styrol-Divinylbenzol“ seit kurzem zu, aber „nur zur Reduzierung flüchtiger Phenole“ nach OIV-Dossier 3.5.18 (2023) und durch Önologen bzw. Fachtechniker (Tabelle 1 Nr. 18) [24]. Ob das Dossier auch Rauchphenole (Guajakol, 4-Methylguajakol) abdeckt oder nur Ethylphenole aus *Brettanomyces*, wurde nicht im OIV-Text nachgelesen. Im Bio-Wein ist das Verfahren nicht zulässig (nicht in Anhang II Teil VI aufgenommen) [56].
 
 ## 4 Grüne und pflanzliche Noten
 
@@ -481,7 +481,7 @@ Stand: November 2026
 5. Sefton, M. A.; Simpson, R. F. (2005): Compounds causing cork taint and the factors affecting their transfer from natural cork closures to wine – a review. Australian Journal of Grape and Wine Research 11, 226–240. [online geprüft]
 6. OIV (o. J.): International Code of Oenological Practices, Teil II, Wein: Use of filter plates containing zeolites Y-faujasite to adsorb haloanisoles. https://www.oiv.int/index.php/standards/international-code-of-oenological-practices/part-ii-oenological-treatments-and-practices/wines/use-of-filter-plates-containing-zeolites-y-faujasite-to-adsorb-haloanisoles [online geprüft]
 7. Autoren vor Verwendung ergänzen (2023): Uncorking haloanisoles in wine. Molecules 28(6), 2532. https://doi.org/10.3390/molecules28062532 [online geprüft; Aussagen zu Zeolith, Polyethylen und Hefezellwänden über Suchzusammenfassung erfasst]
-8. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang V Teil D, konsolidierte Fassung vom 1. Jänner 2026. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2026-01-01/eng [online geprüft: Eintrag „Holzkohle zu önologischen Zwecken“; übrige Einträge nicht einzeln geprüft]
+8. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang V Teil D, konsolidierte Fassung vom 1. Jänner 2026. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2026-01-01/eng [online geprüft – Wortlaut der gesamten Tabelle Anhang V Teil D im konsolidierten Text EUR-Lex Stand 01.01.2026: Önologische Holzkohle, Heferinden, inaktivierte Hefen gelistet; Zeolith-Filterplatten nicht gelistet]
 9. Waterhouse, A. L.; Sacks, G. L.; Jeffery, D. W. (2016): Understanding Wine Chemistry. John Wiley & Sons, Chichester. [nicht online geprüft]
 10. Cravero, M. C. (2020): Musty and moldy taint in wines: a review. Beverages 6(2), 41. https://www.mdpi.com/2306-5710/6/2/41 [online geprüft; Autorin aus Fachwissen ergänzt]
 11. ISO 4120: Sensory analysis – Methodology – Triangle test, aktuelle Fassung. [nicht online geprüft]
@@ -497,7 +497,7 @@ Stand: November 2026
 21. Autoren vor Verwendung ergänzen (o. J.): Sensory screening for large-format natural corks by „dry soak“ testing and its correlation to headspace solid-phase microextraction (SPME) gas chromatography/mass spectrometry (GC/MS) releasable trichloroanisole (TCA) analysis. https://www.researchgate.net/publication/26782324 [online geprüft: Titel und Verfahrensprinzip; Zeitschrift und Jahr nicht geprüft]
 22. Weingesetz 2009, BGBl. I Nr. 111/2009, in der geltenden Fassung (RIS), Bestimmungen zur staatlichen Prüfnummer. [nicht online geprüft]
 23. Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen. [nicht online geprüft]
-24. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 hinsichtlich ... zugelassener önologischer Verfahren ..., Anhang I Teil A, konsolidierte Fassung bei EUR-Lex. [nicht online geprüft – Bedingungen für Holzkohle, Hefezellwände und Zeolith-Filterschichten vor Verwendung im aktuellen Text nachlesen]
+24. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 hinsichtlich ... zugelassener önologischer Verfahren ..., Anhang I Teil A, konsolidierte Fassung bei EUR-Lex. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0934 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Tabelle 1 Nr. 18 (Membran + Adsorption, nur flüchtige Phenole) und Nr. 19 (Zeolith Y-Faujasit, nur Haloanisole); Tabelle 2 Nr. 3.1 Holzkohle (Weißwein, Kategorien 2, 10, 14) und Nr. 4.7 Heferinden, ohne eigene Höchstmengen]
 25. Darriet, P. et al. (2000): Identification and quantification of geosmin, an earthy odorant contaminating wines. Journal of Agricultural and Food Chemistry 48. [online geprüft: Titel; Schwellenwerte über Sekundärquellen]
 26. La Guerche, S. et al. (2005): Origin of (−)-geosmin on grapes: on the complementary action of two fungi, Botrytis cinerea and Penicillium expansum. Antonie van Leeuwenhoek. [online geprüft: Titel; Band und Seiten nicht geprüft]
 27. La Guerche, S. et al. (2006): Characterization of some mushroom and earthy off-odors microbially induced by the development of rot on grapes. Journal of Agricultural and Food Chemistry 54. [nicht online geprüft]
@@ -529,3 +529,6 @@ Stand: November 2026
 53. Verordnung (EU) Nr. 10/2011 der Kommission vom 14. Jänner 2011 über Materialien und Gegenstände aus Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen. [nicht online geprüft]
 54. Chatonnet, P.; Boutou, S.; Plana, A. (2014): Contamination of wines and spirits by phthalates: types of contaminants present, contamination sources and means of prevention. Food Additives & Contaminants: Part A 31. [nicht online geprüft]
 55. Eder, R. (Hrsg.) (Jahr nicht geprüft): Weinfehler. Verlag Eugen Ulmer, Stuttgart. [nicht online geprüft – Existenz, genauer Titel und Auflage konnten online nicht bestätigt werden]
+56. Europäisches Parlament und Rat (2018): Verordnung (EU) 2018/848, Anhang II Teil VI Nr. 3.1–3.4 (zulässige önologische Verfahren für Bio-Wein). https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018R0848 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 25.03.2025: nur vor dem 1. August 2010 angewendete Verfahren, spätere erst nach Aufnahme in Teil VI]
+57. Europäische Kommission (2009): Verordnung (EG) Nr. 606/2009 (önologische Verfahren), Anhang I A; aufgehoben durch VO (EU) 2019/934. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R0606-20180303 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 03.03.2018: Aktivkohle 100 g/hL nur Most, Jungwein, RTK und Weißwein; Hefezellwände 40 g/hL; Zeolith-Filterplatten Nr. 57, eingefügt durch Delegierte VO (EU) 2017/1961]
+58. Robinson, J.; Harding, J. (Hrsg.): The Oxford Companion to Wine, Stichwort „tetrachloroanisole“ (Online-Ausgabe bei ckbk). https://app.ckbk.com/reference/wine05383c20s001e084/tetrachloroanisole [online geprüft – Suchauszug: Wahrnehmungsschwelle etwa 20 ng/L in Rot- und Weißwein, 4 ng/L in Wasser; Auflage nicht erfasst]

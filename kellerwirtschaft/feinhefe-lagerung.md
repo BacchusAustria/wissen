@@ -230,7 +230,7 @@ Die Empfehlungen sind Erfahrungs- und Lehrbuchwissen [24–26], kombiniert mit d
 
 ## 5 Alternativen und Ergänzungen
 
-Alle Hefepräparate unten sind nach der EU-Weinrechtsverordnung VO (EU) 2019/934, Anhang I Teil A, als önologische Mittel bzw. Verfahren geregelt ‡ [27]. Für Bio-Wein gilt zusätzlich die Liste der zulässigen Erzeugnisse in Durchführungs-VO (EU) 2021/1165, Anhang V Teil D [28]. Die Konsolidierung von 2021/1165 mit Stand 1. 1. 2026 liegt bei EUR-Lex vor; die Nummerierung der Einträge unterscheidet sich zwischen den Fassungen [28].
+Alle Hefepräparate unten sind nach der EU-Weinrechtsverordnung VO (EU) 2019/934, Anhang I Teil A, als önologische Mittel bzw. Verfahren geregelt [27]. Für Bio-Wein gilt zusätzlich die Liste der zulässigen Erzeugnisse in Durchführungs-VO (EU) 2021/1165, Anhang V Teil D [28]. Die Konsolidierung von 2021/1165 mit Stand 1. 1. 2026 liegt bei EUR-Lex vor; die Nummerierung der Einträge unterscheidet sich zwischen den Fassungen [28].
 
 | Mittel | Wirkung | Weinrecht (VO 2019/934) | Bio (DVO 2021/1165, Anh. V Teil D) | Beleglage |
 |---|---|---|---|---|
@@ -261,7 +261,7 @@ Bei OTA-belastetem Wein (faules Lesegut, warme Jahrgänge) senken Hefezellwände
 - Nur Hefe aus **trockenen, gesunden, geruchlich einwandfreien** Weinen derselben Saison verwenden; vorher riechen und Kupfer-Vorversuch an der Hefe-Wein-Mischung.
 - Keine Hefe aus Weinen mit flüchtiger Säure, Brett, Mäuselton oder Böckser.
 - Hefe nicht länger aufbewahren (wenige Tage, kühl, unter Inertgas), sonst Fäulnis- und Hefetöne.
-- Die rechtliche Grenze von 5 % des Volumens einhalten und den Vorgang in der Kellerbuchführung dokumentieren ‡ [27].
+- Die rechtliche Grenze von 5 % des Volumens einhalten und den Vorgang in der Kellerbuchführung dokumentieren [27].
 
 ---
 

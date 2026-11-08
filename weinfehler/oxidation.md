@@ -8,7 +8,7 @@ Ursachen, Fehlerbilder (Bräunung, Acetaldehyd, Aromaverlust, Pinking, Lichtgesc
 - **Wichtigste Faustzahl:** 1 mg Sauerstoff kann theoretisch bis zu rund 4 mg SO₂ verbrauchen (eigene Berechnung aus der Stöchiometrie, siehe Abschnitt 2.4) [3, 6].
 - **Wo der Sauerstoff herkommt:** Abstich, offenes Pumpen, Filtration, Kältebehandlung und vor allem die Füllung. Eine Flasche mit 10 mL Luft im Kopfraum enthält allein dort rund 2,8 mg O₂ (≈ 3,7 mg/L) – mehr als die meisten Kellerarbeiten zusammen (eigene Berechnung).
 - **Vorbeugen ist billiger als behandeln:** ausreichend freie SO₂, Behälter spundvoll, Inertgas, kühl lagern, Kupfer niedrig halten, Botrytis-Lesegut getrennt und rasch verarbeiten. Gemessen wird am besten mit einem optischen Sauerstoffmessgerät.
-- **Behandlung** leichter Oxidation: Kasein, PVPP (nicht Bio), Pflanzenproteine, Aktivkohle (nur Weißwein, Bio eingeschränkt), Chitosan. Immer nach Vorversuch; eine starke Oxidation lässt sich nicht rückgängig machen.
+- **Behandlung** leichter Oxidation: Kasein, PVPP (nicht Bio), Pflanzenproteine, Aktivkohle (nur Most, Jungwein und Weißwein), Chitosan. Immer nach Vorversuch; eine starke Oxidation lässt sich nicht rückgängig machen.
 
 ---
 
@@ -85,7 +85,7 @@ In realen Weinen wird oft weniger als dieser theoretische Wert gemessen, weil ei
 
 **Glutathion (GSH).** Fängt Chinone ab, schützt Sortenthiole, verzögert Bräunung [10, 11]. Die OIV erlaubt die Zugabe zu Most und Wein bis höchstens **20 mg/L**, auch über inaktivierte Hefen mit garantiertem Glutathiongehalt (gesamt höchstens 20 mg/L; Hefen zu Gärbeginn bei ausreichend Stickstoff zugeben) [24, 25].
 
-> **Offen:** Ob reines Glutathion in der EU (VO (EU) 2019/934 in der Fassung der Delegierten VO (EU) 2022/68) als Zusatz zugelassen ist, ließ sich bei der Erstellung nicht verlässlich bestätigen. Belegt ist der Bezug des EU-Rechts auf inaktivierte Hefen mit garantiertem Glutathiongehalt [26]. Ob diese im Bio-Wein erlaubt sind, ebenfalls prüfen (inaktivierte Hefen allgemein sind laut österreichischer Kontrollstelle zulässig [23]).
+**Rechtslage in der EU:** Reines Glutathion ist in der VO (EU) 2019/934 (konsolidiert, Stand 29.12.2024) **nicht** als önologischer Stoff gelistet, also trotz OIV-Empfehlung in der EU nicht zugelassen. Zugelassen sind nur „inaktivierte glutathionreiche Hefen“ (Anhang I Teil A Tabelle 2 Nr. 4.9, „nur zur alkoholischen Gärung“, Dossier 2.2.9 von 2017) [26, 51]. Diese stehen **nicht** in Anhang V Teil D der DVO (EU) 2021/1165 und sind im Bio-Wein nicht zulässig; gewöhnliche inaktivierte Hefen und Heferinden dagegen schon [22].
 
 **Tannine.** Zugesetzte oder aus Holz stammende Tannine verbrauchen Sauerstoff und fangen Radikale ab. Hydrolysierbare Tannine (Gallus-, Kastanientannin) schützten in Versuchen gegen Lichtgeschmack [27, 28] und senkten in Belastungsversuchen das Pinking [29]. Tannine sind im Bio-Wein zulässig [22].
 
@@ -317,11 +317,11 @@ Flaschen mit Inertgas vorspülen, Füllerkessel überlagern, Kopfraum vor dem Ve
 | Kasein, Kaliumkaseinat | bindet oxidierte Phenole, mildert Bräunung und Bitterkeit | keine feste Höchstmenge bekannt (prüfen) | zulässig [22] | Allergenkennzeichnung „Milch“, wenn Rückstand ≥ 0,25 mg/L [47]; in alkalischem Wasser lösen, kräftig einrühren |
 | PVPP | bindet niedermolekulare Phenole, senkt Bräunungsneigung, wirkt gegen Pinking | 80 g/hL [48] | **nicht zulässig** [22, 37] | nur konventionell |
 | Erbsen-, Kartoffelprotein | wie Gelatine/Kasein auf Polyphenole; vegan | keine feste Höchstmenge bekannt (prüfen) | zulässig (Pflanzenproteine) [22, 37] | weniger Studien zur Bräunung als für Kasein und PVPP |
-| Aktivkohle | adsorbiert Farbe und Fehlgerüche, aber auch Aroma | 100 g/hL [49]; nur Most, gärender Jungwein und **Weißwein** | in Anh. V Teil D enthalten, nach Bio-Übersichten **eingeschränkt** (teils nur Most) [37] | „Notbremse“; feine Dosierstufen (z. B. 5, 10, 20 g/hL im Vorversuch) |
-| Chitosan (aus *Aspergillus niger*) | bindet Eisen und Kupfer (Katalysatoren), klärt | Klärung/Metalle 100 g/hL (nicht online geprüft); Ochratoxin A 500 g/hL; *Brettanomyces* 10 g/hL [48] | zulässig, teils mit Genehmigung der Kontrollstelle [37] | vorbeugend gegen weitere Oxidation, nicht gegen bereits braune Farbe |
-| Hefezellwände | adsorbieren Fettsäuren und manche Fremdstoffe | 40 g/hL [50] | **Offen** (inaktivierte Hefen und Mannoproteine laut Kontrollstelle zulässig [23]) | gegen Oxidationsfolgen wenig belegt |
-| Frischer Hefetrub (frische Feinhefe gesunden Weins) | zehrt Sauerstoff, frischt auf | Menge im Rechtstext prüfen | nur aus Bio-Erzeugung [22] | Risiko Böckser |
-| SO₂ | bindet Acetaldehyd, stoppt Weiteroxidation | allgemeine Höchstwerte | Bio-Höchstwerte niedriger: Rot 100 mg/L, Weiß/Rosé 150 mg/L (Restzucker < 2 g/L), sonst −30 mg/L [22] (nicht online geprüft) | erhöht Gesamt-SO₂ |
+| Aktivkohle | adsorbiert Farbe und Fehlgerüche, aber auch Aroma | 100 g/hL [49]; nur Most, gärender Jungwein und **Weißwein** | in Anh. V Teil D ohne zusätzliche Bio-Bedingung enthalten; es gelten die Einschränkungen des Weinrechts (nicht Rotwein) [22, 51]; einzelne Bio-Übersichten nennen strengere Verbandsregeln [37] | „Notbremse“; feine Dosierstufen (z. B. 5, 10, 20 g/hL im Vorversuch) |
+| Chitosan (aus *Aspergillus niger*) | bindet Eisen und Kupfer (Katalysatoren), klärt | Klärung/Metalle 100 g/hL; Ochratoxin A 500 g/hL; *Brettanomyces* 10 g/hL [48, 52] | zulässig (Teil D, Nr. 5.13 und 10.3, ohne Bio-Bedingung) [22]; teils verlangt die Kontrollstelle eine Genehmigung [37] | vorbeugend gegen weitere Oxidation, nicht gegen bereits braune Farbe |
+| Hefezellwände | adsorbieren Fettsäuren und manche Fremdstoffe | 40 g/hL [50, 52] | zulässig (Heferinden in Teil D, ohne Bio-Bedingung) [22] | gegen Oxidationsfolgen wenig belegt |
+| Frischer Hefetrub (frische Feinhefe gesunden Weins) | zehrt Sauerstoff, frischt auf | nur in trockenen Weinen, höchstens 5 % vol (Tabelle 2 Nr. 11.2) [51] | nur aus ökologischer/biologischer Produktion [22] | Risiko Böckser |
+| SO₂ | bindet Acetaldehyd, stoppt Weiteroxidation | allgemeine Höchstwerte | Bio-Höchstwerte niedriger: Rot 100 mg/L, Weiß/Rosé 150 mg/L (Restzucker < 2 g/L), sonst −30 mg/L [22] | erhöht Gesamt-SO₂ |
 | Ascorbinsäure | **keine** Behandlung: kehrt Bräunung nicht um, nur vorbeugend | 250 mg/L [21] | zulässig [22, 23] | nur mit freier SO₂ |
 
 Allgemeine Vorgehensweise für den Vorversuch:
@@ -331,7 +331,7 @@ Allgemeine Vorgehensweise für den Vorversuch:
 3. Farbe gegen Kontrolle vor weißem Hintergrund und, falls möglich, Extinktion 420 nm messen.
 4. Blind verkosten (mindestens zwei Personen). Die niedrigste Stufe mit ausreichender Wirkung wählen.
 
-Rechtliche Hinweise: Höchstmengen und Bio-Zulassungen ändern sich; vor dem Einsatz Anhang I Teil A der VO (EU) 2019/934 und Anhang V Teil D der DVO (EU) 2021/1165 (konsolidierte Fassung auf EUR-Lex, zuletzt Stand 15.06.2025) prüfen und die Kontrollstelle fragen. Verbandsrichtlinien (Bio Austria, Demeter u. a.) können strenger sein [37]. Siehe [Bio-Weinbereitung](../kellerwirtschaft/bio-weinbereitung.md).
+Rechtliche Hinweise: Höchstmengen und Bio-Zulassungen ändern sich; vor dem Einsatz Anhang I Teil A der VO (EU) 2019/934 und Anhang V Teil D der DVO (EU) 2021/1165 (konsolidierte Fassungen auf EUR-Lex, geprüft Stand 29.12.2024 bzw. 01.01.2026) prüfen und die Kontrollstelle fragen. Verbandsrichtlinien (Bio Austria, Demeter u. a.) können strenger sein [37]. Siehe [Bio-Weinbereitung](../kellerwirtschaft/bio-weinbereitung.md).
 
 ---
 
@@ -352,7 +352,7 @@ Rechtliche Hinweise: Höchstmengen und Bio-Zulassungen ändern sich; vor dem Ein
 - Richtwerte zur Sauerstoffaufnahme streuen stark mit Ausrüstung und Arbeitsweise; eigene Messungen sind aussagekräftiger als Literaturwerte.
 - Die Pinking-Grenzwerte sind laborabhängig (3.4).
 - Die Lufttests auf Oxidasebruch sind Praxisverfahren ohne normierte Vorschrift.
-- Bio-Zulässigkeit von Hefezellwänden und glutathionreichen Hefen sowie die genaue Einschränkung bei Aktivkohle sind offen.
+- Die Höchstmengen für Chitosan, Hefezellwände, Aktivkohle und Ascorbinsäure stehen nicht in der VO (EU) 2019/934 selbst, sondern in den OIV-Dossiers; hier sind die wortgleichen Werte der Vorgänger-VO 606/2009 angegeben [52].
 
 ## Querverweise
 
@@ -385,7 +385,7 @@ Hinweis zu den Prüfvermerken: Bei „[online geprüft]“ wurden Titel und die 
 19. Peng, Z.; Duncan, B.; Pocock, K. F.; Sefton, M. A. (1998): The effect of ascorbic acid on oxidative browning of white table wines and model wines. Australian Journal of Grape and Wine Research 4, 127–135. [nicht online geprüft]
 20. Barril, C.; Clark, A. C.; Scollary, G. R. (2012): Chemistry of ascorbic acid and sulfur dioxide as an antioxidant system relevant to white wine. Analytica Chimica Acta 732, 186–193. [nicht online geprüft]
 21. Regierungspräsidium Darmstadt, Dezernat Weinbau Eltville (2022): Info-Blatt Ascorbinsäure. https://rp-darmstadt.hessen.de/sites/rp-darmstadt.hessen.de/files/2022-11/_ascorbinsaeure.pdf [online geprüft]
-22. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang V Teil D; konsolidierte Fassung Stand 15.06.2025, EUR-Lex. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2025-06-15/eng [online geprüft: Existenz und Gliederung; Einzeleinträge nur teilweise über [23, 37] bestätigt]. In Verbindung mit VO (EU) 2018/848. [nicht online geprüft]
+22. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang V Teil D; konsolidierte Fassung Stand 15.06.2025, EUR-Lex. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2025-06-15/eng [online geprüft – Wortlaut von Anhang V Teil D im konsolidierten Text EUR-Lex Stand 01.01.2026: SO2-Bedingungen 100/150 mg/L und −30 mg/L, L-Ascorbinsäure, Holzkohle, Casein, Kaliumcaseinate, Erbsen-/Kartoffelprotein, Tannine, Chitosan aus *A. niger*, Heferinden, inaktivierte Hefen, Weinhefen nur Bio; nicht gelistet: PVPP, inaktivierte glutathionreiche Hefen]. In Verbindung mit VO (EU) 2018/848.
 23. Bio-Garantie (2025): Info-Blatt Bio-Wein. https://www.bio-garantie.at/docs/transfer/2000737.pdf [online geprüft]
 24. OIV (2022): International Code of Oenological Practices – Treatment of must with glutathione (Höchstmenge 20 mg/L). https://www.oiv.int/standards/international-code-of-oenological-practices/part-ii-oenological-treatments-and-practices/musts/treatment-of-must-with-glutathione [online geprüft]
 25. OIV (2022): International Code of Oenological Practices (Gesamtausgabe), Abschnitt inaktivierte Hefen mit garantiertem Glutathiongehalt. https://www.oiv.int/public/medias/8630/code-2022-en.pdf [online geprüft]
@@ -414,4 +414,5 @@ Hinweis zu den Prüfvermerken: Bei „[online geprüft]“ wurden Titel und die 
 48. Schandelmaier, B.; Nickolaus, P. (2026): Weinrecht für Schule und Praxis in Rheinland-Pfalz, Ausgabe vom 28.05.2026. https://upload.wikimedia.org/wikipedia/commons/0/0e/Weinrecht_f%C3%BCr_Schule_und_Praxis_in_Rheinland_Pfalz.pdf [online geprüft]
 49. Regierungspräsidium Darmstadt, Dezernat Weinbau (o. J.): Kellerwirtschaftliche Mitteilung – Mostbehandlung (Aktivkohle max. 100 g/hL). https://www.bergstraesser-wein.de/files/base/content/Service%20f%C3%BCr%20winzerinnen/Kellerwirtschaftliche%20Mitteilungen/4_kellerwirtschaftliche%20Mitteilung_Mostbehandlung_Infolink_Oenologie_Weinrecht_Reifemessung.pdf [online geprüft]
 50. DLR Rheinland-Pfalz (2026): Praxisleitfaden Oenologie 2026. https://www.dlr.rlp.de/Internet/global/themen.nsf/ALL/C97D1586159DC273C1258B710021074C/$FILE/Praxisleitfaden%20Oenologie%202026.pdf [online geprüft]
-51. Delegierte Verordnung (EU) 2019/934 der Kommission (önologische Verfahren), Anhang I Teil A, konsolidierte Fassung Stand 29.12.2024, EUR-Lex. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft: Existenz und Gliederung; Höchstmengen über [21, 48–50] bestätigt]
+51. Delegierte Verordnung (EU) 2019/934 der Kommission (önologische Verfahren), Anhang I Teil A, konsolidierte Fassung Stand 29.12.2024, EUR-Lex. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: kein Eintrag für reines Glutathion; Nr. 4.9 inaktivierte glutathionreiche Hefen nur zur alkoholischen Gärung; Nr. 3.1 Holzkohle nur Weißwein und Kategorien 2, 10, 14; Nr. 11.2 Weinhefen ≤ 5 % vol]
+52. Europäische Kommission (2009): Verordnung (EG) Nr. 606/2009 (önologische Verfahren), Anhang I A und Anlage 13; aufgehoben durch VO (EU) 2019/934. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R0606-20180303 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 03.03.2018: Chitosan 100 g/hL (Metalle, Trübungen), 500 g/hL (Ochratoxin A), 10 g/hL (Brettanomyces); Hefezellwände 40 g/hL; Aktivkohle 100 g/hL; PVPP 80 g/hL; Ascorbinsäure 250 mg/L]
