@@ -159,7 +159,7 @@ Zählen Sie deshalb mindestens 200 Zellen (beide Kammerseiten zusammen). Dazu ko
 
 **Lösung:** Methylenblau 0,01 % in Natriumcitrat-Dihydrat 2 % (beide m/V). Weil 0,01 g mit einer Küchen- oder Kellerwaage nicht genau wägbar ist: zuerst eine Stammlösung mit 0,10 g Methylenblau in 100 mL Wasser ansetzen, davon 10 mL mit 2,0 g Natriumcitrat-Dihydrat auf 100 mL auffüllen. Filtrieren, dunkel lagern.
 
-> **Offen:** Das Rezept (0,01 % Methylenblau in 2 % Natriumcitrat) ist ein verbreiteter Standard aus der Brau- und Weinmikrobiologie (Fachwissen); vor Verwendung in [1] nachlesen.
+Das Rezept entspricht der AWRI-Laborvorschrift: 0,01 g Methylenblau in 10 mL Wasser lösen, 2 g Natriumcitrat-Dihydrat darin lösen, filtrieren und auf 100 mL auffüllen [17]. Das AWRI mischt 0,1 mL Farblösung mit 0,9 mL verdünnter Hefesuspension (Faktor 10/9) und zählt nach 10 min; sind alle Zellen blau, war die Einwirkzeit zu lang [17]. Beide Mischungsverhältnisse sind brauchbar, wenn der Verdünnungsfaktor stimmt.
 
 **Durchführung:**
 
@@ -186,7 +186,7 @@ Trockenhefe wird nach Herstellerangabe in warmem Wasser aufgeweckt und dann lang
 
 **Animpfdichte (eigene Rechnung):** Bei 1–2 × 10¹⁰ lebenden Zellen pro Gramm ergeben 20 g/hL im Most 2–4 × 10⁶ Zellen pro mL, 25 g/hL 2,5–5 × 10⁶ Zellen pro mL.
 
-> **Offen:** Der Gehalt handelsüblicher Trockenhefe an lebenden Zellen (Größenordnung 10¹⁰ pro Gramm) und die angestrebte Animpfdichte (Größenordnung 10⁶ pro mL) sind Fachwissen bzw. Herstellerangaben und wurden nicht gegen eine Quelle geprüft. Die Angaben des Hefeherstellers gelten vorrangig. Ein hoher Anteil blauer Zellen nach der Rehydrierung deutet auf zu heißes oder zu kaltes Wasser, zu lange Wartezeit oder überlagerte Hefe.
+Die OIV verlangt für aktive Trockenhefe mindestens 10¹⁰ koloniebildende Einheiten je Gramm Trockenmasse [18]. Das AWRI rechnet mit 2 × 10¹⁰ Zellen je Gramm: 25 g/hL ergeben dann mindestens 5 × 10⁶ lebende Zellen je mL [19]. Die Angaben des Hefeherstellers gelten vorrangig. Ein hoher Anteil blauer Zellen nach der Rehydrierung deutet auf zu heißes oder zu kaltes Wasser, zu lange Wartezeit oder überlagerte Hefe.
 
 ### 2. Gärstart und Gärverlauf
 
@@ -224,7 +224,7 @@ Kahmhefen (unter anderem Arten von Pichia und Candida) bilden auf Wein mit Luftk
 
 ### 7. Brettanomyces
 
-Brettanomyces (Dekkera) bildet aus Zimtsäuren 4-Ethylphenol und 4-Ethylguajacol. Diese riechen nach Pferdestall, Leder und Medizin [5, 7]. Chatonnet et al. nannten für ein Gemisch aus 4-Ethylphenol und 4-Ethylguajacol (10:1) in Rotwein eine Wahrnehmungsschwelle von rund 400 µg/L [7].
+Brettanomyces (Dekkera) bildet aus Zimtsäuren 4-Ethylphenol und 4-Ethylguajacol. Diese riechen nach Pferdestall, Leder und Medizin [5, 7]. Chatonnet et al. fanden in einem französischen Cabernet für 4-Ethylphenol allein eine Wahrnehmungsschwelle von 605 µg/L. Mit 37 µg/L 4-Ethylguajacol (Verhältnis etwa 10:1) sank sie auf 369 µg/L 4-Ethylphenol, zusammen also rund 400 µg/L [7, 20]. In australischen Rotweinen lagen die Schwellen je nach Stil ähnlich oder etwas niedriger [20].
 
 Unter dem Mikroskop zeigt Brettanomyces oft kleine, spitzbogenförmige (ogivale) oder längliche Zellen und manchmal Pseudomyzel. Die Form wechselt aber stark mit den Bedingungen und ähnelt anderen Hefen. **Eine Bestimmung nach dem Aussehen ist nicht möglich** [5].
 
@@ -233,7 +233,7 @@ Sichere Wege:
 - **Selektivnährboden:** Das Dekkera/Brettanomyces-Differentialmedium (DBDM) enthält Ethanol als Kohlenstoffquelle, Cycloheximid gegen andere Hefen, p-Cumarsäure und einen Farbindikator. Brettanomyces wächst langsam, verfärbt den Nährboden und riecht nach 4-Ethylphenol [6]. Auch WL-Differentialmedium mit Cycloheximid lässt Brettanomyces wachsen. Bebrütung bis 14 Tage.
 - **Laboranalyse:** 4-Ethylphenol und 4-Ethylguajacol (Gaschromatographie) zeigen, ob schon Fehltöne gebildet wurden. PCR-Nachweise zeigen, ob die Hefe vorhanden ist. Beides bieten spezialisierte Labors an.
 
-> **Offen:** Der Schwellenwert aus [7] wurde aus dem Fachwissen übernommen und nicht online geprüft. Die Zusammensetzung des DBDM vor dem Selbstansetzen in [6] nachlesen; fertige Platten sind für den Kleinbetrieb einfacher.
+> **Offen:** Die Schwellenwerte aus [7] sind über die Zusammenfassung des AWRI [20] geprüft, nicht in der Originalarbeit. Die Zusammensetzung des DBDM vor dem Selbstansetzen in [6] nachlesen; fertige Platten sind für den Kleinbetrieb einfacher.
 
 ## Kultivierung im Kleinbetrieb
 
@@ -382,7 +382,7 @@ Stand: November 2026
 
 1. Fugelsang, K. C.; Edwards, C. G. (2007): Wine Microbiology – Practical Applications and Procedures. 2. Auflage. Springer, New York. [nicht online geprüft]
 2. Ribéreau-Gayon, P.; Dubourdieu, D.; Donèche, B.; Lonvaud, A. (2006): Handbook of Enology, Volume 1: The Microbiology of Wine and Vinifications. 2. Auflage. John Wiley & Sons, Chichester. [nicht online geprüft]
-3. OIV: Microbiological analysis of wines and musts – detection, differentiation and counting of micro-organisms (Methode OIV-MA-AS4-01). In: Compendium of International Methods of Wine and Must Analysis. OIV, Paris. [nicht online geprüft] – Methodencode vor Verwendung prüfen.
+3. OIV: Microbiological analysis of wines and musts – detection, differentiation and counting of micro-organisms (Methode OIV-MA-AS4-01, Typ IV, Resolution OIV-Oeno 206/2010). In: Compendium of International Methods of Wine and Must Analysis. OIV, Paris. https://www.oiv.int/public/medias/2590/oiv-ma-as4-01.pdf [online geprüft – Methodencode, Typ und Geltungsbereich über Suchauszug gesehen; Methodentext nicht gelesen]
 4. König, H.; Unden, G.; Fröhlich, J. (Hrsg.) (2017): Biology of Microorganisms on Grapes, in Must and in Wine. 2. Auflage. Springer, Cham. [nicht online geprüft]
 5. Loureiro, V.; Malfeito-Ferreira, M. (2003): Spoilage yeasts in the wine industry. International Journal of Food Microbiology 86, 23–50. [nicht online geprüft]
 6. Rodrigues, N.; Gonçalves, G.; Pereira-da-Silva, S.; Malfeito-Ferreira, M.; Loureiro, V. (2001): Development and use of a new medium to detect yeasts of the genera Dekkera/Brettanomyces. Journal of Applied Microbiology 90, 588–599. [nicht online geprüft]
@@ -396,3 +396,7 @@ Stand: November 2026
 14. World Health Organization (2020): Laboratory Biosafety Manual. 4. Auflage. WHO, Genf. [nicht online geprüft]
 15. Verordnung biologische Arbeitsstoffe (VbA), BGBl. II Nr. 237/1998 in der geltenden Fassung. RIS. [nicht online geprüft]
 16. Green, S. R.; Gray, P. P. (1950): A differential procedure applicable to bacteriological investigation in brewing. Wallerstein Laboratories Communications 13, 357–366. [nicht online geprüft]
+17. AWRI – Australian Wine Research Institute: Total & non-viable counts of yeast cells in a culture. Laboratory methods. https://www.awri.com.au/industry_support/winemaking_resources/laboratory_methods/microbiological/identification-of-yeast/non-viable_counts/ [online geprüft – nur Suchauszug: Rezept der Methylenblaulösung, 0,1 + 0,9 mL, 10 min]
+18. OIV: International Oenological Codex – Active dry yeasts (Monographie). https://www.oiv.int/node/3690 [online geprüft – nur Suchauszug: mindestens 10¹⁰ KBE/g Trockenmasse]
+19. AWRI – Australian Wine Research Institute: Rehydration of active dried wine yeast (Merkblatt s1586). https://www.awri.com.au/wp-content/uploads/2018/04/s1586.pdf [online geprüft – nur Suchauszug: 250 mg/L ergeben mindestens 5 × 10⁶ lebende Zellen/mL bei 2 × 10¹⁰ Zellen/g; Titel sinngemäß]
+20. AWRI – Australian Wine Research Institute: Fachinformation zu Sensorikschwellen von 4-Ethylphenol und 4-Ethylguajacol (s1523). https://www.awri.com.au/s1523 [online geprüft – nur Suchauszug: Chatonnet et al. 1992, 605 µg/L bzw. 369 µg/L mit 37 µg/L 4-EG; Titel nicht gesehen]

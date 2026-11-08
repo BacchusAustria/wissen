@@ -414,7 +414,7 @@ Beide Methoden messen Verschiedenes und liefern unterschiedliche Zahlen. Verglei
 | Essigsäure | EU-Höchstgehalt flüchtige Säure (VO (EU) 2019/934, Anhang I Teil C): 18 meq/L (≈ 1,08 g/L als Essigsäure) bei Weiß- und Roséwein, 20 meq/L (≈ 1,20 g/L) bei Rotwein; Ausnahmen der Mitgliedstaaten möglich [24] | Steigt der Wert zwischen zwei Messungen deutlich, Ursache suchen; siehe [Flüchtige Säure](fluechtige-saeure.md) |
 | YAN (Ammonium-N + NOPA) | Mindestwert etwa 140 mg N/L, Zielwert zuckerabhängig | Nährstoffgabe nach [Stickstoff (YAN)](stickstoff-yan.md) |
 | Acetaldehyd | 1 mg/L bindet 1,45 mg/L SO2 | Hoher Wert erklärt hohen SO2-Bedarf; siehe [Schweflige Säure](schweflige-saeure.md) |
-| Kupfer | nach Behandlung mit Kupfersulfat oder Kupfercitrat höchstens 1 mg/L im behandelten Erzeugnis (VO (EU) 2019/934, Anhang I Teil A Tabelle 2 Nr. 10.1 und 10.2) [24]; Kupferbruch in Weißwein ab etwa 0,5 mg/L möglich (AWRI [33]) | Bei Werten ab etwa 0,5 mg/L Labormessung und Lichttest (siehe [Stabilitätstests](stabilitaetstests.md)) |
+| Kupfer | nach Behandlung mit Kupfersulfat oder Kupfercitrat höchstens 1 mg/L im behandelten Erzeugnis (VO (EU) 2019/934, Anhang I Teil A Tabelle 2 Nr. 10.1 und 10.2) [24], OIV ebenfalls 1 mg/L [25]; Kupferbruch in Weißwein ab etwa 0,5 mg/L möglich (AWRI [33]) | Bei Werten ab etwa 0,5 mg/L Labormessung und Lichttest (siehe [Stabilitätstests](stabilitaetstests.md)) |
 | Eisen | kein Rechtswert; Eisenbruch ab etwa 6 mg/L möglich, vereinzelt auch darunter (AWRI [34]) | Belüftungstest, Citronensäure oder Laborberatung |
 | Farbton | junge Rotweine deutlich unter 1; steigt mit dem Alter [12] | Verlauf je Wein über die Zeit verfolgen |
 

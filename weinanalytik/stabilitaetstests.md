@@ -204,7 +204,7 @@ Die kleinste stabile Stufe ist 60 g/hL. ΔNTU = 1,45 liegt nahe an der Grenze. D
 
 Tank 2.400 L = 24 hL. Bei 60 g/hL sind das 1.440 g, mit Zuschlag auf 70 g/hL 1.680 g (gerechnet).
 
-Das Bentonit wie im Labor in Wasser vorquellen lassen, nach Herstellerangabe. Wasser so sparsam wie technisch nötig verwenden, weil Wasserzusatz zum Wein nur aus technischer Notwendigkeit zulässig ist ‡ [32]. Gründlich einmischen (Umpumpen oder Rührwerk), denn die Durchmischung entscheidet über die Wirkung mit [11]. Nach dem Absetzen eine Probe aus dem Tank filtrieren und den Wärmetest wiederholen.
+Das Bentonit wie im Labor in Wasser vorquellen lassen, nach Herstellerangabe. Wasser so sparsam wie technisch nötig verwenden, weil Wasserzusatz zum Wein nur bei besonderer technischer Notwendigkeit zulässig ist [32]. Gründlich einmischen (Umpumpen oder Rührwerk), denn die Durchmischung entscheidet über die Wirkung mit [11]. Nach dem Absetzen eine Probe aus dem Tank filtrieren und den Wärmetest wiederholen.
 
 **Sicherheitszuschlag.** Eine wissenschaftlich festgelegte Größe gibt es nicht.
 
@@ -232,12 +232,12 @@ Calciumtartrat (CaT) kristallisiert langsamer, oft erst Monate nach der Füllung
 
 | Variante | Bedingungen | Quelle | Einordnung |
 |---|---|---|---|
-| Kältetest | −4 °C, 3–6 Tage ‡ | [18, 19] | gebräuchlich; unterschätzt eher |
+| Kältetest („Brine test“) | −4 °C, 3 Tage, filtrierte Probe | AWRI [34]; [18, 19] | gebräuchlich; sagt nur die heutige Stabilität voraus |
 | Gefriertest | Probe einfrieren und bei Raumtemperatur auftauen; bleiben Kristalle, gilt der Wein als instabil ‡ | [18] | streng; überschätzt eher, weil der Wein beim Gefrieren aufkonzentriert wird |
 | Kühlschranktest | 0–5 °C, eine Woche oder länger | Praxis, nicht belegt | schwach |
 | Mini-Kontakttest | 0 °C, Impfung mit KHT, Leitfähigkeit messen | 2.3 | schnell und messend |
 
-> **Offen:** Temperatur und Dauer des Kältetests und die Bewertung des Gefriertests sind aus Standardwerken übernommen ‡ und nicht online geprüft. Die Angaben in der Literatur schwanken.
+> **Offen:** −4 °C und 3 Tage für den Kältetest sind durch das AWRI belegt; in einer Vortragsfolie des AWRI stehen auch 3–7 Tage [34]. Das AWRI empfiehlt, den Kältetest mit der Sättigungstemperatur (2.4) zu kombinieren [34]. Die Bewertung des Gefriertests ist aus Standardwerken übernommen ‡ und nicht online geprüft.
 
 **Material:** Kühl- oder Gefriergerät, das −4 °C halten kann, zum Beispiel eine Gefriertruhe mit externem Thermostatregler. Thermometer mit 0,1 °C Auflösung, zwei klare Glasflaschen 250 mL mit Schraubverschluss, Filtration 0,45 µm oder feines Filterpapier, Lupe, Taschenlampe.
 
@@ -247,7 +247,7 @@ Calciumtartrat (CaT) kristallisiert langsamer, oft erst Monate nach der Füllung
 
 1. Zwei Teilproben zu je 250 mL durch 0,45 µm filtrieren. Das entfernt vorhandene Kristallkeime.
 2. In saubere, klare Glasflaschen füllen, verschließen und beschriften.
-3. Die Probe bei −4 °C lagern, die Kontrolle bei Raumtemperatur, 3–6 Tage ‡.
+3. Die Probe bei −4 °C lagern, die Kontrolle bei Raumtemperatur, 3 Tage [34].
 4. Noch kalt prüfen: Flasche langsam drehen und Boden und Wand vor dunklem Hintergrund mit der Taschenlampe nach glitzernden Kristallen absuchen. Mit der Kontrolle vergleichen.
 5. Bewerten: Kristalle bedeuten instabil. Ohne Kristalle ist der Wein unter diesen Bedingungen stabil.
 
@@ -273,7 +273,7 @@ Calciumtartrat (CaT) kristallisiert langsamer, oft erst Monate nach der Füllung
 1. Temperaturkompensation des Messgeräts ausschalten oder für die ganze Messung unverändert lassen.
 2. 100 mL filtrierten Wein im Becherglas im Eisbad unter Rühren auf 0 °C kühlen.
 3. Warten, bis Temperatur (±0,1 °C) und Leitfähigkeit konstant sind. Den Anfangswert L0 notieren.
-4. 0,40 g KHT zugeben, das sind 4 g/L ‡. Rührgeschwindigkeit und Temperatur unverändert lassen.
+4. 0,40 g KHT zugeben, das sind 4 g/L [35]. In der Literatur wird bei 0 ± 0,1 °C höchstens 18 min gemessen [35]. Rührgeschwindigkeit und Temperatur unverändert lassen.
 5. Die Leitfähigkeit alle 5 min notieren, bis sie über etwa 10 min nicht mehr sinkt. Den Endwert L1 notieren.
 
 **Berechnung:** Abnahme (%) = (L0 − L1) / L0 × 100.
@@ -282,7 +282,7 @@ Beispiel: L0 = 1.120 µS/cm, L1 = 1.071 µS/cm. Die Abnahme beträgt 49 µS/cm o
 
 **Auswertung:**
 
-> **Offen:** Eine einheitliche Bewertungsgrenze gibt es nicht. In Laborunterlagen verbreitet ist etwa folgende Einteilung ‡: Abnahme unter 3 % stabil, 3–5 % grenzwertig, über 5 % instabil. Die Werte stammen aus dem Fachwissen und sind noch nicht gegen eine Quelle geprüft. Das Beispiel mit 4,4 % wäre danach grenzwertig.
+> **Offen:** Eine einheitliche Bewertungsgrenze gibt es nicht. In Laborunterlagen verbreitet ist etwa folgende Einteilung ‡: Abnahme unter 3 % stabil, 3–5 % grenzwertig, über 5 % instabil. Diese Einteilung ließ sich nicht belegen. Eine Validierungsstudie in Food Chemistry (2015) hat getrennte Grenzen für Weißwein und für Rot- und Roséwein aus dem Vergleich mit dem Kältetest abgeleitet; die Zahlen standen im gesehenen Auszug nicht. Eine Abschlussarbeit der Universität Turin nennt 5 % für Weißwein und 4 % für Rotwein [36]; das ist nur eine Sekundärquelle. Das Beispiel mit 4,4 % wäre danach bei Weißwein stabil, bei Rotwein instabil, nach der Fachwissen-Einteilung grenzwertig.
 
 Empfehlung: Die Grenze des eigenen Labors oder des Lohnlabors übernehmen und über einige Jahrgänge mit den Kältetest-Ergebnissen der eigenen Weine abgleichen.
 
@@ -307,31 +307,31 @@ Empfehlung: Die Grenze des eigenen Labors oder des Lohnlabors übernehmen und ü
 
 **Grenzen.** Tsat beschreibt nur die Löslichkeit. Hemmstoffe wie Metaweinsäure, CMC, Mannoproteine oder Kaliumpolyaspartat ändern die Löslichkeit nicht, sie bremsen das Kristallwachstum. Nach ihrem Zusatz ist Tsat nicht mehr aussagekräftig ‡. Calciumtartrat wird nicht erfasst.
 
-> **Offen:** Der Faktor 29,3, die KHT-Menge und die Grenzen 12,5 °C (Weißwein) und 10,5–11 °C (Rotwein) stammen aus dem Fachwissen. Sie wurden nicht gegen die Originalarbeit von Würdig, Müller und Friedrich (um 1980–1982) geprüft. Vor Anwendung in [20] oder [17] nachlesen.
+> **Offen:** Der Faktor 29,3, die KHT-Menge und die Grenzen 12,5 °C (Weißwein) und 10,5–11 °C (Rotwein) stammen aus dem Fachwissen. Zwei gezielte Suchen (November 2026, deutsch und englisch) fanden weder Formel noch Grenzen; bestätigt ist nur das Prinzip (Leitfähigkeitsanstieg nach KHT-Zugabe bei Raumtemperatur, niedrige Tsat = stabiler). Die Originalarbeit von Würdig, Müller und Friedrich (um 1980–1982) wurde nicht eingesehen. Vor Anwendung in [20] oder [17] nachlesen.
 
 ### 2.5 Calciumtartrat
 
 - **Wann ein Risiko besteht:** nach einer Entsäuerung mit Kalk oder Doppelsalz, bei hohem pH-Wert (mehr Tartrat-Dianion), bei Weinen aus Betonbehältern oder nach calciumreichen Behandlungsmitteln ‡ [17, 18]. Ausfälle zeigen sich oft erst Monate nach der Füllung.
-- **Richtwert:** In der Literatur gilt ein Risiko ab etwa 80 mg/L Calcium in Weißwein und ab etwa 60 mg/L in Rotwein ‡ [17, 18].
+- **Richtwert:** Das AWRI sieht Weine ab etwa 70–80 mg/L Calcium als gefährdet an [37]. In Fachartikeln verbreitet sind 80 mg/L für Weißwein und 60 mg/L für Rotwein ‡ [17, 18]. Die Werte sind keine scharfen Grenzen: Hemmstoffe und ein hoher pH-Wert verschieben das Risiko.
 - **Test im Betrieb:** Calcium messen (Fotometer-Testsatz oder Titration, siehe [Fotometrie und Enzymatik](fotometrie-enzymatik.md)) und die Vorgeschichte des Weins prüfen. Kältetest und Mini-Kontakttest erfassen Calciumtartrat nicht. Tests mit Calciumtartrat-Impfung bieten nur Fachlabore an.
 - **Vorbeugen:** Mit Kalk möglichst schon im Most und genau berechnet entsäuern, siehe [Säure und pH](saeure-ph.md). Nach einer Kalkentsäuerung das Calcium messen und den Wein länger lagern, bevor er gefüllt wird. Metaweinsäure hemmt auch Calciumtartrat, aber nur zeitlich begrenzt ‡ [17].
 
-> **Offen:** Die Calcium-Richtwerte (60 und 80 mg/L) und die Wirkung von Metaweinsäure und Kaliumpolyaspartat auf Calciumtartrat sind nicht online geprüft.
+> **Offen:** Die getrennten Werte 60 mg/L (Rotwein) und 80 mg/L (Weißwein) fanden sich nur in einer Fachzeitschrift ohne begutachtete Quelle; belegt ist der AWRI-Bereich 70–80 mg/L [37]. Die Wirkung von Metaweinsäure und Kaliumpolyaspartat auf Calciumtartrat ist nicht online geprüft.
 
 ### 2.6 Stabilisierungsverfahren und Bio-Zulässigkeit
 
-| Verfahren oder Mittel | Wirkung | EU-Höchstmenge ‡ [22] | Bio ‡ [23, 24] | Hinweise |
+| Verfahren oder Mittel | Wirkung | EU-Recht: Bedingung, Menge [22] | Bio [23, 24] | Hinweise |
 |---|---|---|---|---|
 | Kältebehandlung, mit KHT-Impfung als Kontaktverfahren [30] | entfernt überschüssiges KHT dauerhaft | – | zulässig | braucht Energie; pH verschiebt sich (2.1); wirkt kaum gegen Calciumtartrat |
 | Winterkälte im Keller | wie Kältebehandlung, aber langsam und ungeregelt | – | zulässig | mit Kältetest absichern |
-| Kaliumhydrogentartrat als Impfkristall | beschleunigt die Kristallisation | keine | zulässig | – |
-| Metaweinsäure | hemmt das Kristallwachstum, zeitlich begrenzt; wird bei Wärme schneller abgebaut ‡ | 100 mg/L | zulässig | für Weine, die bald getrunken werden |
-| Carboxymethylcellulose (CMC) | hemmt das KHT-Kristallwachstum | 100 mg/L | nicht zulässig | nur in eiweißstabilen Wein; im Rotwein Farbstoffausfall möglich; gegen Calciumtartrat unwirksam ‡ |
-| Mannoproteine aus Hefe | hemmen die KHT-Kristallisation, Wirkung weinabhängig ‡ | keine bekannt | zulässig (prüfen) | Vorversuch nötig |
-| Kaliumpolyaspartat (KPA) | hemmt das KHT-Kristallwachstum [31] | 100 mg/L | nicht zulässig | nur in eiweißstabilen Wein |
-| Elektrodialyse, Kationenaustauscher | entziehen Kalium bzw. Calcium | mit Auflagen | verboten | Lohnunternehmen; nicht für den Kleinbetrieb |
+| Kaliumhydrogentartrat als Impfkristall | beschleunigt die Kristallisation | Nr. 6.1; keine Zahl | zulässig | – |
+| Metaweinsäure | hemmt das Kristallwachstum, zeitlich begrenzt; wird bei Wärme schneller abgebaut ‡ | Nr. 6.7; keine Zahl im EU-Text, über Fußnote 3 gilt das OIV-Dossier: 100 mg/L [25, 38] | zulässig | für Weine, die bald getrunken werden |
+| Carboxymethylcellulose (CMC) | hemmt das KHT-Kristallwachstum | Nr. 6.11: nur zur Weinsteinstabilisierung, nur Weiß- und Roséwein sowie Schaumweine; OIV-Dossier seit 2019: unter 200 mg/L (vorher 100 mg/L) [39] | nicht zulässig | für Rotwein nicht zugelassen; nur in eiweißstabilen Wein; gegen Calciumtartrat unwirksam ‡ |
+| Mannoproteine aus Hefe | hemmen die KHT-Kristallisation, Wirkung weinabhängig ‡ | Nr. 6.10; keine Zahl | zulässig | Vorversuch nötig |
+| Kaliumpolyaspartat (KPA) | hemmt das KHT-Kristallwachstum [31] | Nr. 6.13: nur zur Förderung der Weinsteinstabilisierung; OIV-Dossier: höchstens 10 g/hL (100 mg/L) [39] | nicht zulässig | nur in eiweißstabilen Wein |
+| Elektrodialyse, Kationenaustauscher | entziehen Kalium bzw. Calcium | mit Auflagen | verboten (VO (EU) 2018/848, Anhang II Teil VI Nr. 3.2 c und e) | Lohnunternehmen; nicht für den Kleinbetrieb |
 
-> **Achtung:** Alle Höchstmengen und Bio-Angaben dieser Tabelle stammen aus dem Fachwissen (VO (EU) 2019/934, Anhang I Teil A; VO (EU) 2021/1165, Anhang V Teil D; VO (EU) 2018/848, Anhang II Teil VI) und wurden nicht online geprüft. Verbandsrichtlinien wie Bio Austria oder Demeter können strenger sein.
+> **Achtung:** Die Spalten EU-Recht und Bio wurden im konsolidierten Wortlaut geprüft (VO (EU) 2019/934 Stand 29.12.2024; VO (EU) 2021/1165 Stand 01.01.2026; VO (EU) 2018/848 Stand 25.03.2025). Seit der Neufassung der Tabelle nennt die EU für Metaweinsäure, CMC, Kaliumpolyaspartat, PVPP, Ascorbinsäure und Aktivkohle keine eigenen Zahlen mehr. Nach Fußnote 3 der Tabelle 2 sind die Stoffe nach den Bestimmungen der genannten OIV-Dossiers zu verwenden; die Zahlen in Klammern stammen daher aus dem OIV-Kodex (die früheren EU-Zahlen standen in VO (EG) Nr. 606/2009). Verbandsrichtlinien wie Bio Austria oder Demeter können strenger sein.
 
 ---
 
@@ -364,7 +364,7 @@ Eisen stammt aus Boden und Staub am Lesegut und aus eisenhaltigen Geräten ‡ [
 3. Beide 3–7 Tage ‡ im Kühlschrank stehen lassen und täglich vergleichen.
 4. Trübt sich nur die belüftete Probe, ist Eisenbruch möglich. Dann den Eisengehalt messen.
 
-**Vorbeugung und Behandlung** ‡ [17, 22]: Sauerstoffaufnahme begrenzen. Citronensäure bindet Eisen(III); im Wein sind höchstens 1 g/L ‡ zulässig, auch im Bio-Wein ‡ [23]. Milchsäurebakterien bauen Citronensäure ab, dabei kann Essigsäure entstehen. Citronensäure daher nur in mikrobiologisch stabilen Wein geben. Gummiarabikum wirkt als Schutzkolloid ‡. Die Blauschönung mit Kaliumhexacyanoferrat(II) entfernt Eisen und Kupfer, verlangt aber eine exakte Labor-Vorprobe durch Fachleute und ist im Bio-Wein nicht zulässig ‡. Für den Kleinbetrieb ist sie nicht geeignet.
+**Vorbeugung und Behandlung** ‡ [17, 22]: Sauerstoffaufnahme begrenzen. Citronensäure bindet Eisen(III); im behandelten Wein sind höchstens 1 g/L zulässig (Nr. 6.3) [22], auch im Bio-Wein [23]. Milchsäurebakterien bauen Citronensäure ab, dabei kann Essigsäure entstehen. Citronensäure daher nur in mikrobiologisch stabilen Wein geben. Gummiarabikum wirkt als Schutzkolloid ‡. Die Blauschönung mit Kaliumhexacyanoferrat(II) entfernt Eisen und Kupfer, verlangt aber eine exakte Labor-Vorprobe durch Fachleute (Nr. 6.5, Anlage 4) [22] und ist im Bio-Wein nicht zulässig, weil sie in Anhang V Teil D fehlt [23]. Für den Kleinbetrieb ist sie nicht geeignet.
 
 ### 3.3 Messung und Richtwerte
 
@@ -372,12 +372,12 @@ Kupfer und Eisen lassen sich mit Fotometer-Testsätzen messen, siehe [Fotometrie
 
 | Metall | Richt- oder Grenzwert | Quelle |
 |---|---|---|
-| Kupfer | Kupferbruch in Weißwein ab etwa 0,5 mg/L möglich ‡ | [17, 18] |
-| Kupfer | höchstens 1 mg/L im Wein nach einer Kupferbehandlung (EU) ‡ | [22] |
+| Kupfer | Kupferbruch in Weißwein ab etwa 0,5 mg/L wahrscheinlich; manche Weine trüben knapp darunter, andere knapp darüber nicht | AWRI [40]; [17, 18] |
+| Kupfer | höchstens 1 mg/L im behandelten Wein nach einer Kupferbehandlung (EU; Likörweine aus frischem Most 2 mg/L) | [22] |
 | Kupfer | Höchstwert 1 mg/L im Wein (OIV) ‡ | [25] |
-| Eisen | Risiko für Eisenbruch steigt deutlich über etwa 10 mg/L ‡ | [17, 18] |
+| Eisen | Eisenbruch ab etwa 6 mg/L möglich; Weißweine trübten vereinzelt auch darunter | AWRI [41] |
 
-> **Offen:** Die Richtwerte für Kupferbruch (0,5 mg/L) und Eisenbruch (10 mg/L) sowie Dauer und Bedingungen von Licht- und Belüftungstest stammen aus dem Fachwissen. Vor Verwendung in [17] und [18] nachlesen.
+> **Offen:** Der Kupferwert 0,5 mg/L ist durch das AWRI bestätigt [40]. Der frühere Eisenwert „über etwa 10 mg/L“ wurde nach dem AWRI auf „ab etwa 6 mg/L“ korrigiert [41]. Dauer und Bedingungen von Licht- und Belüftungstest stammen weiter aus dem Fachwissen; vor Verwendung in [17] und [18] nachlesen.
 
 ---
 
@@ -405,14 +405,14 @@ Kupfer und Eisen lassen sich mit Fotometer-Testsätzen messen, siehe [Fotometrie
 
 ### 4.2 Polyphenol-Vorversuch
 
-| Mittel | Wirkt auf | Stammlösung | Versuchsstufen (g/hL) | EU-Höchstmenge ‡ [22] | Bio ‡ [23] | Allergen-kennzeichnung |
+| Mittel | Wirkt auf | Stammlösung | Versuchsstufen (g/hL) | EU-Recht [22] | Bio [23] | Allergen-kennzeichnung |
 |---|---|---|---|---|---|---|
-| PVPP (Polyvinylpolypyrrolidon) | niedermolekulare Phenole, Bräunungsvorstufen, Bitterkeit | 2 % Suspension in Wasser | 0, 10, 20, 40, 60 | 80 g/hL | nicht zulässig | nein |
-| Kasein, Kaliumkaseinat | Bräunung, Farbe, Bitterkeit | 2 % in lauwarmem Wasser (Kaliumkaseinat löst sich) | 0, 10, 20, 40 | keine bekannt (prüfen) | zulässig | Milch, wenn nachweisbar [33] |
-| Erbsenprotein | Gerbstoff, Bitterkeit, Klärung | 2 % Suspension | 0, 5, 10, 20 | keine | zulässig | nein |
-| Kartoffelprotein | wie Erbsenprotein | 2 % Suspension | 0, 5, 10, 20 | keine | prüfen | nein |
-| Gelatine (in Weißwein mit Kieselsol) | Gerbstoff, Bitterkeit, Klärung | 1 % Lösung | 0, 2, 4, 6, 8 | keine | zulässig | nein |
-| Aktivkohle | Fehlgerüche, Verfärbung | 1 % Suspension | 0, 5, 10, 20 | 100 g/hL; Einsatz beschränkt (prüfen) | prüfen | nein |
+| PVPP (Polyvinylpolypyrrolidon) | niedermolekulare Phenole, Bräunungsvorstufen, Bitterkeit | 2 % Suspension in Wasser | 0, 10, 20, 40, 60 | Nr. 5.16; keine Zahl im EU-Text, OIV: 80 g/hL [38] | nicht zulässig | nein |
+| Kasein, Kaliumkaseinat | Bräunung, Farbe, Bitterkeit | 2 % in lauwarmem Wasser (Kaliumkaseinat löst sich) | 0, 10, 20, 40 | Nr. 5.6 und 5.7; keine Zahl | zulässig (Kasein wenn verfügbar aus Bio-Ausgangsstoffen) | Milch, wenn nachweisbar [33] |
+| Erbsenprotein | Gerbstoff, Bitterkeit, Klärung | 2 % Suspension | 0, 5, 10, 20 | Nr. 5.3; keine Zahl | zulässig, wenn verfügbar aus Bio-Ausgangsstoffen | nein |
+| Kartoffelprotein | wie Erbsenprotein | 2 % Suspension | 0, 5, 10, 20 | Nr. 5.4; keine Zahl | zulässig, wenn verfügbar aus Bio-Ausgangsstoffen | nein |
+| Gelatine (in Weißwein mit Kieselsol) | Gerbstoff, Bitterkeit, Klärung | 1 % Lösung | 0, 2, 4, 6, 8 | Nr. 5.1; keine Zahl | zulässig, wenn verfügbar aus Bio-Ausgangsstoffen | nein |
+| Aktivkohle | Fehlgerüche, Verfärbung | 1 % Suspension | 0, 5, 10, 20 | Nr. 3.1: nur für Weißwein und einige Most-Kategorien, Eintrag ins Kellerbuch; keine Zahl im EU-Text (OIV-Wert nicht geprüft) | zulässig („Önologische Holzkohle“) | nein |
 
 Die Versuchsstufen sind ein Vorschlag zum Eingrenzen, keine Empfehlung für die Kellermenge. 1 mL der 2%igen Stammlösung in 100 mL Wein entspricht 20 g/hL, 1 mL der 1%igen Stammlösung 10 g/hL (gerechnet, Formel in 8.3).
 
@@ -432,7 +432,7 @@ Die Versuchsstufen sind ein Vorschlag zum Eingrenzen, keine Empfehlung für die 
 
 ### 4.3 Ascorbinsäure
 
-Ascorbinsäure (Vitamin C) bindet gelösten Sauerstoff rasch. Dabei entsteht Wasserstoffperoxid, das ohne ausreichend freie SO2 seinerseits oxidiert. Ascorbinsäure daher nur zusammen mit SO2 einsetzen ‡ [17]. Sie wird meist bei der Füllung von Weiß- und Roséwein zugesetzt. Der EU-Höchstgehalt im Wein beträgt 250 mg/L ‡ [22]; im Bio-Wein ist Ascorbinsäure zulässig ‡ [23].
+Ascorbinsäure (Vitamin C) bindet gelösten Sauerstoff rasch. Dabei entsteht Wasserstoffperoxid, das ohne ausreichend freie SO2 seinerseits oxidiert. Ascorbinsäure daher nur zusammen mit SO2 einsetzen ‡ [17]. Sie wird meist bei der Füllung von Weiß- und Roséwein zugesetzt. Die EU-Tabelle (Nr. 2.6) nennt keine Zahl; nach ihrer Fußnote 3 gilt das OIV-Dossier, das wie die frühere VO (EG) Nr. 606/2009 höchstens 250 mg/L im behandelten Wein vorsieht [22, 38]. Im Bio-Wein ist L-Ascorbinsäure zulässig [23].
 
 **Vorversuch:** Im Bräunungstest (4.1) eine Variante mit Ascorbinsäure, etwa 100 mg/L, und eingestellter SO2 mitlaufen lassen. Lösung 1 % frisch ansetzen: 0,10 g in 10 mL Wasser = 10 mg/mL. 1 mL davon in 100 mL Wein entspricht 100 mg/L (gerechnet).
 
@@ -484,7 +484,7 @@ Umrechnungen gerechnet; die Stufen sind ein Vorschlag zum Eingrenzen.
 
 **Hochrechnung** (gerechnet): Tank 2.250 L = 22,5 hL. 5 g/hL Gelatine ergeben 112,5 g; 2 Eiklar je hL ergeben 45 Eiklar.
 
-**Hinweise:** Eiklar ist als Ei-Allergen kennzeichnungspflichtig, wenn Rückstände nachweisbar sind ‡ [33]. Gelatine, Eiklar und Erbsenprotein sind im Bio-Wein zulässig, möglichst aus Bio-Herkunft ‡ [23]. In Weiß- und Roséwein nach jeder Eiweißschönung den Wärmetest wiederholen [15].
+**Hinweise:** Eiklar ist als Ei-Allergen kennzeichnungspflichtig, wenn Rückstände nachweisbar sind ‡ [33]. Gelatine, Eiklar und Erbsenprotein sind im Bio-Wein zulässig, wenn verfügbar aus ökologischen/biologischen Ausgangsstoffen [23]. In Weiß- und Roséwein nach jeder Eiweißschönung den Wärmetest wiederholen [15].
 
 ---
 
@@ -522,7 +522,7 @@ Eine Waage mit 0,001 g Ablesung verwenden. Mit 0,01 g Ablesung beträgt der Wäg
 | 100 mL | 0,30 mL | 0,30 mg/L |
 | 50 mL | 0,25 mL | 0,50 mg/L |
 
-**Bio-Betriebe:** Kupfersulfat dient hier nur als Laborreagenz für die Diagnose. Zur Behandlung von Bio-Wein ist nur Kupfercitrat zulässig ‡ [23]. Den Dosisversuch deshalb mit dem Kupfercitrat-Präparat machen, das später im Keller verwendet wird. Dazu so viel Präparat in 100 mL Wasser aufschlämmen, dass 10 mg Kupfer darin enthalten sind; dann gilt dieselbe Dosiertabelle wie für Lösung B.
+**Bio-Betriebe:** Kupfersulfat dient hier nur als Laborreagenz für die Diagnose. Zur Behandlung von Bio-Wein ist nur Kupfercitrat zulässig; Kupfersulfat fehlt in Anhang V Teil D [23]. Den Dosisversuch deshalb mit dem Kupfercitrat-Präparat machen, das später im Keller verwendet wird. Dazu so viel Präparat in 100 mL Wasser aufschlämmen, dass 10 mg Kupfer darin enthalten sind; dann gilt dieselbe Dosiertabelle wie für Lösung B.
 
 Präparatmenge (mg) = 10 / (Kupfergehalt in % / 100).
 
@@ -574,14 +574,14 @@ Die abgemessene Menge in etwas Wein lösen oder aufschlämmen und unter Umpumpen
 
 | Regel | Wert | Quelle |
 |---|---|---|
-| Zusatz von Kupfersulfat oder Kupfercitrat zur Beseitigung von Geruchs- oder Geschmacksfehlern | höchstens 1 g/hL ‡ | VO (EU) 2019/934 [22] |
-| Kupfergehalt des behandelten Weins | höchstens 1 mg/L ‡ | [22] |
+| Zusatz von Kupfersulfat-Pentahydrat oder Kupfercitrat (Korrektur von Mängeln) | höchstens 1 g/hL | VO (EU) 2019/934, Anhang I Teil A Tabelle 2 Nr. 10.1 und 10.2 [22] |
+| Kupfergehalt des behandelten Erzeugnisses | höchstens 1 mg/L (Likörweine aus frischem Most: 2 mg/L) | [22] |
 | Kupfer im Wein (Höchstwert der OIV) | 1 mg/L ‡ | [25] |
-| Bio-Wein | nur Kupfercitrat; Kupfersulfat nicht zulässig ‡ | VO (EU) 2021/1165 [23] |
+| Bio-Wein | nur Kupfercitrat; Kupfersulfat nicht zulässig | VO (EU) 2021/1165, Anhang V Teil D [23] |
 
 1 g/hL Kupfersulfat-Pentahydrat entspräche 2,5 mg/L Kupfer (gerechnet). In der Praxis begrenzt daher der Restkupferwert die Zugabe, nicht die Grenze von 1 g/hL. Wegen Kupferbruch (3.1) und Oxidation das Restkupfer möglichst deutlich unter 0,5 mg/L halten ‡ [17].
 
-> **Offen:** Höchstmengen und Bio-Status stammen aus dem Fachwissen und sind nicht online geprüft. Vor jeder Kupferbehandlung den konsolidierten Text der VO (EU) 2019/934 (Anhang I Teil A) und der VO (EU) 2021/1165 (Anhang V Teil D) bei EUR-Lex lesen.
+Höchstmengen und Bio-Status wurden im konsolidierten Wortlaut geprüft (VO (EU) 2019/934 Stand 29.12.2024; VO (EU) 2021/1165 Stand 01.01.2026) [22, 23]. Der OIV-Höchstwert von 1 mg/L [25] ist nicht im Original geprüft.
 
 ### 6.6 Grenzen
 
@@ -603,7 +603,7 @@ Vor der Füllung klären:
 - Freie und molekulare SO2, siehe [Schweflige Säure](schweflige-saeure.md).
 - Hefen und Bakterien unter dem Mikroskop; Membranfiltertest nach der Füllung, siehe [Mikrobiologie und Mikroskopie](mikrobiologie-mikroskopie.md).
 
-Weine mit Restzucker oder ohne BSA werden in der Regel über Membranfilter keimarm gefüllt. Im Bio-Wein darf die Porenweite bei der Filtration 0,2 µm nicht unterschreiten ‡ [24].
+Weine mit Restzucker oder ohne BSA werden in der Regel über Membranfilter keimarm gefüllt. Im Bio-Wein darf die Porenweite bei Zentrifugation und Filtration 0,2 µm nicht unterschreiten (Anhang II Teil VI Nr. 3.3 b) [24].
 
 ### 7.2 Filtrierbarkeit
 
@@ -613,13 +613,13 @@ Weine mit Restzucker oder ohne BSA werden in der Regel über Membranfilter keima
 
 IC = T400 − 2 × T200
 
-T200 und T400 sind die Zeiten in Sekunden, bis 200 mL bzw. 400 mL filtriert sind; Membran 0,65 µm ‡, konstanter Druck ‡. Ohne Verblockung brauchen die zweiten 200 mL genauso lang wie die ersten, und IC ist 0.
+T200 und T400 sind die Zeiten in Sekunden, bis 200 mL bzw. 400 mL filtriert sind; Membran 0,65 µm, 25 mm Durchmesser, konstanter Druck 2 bar, 20 °C [42]. Ohne Verblockung brauchen die zweiten 200 mL genauso lang wie die ersten, und IC ist 0.
 
 Beispiel (gerechnet): T200 = 60 s, T400 = 135 s, IC = 135 − 120 = 15 s.
 
 **Im Kleinbetrieb.** Messgerät und Bewertungsgrenzen liefern meist der Filterhersteller oder ein Labor. Wer selbst misst, hält Membran, Filterfläche, Druck und Temperatur immer gleich und vergleicht nur eigene Werte, zum Beispiel vor und nach einer Vorfiltration oder Enzymbehandlung.
 
-> **Offen:** Formel, Membran (0,65 µm) und Druckbedingungen des Index stammen aus dem Fachwissen. Bewertungsgrenzen sind nicht angegeben, weil keine geprüfte Quelle vorlag.
+> **Offen:** Formel, Membran und Druck sind durch einen Beitrag in der Revue suisse de viticulture, arboriculture, horticulture bestätigt [42]. Dort wird für eine Filtration ohne Verblockung ein IC im Bereich von etwa 20–30 genannt; der Satz war nur auszugsweise lesbar. Diese Grenze deshalb nicht ohne das Original oder die Angabe des Filterherstellers verwenden.
 
 ---
 
@@ -776,12 +776,12 @@ Die Sicherheitsdatenblätter der Lieferanten lesen; die GHS-Angaben oben gelten 
 
 Vor der Verwendung im Original zu prüfen (alle mit ‡ gekennzeichnet):
 
-- Bewertungsgrenzen des Mini-Kontakttests (3 % / 5 %) und die KHT-Menge (4 g/L) [17, 18].
+- Bewertungsgrenzen des Mini-Kontakttests (3 % / 5 %; Sekundärquelle nennt 5 % Weißwein, 4 % Rotwein) [36].
 - Würdig-Formel (Faktor 29,3, Rotwein-Faktor) und Grenzen 12,5 °C bzw. 10,5–11 °C [17, 20].
-- Bedingungen von Kältetest und Gefriertest [18, 19], von Licht- und Belüftungstest [17, 18], vom Bräunungstest [29] und von der Farbstoff-Kälteprobe [17].
-- Calcium-Richtwerte 60 und 80 mg/L; Kupferbruch ab 0,5 mg/L; Eisenbruch ab 10 mg/L [17, 18].
-- Alle EU-Höchstmengen [22] und die Bio-Zulässigkeit [23, 24], besonders für Mannoproteine, Kartoffelprotein, Aktivkohle, CMC und Kaliumpolyaspartat.
-- Formel und Messbedingungen des Filtrierbarkeitsindex [17].
+- Bewertung des Gefriertests [18], Bedingungen von Licht- und Belüftungstest [17, 18], vom Bräunungstest [29] und von der Farbstoff-Kälteprobe [17].
+- Getrennte Calcium-Richtwerte 60 und 80 mg/L (belegt nur AWRI 70–80 mg/L) [37].
+- OIV-Höchstmengen, die über Fußnote 3 der EU-Tabelle gelten (etwa Aktivkohle), im aktuellen OIV-Kodex [25]. EU-Text und Bio-Zulässigkeit sind geprüft (November 2026).
+- Bewertungsgrenze des Filtrierbarkeitsindex [42].
 
 Stand: November 2026
 
@@ -808,9 +808,9 @@ Stand: November 2026
 19. Iland, P. et al. (2004): Chemical Analysis of Grapes and Wine: Techniques and Concepts. Patrick Iland Wine Promotions, Campbelltown (South Australia). [nicht online geprüft]
 20. Würdig, G., Woller, R. (Hrsg.) (1989): Chemie des Weines. Eugen Ulmer, Stuttgart. [nicht online geprüft]
 21. Eder, R. (o. J.): Weinfehler erkennen, vermeiden, beheben. Österreichischer Agrarverlag, Wien. [nicht online geprüft; Erscheinungsjahr, Auflage und Verlag vor Verwendung prüfen]
-22. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 hinsichtlich der Anbaugebiete, der önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, Anhang I Teil A; konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
-23. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang V Teil D; konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
-24. Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion, Anhang II Teil VI (Wein); konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
+22. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 hinsichtlich der Anbaugebiete, der önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, Anhang I Teil A und Teil C; konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Tabelle 2 Nr. 2.6, 3.1, 5.1–5.16, 6.1–6.13, 10.1, 10.2 und Fußnote 3]
+23. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang V Teil D; konsolidierte Fassung vom 01.01.2026. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2026-01-01/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026: vollständige Liste Teil D]
+24. Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion, Anhang II Teil VI (Wein); konsolidierte Fassung vom 25.03.2025. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 25.03.2025: Nr. 2.2, 3.2 und 3.3]
 25. OIV – Internationale Organisation für Rebe und Wein: Compendium of International Methods of Wine and Must Analysis, Anhang C: Maximum acceptable limits of various substances contained in wine. Paris, jeweils aktuelle Ausgabe. [nicht online geprüft]
 26. ISO 7027-1:2016: Wasserbeschaffenheit – Bestimmung der Trübung – Teil 1: Quantitative Verfahren. [nicht online geprüft]
 27. ISO 4120:2021: Sensorische Analyse – Prüfverfahren – Dreiecksprüfung. [nicht online geprüft]
@@ -818,5 +818,14 @@ Stand: November 2026
 29. Singleton, V.L., Kramling, T.E. (1976): Browning of white wines and an accelerated test for browning capacity. American Journal of Enology and Viticulture 27. [nicht online geprüft]
 30. Rhein, O., Neradt, F. (1979): Tartrate stabilization by the contact process. American Journal of Enology and Viticulture 30. [nicht online geprüft]
 31. Bosso, A. et al. (2015): Use of polyaspartate as inhibitor of tartaric precipitations in wines. Food Chemistry 185. [nicht online geprüft]
-32. Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, Anhang VIII Teil II (Verbot des Wasserzusatzes außer bei technischer Notwendigkeit); konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
+32. Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse, Anhang VIII Teil II Abschnitt A Nr. 1 (Verbot des Wasserzusatzes außer bei besonderer technischer Notwendigkeit); konsolidierte Fassung vom 18.08.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.08.2026]
 33. Durchführungsverordnung (EU) Nr. 579/2012 der Kommission vom 29. Juni 2012 zur Kennzeichnung bestimmter Allergene in Wein (Milch- und Eierzeugnisse als Schönungsmittel); heute in die geltenden Kennzeichnungsvorschriften übernommen – aktuellen Stand prüfen. [nicht online geprüft]
+34. AWRI – Australian Wine Research Institute: Refrigeration/brine test (Kältestabilität). Laboratory methods. https://www.awri.com.au/industry_support/winemaking_resources/laboratory_methods/chemical/cold_stab/ [online geprüft – nur Suchauszug: filtrierte Probe 3 Tage bei −4 °C; Kombination mit Tsat empfohlen; Bezug auf Leske et al. 1996]
+35. Universidad de Cádiz: Arbeit zur Weinsteinstabilität von Sherry-Weinen mit Mini-Kontakttest, Food Chemistry (2003). https://bibrepo.uca.es/articuloscientificos/31844261.pdf bzw. https://bibrepo.uca.es/articuloscientificos/3184442x.pdf [online geprüft – nur Suchauszug: 0 ± 0,1 °C, 4 g/L KHT, höchstens 18 min; Autoren und Titel nicht gesehen]
+36. Abschlussarbeit Università di Torino (2014/2015) zum verkürzten Mini-Kontakttest. https://unitesi.unito.it/handle/20.500.14240/114203 [online geprüft – nur Suchauszug: Stabilitätsgrenze 5 % (Weißwein), 4 % (Rotwein); Sekundärquelle, Autor nicht gesehen]
+37. AWRI – Australian Wine Research Institute: Calcium instability. https://www.awri.com.au/?p=1056 [online geprüft – nur Suchauszug: Weine über 70–80 mg/L Calcium gefährdet]
+38. OIV: International Code of Oenological Practices, Annex „Maximum acceptable limits“. https://www.oiv.int/public/medias/3741/e-code-annex-maximum-acceptable-limits.pdf; frühere EU-Werte: VO (EG) Nr. 606/2009, Anhang I A (https://legislation.gov.uk/eur/2009/606/annex/1/2015-09-30) [online geprüft – nur Suchauszug: PVPP 80 g/hL, Metaweinsäure 10 g/hL (100 mg/L), Ascorbinsäure 250 mg/L]
+39. OIV: Resolution OIV-OENO 586-2019 (Cellulosegummi/CMC, Grenze unter 200 mg/L), https://www.oiv.int/node/3116; Resolution OIV-OENO 543-2016 (Kaliumpolyaspartat, höchstens 10 g/hL). [online geprüft – nur Suchauszug]
+40. AWRI – Australian Wine Research Institute: Copper hazes (Fachinformation s2362). https://www.awri.com.au/files/attachment/s2362-copper-hazes [online geprüft – nur Suchauszug: ab 0,5 mg/L Kupfer Instabilität in Weißwein wahrscheinlich]
+41. AWRI – Australian Wine Research Institute: Iron-induced instability. https://www.awri.com.au/industry_support/winemaking_resources/fining-stabilities/hazes_and_deposits/iron_induced_instability/ [online geprüft – nur Suchauszug: etwa 6 mg/L Eisen machen Wein anfällig, Fälle auch darunter]
+42. Revue suisse de viticulture, arboriculture, horticulture: Filtrer sans colmater. https://revuevitiarbohorti.ch/wp-content/uploads/13_Filtrer_sans_colmater_doc_1561.pdf; Messbedingungen auch bei Sartorius: Measuring the Clogging Index of Wines (Herstellerangabe, technische Daten) [online geprüft – nur Suchauszug: IC = T400 − 2 × T200, 0,65 µm, 25 mm, 2 bar; Autor und Jahr nicht gesehen]

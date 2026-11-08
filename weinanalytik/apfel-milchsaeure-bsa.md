@@ -58,16 +58,16 @@ Das malolaktische Enzym der Bakterien decarboxyliert die Äpfelsäure direkt zu 
 
 | Faktor | günstig | hemmend | Hinweis |
 |---|---|---|---|
-| Temperatur | 18–22 °C | unter etwa 15 °C sehr langsam; über etwa 25 °C bei hohem Alkohol schädlich | Wein nach der Gärung nicht auskühlen lassen, wenn der BSA laufen soll |
-| pH-Wert | über 3,3 | unter etwa 3,1–3,2 schwierig | niedriger pH hemmt Verderbniserreger stärker als *O. oeni* |
+| Temperatur | 18–22 °C | unter etwa 16 °C sehr langsam; über etwa 25 °C ungünstig, besonders bei hohem Alkohol | Wein nach der Gärung nicht auskühlen lassen, wenn der BSA laufen soll |
+| pH-Wert | 3,3–3,5 | unter etwa 3,1 schwierig | niedriger pH hemmt Verderbniserreger stärker als *O. oeni* |
 | SO2 | freie SO2 unter etwa 10 mg/L, gesamte SO2 unter etwa 30–40 mg/L | höhere Gehalte, besonders molekulares SO2 | vor dem BSA nicht oder nur gering schwefeln; manche Hefestämme bilden selbst SO2 |
 | Alkohol | unter etwa 13 % vol | über etwa 14 % vol | hoher Alkohol verstärkt die Hemmung durch pH und SO2 |
 | Nährstoffe | Kontakt mit der Hefe (Feinhefe) | erschöpfter Wein | Hefe gibt beim Abbau Aminosäuren und Vitamine ab |
 | Hefestamm | verträgliche Stämme | Stämme mit hoher SO2- oder Fettsäurebildung | Herstellerangaben zur Verträglichkeit beachten |
 
-Die Werte sind Richtwerte aus Übersichtsarbeiten [3, 4, 7, 26]. Die Faktoren wirken zusammen: Bei niedrigem pH, hohem Alkohol und etwas SO2 kann der BSA ausbleiben, obwohl jeder Wert für sich noch tragbar wäre [26].
+Die Werte sind Richtwerte aus Übersichtsarbeiten [3, 4, 7, 26] und decken sich mit der Tabelle günstiger und ungünstiger Bedingungen im MLF-Merkblatt des AWRI [28]. Die Faktoren wirken zusammen: Bei niedrigem pH, hohem Alkohol und etwas SO2 kann der BSA ausbleiben, obwohl jeder Wert für sich noch tragbar wäre [26].
 
-> **Offen:** Die Zahlen der Tabelle stammen aus dem Fachwissen zu den genannten Übersichtsarbeiten und wurden nicht online geprüft. Für Starterkulturen gelten die Herstellerangaben (pH-, Alkohol-, SO2- und Temperaturgrenzen des jeweiligen Stamms).
+> **Offen:** Die Werte für Temperatur, pH, gesamte SO2 und Alkohol wurden über einen Suchauszug des AWRI-Merkblatts (2020) bestätigt [28]; die Angabe zur freien SO2 (unter etwa 10 mg/L) stammt aus älteren AWRI-Unterlagen und ist nicht im Original gelesen. Die Übersichtsarbeiten [3, 4, 7, 26] selbst wurden nicht eingesehen. Für Starterkulturen gelten die Herstellerangaben; das AWRI-Protokoll für gefriergetrocknete Kulturen nennt weitere Grenzen (pH über 3,0, Alkohol unter 15 % vol, gesamte SO2 unter 40 mg/L).
 
 **Beimpfung:**
 
@@ -84,9 +84,9 @@ Die Werte sind Richtwerte aus Übersichtsarbeiten [3, 4, 7, 26]. Die Faktoren wi
 5. Ist keine Äpfelsäure mehr sichtbar, das Ende enzymatisch bestätigen (Abschnitt „Quantitative Kontrolle“).
 6. Danach sofort schwefeln ([Schweflige Säure](schweflige-saeure.md)), kühl stellen, abziehen.
 
-**BSA verhindern oder stoppen:** SO2 nach pH-Wert, kühle Lagerung, frühes Abziehen von der Hefe, niedriger pH, Filtration (Entkeimungsfiltration vor der Füllung). Im konventionellen Weinbau stehen zusätzlich Lysozym und Chitosan zur Verfügung (VO (EU) 2019/934, Anhang I Teil A) [22]. Ob ein BSA unbemerkt abgelaufen ist, zeigt die Papierchromatographie.
+**BSA verhindern oder stoppen:** SO2 nach pH-Wert, kühle Lagerung, frühes Abziehen von der Hefe, niedriger pH, Filtration (Entkeimungsfiltration vor der Füllung). Zusätzlich sind Lysozym (Anhang I Teil A Tabelle 2 Nr. 2.5) und Chitosan aus *Aspergillus niger* oder *Agaricus bisporus* (Nr. 5.13 und 10.3) zugelassen (VO (EU) 2019/934) [22]. Im Bio-Wein ist nur Chitosan aus *Aspergillus niger* zulässig; Lysozym steht nicht in der Bio-Liste [21]. Ob ein BSA unbemerkt abgelaufen ist, zeigt die Papierchromatographie.
 
-> **Offen:** Die Zulassung von Lysozym und Chitosan wurde aus dem Fachwissen übernommen und nicht online geprüft; für Bio-Wein sind beide nach unserem Kenntnisstand nicht in VO (EU) 2021/1165, Anhang V gelistet. Vor Anwendung prüfen.
+Korrektur nach Prüfung des konsolidierten Wortlauts: Chitosan aus *Aspergillus niger* steht in VO (EU) 2021/1165, Anhang V Teil D (Verweis auf Nr. 5.13 und 10.3 der VO (EU) 2019/934) und ist damit für Bio-Wein zulässig. Lysozym ist dort nicht aufgeführt und für Bio-Wein nicht zulässig [21]. Höchstmengen nennt die EU-Tabelle für beide nicht; nach ihrer Fußnote 3 gelten die Bestimmungen der OIV-Dossiers [22].
 
 ## Risiken
 
@@ -127,8 +127,8 @@ Der **Rf-Wert** (Retentionsfaktor) beschreibt die Lage eines Flecks: Rf = Laufst
 | Chromatographiepapier | Whatman Nr. 1 (Grade 1), Bögen 20 × 30 cm oder 20 × 20 cm | 1 Bogen je Lauf |
 | n-Butanol | rein oder p. a. | 100 mL je Ansatz |
 | Ameisensäure | konzentriert (85–100 %) | 10,7 mL je Ansatz |
-| Bromkresolgrün | wasserlösliches Natriumsalz | 0,1 g je Ansatz |
-| Wasser | entmineralisiert | 100 mL je Ansatz |
+| Bromkresolgrün | wasserlösliches Natriumsalz | 0,15 g je Ansatz (als 15 mL Lösung 1 %) |
+| Wasser | entmineralisiert | 100 mL je Ansatz plus 100 mL für die Indikatorlösung |
 | Scheidetrichter | 250–500 mL; ersatzweise Glasflasche und Pipette zum Abtrennen der unteren Phase | – |
 | Messzylinder, Messpipette | 100 mL; 10 mL mit Pipettierhilfe (nie mit dem Mund) | – |
 | Vorratsflasche | Braunglas mit Schraubverschluss | – |
@@ -143,14 +143,14 @@ Fertige Laufmittel und Komplettsets sind im Kellereibedarf erhältlich. Für kle
 
 > **Achtung:** n-Butanol und konzentrierte Ameisensäure sind entzündbar, gesundheitsschädlich, und Ameisensäure verätzt Haut, Augen und Atemwege. Nur im Freien oder unter einem Abzug arbeiten. Schutzbrille und geeignete Handschuhe tragen (Handschuhmaterial laut Sicherheitsdatenblatt). Keine Zündquellen.
 
-1. 0,10 g Bromkresolgrün-Natriumsalz in 100 mL entmineralisiertem Wasser lösen.
-2. In den Scheidetrichter 100 mL n-Butanol, die 100 mL Indikatorlösung und 10,7 mL Ameisensäure geben.
+1. Indikatorlösung: 1,0 g Bromkresolgrün-Natriumsalz in 100 mL entmineralisiertem Wasser lösen (1 %). Sie reicht für mehrere Ansätze.
+2. In den Scheidetrichter 100 mL n-Butanol, 100 mL entmineralisiertes Wasser, 10,7 mL Ameisensäure und 15 mL Indikatorlösung geben [27].
 3. Verschließen, 1–2 min kräftig schütteln, dabei mehrmals belüften (Hahn nach oben, öffnen).
 4. Stehen lassen, bis sich zwei klare Phasen gebildet haben (mindestens 30 min).
 5. Die **untere, wässrige Phase ablassen und verwerfen**. Die **obere Phase ist das Laufmittel**.
 6. Laufmittel in die beschriftete Braunglasflasche füllen (Inhalt, Datum, Gefahrensymbole). Kühl, dunkel, gut belüftet und fern von Zündquellen lagern.
 
-> **Offen:** Die Rezeptur (je 100 mL n-Butanol und Wasser, 10,7 mL Ameisensäure, etwa 1 g/L Bromkresolgrün im Wasseranteil, obere Phase verwenden) ist die in der Praxisliteratur am häufigsten zitierte Variante nach Kunkee [1, 16, 18]. Sie stammt hier aus dem Fachwissen und wurde nicht im Original nachgelesen; Literaturangaben zur Indikatormenge und zur Ameisensäure-Konzentration schwanken. Vor dem ersten Ansatz mit einer Originalquelle oder der Anleitung eines Fertig-Laufmittels abgleichen.
+> **Offen:** Die Mengen (je 100 mL n-Butanol und Wasser, 10,7 mL Ameisensäure, 15 mL Bromkresolgrün-Lösung 1 g/100 mL) entsprechen der Laborvorschrift der UC Davis [27]; die frühere Angabe hier (0,1 g Indikator im Wasseranteil) wurde danach korrigiert. Ob die untere wässrige Phase abgetrennt wird, war im gesehenen Auszug der UC-Davis-Vorschrift nicht erkennbar; die Konzentration der Ameisensäure nennt der Auszug nicht. Die Originalarbeit von Kunkee [1] wurde nicht eingesehen. Vor dem ersten Ansatz mit der vollständigen Vorschrift [27] oder der Anleitung eines Fertig-Laufmittels abgleichen.
 
 **Haltbarkeit.** Ameisensäure und Butanol reagieren langsam miteinander zu einem Ester (Butylformiat); dadurch ändert sich die Zusammensetzung und die Trennung wird schlechter. Frisch angesetztes Laufmittel trennt am besten. Das Laufmittel kann mehrmals verwendet werden. Spätestens nach einigen Monaten oder wenn die Flecken unscharf werden oder die Rf-Werte der Standards deutlich abweichen, neu ansetzen.
 
@@ -205,7 +205,7 @@ Flecken immer durch Vergleich mit den Standards **auf demselben Bogen** zuordnen
 | Milchsäure | 4 | 0,69 |
 | Bernsteinsäure | 5 (knapp über Milchsäure) | etwas über Milchsäure |
 
-> **Offen:** Die Rf-Werte sind Literaturwerte aus dem Fachwissen [16, 17, 18] und nicht online geprüft. Die Reihenfolge Weinsäure < Zitronensäure < Äpfelsäure < Milchsäure ist für dieses Laufmittel gut gesichert; die Zahlenwerte gelten nur als Anhalt.
+> **Offen:** Die Reihenfolge Weinsäure (unten) < Äpfelsäure (Mitte) < Milchsäure (oben) bestätigt die UC-Davis-Vorschrift [27]. Die Zahlenwerte und die Lage der Zitronensäure sind Literaturwerte aus dem Fachwissen [16, 17, 18] und nicht online geprüft; sie gelten nur als Anhalt.
 
 | Bild auf dem Chromatogramm | Bedeutung | Folgerung |
 |---|---|---|
@@ -221,7 +221,7 @@ Flecken immer durch Vergleich mit den Standards **auf demselben Bogen** zuordnen
 
 Für Äpfelsäure werden in Praxisanleitungen Nachweisgrenzen von etwa 0,1–0,2 g/L genannt; sie hängen von der aufgetragenen Menge, dem Papier und dem Laufmittel ab [16, 17].
 
-> **Offen:** Der Bereich 0,1–0,2 g/L stammt aus dem Fachwissen und wurde nicht online geprüft. Die eigene Nachweisgrenze mit den Standards 0,1 und 0,2 g/L auf jedem Bogen kontrollieren.
+> **Offen:** Der Bereich 0,1–0,2 g/L stammt aus dem Fachwissen. Das AWRI beschreibt die Papierchromatographie nur als qualitatives Verfahren für „vorhanden / nicht vorhanden“ und empfiehlt für niedrige Gehalte die enzymatische Bestimmung [29]; eine Zahl für die Nachweisgrenze fand sich bei der Nachprüfung nicht. Die eigene Nachweisgrenze mit den Standards 0,1 und 0,2 g/L auf jedem Bogen kontrollieren.
 
 **Wichtig:** „Kein Äpfelsäurefleck sichtbar“ heißt nur „unter der Nachweisgrenze“, nicht „unter 0,1 g/L“. Für Weine, die ohne Entkeimungsfiltration und mit wenig SO2 gefüllt werden, das Ende enzymatisch bestätigen.
 
@@ -267,21 +267,21 @@ Die Einstufungen sind aus dem Fachwissen zur CLP-Verordnung [23] übernommen und
 | über 0,3 g/L | BSA noch deutlich im Gang |
 | 0,1–0,3 g/L | BSA fast fertig; weiter warm halten und nach einer Woche erneut messen |
 | unter 0,1 g/L | in der Praxis verbreitetes Kriterium für „BSA abgeschlossen“ |
-| unter 0,05 g/L (manche Betriebe: unter 0,03 g/L) | strengeres Kriterium für Weine, die ohne Entkeimungsfiltration und mit wenig SO2 gefüllt werden |
+| nicht nachweisbar, meist unter 0,05 g/L | Zielwert des AWRI für einen abgeschlossenen BSA [28]; besonders für Weine, die ohne Entkeimungsfiltration und mit wenig SO2 gefüllt werden |
 
-> **Offen:** Die Endpunktkriterien sind verbreitete Praxiswerte aus dem Fachwissen und wurden nicht gegen eine Quelle geprüft. Es gibt dafür keinen gesetzlichen Wert.
+> **Offen:** Belegt ist nur das AWRI-Ziel „nicht nachweisbar“, meist unter 0,05 g/L (über Suchauszug [28]). Die Stufen 0,1 und 0,3 g/L sind Praxiswerte aus dem Fachwissen. Einen gesetzlichen Wert gibt es nicht.
 
 **Plausibilitätskontrolle:** Die gebildete L-Milchsäure sollte etwa dem 0,67-Fachen der abgebauten L-Äpfelsäure entsprechen. Beispiel: Most mit 3,0 g/L L-Äpfelsäure, Wein nach dem BSA mit 0,05 g/L → erwartet etwa (3,0 − 0,05) · 0,67 = 2,0 g/L L-Milchsäure. Deutlich mehr Milchsäure deutet auf Zuckerabbau durch Bakterien hin; dann die flüchtige Säure prüfen ([Flüchtige Säure](fluechtige-saeure.md)).
 
 ## Bio-Rahmen
 
-- **Milchsäurebakterien** sind nach VO (EU) 2021/1165, Anhang V für Bio-Wein zugelassen [21].
+- **Milchsäurebakterien** sind nach VO (EU) 2021/1165, Anhang V Teil D für Bio-Wein zugelassen (Verweis auf Nr. 1.12 und 9.2 der VO (EU) 2019/934), ohne Bio-Herkunftsbedingung [21].
 - **Gentechnik:** Gentechnisch veränderte Organismen und daraus hergestellte Erzeugnisse sind im Bio-Landbau verboten (VO (EU) 2018/848, Art. 11) [21]. Bei Starterkulturen die GVO-Freiheit vom Hersteller bestätigen lassen.
-- **Lysozym, Chitosan, Bakteriennährstoffe:** Zulassung für Bio-Wein in Anhang V prüfen (siehe Offen-Hinweis oben).
+- **Lysozym, Chitosan, Bakteriennährstoffe:** Lysozym ist für Bio-Wein nicht zulässig, Chitosan nur aus *Aspergillus niger* [21]. Bakteriennährstoffe sind Mischprodukte: zulässig nur, wenn jeder Bestandteil in Anhang V Teil D steht (zum Beispiel inaktivierte Hefen, Hefeautolysate) [21].
 - **Weniger SO2:** Bio-Wein darf weniger SO2 enthalten. Den BSA steuern deshalb vor allem Temperatur, Hygiene, Zeitpunkt und pH-Wert. Bei Weißweinen ohne BSA früh schwefeln, kühl lagern und vor der Füllung filtrieren.
 - **Verbände:** Verbandsrichtlinien (z. B. Bio Austria, Demeter, respekt-BIODYN) können den Einsatz von Reinzuchtkulturen einschränken. Vor dem Kauf prüfen.
 
-> **Offen:** Die Bio-Angaben stammen aus dem Fachwissen und wurden nicht online geprüft. Details und aktueller Stand: [Grenzwerte und Recht](grenzwerte-recht.md).
+> **Offen:** Die EU-Bio-Angaben wurden im konsolidierten Wortlaut geprüft [21]. Nicht geprüft sind die Verbandsrichtlinien (Bio Austria, Demeter, respekt-BIODYN) zu Reinzuchtkulturen. Details: [Grenzwerte und Recht](grenzwerte-recht.md).
 
 ## Sicherheit (BSA im Keller)
 
@@ -311,9 +311,12 @@ Stand: November 2026
 18. Ough, C.S., Amerine, M.A. (1988): Methods for Analysis of Musts and Wines. 2. Aufl., John Wiley & Sons, New York. [nicht online geprüft]
 19. Zoecklein, B.W., Fugelsang, K.C., Gump, B.H., Nury, F.S. (1995): Wine Analysis and Production. Chapman & Hall, New York. [nicht online geprüft]
 20. Dittrich, H.H., Großmann, M. (2011): Mikrobiologie des Weines. 4. Aufl., Ulmer, Stuttgart. [nicht online geprüft]
-21. Verordnung (EU) 2018/848 (ökologische Produktion), Art. 11 und Anhang II Teil VI; Durchführungsverordnung (EU) 2021/1165, Anhang V. EUR-Lex. [nicht online geprüft]
-22. Delegierte Verordnung (EU) 2019/934 (önologische Verfahren), Anhang I Teil A. Konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng – Existenz online gesehen; die hier zitierten Stellen [nicht online geprüft]
+21. Verordnung (EU) 2018/848 (ökologische Produktion), Art. 11 und Anhang II Teil VI; Durchführungsverordnung (EU) 2021/1165, Anhang V Teil D. EUR-Lex. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 25.03.2025 (2018/848: Art. 11 GVO-Verbot, Anhang II Teil VI Nr. 2.2) und Stand 01.01.2026 (2021/1165: Milchsäurebakterien, Chitosan aus Aspergillus niger gelistet; Lysozym nicht gelistet)]
+22. Delegierte Verordnung (EU) 2019/934 (önologische Verfahren), Anhang I Teil A. Konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Tabelle 2 Nr. 1.12, 2.5, 5.13, 9.2, 10.3 und Fußnote 3]
 23. Verordnung (EG) Nr. 1272/2008 (CLP-Verordnung), Anhang VI. EUR-Lex. [nicht online geprüft]
 24. Abfallwirtschaftsgesetz 2002 (AWG 2002). RIS. [nicht online geprüft]
 25. OIV: Compendium of International Methods of Wine and Must Analysis, Abschnitt 3.1.3 Säuren. https://www.oiv.int/node/168 – Existenz des Abschnitts online gesehen; die enzymatischen Methoden darin [nicht online geprüft]
 26. Gockowiak, H., Henschke, P.A. (2003): Interaction of pH, ethanol concentration and wine matrix on induction of malolactic fermentation with commercial 'direct inoculation' starter cultures. Australian Journal of Grape and Wine Research 9. [nicht online geprüft]
+27. UC Davis, Department of Viticulture and Enology: Paper Chromatography – VEN124L Method (Laborvorschrift). https://wine.ucdavis.edu/node/1876 [online geprüft – nur Suchauszug: Laufmittelmengen, Indikatorlösung, Reihenfolge der Flecken]
+28. AWRI – Australian Wine Research Institute (2020): Malolactic fermentation. Fact Sheet Winemaking, aktualisiert September 2020. https://www.awri.com.au/files/attachment/malolactic-fermentation-2/ [online geprüft – nur Suchauszug: Tabelle günstiger/ungünstiger Bedingungen; Ziel „not detected“, meist < 0,05 g/L]
+29. AWRI – Australian Wine Research Institute: Measurement of malic acid in wine – by paper chromatography (qualitative). https://www.awri.com.au/industry_support/winemaking_resources/laboratory_methods/chemical/malic_acid/ [online geprüft – nur Suchauszug]
