@@ -117,9 +117,9 @@ Manche Kits wandeln das entstandene NAD(P)H mit dem Hilfsenzym Diaphorase und ei
 
 > **Offen:** R-Biopharm führt neben UV-Tests eine Farbtest-Linie („Enzytec Color“). Welche Weinparameter es so gibt und bei welcher Wellenlänge gemessen wird, konnte nicht geprüft werden. Vor dem Kauf im Katalog nachsehen. Auch Systemanbieter (siehe unten) arbeiten teils mit Farbreaktionen.
 
-Nicht-enzymatische Farbreaktionen gehören ebenfalls hierher: Folin-Ciocalteu-Reagenz für Phenole (750 nm [2]), Farbkomplexe für Eisen (mit o-Phenanthrolin um 510 nm, mit Ferrozin um 562 nm) und für Kupfer (etwa mit Bathocuproin).
+Nicht-enzymatische Farbreaktionen gehören ebenfalls hierher: Folin-Ciocalteu-Reagenz für Phenole (750 nm [2]), Farbkomplexe für Eisen (mit o-Phenanthrolin um 510 nm, mit Ferrozin bei 562 nm [31]) und für Kupfer (etwa mit Bathocuproin-disulfonat, um 480 nm).
 
-> **Offen:** Die Wellenlängen der Eisen- und Kupferkomplexe sind Fachwissen und wurden nicht gegen eine Quelle geprüft.
+> **Offen:** Ferrozin (562 nm) ist durch die Originalarbeit belegt [31]. Für den Eisen-Phenanthrolin-Komplex fanden sich bei der Nachprüfung Maxima von 508–511 nm in Laborvorschriften, für den Kupfer-Bathocuproin-Komplex 483 nm nur in einer Patentschrift; beide sind nicht durch eine hier zitierte Quelle belegt. Maßgeblich ist die Wellenlänge im Beipackzettel des Testsatzes.
 
 ## Geräteklassen für den Kleinbetrieb
 
@@ -359,7 +359,9 @@ Farbton = 0,312 / 0,498 = 0,63
 
 Der Farbton steigt mit der Alterung, weil Rot abnimmt und Gelb-Braun zunimmt [12]. Bei Weißwein dient E420 in der 10-mm-Küvette als einfaches Maß für Bräunung.
 
-> **Offen:** Code und Wortlaut der OIV-Methode (OIV-MA-AS2-07B) wurden nicht online geprüft. Typische Zahlenwerte für österreichische Rotweinsorten wurden nicht gefunden.
+Die OIV hat die Methode 2022 ergänzt (Resolution OIV-OENO 667-2022): Für sehr farbintensive Rotweine, die sich unverdünnt nicht messen lassen, ist ein Verfahren mit Verdünnung in einem gepufferten Lösungsmittel von pH 3,2 vorgesehen [3]. Verdünnen mit Wasser bleibt ungeeignet.
+
+> **Offen:** Typische Zahlenwerte für österreichische Rotweinsorten wurden nicht gefunden. Die Einzelheiten der Ergänzung von 2022 (Pufferrezept, Verdünnung) vor Verwendung in [3] nachlesen.
 
 ### Gesamtpolyphenole nach Folin-Ciocalteu (OIV-Methode)
 
@@ -400,24 +402,25 @@ Beispiel: Verdünnung 1:10, A = 0,491 → 0,491 × 449,2 × 10 × 1000 / 26.900 
 
 Beide Methoden messen Verschiedenes und liefern unterschiedliche Zahlen. Vergleichen Sie nur Werte derselben Methode.
 
-> **Offen:** Rezeptur und Faktor 875 der SO2-Bleichung sind Fachwissen und vor Verwendung in [12] nachzulesen.
+> **Offen:** Rezeptur und Faktor 875 der SO2-Bleichung sind Fachwissen. Eine Nachprüfung (November 2026) bestätigte nur, dass das Verfahren auf Ribéreau-Gayon und Stonestreet (1965) zurückgeht; Volumina und Faktor wurden online nicht gefunden. Vor Verwendung in [12] nachlesen.
 
 ## Auswertung
 
 | Messgröße | Richt- oder Grenzwert | Was folgt daraus |
 |---|---|---|
 | Glucose + Fructose | „trocken“ bis 4 g/L, unter Bedingungen bis 9 g/L (Bezeichnungsrecht [29]) | Rechtliche Details in [Grenzwerte](grenzwerte-recht.md); Gärende in [Zucker und Mostgewicht](zucker-mostgewicht.md) |
-| L-Äpfelsäure | BSA in der Praxis bei einem Rest in der Größenordnung von 0,1 g/L als abgeschlossen betrachtet | Einzelheiten in [Äpfel-Milchsäure-Gärung](apfel-milchsaeure-bsa.md) |
+| L-Äpfelsäure | Ziel für einen abgeschlossenen BSA: enzymatisch „nicht nachweisbar“, meist unter 0,05 g/L (AWRI [32]); in der Praxis gilt oft schon ein Rest um 0,1 g/L als abgeschlossen | Einzelheiten in [Äpfel-Milchsäure-Gärung](apfel-milchsaeure-bsa.md) |
 | L-Milchsäure | aus 1 g Äpfelsäure entstehen 0,67 g Milchsäure (90,08 / 134,09) | Milchsäure deutlich über diesem Wert: Verdacht auf Zuckerabbau durch Bakterien, D-Milchsäure prüfen |
-| Essigsäure | EU-Höchstgehalt flüchtige Säure: 18 meq/L (≈ 1,08 g/L als Essigsäure) bei Weiß- und Roséwein, 20 meq/L (≈ 1,20 g/L) bei Rotwein [24] | Steigt der Wert zwischen zwei Messungen deutlich, Ursache suchen; siehe [Flüchtige Säure](fluechtige-saeure.md) |
+| Essigsäure | EU-Höchstgehalt flüchtige Säure (VO (EU) 2019/934, Anhang I Teil C): 18 meq/L (≈ 1,08 g/L als Essigsäure) bei Weiß- und Roséwein, 20 meq/L (≈ 1,20 g/L) bei Rotwein; Ausnahmen der Mitgliedstaaten möglich [24] | Steigt der Wert zwischen zwei Messungen deutlich, Ursache suchen; siehe [Flüchtige Säure](fluechtige-saeure.md) |
 | YAN (Ammonium-N + NOPA) | Mindestwert etwa 140 mg N/L, Zielwert zuckerabhängig | Nährstoffgabe nach [Stickstoff (YAN)](stickstoff-yan.md) |
 | Acetaldehyd | 1 mg/L bindet 1,45 mg/L SO2 | Hoher Wert erklärt hohen SO2-Bedarf; siehe [Schweflige Säure](schweflige-saeure.md) |
-| Kupfer | nach Behandlung mit Kupfersalzen höchstens 1 mg/L im Wein [24, 25] | Bei Werten nahe 1 mg/L Labormessung |
+| Kupfer | nach Behandlung mit Kupfersulfat oder Kupfercitrat höchstens 1 mg/L im behandelten Erzeugnis (VO (EU) 2019/934, Anhang I Teil A Tabelle 2 Nr. 10.1 und 10.2) [24]; Kupferbruch in Weißwein ab etwa 0,5 mg/L möglich (AWRI [33]) | Bei Werten ab etwa 0,5 mg/L Labormessung und Lichttest (siehe [Stabilitätstests](stabilitaetstests.md)) |
+| Eisen | kein Rechtswert; Eisenbruch ab etwa 6 mg/L möglich, vereinzelt auch darunter (AWRI [34]) | Belüftungstest, Citronensäure oder Laborberatung |
 | Farbton | junge Rotweine deutlich unter 1; steigt mit dem Alter [12] | Verlauf je Wein über die Zeit verfolgen |
 
-> **Offen:** Der Restgehalt an L-Äpfelsäure, ab dem die BSA als abgeschlossen gilt, wird unterschiedlich angegeben (Fachwissen, nicht gegen Quelle geprüft). Die Rechtswerte für flüchtige Säure, Kupfer und Restzucker wurden bei der Erstellung nicht im Wortlaut geprüft; maßgeblich ist [Grenzwerte](grenzwerte-recht.md) bzw. der aktuelle Text in EUR-Lex.
+Die Rechtswerte für flüchtige Säure, Kupfer und „trocken“ (VO (EU) 2019/33, Anhang III Teil B: bis 4 g/L, oder bis 9 g/L, wenn die Gesamtsäure als Weinsäure höchstens 2 g/L unter dem Restzucker liegt) wurden im konsolidierten Wortlaut geprüft [24, 29].
 
-> **Offen:** Richtwerte für Gluconsäure (gesund oder faul), Eisen (Bruchgefahr) und Kupfer (Kupferbruch bei Weißwein) sind aus dem Fachwissen bekannt, wurden aber nicht gegen eine Quelle geprüft und fehlen deshalb hier.
+> **Offen:** Richtwerte für Gluconsäure (gesund oder faul) fehlen, weil keine geprüfte Quelle vorlag.
 
 ## Qualitätssicherung
 
@@ -494,7 +497,7 @@ Stand: November 2026
 
 1. OIV – Internationale Organisation für Rebe und Wein (laufende Ausgabe): Compendium of International Methods of Wine and Must Analysis. OIV, Paris. https://www.oiv.int/node/1975 [online geprüft]
 2. OIV: Methode OIV-MA-AS2-10, Folin-Ciocalteu index (Typ IV). In: Compendium of International Methods of Wine and Must Analysis. OIV, Paris. https://www.oiv.int/public/medias/2477/oiv-ma-as2-10.pdf [online geprüft]
-3. OIV: Methode OIV-MA-AS2-07B, Chromatic characteristics (Typ I). In: Compendium of International Methods of Wine and Must Analysis. OIV, Paris. [nicht online geprüft]
+3. OIV: Methode OIV-MA-AS2-07B, Chromatic characteristics (Typ IV), ergänzt durch Resolution OIV-OENO 667-2022. In: Compendium of International Methods of Wine and Must Analysis. OIV, Paris. https://www.oiv.int/public/medias/2475/oiv-ma-as2-07b.pdf und https://www.oiv.int/node/2912 [online geprüft – Methodencode, Typ IV und Ergänzung 2022 über Suchauszug gesehen; Methodentext nicht gelesen]
 4. Roche/R-Biopharm (2017): L-Malic acid, UV-method, Art.-Nr. 10139068035, Gebrauchsanweisung. R-Biopharm AG, Darmstadt. https://food.r-biopharm.com/wp-content/uploads/2012/06/roche_ifu_malic-acid-l_en_10139068035_2017-08.pdf – Herstellerangabe, nur technische Daten [online geprüft]
 5. R-Biopharm (2026): Enzytec Liquid L-Malic acid, Art.-Nr. E8280, Gebrauchsanweisung (EN, Version 2026-04). R-Biopharm AG, Darmstadt. https://food.r-biopharm.com/wp-content/uploads/E-Liquid_IFU_E8280_L-Malic-acid_EN_2026-04_V3-1.pdf – Herstellerangabe [online geprüft]
 6. Megazyme/Neogen: L-Malic Acid Assay Kit (Liquid Ready), K-LMLQR, Assay Protocol. https://www-docs.megazyme.com/documents/Assay_Protocol/K-LMLQR_DATA.pdf – Herstellerangabe [online geprüft]
@@ -515,10 +518,14 @@ Stand: November 2026
 21. Hanna Instruments: HI83748 Photometer for the determination of tartaric acid in wine, https://www.hannainstruments.co.uk/food-and-drink/2892-hi-83748-photometer-for-the-determination-of-tartaric-acid-in-wine; Wine Testing Catalog, https://pdf.directindustry.com/pdf/hanna-instruments/hanna-instruments-wine-testing-catalog/9073-29955.html; Determination of Yeast Assimilable Nitrogen, https://blog.hannainst.com/determination-of-yeast-assimilable-nitrogen – Herstellerangaben [online geprüft]
 22. Merck/Sigma-Aldrich und Avantor: Reflectoquant Malic Acid Test 1.16128 (Österreich, https://sigmaaldrich.com/AT/de/product/mm/116128), Ammonium Test 1.16892 (https://www.sigmaaldrich.com/product/mm/116892), Total Sugar Test 1.16136 (https://sigmaaldrich.com/BD/en/product/mm/116136), Reflektometer RQflex 20, 1.17246 (https://www.sigmaaldrich.com/FI/en/product/mm/117246; https://www.avantorsciences.com/be/nl/product/23970939/handreflectometer-reflectoquant-rqflex-20). Preise abgerufen November 2026 – Händlerangaben [online geprüft]
 23. Thermo Fisher Scientific: GENESYS 30 Visible Spectrophotometer, Broschüre BR52794. https://assets.thermofisher.com/TFS-Assets/MSD/brochures/BR52794-genesys-30-spectrophotometer.pdf – Herstellerangabe [online geprüft]
-24. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (önologische Verfahren), konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [nicht online geprüft] – Fundstelle online gesehen, die hier zitierten Werte (flüchtige Säure, Kupfer) nicht.
+24. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (önologische Verfahren), konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Anhang I Teil C (flüchtige Säure), Anhang I Teil A Tabelle 2 Nr. 10.1 und 10.2 (Kupfer)]
 25. OIV: International Code of Oenological Practices, Annex „Maximum acceptable limits“. https://www.oiv.int/standards/international-code-of-oenological-practices/annexes/maximum-acceptable-limits [nicht online geprüft] – Seite gesehen, Inhalt nicht.
 26. ISO 8655 (Teile 1–7): Piston-operated volumetric apparatus (Kolbenbetätigte Volumenmessgeräte). ISO, Genf. [nicht online geprüft]
 27. Galileo Equipos: Refurbished UV/Vis spectrophotometers (Preisbeispiel Gebrauchtgerät). https://www.galileoequipos.com/en/93-used-uv-vis – Händlerangabe [online geprüft]
 28. Megazyme/Neogen: L-Lactic Acid Assay Kit, Produktseite (Packungsgrößen). https://secure.megazyme.com/L-Lactic-Acid-Assay-Kit – Herstellerangabe [online geprüft]
-29. Delegierte Verordnung (EU) 2019/33 der Kommission vom 17. Oktober 2018 (Bezeichnung und Aufmachung von Weinbauerzeugnissen), Anhang III Teil B (Angaben zum Zuckergehalt), konsolidierte Fassung. EUR-Lex. [nicht online geprüft]
+29. Delegierte Verordnung (EU) 2019/33 der Kommission vom 17. Oktober 2018 (Bezeichnung und Aufmachung von Weinbauerzeugnissen), Anhang III Teil B (Angaben zum Zuckergehalt), konsolidierte Fassung vom 18.01.2025. EUR-Lex. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.01.2025: Anhang III Teil B, „trocken“]
 30. Purdue University Cooperative Extension: Concentration of primary amino acids in grape juice (NOPA-Verfahren nach Dukes und Butzke), Arbeitsanleitung. https://ag.purdue.edu/department/hla/extension/winegrapeteam/_docs/nopa98.pdf [online geprüft]
+31. Stookey, L. L. (1970): Ferrozine – a new spectrophotometric reagent for iron. Analytical Chemistry 42(7), 779–781. [online geprüft – nur Suchauszug: Maximum bei 562 nm, ε = 27.900 L/(mol·cm)]
+32. AWRI – Australian Wine Research Institute (2020): Malolactic fermentation. Fact Sheet Winemaking, aktualisiert September 2020. https://www.awri.com.au/files/attachment/malolactic-fermentation-2/ [online geprüft – nur Suchauszug: Ziel „not detected“, meist < 0,05 g/L enzymatisch]
+33. AWRI – Australian Wine Research Institute: Copper hazes (Fachinformation s2362). https://www.awri.com.au/files/attachment/s2362-copper-hazes [online geprüft – nur Suchauszug: ab etwa 0,5 mg/L Kupfer Instabilität in Weißwein wahrscheinlich]
+34. AWRI – Australian Wine Research Institute: Iron-induced instability. https://www.awri.com.au/industry_support/winemaking_resources/fining-stabilities/hazes_and_deposits/iron_induced_instability/ [online geprüft – nur Suchauszug: etwa 6 mg/L Eisen machen Wein anfällig für Eisenbruch]
