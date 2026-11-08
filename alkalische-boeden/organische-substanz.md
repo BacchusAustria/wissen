@@ -75,7 +75,7 @@ Die Werte sind Richtwerte für die Planung (**Offen:** Spannen aus Fachwissen; e
 | Gärrest flüssig | 7,5–8,5 | 4–8 | 3–6 | 4–7 kg/t, davon 50–70 % Ammonium | 1,5–3 kg/t | 4–6 kg/t | nur aus zugelassenen Ausgangsstoffen; mit tierischen Nebenprodukten nicht auf essbare Teile |
 | Champignon-Substrat (gebraucht) | 6,5–8 | 30–40 | 12–20 | 6–8 kg/t | 4–6 kg/t | 8–10 kg/t | ja, wenn das Ausgangssubstrat nur aus Anhang-II-Stoffen besteht |
 | Wurmhumus | 6,5–8 | 30–50 | 10–15 | 6–10 kg/t | wechselnd | wechselnd | ja |
-| Pflanzenkohle | 8–10 | 70–95 | sehr hoch (stabiler Kohlenstoff) | gering verfügbar | gering | Asche | ja, nur aus Pflanzen, höchstens 4 mg PAK/kg Trockenmasse |
+| Pflanzenkohle | 8–10 | 70–95 | sehr hoch (stabiler Kohlenstoff) | gering verfügbar | gering | Asche | ja, nur aus pflanzlichen Stoffen; seit 16.07.2022 Kontaminanten-Grenzen der VO (EU) 2019/1009, u. a. höchstens 6 mg PAK16/kg Trockenmasse (früher 4 mg PAK/kg) |
 | Leonardit, Huminsäureprodukte | Leonardit sauer; flüssige Kaliumhumate stark alkalisch | – | – | gering | gering | teils viel K | Leonardit nur als Nebenprodukt des Bergbaus; Huminsäuren nur mit anorganischen Salzen ohne Ammonium extrahiert |
 
 Torf ist im Bio-Landbau nur im Gartenbau erlaubt (Gemüse, Zierpflanzen, Baumschule), im Weingarten also nicht [13].
@@ -114,7 +114,9 @@ Für Grüngutkompost (nur pflanzliche Ausgangsstoffe) nennt das Bio-Recht keine 
 - **Kompostierter Trester** hat einen pH von 7–8,5; die Polyphenole sind weitgehend abgebaut. Er ist das bessere Material für den Unterstock.
 - **Kalium beachten:** Trester ist kaliumreich. Auf Böden mit hohen K-Gehalten verstärkt regelmäßige Rückführung das Kalium-Magnesium-Ungleichgewicht (siehe [Weitere Nährstoffe](weitere-naehrstoffe.md)).
 
-> **Offen:** Trester und Weinhefe sind Nebenerzeugnisse der Weinbereitung und unterliegen dem Weinrecht (Pflicht zum Entzug der Nebenerzeugnisse). Ob und wie die Ausbringung oder Kompostierung im eigenen Betrieb zu melden ist, bei der Bundeskellereiinspektion oder der Landwirtschaftskammer erfragen.
+> **Weinrecht:** Trester und Weintrub sind Nebenerzeugnisse der Weinbereitung. Nach EU-Recht müssen Erzeuger sie unter Aufsicht der zuständigen Behörde unverzüglich, spätestens bis zum Ende des Weinwirtschaftsjahres, im Einklang mit dem Umweltrecht beseitigen. Die Mitgliedstaaten können Betriebe mit höchstens 50 hL Wein oder Most je Jahr davon ausnehmen und können eine Ablieferung zur Destillation vorschreiben [39].
+
+> **Offen:** Wie Österreich das umsetzt (Mindestalkoholgehalt der Nebenerzeugnisse, ob Ausbringung oder Kompostierung im eigenen Betrieb als Beseitigung gilt und ob sie zu melden ist), war online nicht zu finden. Im Weingesetz 2009 und den Durchführungsverordnungen im RIS nachlesen oder bei der Bundeskellereiinspektion bzw. der Landwirtschaftskammer erfragen.
 
 ### Rebholz, Stroh, Holzhäcksel, Rinde
 
@@ -136,7 +138,7 @@ Pflanzenkohle ist meist selbst basisch (pH 8–10) und senkt den pH-Wert nicht. 
 ### Leonardit und Huminsäureprodukte – skeptisch prüfen
 
 - **Mengenvergleich** (eigene Rechnung): 20 L eines Flüssigprodukts mit 12 % Huminsäuren enthalten rund 2,4 kg Huminsäuren. Die Krume (0–30 cm) eines Bodens mit 2 % organischer Substanz enthält rund 84 t organische Substanz, eine Gabe von 20 t Kompost rund 4,2 t. Die Huminsäuren des Produkts machen also etwa 0,003 % der Bodensubstanz aus.
-- **Beleglage:** Eine Metaanalyse fand im Mittel positive Wachstumswirkungen von Huminstoffen, mit großer Streuung, überwiegend aus Gefäß- und Nährlösungsversuchen; die Wirkung hängt von Herkunft und Dosis ab [23] (**Offen:** Effektgrößen und Anteil der Feldversuche prüfen). Im Versuch von Delgado und Mitarbeitern mit kalkhaltigen Böden erhöhte ein handelsübliches Produkt (11 % Humin-, 4 % Fulvosäuren) die Wiederfindung von gedüngtem Phosphor als Olsen-P [5] – ein Bodentest, kein Ertragsversuch.
+- **Beleglage:** Eine Metaanalyse fand im Mittel positive Wachstumswirkungen von Huminstoffen, mit großer Streuung, überwiegend aus Gefäß- und Nährlösungsversuchen; die Wirkung hängt von Herkunft und Dosis ab. Über 81 Arbeiten gemittelt stieg die Sprosstrockenmasse um 22 ± 4 % und die Wurzeltrockenmasse um 21 ± 6 %; Huminstoffe aus Kompost wirkten besser als solche aus Braunkohle (Leonardit) oder Torf [23] (**Offen:** Anteil und Ergebnis der Feldversuche nicht in der Zusammenfassung). Im Versuch von Delgado und Mitarbeitern mit kalkhaltigen Böden erhöhte ein handelsübliches Produkt (11 % Humin-, 4 % Fulvosäuren) die Wiederfindung von gedüngtem Phosphor als Olsen-P [5] – ein Bodentest, kein Ertragsversuch.
 - **Fazit:** Mögliche Wirkungen beruhen eher auf direkten, hormonähnlichen Effekten an der Wurzel als auf einer Veränderung des Bodens. Für Reben auf Kalkboden gibt es keinen belastbaren Feldnachweis. Wer es versuchen will: nur im Streifenversuch mit unbehandelter Kontrolle.
 
 ## Mengen und rechtliche Grenzen
@@ -146,10 +148,10 @@ Pflanzenkohle ist meist selbst basisch (pH 8–10) und senkt den pH-Wert nicht. 
 | Regel | Inhalt | Status der Prüfung |
 |---|---|---|
 | EU-Bio-Verordnung, Anhang II Teil I Nr. 1.9 [24] | höchstens 170 kg N je Hektar und Jahr aus Wirtschaftsdünger (Mist, Mistkompost, Gülle), bezogen auf die landwirtschaftliche Fläche des Betriebs; zugekaufte Dünger nur, soweit nötig | nicht online geprüft; deckt sich mit [Bio-Rechtsrahmen](bio-rechtsrahmen.md) |
-| Nitrat-Aktionsprogramm-Verordnung (NAPV) [25] | 170 kg N je Hektar und Jahr aus Wirtschaftsdünger; Ausbringungsverbote im Winter (Sperrfristen), auf gefrorenem, schneebedecktem oder wassergesättigtem Boden; Abstände zu Gewässern; Aufzeichnungspflichten | **Offen:** Sperrfristen, Abstände und Anrechnung von Kompost-Stickstoff im aktuellen Text prüfen |
-| Wasserrechtsgesetz § 32 [26] | Bewilligungspflicht bei Stickstoffgaben über 175 kg N/ha ohne bzw. 210 kg N/ha mit Gründeckung je Jahr | **Offen:** aus dem Gedächtnis, Wortlaut prüfen |
-| Kompostverordnung [16] | Qualitätsklassen A+, A, B; zusätzliche Anforderungen für die Anwendung in der Landwirtschaft, darunter Mengenbegrenzungen | **Offen:** Nach Erinnerung des Verfassers höchstens 8 t Trockenmasse je Hektar und Jahr im Mittel von fünf Jahren; nicht bestätigt. Ein Entwurf einer neuen Kompostverordnung („Kompostverordnung 2024“) ist bekannt, ihr Status nicht [27] |
-| Tierische Nebenprodukte [28] | Hygienevorschriften für Mehle, Gärreste mit tierischen Anteilen; Wartezeiten vor Beweidung | bei Schafbeweidung im Weingarten beachten |
+| Nitrat-Aktionsprogramm-Verordnung (NAPV) [25] | 170 kg N je Hektar und Jahr aus Wirtschaftsdünger; Ausbringungsverbot für Stallmist und Kompost vom 30. November bis 15. Februar; generelles Verbot auf wassergesättigtem, überschwemmtem, gefrorenem oder schneebedecktem Boden; Abstände zu Gewässern; Aufzeichnungspflichten [25, 40] | Sperrfrist laut Landwirtschaftskammer und Bezirkshauptmannschaft bestätigt. **Offen:** Gewässerabstände und Anrechnung von Kompost-Stickstoff im RIS-Text der NAPV prüfen |
+| Wasserrechtsgesetz § 32 Abs. 2 lit. f [26] | Bewilligungspflicht, wenn Handelsdünger, Klärschlamm, Kompost oder andere Düngemittel auf landwirtschaftlichen Nutzflächen mehr als 175 kg N je Hektar und Jahr ohne Gründeckung bzw. 210 kg N mit Gründeckung (einschließlich Dauergrünland oder stickstoffzehrender Fruchtfolge) bringen; Stickstoff aus Wirtschaftsdünger in feldfallender Wirkung wird angerechnet; Gartenbauflächen ausgenommen | bestätigt (Wortlaut laut Suchergebnis) |
+| Kompostverordnung [16] | Qualitätsklassen A+, A, B; für Düngungsmaßnahmen in der Landwirtschaft darf die empfohlene Aufbringungsmenge 8 t Trockenmasse je Hektar und Jahr im Fünfjahresdurchschnitt nicht überschreiten | bestätigt (Wortlaut laut Suchergebnis aus der RIS-Fassung vom 23.09.2026). Der Entwurf „Kompostverordnung 2024“ sah 12 t Trockenmasse je Hektar und Jahr im Fünfjahresdurchschnitt vor; laut RIS galt im September 2026 weiterhin die Verordnung von 2001 [27]. **Offen:** genaue Paragrafen-Fundstelle im RIS nachsehen |
+| Tierische Nebenprodukte [28] | Hygienevorschriften für Mehle, Gärreste mit tierischen Anteilen; mindestens 21 Tage Wartezeit zwischen Ausbringung organischer Düngemittel oder Bodenverbesserungsmittel und Beweidung bzw. Grünfutternutzung (ausgenommen u. a. Gülle und Guano) | bestätigt; bei Schafbeweidung im Weingarten beachten |
 | Richtlinien für die sachgerechte Düngung im Weinbau [29] | Düngeempfehlungen je Gehaltsklasse | Inhalt nicht eingesehen |
 
 > **Achtung:** Vor großen Gaben, besonders bei der Neuanlage, die zulässige Menge mit der Beratung oder der Kontrollstelle klären. Rechtstexte im RIS bzw. auf EUR-Lex in der geltenden Fassung lesen.
@@ -175,7 +177,7 @@ Einordnung:
 - **Phosphor:** 29 kg P decken die Nettoabfuhr mit den Trauben von etwa 5,5–12 Jahren ([Phosphor](phosphor.md)). Auf Böden der Klasse D oder E daher sparsam.
 - **Kalium:** 110 kg K entsprechen grob dem Kaliumentzug mehrerer Jahre; auf K-reichen Böden Magnesium im Blick behalten.
 - **Stickstoff:** Wenig sofort verfügbar, aber über die Jahre summiert sich die Nachlieferung.
-- **Kompostverordnung:** Falls die erinnerte Grenze von 8 t Trockenmasse je Hektar und Jahr im Fünfjahresmittel gilt (**Offen**), wären 20 t Frischmasse (12 t Trockenmasse) jedes Jahr zu viel. Alle zwei Jahre ergäben sie 6 t je Jahr. Jährlich höchstens 13 t Frischmasse bei 60 % Trockenmasse.
+- **Kompostverordnung:** Die empfohlene Aufbringungsmenge in der Landwirtschaft ist auf 8 t Trockenmasse je Hektar und Jahr im Fünfjahresmittel begrenzt [16]. 20 t Frischmasse (12 t Trockenmasse) jedes Jahr wären also zu viel. Alle zwei Jahre ergäben sie 6 t je Jahr. Jährlich höchstens 13 t Frischmasse bei 60 % Trockenmasse.
 
 **Unterstockausbringung konzentriert die Menge.** Bei 2,5 m Zeilenabstand und 0,6 m breitem Unterstockstreifen werden 24 % der Fläche bedeckt. 20 t je Hektar Weingarten bedeuten dann rund 83 t je Hektar Streifenfläche. Das ist für die Wurzeln erwünscht, erhöht aber im Streifen die Auswaschungsgefahr für Nitrat. Rechtliche Grenzen beziehen sich nach Kenntnis des Verfassers auf die gesamte Fläche des Schlags (**Offen**).
 
@@ -197,7 +199,7 @@ Einordnung:
 ### Einarbeiten oder als Mulch liegen lassen?
 
 - **Einarbeiten** (flach, 5–10 cm): schnellerer Abbau, keine Ammoniakverluste, Nährstoffe kommen in den Wurzelraum. Nachteile: Bodenbearbeitung stört Gefüge und Bodenleben und kann Rebwurzeln verletzen; nicht auf erosionsgefährdeten Hängen.
-- **Mulch:** schützt vor Erosion und Verdunstung, fördert Regenwürmer, hält den Boden kühler. Im Trentino verbesserte Kompostmulch im Weingarten Bodenfeuchte, Nährstoffgehalte und Rebenversorgung [8] (**Offen:** Einzelheiten prüfen). Nachteile: Ammoniakverluste bei ammoniumreichen Materialien, Mäuse, und erhöhte Spätfrostgefahr.
+- **Mulch:** schützt vor Erosion und Verdunstung, fördert Regenwürmer, hält den Boden kühler. Im Etschtal (Trentino) erhöhte Mulch aus Siedlungsabfall-Kompost auf einem kalkhaltigen Weingartenboden Humus, verfügbaren Phosphor, austauschbares Kalium, Porosität und Wasserhaltung, dämpfte Temperaturschwankungen und Verdunstung und ersetzte Mineraldünger und Herbizide im Unterstock ohne Einbußen bei Wuchs, Ertrag und Mostqualität. Dieser Kompost war aber schwermetallreicher und reicherte Metalle in Boden, Pflanze und Most an; ein schwermetallarmer Klärschlamm-Rinden-Kompost tat das nicht [8]. Nachteile: Ammoniakverluste bei ammoniumreichen Materialien, Mäuse, und erhöhte Spätfrostgefahr.
 
 > **Achtung:** Spätfrost. Ein nackter, fester, feuchter Boden speichert tagsüber mehr Wärme und gibt sie nachts ab. Mulch und hohe Begrünung verringern diese Wärmeabgabe und erhöhen die Frostgefahr in Bodennähe [30]. In frostgefährdeten Lagen Mulch erst nach der Spätfrostperiode oder im Herbst aufbringen.
 
@@ -219,7 +221,7 @@ Ammonium (NH₄⁺) steht im Gleichgewicht mit gasförmigem Ammoniak (NH₃). Je
 | 8,0 | 1,2 % | 2,7 % | 5,4 % |
 | 8,3 | 2,4 % | 5,2 % | 10 % |
 
-Auf einem Kalkboden mit pH 8 liegt also rund zehnmal so viel Ammoniak vor wie bei pH 7. Das gasförmige Ammoniak entweicht laufend und wird aus dem Ammonium nachgebildet. Auf Kalkböden reagieren Ammoniumverbindungen zusätzlich mit dem Kalk, was die Verluste verstärkt [32]. Bei oberflächlich ausgebrachter Gülle oder Gärresten gehen je nach Bedingungen erhebliche Teile des Ammonium-Stickstoffs verloren [33] (**Offen:** Größenordnung in der Quelle prüfen).
+Auf einem Kalkboden mit pH 8 liegt also rund zehnmal so viel Ammoniak vor wie bei pH 7. Das gasförmige Ammoniak entweicht laufend und wird aus dem Ammonium nachgebildet. Auf Kalkböden reagieren Ammoniumverbindungen zusätzlich mit dem Kalk, was die Verluste verstärkt [32]. Bei oberflächlich ausgebrachter Gülle oder Gärresten gehen je nach Bedingungen erhebliche Teile des Ammonium-Stickstoffs verloren; am wirksamsten mindert sie die Injektion bzw. die sofortige Einarbeitung [33] (**Offen:** Verlustanteile in Prozent stehen nicht in der Zusammenfassung; Volltext nicht eingesehen).
 
 **Regeln:**
 
@@ -232,9 +234,9 @@ Auf einem Kalkboden mit pH 8 liegt also rund zehnmal so viel Ammoniak vor wie be
 **Langzeitversuche:**
 
 - **Loire-Tal, kalkhaltiger Sandboden, 28 Jahre** [1]: Jährliche Gaben von Rebholz (2 t/ha), Rindermist (10 und 20 t/ha) und Champignon-Substratkompost (8 und 16 t/ha). Bei den höchsten Gaben stieg der Bodenkohlenstoff etwa 20 Jahre lang und erreichte dann ein Plateau; nach 28 Jahren waren rund 30 t Kohlenstoff je Hektar zusätzlich gespeichert. Das sind im Mittel gut 1 t C je Hektar und Jahr. Die Auswirkungen auf Traubenzusammensetzung und Wein sind in einem Folgeartikel beschrieben [34].
-- **Biotonnenkompost-Versuch bei Wien (seit 1992):** Über zehn Jahre nutzten die Kulturen nur 3–7 % des Kompost-Stickstoffs [14]. Weitere Ergebnisse zu Ertrag und Stickstoffversorgung in [35]. **Offen:** Bodentyp und Kalkgehalt des Versuchsstandorts – in Zitaten werden unterschiedliche Böden genannt.
+- **Biotonnenkompost-Versuch bei Wien (seit 1992):** Über zehn Jahre nutzten die Kulturen nur 3–7 % des Kompost-Stickstoffs [14]. Weitere Ergebnisse zu Ertrag und Stickstoffversorgung in [35]. Der Versuchsboden ist ein schluffreicher Auboden (Molli-gleyic Fluvisol, rund 75 % Schluff, 6 % Ton). **Offen:** Kalkgehalt und pH des Standorts in der online gesehenen Beschreibung nicht genannt.
 - **DOK-Versuch (Schweiz, seit 1978, Löss, schwach sauer):** In den organischen Systemen mehr mikrobielle Biomasse und Mykorrhiza [6]; nach 21 Jahren nahm der Bodenkohlenstoff in den meisten Systemen ab, am wenigsten im biologisch-dynamischen System mit Mistkompost [7] (**Offen:** Einzelergebnisse prüfen).
-- **Dauerkulturen im Mittelmeerraum:** Eine Metaanalyse fand die höchsten Kohlenstoffzunahmen bei organischen Düngern, geringere bei Begrünung [36] (**Offen:** Raten prüfen).
+- **Dauerkulturen im Mittelmeerraum:** Eine Metaanalyse fand die höchsten Kohlenstoffzunahmen bei organischen Düngern, geringere bei Begrünung [36]. Eine Teilauswertung von 24 Studien aus spanischen Obstanlagen und Weingärten fand unter Begrünung im Mittel 35 % mehr Bodenkohlenstoff als bei Bodenbearbeitung (Response Ratio 1,35), wobei Begrünung, Bodenbearbeitung, Herbizid- und Mähregime nicht zu trennen waren [36] (**Offen:** Sequestrierungsraten in t C je Hektar und Jahr nicht in den Zusammenfassungen).
 
 **Eigene Abschätzung** (Kompost mit 35 % organischer Substanz in der Trockenmasse; Anteil des Kompost-Kohlenstoffs, der langfristig im Boden bleibt, 30–50 %, **Offen**), gleichmäßig auf 0–30 cm und die ganze Fläche verteilt:
 
@@ -319,12 +321,12 @@ Die Einbindung in den Gesamtplan steht im [Maßnahmenplan](massnahmenplan.md).
 
 ## Offene Punkte
 
-- Ausbringungsgrenzen der Kompostverordnung (erinnert: 8 t Trockenmasse je Hektar und Jahr im Fünfjahresmittel) und Rechtsstatus einer „Kompostverordnung 2024“ im RIS prüfen.
-- Sperrfristen, Gewässerabstände und die Anrechnung von Kompost-Stickstoff in der aktuellen NAPV prüfen; Schwellen nach § 32 WRG bestätigen.
+- Paragrafen-Fundstelle der 8-t-Grenze in der Kompostverordnung im RIS nachtragen; Stand der neuen Kompostverordnung (Entwurf 2024: 12 t) weiter beobachten.
+- Gewässerabstände und die Anrechnung von Kompost-Stickstoff in der aktuellen NAPV prüfen.
 - Tabellenwerte für Nährstoffgehalte organischer Dünger aus den österreichischen Richtlinien für die sachgerechte Düngung übernehmen und die Spannen dieser Datei ersetzen.
-- Weinrechtliche Pflichten beim Entzug von Trester und Weinhefe klären.
+- Österreichische Umsetzung der Pflicht zur Beseitigung von Trester und Weintrub (Weingesetz 2009) klären.
 - Österreichische Versuche zu Kompost im Weinbau (HBLA und Bundesamt Klosterneuburg, Bio Forschung Austria) suchen und ergänzen.
-- Bodentyp und Kalkgehalt des Wiener Biotonnenkompost-Versuchs klären.
+- Kalkgehalt und pH des Wiener Biotonnenkompost-Versuchs klären.
 
 Stand: November 2026
 
@@ -337,34 +339,36 @@ Stand: November 2026
 5. Delgado, A., Madrid, A., Kassem, S., Andreu, L., del Campillo, M. C. (2002): Phosphorus fertilizer recovery from calcareous soils amended with humic and fulvic acids. Plant and Soil 245, 277–286. DOI 10.1023/A:1020445710584. [online geprüft – Angaben laut Suchergebnis; Volltext nicht eingesehen]
 6. Mäder, P., Fliessbach, A., Dubois, D., Gunst, L., Fried, P., Niggli, U. (2002): Soil fertility and biodiversity in organic farming. Science 296, 1694–1697. [nicht online geprüft]
 7. Fliessbach, A., Oberholzer, H.-R., Gunst, L., Mäder, P. (2007): Soil organic matter and biological soil quality indicators after 21 years of organic and conventional farming. Agriculture, Ecosystems & Environment 118. [nicht online geprüft]
-8. Pinamonti, F. (1998): Compost mulch effects on soil fertility, nutritional status and performance of grapevine. Nutrient Cycling in Agroecosystems 51. [nicht online geprüft]
+8. Pinamonti, F. (1998): Compost mulch effects on soil fertility, nutritional status and performance of grapevine. Nutrient Cycling in Agroecosystems 51, 239–248. DOI 10.1023/A:1009701323580. [online geprüft – Zusammenfassung]
 9. Rowley, M. C., Grand, S., Verrecchia, E. P. (2018): Calcium-mediated stabilisation of soil organic carbon. Biogeochemistry 137. [nicht online geprüft]
 10. Mengel, K. (1994): Iron availability in plant tissues – iron chlorosis on calcareous soils. Plant and Soil 165. [nicht online geprüft]
 11. Minasny, B., McBratney, A. B. (2018): Limited effect of organic matter on soil available water capacity. European Journal of Soil Science 69, 39–47. [online geprüft – Zusammenfassung]
 12. Yan, F., Schubert, S., Mengel, K. (1996): Soil pH increase due to biological decarboxylation of organic anions. Soil Biology and Biochemistry 28. [nicht online geprüft]
-13. Durchführungsverordnung (EU) 2021/1165, Anhang II (für die ökologische Produktion zugelassene Düngemittel, Bodenverbesserer und Nährstoffe), konsolidierte Fassung; Stand vor Verwendung auf EUR-Lex prüfen. [nicht online geprüft]
-14. Hartl, W., Erhart, E. (2005): Crop nitrogen recovery and soil nitrogen dynamics in a 10-year field experiment with biowaste compost. Journal of Plant Nutrition and Soil Science (Band und Seiten prüfen). [online geprüft – Ergebnis laut Suchergebnis]
+13. Durchführungsverordnung (EU) 2021/1165, Anhang II (für die ökologische Produktion zugelassene Düngemittel, Bodenverbesserer und Nährstoffe), konsolidierte Fassung Stand 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026: Bioabfall-Grenzwerte, Torf, Stallmist, Pflanzenkohle]
+14. Hartl, W., Erhart, E. (2005): Crop nitrogen recovery and soil nitrogen dynamics in a 10-year field experiment with biowaste compost. Journal of Plant Nutrition and Soil Science (Band und Seiten prüfen). [online geprüft – Ergebnis und Bodentyp laut Suchergebnis]
 15. Amlinger, F., Götz, B., Dreher, P., Geszti, J., Weissteiner, C. (2003): Nitrogen in biowaste and yard waste compost: dynamics of mobilisation and availability – a review. European Journal of Soil Biology 39. [nicht online geprüft]
-16. Kompostverordnung, BGBl. II Nr. 292/2001 in der geltenden Fassung. Rechtsinformationssystem des Bundes (RIS). [online geprüft – nur Fundstelle und Gliederung (eigener Abschnitt mit zusätzlichen Anforderungen für die Landwirtschaft); Inhalt nicht eingesehen]
+16. Kompostverordnung, BGBl. II Nr. 292/2001, konsolidierte Fassung vom 23.09.2026. Rechtsinformationssystem des Bundes (RIS). https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001486 [online geprüft – Wortlaut der 8-t-Regel laut Suchergebnis aus dem RIS; RIS selbst aus der Arbeitsumgebung nicht erreichbar]
 17. Durchführungsverordnung (EU) 2018/1981 zur Erneuerung der Genehmigung für Kupferverbindungen (Höchstmenge 28 kg Kupfer je Hektar in sieben Jahren). [nicht online geprüft]
 18. Bustamante, M. A. et al. (2008): Agrochemical characterisation of the solid by-products and residues from the winery and distillery industry. Waste Management 28. [nicht online geprüft]
 19. Gramaje, D., Úrbez-Torres, J. R., Sosnowski, M. R. (2018): Managing grapevine trunk diseases with respect to etiology and epidemiology: current strategies and future prospects. Plant Disease 102. [nicht online geprüft]
 20. Glaser, B., Lehr, V.-I. (2019): Biochar effects on phosphorus availability in agricultural soils: a meta-analysis. Scientific Reports 9, 9338. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6597700/ [online geprüft – Zusammenfassung]
 21. Schmidt, H.-P. et al. (2014): Biochar and biochar-compost as soil amendments to a vineyard soil: influences on plant growth, nutrient uptake, plant health and grape quality. Agriculture, Ecosystems & Environment 191. [nicht online geprüft]
 22. Genesio, L. et al. (2015): Biochar increases vineyard productivity without affecting grape quality: results from a four years field experiment in Tuscany. Agriculture, Ecosystems & Environment 201. [nicht online geprüft]
-23. Rose, M. T. et al. (2014): A meta-analysis and review of plant-growth response to humic substances: practical implications for agriculture. Advances in Agronomy 124. [nicht online geprüft]
+23. Rose, M. T. et al. (2014): A meta-analysis and review of plant-growth response to humic substances: practical implications for agriculture. Advances in Agronomy 124, 37–89. [online geprüft – Zusammenfassung]
 24. Verordnung (EU) 2018/848 über die ökologische/biologische Produktion, Anhang II Teil I Nummer 1.9 (Bodenbewirtschaftung und Düngung), konsolidierte Fassung; Stand vor Verwendung auf EUR-Lex prüfen. [nicht online geprüft]
-25. Nitrat-Aktionsprogramm-Verordnung (NAPV), BGBl. II Nr. 385/2017 in der geltenden Fassung (Fundstelle prüfen). RIS. [nicht online geprüft]
-26. Wasserrechtsgesetz 1959 (WRG 1959), § 32 Abs. 2 lit. f, in der geltenden Fassung. RIS. [nicht online geprüft]
-27. Wirtschaftskammer Österreich: Kompostverordnung 2024 – Erläuterungen (Entwurf). https://wko.at/oe/news/0142-tf-kompostverordnung-2024-erlaeuterungen.pdf [online geprüft – nur Existenz und eine Einzelangabe laut Suchergebnis; Rechtsstatus nicht geprüft]
-28. Verordnung (EG) Nr. 1069/2009 (tierische Nebenprodukte) und Verordnung (EU) Nr. 142/2011 (Durchführungsbestimmungen); in Österreich ergänzt durch das Tiermaterialiengesetz. [nicht online geprüft]
+25. Nitrat-Aktionsprogramm-Verordnung (NAPV), BGBl. II Nr. 495/2022, geändert durch BGBl. II Nr. 198/2024. RIS. [online geprüft – Fundstelle laut Seite des Bundesministeriums (Suchergebnis); Verordnungstext nicht eingesehen]
+26. Wasserrechtsgesetz 1959 (WRG 1959), § 32 Abs. 2 lit. f, in der geltenden Fassung. RIS. [online geprüft – Wortlaut laut Suchergebnis (RIS, jusline)]
+27. Wirtschaftskammer Österreich: Kompostverordnung 2024 – Erläuterungen (Entwurf). https://wko.at/oe/news/0142-tf-kompostverordnung-2024-erlaeuterungen.pdf [online geprüft – Existenz; Entwurf nennt 12 t TM/ha und Jahr im Fünfjahresdurchschnitt laut Suchergebnis; laut RIS-Fassung vom 23.09.2026 nicht in Kraft]
+28. Verordnung (EG) Nr. 1069/2009 (tierische Nebenprodukte) und Verordnung (EU) Nr. 142/2011 (Durchführungsbestimmungen); in Österreich ergänzt durch das Tiermaterialiengesetz. Wartezeit 21 Tage: VO (EU) Nr. 142/2011 Anhang II Kapitel II. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex (VO 142/2011) Stand 29.10.2025]
 29. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz: Richtlinien für die sachgerechte Düngung im Weinbau. Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft, Wien (Auflage und Jahr prüfen). https://info.bml.gv.at/dam/jcr:3c0bf822-3810-4d9c-ba06-964c6faa22f5/BML_Broschuere_SGD%20Weinbau.pdf [nicht online geprüft – Dokument unter dieser Adresse gefunden, Inhalt nicht eingesehen]
 30. Snyder, R. L., de Melo-Abreu, J. P. (2005): Frost Protection: fundamentals, practice and economics. Volume 1. FAO Environment and Natural Resources Series 10. FAO, Rom. [nicht online geprüft]
 31. Emerson, K., Russo, R. C., Lund, R. E., Thurston, R. V. (1975): Aqueous ammonia equilibrium calculations: effect of pH and temperature. Journal of the Fisheries Research Board of Canada 32. [nicht online geprüft]
 32. Fenn, L. B., Kissel, D. E. (1973): Ammonia volatilization from surface applications of ammonium compounds on calcareous soils: I. General theory. Soil Science Society of America Proceedings 37. [nicht online geprüft]
-33. Sommer, S. G., Hutchings, N. J. (2001): Ammonia emission from field applied manure and its reduction – invited paper. European Journal of Agronomy 15. [nicht online geprüft]
+33. Sommer, S. G., Hutchings, N. J. (2001): Ammonia emission from field applied manure and its reduction – invited paper. European Journal of Agronomy 15, 1–15. [online geprüft – Zusammenfassung]
 34. Morlat, R., Symoneaux, R. (2008): Long-term additions of organic amendments in a Loire Valley vineyard on a calcareous sandy soil. III. Effects on fruit composition and chemical and sensory characteristics of Cabernet franc wine. American Journal of Enology and Viticulture 59, 375–386. [online geprüft – nur Fundstelle; Titel aus dem Gedächtnis ergänzt, prüfen]
 35. Erhart, E., Hartl, W., Putz, B. (2005): Biowaste compost affects yield, nitrogen supply during the vegetation period and crop quality of agricultural crops. European Journal of Agronomy 23. [nicht online geprüft – nur als Zitat in anderen Arbeiten gesehen]
-36. Vicente-Vicente, J. L., García-Ruiz, R., Francaviglia, R., Aguilera, E., Smith, P. (2016): Soil carbon sequestration rates under Mediterranean woody crops using recommended management practices: a meta-analysis. Agriculture, Ecosystems & Environment 235. [nicht online geprüft]
+36. Vicente-Vicente, J. L., García-Ruiz, R., Francaviglia, R., Aguilera, E., Smith, P. (2016): Soil carbon sequestration rates under Mediterranean woody crops using recommended management practices: a meta-analysis. Agriculture, Ecosystems & Environment 235, 204–214. DOI 10.1016/j.agee.2016.10.024. [online geprüft – Fundstelle; Teilergebnis laut Sekundärzusammenfassung (Conservation Evidence)]
 37. Bernal, M. P., Alburquerque, J. A., Moral, R. (2009): Composting of animal manures and chemical criteria for compost maturity assessment. A review. Bioresource Technology 100. [nicht online geprüft]
 38. Haug, R. T. (1993): The Practical Handbook of Compost Engineering. Lewis Publishers, Boca Raton. [nicht online geprüft]
+39. Delegierte Verordnung (EU) 2019/934, Artikel 14 (Beseitigung von Nebenerzeugnissen), konsolidierte Fassung Stand 29.12.2024. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024]
+40. Landwirtschaftskammer Kärnten: Sperrfristen bei Düngung beachten. https://ktn.lko.at/sperrfristen-bei-düngung-beachten+2400+3579107 [online geprüft – Angabe 30. November bis 15. Februar laut Suchergebnis]

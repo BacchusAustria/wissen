@@ -209,7 +209,7 @@ Die AGES- und die steirische Anleitung schließen „Fahrgassen“ von der Probe
 3. Bei Kompostgaben in einen Streifen, bei langjähriger Dauerbegrünung oder bei der Frage „Wirkt die Maßnahme?“ zusätzlich Vorgehen B. Das kostet eine zweite Analyse, zeigt aber, wo sich etwas tut.
 4. Das gewählte Schema nie ändern, ohne es zu dokumentieren.
 
-> **Offen:** Die eingesehenen österreichischen Unterlagen legen die Verteilung der Einstiche zwischen Unterstock und Gasse nicht fest. Das Probenahme-Kapitel der Richtlinie (3. Auflage 2024) [1] konnte bei der Erstellung nicht eingesehen werden. Vor der ersten Probenahme dort nachlesen.
+> **Offen:** Die eingesehenen österreichischen Unterlagen legen die Verteilung der Einstiche zwischen Unterstock und Gasse nicht fest. Das Probenahme-Kapitel der Richtlinie (3. Auflage 2024) [1] konnte auch in der Nachprüfung (November 2026) nicht eingesehen werden. Vor der ersten Probenahme dort nachlesen.
 
 ### 5.4 Tiefe
 
@@ -219,7 +219,7 @@ Die AGES- und die steirische Anleitung schließen „Fahrgassen“ von der Probe
 | LK Oberösterreich [9] | 0–25 cm | 25–50 cm | vor der Neuanlage, Grundlage der Vorratsdüngung |
 | Land Steiermark [5] | 0–25 cm | 25–50 cm | Wein- und Obstbau |
 | Wein-Terroir Burgenland [11] | 0–25 cm | 25–50 cm | vor Rodung oder Neuauspflanzung zusätzlich unter 50–60 cm |
-| AGES-Anleitung [3] | 0–30 cm (an anderer Stelle 0–25 cm) | 30–60 cm (an anderer Stelle 25–50 cm) | beide Angaben im Dokument |
+| AGES-Anleitung [3] | 0–30 cm (alternativ 0–25 cm) | 30–60 cm (alternativ 25–50 cm) | Wein- und Obstbau; an anderer Stelle im Text nur 0–25/25–50 cm |
 | Hochschule Geisenheim, RP Darmstadt [13, 14] | 0–30 cm | 30–60 cm | Deutschland |
 | DLR Rheinland-Pfalz [12] | 0–30 cm | – | Ertragsanlagen Humus und Phosphat 0–30 cm; Neu- und Junganlagen 0–60 cm |
 | ASTA Luxemburg [20] | 0–30 cm | 30–60 cm (freiwillig) | – |
@@ -232,7 +232,9 @@ Die Quellen widersprechen sich. In Österreich überwiegt in den eingesehenen Be
 2. Wer schon frühere Befunde hat, bleibt bei deren Tiefe. Nur so sind Vergleiche möglich.
 3. Die Tiefe auf dem Begleitschein angeben.
 
-> **Offen:** Welche Tiefe die 3. Auflage (2024) der Richtlinie [1] vorgibt und welche Angabe der AGES-Anleitung [3] gilt, war bei der Erstellung nicht eindeutig zu klären. Im Original nachlesen.
+Die AGES-Anleitung nennt für Wein- und Obstbau 0–30 und 30–60 cm und lässt 0–25 und 25–50 cm als Alternative zu [3].
+
+> **Offen:** Welche Tiefe die 3. Auflage (2024) der Richtlinie [1] vorgibt, war auch in der Nachprüfung (November 2026) nicht zu klären; online war nur das Inhaltsverzeichnis zugänglich. Im Original nachlesen.
 
 ### 5.5 Schritt für Schritt mit dem Bohrstock
 
@@ -489,7 +491,7 @@ Stand: November 2026
 
 1. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz (2024): Sachgerechte Düngung im Weinbau. 3. Auflage. Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft, Wien. https://www.bmluk.gv.at/service/publikationen/landwirtschaft/sachgerechte-duengung-weinbau.html (PDF auch über https://www.weinobst.at/service/sachgerechte-duengung.html). [online geprüft] – Existenz, Auflage und Gliederung (Grunduntersuchung, erweiterte Untersuchungen) gesehen; das Kapitel zur Probenahme wurde nicht eingesehen. Eine 2. Auflage von 2014 ist ebenfalls verbreitet.
 2. Austrian Standards International (2023): ÖNORM L 1055:2023-11-15 – Bodenuntersuchungen – Probenahme ohne Aufrechterhaltung der Bodenstruktur. Wien. https://www.austrian-standards.at/en/shop/onorm-l-1055-2023-11-15~p2894073 [online geprüft] – nur Titel, Ausgabe und Anwendungsbereich laut Shop (gemeinsam mit ÖNORM L 1054 anzuwenden); Normtext nicht eingesehen. Die Vorgängerausgabe ist vom 1. Juli 2004.
-3. AGES – Agentur für Gesundheit und Ernährungssicherheit (2022): Anleitung zur Entnahme von Bodenproben sowie Erläuterungen (Dokument L 18986_1, Stand Februar 2022). Wien. https://www.ages.at/download/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDk0NTkyMDAsImV4cCI6NDA3MDkwODgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vQUdFU18yMDIyLzVfVU1XRUxUL0JvZGVuL0JvZGVudW50ZXJzdWNodW5nZW4vTF8xODk4Nl8xX0FubGVpdHVuZ196dXJfRW50bmFobWVfdm9uX0JvZGVucHJvYmVuX3Nvd2llX0VybFx1MDBlNHV0ZXJ1bmdlbi5wZGYiLCJwYWdlIjo4NjR9.3x7k-eYTj2t4wjJQGeSlXYLjs8JXby3FrJ7RjDOKBWM/L_18986_1_Anleitung_zur_Entnahme_von_Bodenproben_sowie_Erl%C3%A4uterungen.pdf [online geprüft] – nur Auszüge; die Auszüge enthalten für Wein- und Obstbau sowohl 2 ha als auch 1 ha und sowohl 0–30/30–60 cm als auch 0–25/25–50 cm.
+3. AGES – Agentur für Gesundheit und Ernährungssicherheit (2022): Anleitung zur Entnahme von Bodenproben sowie Erläuterungen (Dokument L 18986_1, Stand Februar 2022). Wien. https://www.ages.at/download/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDk0NTkyMDAsImV4cCI6NDA3MDkwODgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vQUdFU18yMDIyLzVfVU1XRUxUL0JvZGVuL0JvZGVudW50ZXJzdWNodW5nZW4vTF8xODk4Nl8xX0FubGVpdHVuZ196dXJfRW50bmFobWVfdm9uX0JvZGVucHJvYmVuX3Nvd2llX0VybFx1MDBlNHV0ZXJ1bmdlbi5wZGYiLCJwYWdlIjo4NjR9.3x7k-eYTj2t4wjJQGeSlXYLjs8JXby3FrJ7RjDOKBWM/L_18986_1_Anleitung_zur_Entnahme_von_Bodenproben_sowie_Erl%C3%A4uterungen.pdf [online geprüft] – nur Auszüge; die Auszüge enthalten für Wein- und Obstbau sowohl 2 ha als auch 1 ha; Tiefe „0–30 cm, 30–60 cm (alternativ: 0–25 cm, 25–50 cm)“, an anderer Stelle 0–25/25–50 cm.
 4. AGES (o. J.): Untersuchungsauftrag zur Bodenuntersuchung im Ackerbau, Wein-, Obst-, Gemüsebau, Grünland für Unternehmen. Wien. https://www.ages.at/download/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDk0NTkyMDAsImV4cCI6NDA3MDkwODgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW5cL0FHRVNfMjAyMlwvNV9VTVdFTFRcL0JvZGVuXC9Cb2RlbnVudGVyc3VjaHVuZ2VuXC9VbnRlcnN1Y2h1bmdzYXVmdHJhZ196dXJfQm9kZW51bnRlcnN1Y2h1bmdfaW1fQWNrZXJiYXVfV2Vpbl9PYnN0X0dlbXVlc2ViYXVfR3J1ZW5sYW5kX2Z1ZXJfVW50ZXJuZWhtZW4ucGRmIiwicGFnZSI6ODY0fQ.cNk-aww1tdLTjigWQx858PaI_JP9tQNBCeu22HSl-V8/Untersuchungsauftrag_zur_Bodenuntersuchung_im_Ackerbau_Wein_Obst_Gemuesebau_Gruenland_fuer_Unternehmen.pdf [online geprüft] – nur die Formularfelder.
 5. Amt der Steiermärkischen Landesregierung (o. J.): Bodenprobennahme (Acker, Grünland, Wein- und Obstbau). Graz. https://www.verwaltung.steiermark.at/cms/dokumente/11680519_75777056/006d4240/Bodenprobennahme.pdf [online geprüft] – Auszüge (25 Einzelproben, höchstens 5 ha, Wein- und Obstbau 0–25/25–50 cm, Ausschlussstellen, Abstand zur Mineraldüngung, Verweis auf ÖNORM L 1055–1057).
 6. Rebschutzdienst (o. J.): Bodenuntersuchungen. https://rebschutzdienst.at/4402/Bodenuntersuchungen [online geprüft].

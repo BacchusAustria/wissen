@@ -104,7 +104,7 @@ Bakterien (*Bacillus*, *Pseudomonas*) und Pilze (*Penicillium bilaiae*, *Aspergi
 
 - **Labortest ≠ Feldwirkung:** Viele Stämme werden auf Nährböden mit Tricalciumphosphat ausgewählt („Lösungshof“). Dieser Test sagt die Wirkung im Boden schlecht voraus [6, 39].
 - **Mechanismus im Feld oft unklar:** Wenn Wachstum zunimmt, liegt das häufig nicht an gelöstem Phosphat, sondern an anderen Wirkungen (z. B. Wurzelwachstum) [6, 15].
-- **Metaanalyse:** Über viele Kulturen erhöhten Biodünger den Ertrag im Mittel um rund 16 % (ungeprüft), in trockenen Klimaten stärker, im gemäßigten Klima deutlich weniger (ungeprüft) [7]. Fast nur einjährige Kulturen, mögliche Verzerrung durch nicht veröffentlichte Nullergebnisse.
+- **Metaanalyse:** Über viele Kulturen (171 Studien, 1.726 Vergleiche) erhöhten Biodünger den Ertrag im Mittel um rund 16 % (Gesamtwert ungeprüft). Nach Klima: trocken +20,0 ± 1,7 %, tropisch +14,9 ± 1,2 %, ozeanisch +10,0 ± 3,7 %, kontinental +8,5 ± 2,4 % [7]. Für Österreich ist am ehesten der kontinentale Wert maßgeblich. Fast nur einjährige Kulturen, mögliche Verzerrung durch nicht veröffentlichte Nullergebnisse.
 - **Historisch:** Bakterienpräparate zur Phosphatlösung wurden schon vor Jahrzehnten großflächig eingesetzt, mit unzuverlässigen Ergebnissen [40].
 - ***Penicillium bilaiae*** (als Saatgutbehandlung für Getreide und Raps im Handel): Feldversuche mit Weizen in Kanada und eine große, herstellernahe Auswertung bei Mais zeigen kleine, von Standort und Jahr abhängige Effekte (ungeprüft) [41, 42]. Für Reben keine Daten; die Anwendungsform passt nicht zu Dauerkulturen.
 - ***Aspergillus*:** starke Säurebildner. Arten aus der *Aspergillus-niger*-Gruppe und *A. carbonarius* sind die Hauptbildner von Ochratoxin A auf Trauben [43]. Präparate mit *Aspergillus* gehören nicht in den Weingarten.
@@ -141,13 +141,13 @@ Hornmist (500), Hornkiesel (501), Fladenpräparat und Kompostpräparate werden i
 
 ## Nicht-mikrobielle Biostimulanzien (kurz)
 
-Biostimulanzien sollen Nährstoffeffizienz, Stresstoleranz oder Qualität verbessern, unabhängig vom eigenen Nährstoffgehalt [51, 52]. Huminstoffe förderten das Pflanzenwachstum in einer Metaanalyse im Mittel, mit großer Streuung und meist schwächer im Feld als im Topf (ungeprüft) [53]. Huminsäuren, Leonardit und Algenerzeugnisse sind im Bio-Landbau mit Bedingungen zugelassen [54]. Eine Wirkung gegen Kalkchlorose oder Phosphorfestlegung bei Reben ist nicht belegt.
+Biostimulanzien sollen Nährstoffeffizienz, Stresstoleranz oder Qualität verbessern, unabhängig vom eigenen Nährstoffgehalt [51, 52]. Huminstoffe förderten das Pflanzenwachstum in einer Metaanalyse von 81 Arbeiten im Mittel um 22 ± 4 % (Spross) und 21 ± 6 % (Wurzel), überwiegend in Gewächshausversuchen; Huminstoffe aus Kompost wirkten besser als solche aus Braunkohle oder Torf [53]. Ob die Wirkung im Feld schwächer ist, steht nicht in der Zusammenfassung (ungeprüft). Huminsäuren, Leonardit und Algenerzeugnisse sind im Bio-Landbau mit Bedingungen zugelassen [54]. Eine Wirkung gegen Kalkchlorose oder Phosphorfestlegung bei Reben ist nicht belegt.
 
 ## Rechtslage
 
 | Produkt | Bio-Recht | Inverkehrbringen | Hinweis |
 |---|---|---|---|
-| Mikroorganismen-Präparat für Boden oder Nährstoffe | erlaubt zur Verbesserung des Bodenzustands oder der Nährstoffverfügbarkeit, VO (EU) 2018/848 Anhang II Teil I Nr. 1.9.6 [12]; keine Gentechnik | als EU-Düngeprodukt (CE) nur mit *Azotobacter*, Mykorrhizapilzen, *Rhizobium* oder *Azospirillum* (CMC 7) [52]; andere Gattungen (z. B. *Bacillus*, *Pseudomonas*, *Trichoderma*, *Penicillium*) nur nach nationalem Recht [55] | Erweiterung der CMC-7-Liste wird vorbereitet, ein Projekt unter Leitung des AIT bewertet Kandidaten; beschlossen war bei Erstellung nichts [56] |
+| Mikroorganismen-Präparat für Boden oder Nährstoffe | erlaubt zur Verbesserung des Bodenzustands oder der Nährstoffverfügbarkeit, VO (EU) 2018/848 Anhang II Teil I Nr. 1.9.6 [12]; keine Gentechnik | als EU-Düngeprodukt (CE) nur mit *Azotobacter*, Mykorrhizapilzen, *Rhizobium* oder *Azospirillum* (CMC 7) [52]; andere Gattungen (z. B. *Bacillus*, *Pseudomonas*, *Trichoderma*, *Penicillium*) nur nach nationalem Recht [55] | Erweiterung der CMC-7-Liste wird vorbereitet, ein Projekt unter Leitung des AIT bewertet Kandidaten; im konsolidierten Text Stand 01.07.2026 noch nicht umgesetzt [52, 56] |
 | Kompost-Starter | erlaubt (Nr. 1.9.7) [12] | wie oben | |
 | Biologisch-dynamische Präparate | erlaubt (Nr. 1.9.9) [12] | meist selbst hergestellt | |
 | Mikroorganismen als Pflanzenschutzmittel (z. B. *Trichoderma*) | erlaubt, wenn als Wirkstoff genehmigt [54] | Zulassung in Österreich (Pflanzenschutzmittelregister des BAES) | Werbung mit Pflanzenschutzwirkung nur mit Zulassung |
@@ -264,7 +264,7 @@ Mindestens erkennbarer Unterschied (gepaarter t-Test, 5 % Irrtum, 80 % Trefferwa
 - Für Reben auf österreichischen Kalkböden gibt es keine bekannten Feldversuche mit Mikroorganismen-Präparaten zur Nährstofffreisetzung.
 - Preise und Streuungswerte sind Annahmen.
 
-> **Offen:** Online prüfen: Autoren und Details der PeerJ-, Agriculture-, J.-Appl.-Microbiol.- und Stellenbosch-Studien; Effektgrößen der Metaanalyse von Schütz et al.; Stand der Erweiterung von CMC 7 (Suchbegriffe: „CMC 7 delegated regulation microorganisms 2019/1009 amendment“, „Mykorrhiza Impfung Rebe Feldversuch“, „Penicillium bilaiae field trial meta-analysis“).
+> **Offen:** Online prüfen: Autoren und Details der PeerJ-, Agriculture-, J.-Appl.-Microbiol.- und Stellenbosch-Studien; Gesamteffekt (16 %) der Metaanalyse von Schütz et al. (die Klimawerte sind bestätigt) (Suchbegriffe: „Mykorrhiza Impfung Rebe Feldversuch“, „Penicillium bilaiae field trial meta-analysis“). Erledigt: Im konsolidierten Text der VO (EU) 2019/1009, Stand 01.07.2026, enthält CMC 7 weiterhin nur *Azotobacter* spp., Mykorrhizapilze, *Rhizobium* spp. und *Azospirillum* spp. [52].
 
 ## Siehe auch
 
@@ -283,7 +283,7 @@ Stand: November 2026
 4. N. N. (2021): Commercial arbuscular mycorrhizal fungal inoculant failed to establish in a vineyard despite priority advantage. PeerJ (Artikel 11119). https://peerj.com/articles/11119 [online geprüft] (Autoren nicht gesehen)
 5. Salomon, M. J. et al. (2022): Global evaluation of commercial arbuscular mycorrhizal inoculants under greenhouse and field conditions. Applied Soil Ecology 169, 104225. DOI 10.1016/j.apsoil.2021.104225. [online geprüft] (Kurzfassung)
 6. Raymond, N. S. et al. (2021): Phosphate-solubilising microorganisms for improved crop productivity: a critical assessment. New Phytologist 229, 1268–1277. [nicht online geprüft]
-7. Schütz, L.; Gattinger, A.; Meier, M.; Müller, A.; Boller, T.; Mäder, P.; Mathimaran, N. (2018): Improving crop yield and nutrient use efficiency via biofertilization – a global meta-analysis. Frontiers in Plant Science 8, 2204. [nicht online geprüft]
+7. Schütz, L.; Gattinger, A.; Meier, M.; Müller, A.; Boller, T.; Mäder, P.; Mathimaran, N. (2018): Improving crop yield and nutrient use efficiency via biofertilization – a global meta-analysis. Frontiers in Plant Science 8, 2204. DOI 10.3389/fpls.2017.02204. [online geprüft – Zusammenfassung (Klimawerte, Studienzahl)]
 8. Mayer, J.; Scheid, S.; Widmer, F.; Fließbach, A.; Oberholzer, H.-R. (2010): How effective are 'Effective microorganisms® (EM)'? Results from a field study in temperate climate. Applied Soil Ecology 46, 230–239. [nicht online geprüft]
 9. Rillig, M. C. et al. (2019): Why farmers should manage the arbuscular mycorrhizal symbiosis. New Phytologist 222, 1171–1175. [nicht online geprüft]
 10. Winter, S. et al. (2018): Effects of vegetation management intensity on biodiversity and ecosystem services in vineyards: A meta-analysis. Journal of Applied Ecology 55, 2484–2495. [nicht online geprüft]
@@ -299,7 +299,7 @@ Stand: November 2026
 20. Schreiner, R. P. (2007): Effects of native and nonnative arbuscular mycorrhizal fungi on growth and nutrient uptake of 'Pinot noir' (Vitis vinifera L.) in two soils with contrasting levels of phosphorus. Applied Soil Ecology 36. [nicht online geprüft]
 21. Kabir, Z. (2005): Tillage or no-tillage: Impact on mycorrhizae. Canadian Journal of Plant Science 85. [nicht online geprüft]
 22. Radić, T. et al. (2012): Neighbouring weeds influence the formation of arbuscular mycorrhiza in grapevine. Symbiosis 56. [nicht online geprüft]
-23. Baumgartner, K.; Smith, R. F.; Bettiga, L. (2005): Weed control and cover crop management affect mycorrhizal colonization of grapevine roots and arbuscular mycorrhizal fungal spore populations in a California vineyard. Mycorrhiza 15. [nicht online geprüft]
+23. Baumgartner, K.; Smith, R. F.; Bettiga, L. (2005): Weed control and cover crop management affect mycorrhizal colonization of grapevine roots and arbuscular mycorrhizal fungal spore populations in a California vineyard. Mycorrhiza 15. [online geprüft – Zusammenfassung]
 24. Cheng, X.; Baumgartner, K. (2004): Arbuscular mycorrhizal fungi-mediated nitrogen transfer from vineyard cover crops to grapevines. Biology and Fertility of Soils 40. [nicht online geprüft]
 25. Zaller, J. G. et al. (2018): Herbicides in vineyards reduce grapevine root mycorrhization and alter soil microorganisms and the nutrient composition in grapevine roots, leaves, xylem sap and grape juice. Environmental Science and Pollution Research 25. [nicht online geprüft]
 26. Komárek, M. et al. (2010): Contamination of vineyard soils with fungicides: A review of environmental and toxicological aspects. Environment International 36, 138–151. [nicht online geprüft]
@@ -328,9 +328,9 @@ Stand: November 2026
 49. Hendgen, M. et al. (2018): Effects of different management regimes on microbial biodiversity in vineyard soils. Scientific Reports 8, 9393. [nicht online geprüft]
 50. Chalker-Scott, L. (2013): The science behind biodynamic preparations: a literature review. HortTechnology 23. [nicht online geprüft]
 51. du Jardin, P. (2015): Plant biostimulants: Definition, concept, main categories and regulation. Scientia Horticulturae 196, 3–14. [nicht online geprüft]
-52. Verordnung (EU) 2019/1009 vom 5. Juni 2019 über EU-Düngeprodukte, Anhang I PFC 6 (Pflanzen-Biostimulanzien) und Anhang II CMC 7 (Mikroorganismen: Azotobacter spp., Mykorrhizapilze, Rhizobium spp., Azospirillum spp.); Art. 42 (Änderung durch delegierte Rechtsakte). [online geprüft] (Liste der vier Gruppen und Art. 42 über Suchergebnisse bestätigt; Fassung bei EUR-Lex prüfen)
-53. Rose, M. T. et al. (2014): A meta-analysis and review of plant-growth response to humic substances: practical implications for agriculture. Advances in Agronomy 124. [nicht online geprüft]
-54. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021, Anhang I (Pflanzenschutz, u. a. Mikroorganismen) und Anhang II (Düngemittel, Bodenverbesserer, u. a. Huminsäuren, Algenerzeugnisse). [nicht online geprüft]
+52. Verordnung (EU) 2019/1009 vom 5. Juni 2019 über EU-Düngeprodukte, Anhang I PFC 6 (Pflanzen-Biostimulanzien) und Anhang II CMC 7 (Mikroorganismen: Azotobacter spp., Mykorrhizapilze, Rhizobium spp., Azospirillum spp.); Art. 42 (Änderung durch delegierte Rechtsakte). [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.07.2026: CMC 7 unverändert mit vier Gruppen]
+53. Rose, M. T. et al. (2014): A meta-analysis and review of plant-growth response to humic substances: practical implications for agriculture. Advances in Agronomy 124, 37–89. [online geprüft – Zusammenfassung]
+54. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021, Anhang I (Pflanzenschutz, u. a. Mikroorganismen) und Anhang II (Düngemittel, Bodenverbesserer, u. a. Huminsäuren, Algenerzeugnisse). [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026]
 55. Düngemittelgesetz 2021 und Düngemittelverordnung 2004 (Österreich), jeweils geltende Fassung im RIS. [nicht online geprüft] (BGBl.-Nummern vor Verwendung nachtragen)
 56. HortiDaily (o. J.): EU works to expand approved microorganisms for biostimulants. https://www.hortidaily.com/article/9775597/ [online geprüft] (Fachpresse, nur für den Stand des Verfahrens; Jahr nicht gesehen)
 57. Morlat, R.; Chaussod, R. (2008): Long-term additions of organic amendments in a Loire Valley vineyard. I. Effects on properties of a calcareous sandy soil. American Journal of Enology and Viticulture 59, 353–363. [nicht online geprüft]

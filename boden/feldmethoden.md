@@ -2,7 +2,7 @@
 
 Bodenbeurteilung ohne Labor: Bodenart, Gefüge, Profil, Wasseraufnahme, Aggregatstabilität, Verdichtung und Bodenleben im Weingarten. Wie Bodenproben gezogen und vorbereitet werden, steht in [Bodenprobenahme](probenahme.md).
 
-> **Offen:** Bei der Erstellung dieser Datei war keine Online-Recherche mehr möglich (Suchkontingent erschöpft). Alle Quellen sind deshalb „nicht online geprüft“. Zahlenwerte aus Fachwissen (Klassengrenzen, Rezepturen, Konstanten) sind an Ort und Stelle als offen markiert und vor Verwendung an der genannten Originalquelle zu prüfen. Alle Rechenbeispiele wurden nachgerechnet.
+> **Offen:** Bei der Erstellung dieser Datei war keine Online-Recherche mehr möglich (Suchkontingent erschöpft). Bei einer Nachprüfung (November 2026) wurden nur einzelne Angaben online geprüft: Korngrößengrenzen (ÖNORM L 1050), Bauarbeiterschutzverordnung, Teebeutel-Index (Tiefe und Liegedauer) und VESS (Skala); die Quellen [3, 9, 23, 33, 36] tragen den entsprechenden Vermerk. Alle übrigen Quellen sind „nicht online geprüft“. Zahlenwerte aus Fachwissen (Klassengrenzen, Rezepturen, Konstanten) sind an Ort und Stelle als offen markiert und vor Verwendung an der genannten Originalquelle zu prüfen. Alle Rechenbeispiele wurden nachgerechnet.
 
 ## Kurzfassung
 
@@ -46,7 +46,7 @@ Bodenbeurteilung ohne Labor: Bodenart, Gefüge, Profil, Wasseraufnahme, Aggregat
 
 **Wozu?** Die Bodenart beschreibt die Korngrößenzusammensetzung des Feinbodens (Teilchen unter 2 mm): **Sand** (2–0,063 mm), **Schluff** (0,063–0,002 mm) und **Ton** (unter 0,002 mm) [1]. Sie bestimmt Wasserspeicher, Nährstoffspeicher, Durchlüftung, Bearbeitbarkeit und Verdichtungsempfindlichkeit. Sie ändert sich kaum. Einmal je Teilfläche und Horizont bestimmen und mit der Bodenart im Laborbefund vergleichen.
 
-> **Offen:** Korngrößengrenzen nach KA5 [1]. Ob die österreichische Norm (ÖNORM L 1050) [3] dieselben Grenzen verwendet, vor Verwendung prüfen.
+Die österreichische Bodenkartierung verwendet nach ÖNORM L 1050 dieselben Grenzen (Sand 2–0,063 mm, Schluff 0,063–0,002 mm, Ton unter 0,002 mm), teilt die Bodenarten aber in 13 eigene Korngrößenklassen mit eigenem Texturdreieck ein [3, 36]. Bodenschätzung und Bodenkartierung verwenden teils unterschiedliche Klassen; immer dazuschreiben, nach welcher Einteilung die Bodenart angegeben ist [36].
 
 **Prinzip.** Sand fühlt sich körnig und rau an. Schluff fühlt sich mehlig und samtig an. Ton ist klebrig und formbar und zeigt beim Verschmieren eine glänzende Fläche [1, 4].
 
@@ -229,7 +229,7 @@ Das entspricht grob einem Lehm.
 | 4 | dicht | nur mit Kraft zu brechen, meist größer als 10 cm, kantig, teils plattig | wenige Grobporen, Wurzeln gebündelt in Rissen | deutliche Grobporen, sonst dicht |
 | 5 | sehr dicht | schwer zu brechen, meist größer als 10 cm, kantig, nicht porös | sehr wenige Poren, kaum Wurzeln | grau-bläuliche Farbe, Sauerstoffmangel |
 
-> **Offen:** Klassenbeschreibungen und Größenangaben aus Fachwissen zusammengefasst. Vor Verwendung mit der Original-Bewertungstafel von Guimarães et al. [9] abgleichen.
+> **Offen:** Online geprüft ist nur die Skala Sq 1 (gut) bis Sq 5 (schlecht) und dass Aufbrechen von Hand und Fallenlassen des Blocks zum selben Sq führen [9]. Klassenbeschreibungen und Größenangaben sind aus Fachwissen zusammengefasst; vor Verwendung mit der Original-Bewertungstafel in [9] (DOI 10.1111/j.1475-2743.2011.00354.x) abgleichen.
 
 **Berechnung.** Haben die Schichten verschiedene Werte, wird nach Schichtdicke gewichtet [9]:
 
@@ -246,7 +246,7 @@ Sq = (8 × 2 + 12 × 4 + 10 × 3) / 30 = 94 / 30 = 3,1.
 | 3 | mäßig | langfristig verbessern |
 | 4–5 | schlecht | kurzfristig handeln |
 
-> **Offen:** Zuordnung der Handlungsempfehlungen aus Fachwissen; mit [9] abgleichen.
+> **Offen:** Zuordnung der Handlungsempfehlungen aus Fachwissen; in der Nachprüfung nicht gefunden. Mit der Bewertungstafel in [9] abgleichen.
 
 Im Weingarten Radspur, Gassenmitte und Unterstock getrennt bewerten. Zusätzlich den Wert der schlechtesten Schicht und ihre Tiefe notieren. Eine dünne, sehr dichte Sohle geht im gewichteten Mittel leicht unter.
 
@@ -263,9 +263,7 @@ Im Weingarten Radspur, Gassenmitte und Unterstock getrennt bewerten. Zusätzlich
 - **Werkzeug:** Minibagger oder Spaten und Krampen, Planen für den Aushub, Messer, Spachtel, Zollstock, Nägel oder Fähnchen, Sprühflasche, Salzsäure, Farbtafel, Kamera, Formblatt.
 - **Vorher klären**, wo Tropfleitungen, Drainagen und Kabel liegen.
 
-> **Achtung:** Grubenwände können plötzlich einbrechen, besonders in Sand, Schotter und nassem Löss. Nie allein in der Grube arbeiten. Den Aushub nicht an der Grubenkante lagern. Die Grube nie ungesichert offen lassen (Absperrband, Abdeckung). Als Maßstab: Für Bauarbeiten schreibt die Bauarbeiterschutzverordnung ab einer Tiefe von 1,25 m eine Böschung oder einen Verbau vor [33]. Für die Bodenbeurteilung reicht meist 1 m.
-
-> **Offen:** Grenze von 1,25 m aus Fachwissen; Wortlaut der Bauarbeiterschutzverordnung im RIS prüfen.
+> **Achtung:** Grubenwände können plötzlich einbrechen, besonders in Sand, Schotter und nassem Löss. Nie allein in der Grube arbeiten. Den Aushub nicht an der Grubenkante lagern. Die Grube nie ungesichert offen lassen (Absperrband, Abdeckung). Als Maßstab: Für Bauarbeiten verlangt § 48 der Bauarbeiterschutzverordnung bei Gruben, Gräben und Künetten ab 1,25 m Tiefe eine Sicherung durch Abböschen, Verbau oder Bodenverfestigung; bei ungünstigem Boden oder Erschütterungen schon bei geringerer Tiefe. Am Rand ist ein Schutzstreifen von mindestens 50 cm freizuhalten [33]. Für die Bodenbeurteilung reicht meist 1 m.
 
 **Ablauf.**
 
@@ -511,7 +509,7 @@ Studien in Obst- und Weingärten nutzen Regenwürmer als Anzeiger für unterschi
 7. 48 Stunden bei 70 °C trocknen.
 8. Die Beutel öffnen und nur den Tee wiegen (Endmasse).
 
-> **Offen:** Vergrabtiefe 8 cm, Liegedauer etwa 90 Tage, Trocknung 48 h bei 70 °C sowie die Konstanten Hg und Hr unten aus Fachwissen zu [23]; im Original prüfen.
+> **Offen:** Vergrabtiefe 8 cm und Liegedauer etwa 90 Tage wurden online bestätigt [23]. Trocknung 48 h bei 70 °C sowie die Konstanten Hg und Hr unten stammen aus Fachwissen zu [23]; im Original prüfen. Bei einer anderen Grünteesorte muss Hg neu bestimmt werden (Hinweis in einem Protokoll von 2025, protocols.io).
 
 **Berechnung** [23]:
 
@@ -688,13 +686,13 @@ Stand: November 2026
 
 1. Ad-hoc-AG Boden (2005): Bodenkundliche Kartieranleitung (KA5). 5. Auflage. Bundesanstalt für Geowissenschaften und Rohstoffe, Hannover. [nicht online geprüft] – eine neuere Auflage auf geänderte Klassengrenzen prüfen.
 2. Nestroy, O. et al. (2011): Systematische Gliederung der Böden Österreichs. Österreichische Bodensystematik 2000 in der revidierten Fassung von 2011. Mitteilungen der Österreichischen Bodenkundlichen Gesellschaft 79. Wien. [nicht online geprüft]
-3. Austrian Standards International: ÖNORM L 1050 (Boden als Pflanzenstandort – Begriffe und Untersuchungsverfahren) und ÖNORM L 1061 (Bestimmung der Korngrößenverteilung). Wien. [nicht online geprüft] – genaue Titel und gültige Ausgaben prüfen.
+3. Austrian Standards International: ÖNORM L 1050 (Boden als Pflanzenstandort – Begriffe und Untersuchungsverfahren) und ÖNORM L 1061 (Bestimmung der Korngrößenverteilung; L 1061-1 Grobboden, L 1061-2 Feinboden, Ausgaben 2019). Wien. [online geprüft – Korngrößengrenzen nach L 1050 über [36]; Teile und Ausgaben von L 1061 im Normenshop; Normtexte nicht eingesehen; gültige Ausgabe von L 1050 prüfen]
 4. Amelung, W. et al. (2018): Scheffer/Schachtschabel – Lehrbuch der Bodenkunde. 17. Auflage. Springer Spektrum, Berlin. [nicht online geprüft]
 5. Gee, G. W., Bauder, J. W. (1986): Particle-size analysis. In: Klute, A. (Hrsg.): Methods of Soil Analysis, Part 1: Physical and Mineralogical Methods. 2. Auflage. Agronomy Monograph 9. American Society of Agronomy, Soil Science Society of America, Madison. [nicht online geprüft]
 6. Görbing, J. (1948): Die Grundlagen der Gare im praktischen Ackerbau. Landbuch-Verlag, Hannover. [nicht online geprüft]
 7. Beste, A. (2005): Landwirtschaftlicher Bodenschutz in der Praxis. Verlag Dr. Köster, Berlin. [nicht online geprüft]
 8. Ball, B. C., Batey, T., Munkholm, L. J. (2007): Field assessment of soil structural quality – a development of the Peerlkamp test. Soil Use and Management 23, 329–337. [nicht online geprüft]
-9. Guimarães, R. M. L., Ball, B. C., Tormena, C. A. (2011): Improvements in the visual evaluation of soil structure. Soil Use and Management 27, 395–403. [nicht online geprüft]
+9. Guimarães, R. M. L., Ball, B. C., Tormena, C. A. (2011): Improvements in the visual evaluation of soil structure. Soil Use and Management 27, 395–403. https://doi.org/10.1111/j.1475-2743.2011.00354.x [online geprüft – Zeitschrift, Band, Seiten, Skala Sq 1–5, Ergebnisse zum Aufbrechen; Bewertungstafel nicht eingesehen]
 10. USDA (1999): Soil Quality Test Kit Guide. United States Department of Agriculture, Agricultural Research Service, Natural Resources Conservation Service, Soil Quality Institute, Washington. [nicht online geprüft] – Ausgabejahr und Ringmaße prüfen.
 11. USDA NRCS (o. J.): Cropland In-Field Soil Health Assessment Guide. Natural Resources Conservation Service, Washington. [nicht online geprüft] – Fassung und Jahr prüfen.
 12. Herrick, J. E. et al. (2001): Field soil aggregate stability kit for soil quality and rangeland health evaluations. Catena 44, 27–35. [nicht online geprüft]
@@ -708,7 +706,7 @@ Stand: November 2026
 20. ISO 23611-1: Soil quality – Sampling of soil invertebrates – Part 1: Hand-sorting and extraction of earthworms. International Organization for Standardization, Genf. [nicht online geprüft] – gültige Ausgabe prüfen.
 21. Paoletti, M. G. et al. (1998): Earthworms as useful bioindicators of agroecosystem sustainability in orchards and vineyards with different inputs. Applied Soil Ecology 10, 137–150. [nicht online geprüft]
 22. Buchholz, J. et al. (2017): Soil biota in vineyards are more influenced by plants and soil quality than by tillage intensity or the surrounding landscape. Scientific Reports 7, 17445. [nicht online geprüft]
-23. Keuskamp, J. A., Dingemans, B. J. J., Lehtinen, T., Sarneel, J. M., Hefting, M. M. (2013): Tea Bag Index: a novel approach to collect uniform decomposition data across ecosystems. Methods in Ecology and Evolution 4, 1070–1075. [nicht online geprüft]
+23. Keuskamp, J. A., Dingemans, B. J. J., Lehtinen, T., Sarneel, J. M., Hefting, M. M. (2013): Tea Bag Index: a novel approach to collect uniform decomposition data across ecosystems. Methods in Ecology and Evolution 4, 1070–1075. [online geprüft – 90 Tage in 8 cm Tiefe laut Suchergebnis-Auszügen; Trocknung und Hg/Hr nicht gesehen]
 24. von Törne, E. (1990): Assessing feeding activities of soil-living animals. I. Bait-lamina-tests. Pedobiologia 34, 89–101. [nicht online geprüft]
 25. Kratz, W. (1998): The bait-lamina test: general aspects, applications and perspectives. Environmental Science and Pollution Research 5, 94–96. [nicht online geprüft]
 26. ISO 18311:2016: Soil quality – Method for testing effects of soil contaminants on the feeding activity of soil dwelling organisms – Bait-lamina test. International Organization for Standardization, Genf. [nicht online geprüft]
@@ -718,6 +716,7 @@ Stand: November 2026
 30. Gerber, N. N., Lechevalier, H. A. (1965): Geosmin, an earthy-smelling substance isolated from actinomycetes. Applied Microbiology 13, 935–938. [nicht online geprüft]
 31. Ellenberg, H. et al. (2001): Zeigerwerte von Pflanzen in Mitteleuropa. 3. Auflage. Scripta Geobotanica 18. Goltze, Göttingen. [nicht online geprüft]
 32. Fischer, M. A., Oswald, K., Adler, W. (2008): Exkursionsflora für Österreich, Liechtenstein und Südtirol. 3. Auflage. Biologiezentrum der Oberösterreichischen Landesmuseen, Linz. [nicht online geprüft]
-33. Bauarbeiterschutzverordnung (BauV), BGBl. Nr. 340/1994 in der geltenden Fassung, Bestimmungen über Künetten und Gruben. Rechtsinformationssystem des Bundes (RIS). [nicht online geprüft] – aktuellen Wortlaut im RIS prüfen.
+33. Bauarbeiterschutzverordnung (BauV), BGBl. Nr. 340/1994 in der geltenden Fassung, § 48 Aushub. Rechtsinformationssystem des Bundes (RIS); Wortlaut gesehen über https://www.jusline.at/gesetz/bauv/paragraf/48 [online geprüft – 1,25 m, Abböschung/Verbau/Bodenverfestigung, Schutzstreifen 50 cm; nur Auszüge, nicht im RIS selbst]
 34. Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft (laufend): eHYD – Bemessungsniederschläge. Wien. [nicht online geprüft]
 35. Edwards, C. A., Bohlen, P. J. (1996): Biology and Ecology of Earthworms. 3. Auflage. Chapman & Hall, London. [nicht online geprüft]
+36. AGES (o. J.): Bodenart und Bodenschwere – Hintergrundinformation (Wissen und Bildung, Boden). https://opendata.ages.at (Download „Bodenart_und_Bodenschwere_Hintergrundinformation.pdf“) [online geprüft – Korngrößen nach ÖNORM L 1050, 13 Korngrößenklassen der Bodenkartierung, österreichisches Texturdreieck; nur Suchergebnis-Auszüge]

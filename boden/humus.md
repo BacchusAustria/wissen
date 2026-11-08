@@ -73,7 +73,7 @@ Das **C/N-Verhältnis** ist Corg geteilt durch den Gesamtstickstoff (Nt). Es zei
 | Beratungsleitfaden Hessen, Weinbau [14] | angestrebte Humusgehalte im Oberboden etwa 1,5–2,9 %, je nach Standort |
 | Bodenkundliche Kartieranleitung KA5, Deutschland (Feldansprache) [15] | h1 sehr schwach humos unter 1 %, h2 schwach humos 1 bis unter 2 %, h3 mittel humos 2 bis unter 4 %, h4 stark humos 4 bis unter 8 % |
 
-> **Offen:** Die Humus-Einstufung der „Sachgerechten Düngung im Weinbau“ (3. Auflage 2024 [11]; Vorgängerauflage 2014 [16]) konnte nicht eingesehen werden. Vor Verwendung nachtragen; sie hat für Weingärten Vorrang vor den Tabellenzeilen oben.
+> **Offen:** Die Humus-Einstufung der „Sachgerechten Düngung im Weinbau“ (3. Auflage 2024 [11]; Vorgängerauflage 2014 [16]) konnte auch in der Nachprüfung (November 2026) nicht eingesehen werden; online war nur das Inhaltsverzeichnis zugänglich (Einstufung der Bodenuntersuchungsergebnisse in Kapitel 3.1). Vor Verwendung nachtragen; sie hat für Weingärten Vorrang vor den Tabellenzeilen oben. Hinweis: Eine BML-Auswertung zitiert für die Fassung von 2006 die Stufen unter 2 % schwach humos, 2–4,5 % humos, über 4,5 % stark humos und nennt für Weinbauflächen die niedrigsten Mediane (2,3 bzw. 2,6 %) [54].
 
 **Einordnung für den Weingarten:** Ein Humuswert allein sagt wenig. Bodenart (schwere Böden brauchen mehr Humus für ein gutes Gefüge [4]), Kalkgehalt, Klima und Begrünung gehören zur Bewertung. Mehr Humus bedeutet auch mehr Stickstoffnachlieferung – auf humusreichen Böden ist bei Reben eher zu viel als zu wenig Stickstoff das Problem.
 
@@ -201,10 +201,10 @@ Kaliumpermanganat (KMnO₄) ist violett. Es oxidiert einen Teil der organischen 
 | Messzylinder oder Dispenser | für 18,0 mL und 49,5 mL | – |
 | Fotometer oder Kolorimeter | Messung bei 550 nm; Geräte mit 525-nm-LED (Maximum der Permanganat-Absorption) sind mit eigener Kalibrierung brauchbar; Küvetten 1 cm | – |
 | Stoppuhr | – | – |
-| Stammlösung KMnO₄ 0,2 mol/L mit CaCl₂-Zusatz [26] | CaCl₂ fördert das Absetzen (Flockung) der Bodenteilchen. Für 250 mL in der verbreiteten Rezeptur (aus dem Fachwissen, siehe „Offen“ unten): 36,75 g CaCl₂·2H₂O (entspricht 1 mol/L) in etwa 200 mL entionisiertem Wasser lösen, 7,90 g KMnO₄ (zur Analyse) zugeben und rühren, bis alles gelöst ist; pH mit Natronlauge 0,1 mol/L auf 7,2 einstellen; auf 250 mL auffüllen (Mengen mit python3 aus den Molmassen berechnet). In brauner Flasche dunkel lagern. | 2,0 mL |
+| Stammlösung KMnO₄ 0,2 mol/L mit CaCl₂-Zusatz [26] | CaCl₂ fördert das Absetzen (Flockung) der Bodenteilchen. Die Stammlösung enthält 1 mol/L CaCl₂ (147 g CaCl₂·2H₂O je Liter) [26, 53]; im Reaktionsansatz (1 : 10 verdünnt) sind das 0,1 mol/L CaCl₂ wie im Verfahren von Weil u. a. [5]. Für 250 mL: 36,75 g CaCl₂·2H₂O (entspricht 1 mol/L) in etwa 200 mL entionisiertem Wasser lösen, 7,90 g KMnO₄ (zur Analyse) zugeben und rühren, bis alles gelöst ist; pH mit Natronlauge 0,1 mol/L auf 7,2 einstellen; auf 250 mL auffüllen (Mengen mit python3 aus den Molmassen berechnet). In brauner Flasche dunkel lagern. | 2,0 mL |
 | Entionisiertes Wasser | – | ca. 70 mL |
 
-> **Offen:** CaCl₂-Konzentration und pH der Stammlösung (1 mol/L, pH 7,2) wurden nicht in einer Quelle gesehen. Ein australisches Verfahren arbeitet mit einer abweichenden Variante (KMnO₄ 0,033 mol/L, CaCl₂ 0,1 mol/L, 5 min Absetzen) [27]; der Einfluss des pH gilt als methodische Unsicherheit. Vor dem Ansetzen das Originalprotokoll [26] bzw. [5] lesen und dann nie mehr ändern.
+> **Offen:** Die CaCl₂-Konzentration der Stammlösung (1 mol/L) ist im KBS-Protokoll und im Cornell-Arbeitsblatt belegt [26, 53]. Der pH 7,2 (mit NaOH 0,1 mol/L eingestellt) ist für die Arbeitslösung von Weil u. a. nur über eine Sekundärzusammenfassung belegt [5]; das KBS-Protokoll erwähnt eine pH-Einstellung, ein Zielwert wurde dort nicht gesehen. Ein australisches Verfahren arbeitet mit einer abweichenden Variante (KMnO₄ 0,033 mol/L, CaCl₂ 0,1 mol/L, 5 min Absetzen) [27]. Vor dem Ansetzen das Originalprotokoll [26] bzw. [53] lesen und dann nie mehr ändern.
 
 **Standards** (Konzentration im Reaktionsansatz): 0,005 / 0,010 / 0,015 / 0,020 mol/L. Dafür 0,5 / 1,0 / 1,5 / 2,0 mL Stammlösung mit 19,5 / 19,0 / 18,5 / 18,0 mL Wasser mischen (eigene Rechnung; das KBS-Protokoll setzt dieselben Konzentrationen im 10-mL-Maßstab an, z. B. 1,0 mL Stammlösung + 9,0 mL Wasser für 0,02 mol/L [26]). Standards täglich frisch ansetzen [26].
 
@@ -249,7 +249,7 @@ Plausibilitätsprüfung: Die Absorbanzen der Standards passen zur bekannten Lich
 - Ein Ringversuch mehrerer Labore untersuchte Empfindlichkeit und Wiederholbarkeit von POXC [29]; Einwaage und Mahlgrad beeinflussen das Ergebnis stark [28]. Für eigene Zeitreihen deshalb nichts an der Methode ändern.
 - **Kalkböden:** Carbonate reagieren chemisch nicht mit Permanganat. Eine eigene Prüfung der Methode an kalkhaltigen Weingartenböden ist nicht bekannt.
 
-> **Offen:** Literatur zu POXC auf kalkhaltigen Böden suchen.
+> **Offen:** Eine Studie, die POXC auf kalkhaltigen Böden (oder einen Einfluss von Carbonat auf die Permanganat-Reaktion) prüft, wurde auch in der Nachprüfung (November 2026) nicht gefunden. Gefunden wurde nur, dass Carbonate die Vorhersage von POXC über Infrarotspektren stören; das betrifft nicht die nasschemische Methode.
 
 ### Fehlerquellen
 
@@ -385,7 +385,7 @@ Das Bodenqualitäts-Testkit des US-Landwirtschaftsministeriums misst die Atmung 
 - **Gesamtstickstoff (Nt)** durch trockene Verbrennung (ISO 13878 [41]); daraus das C/N-Verhältnis.
 - **Ältere Befunde** beruhen oft auf Nassoxidation mit Dichromat (ÖNORM L 1081 [42]), die etwas niedrigere Werte liefert. Laut Richtlinie für Ackerbau und Grünland ist ein Humuswert nach ÖNORM L 1081 um 0,5 zu erhöhen, um einem Wert nach ÖNORM L 1080 zu entsprechen [4, 12]. Vor Vergleichen alter und neuer Befunde die Methode im Befund nachsehen.
 
-> **Offen:** Wortlaut der Umrechnungsregel (Prozentpunkte oder relativ) in der aktuellen Richtlinie prüfen.
+> **Offen:** Wortlaut der Umrechnungsregel (Prozentpunkte oder relativ) in der aktuellen Richtlinie prüfen; in der Nachprüfung nicht gefunden. Gesichert ist: ÖNORM L 1081 (Nassoxidation) ist seit der Ausgabe 2010 zurückgezogen, wird aber in Rechtsvorschriften noch zitiert, und gilt nur bis höchstens 5 % C, weil die Oxidation darüber zunehmend unvollständig ist [42].
 
 ### Kalkhaltige Böden: Unsicherheit von Corg
 
@@ -526,7 +526,7 @@ Stand: November 2026
 23. Hurisso, T. T., Culman, S. W., Horwath, W. R., Wade, J., Cass, D., Beniston, J. W., Bowles, T. M., Grandy, A. S., Franzluebbers, A. J., Schipanski, M. E., Lucas, S. T., Ugarte, C. M. (2016): Comparison of permanganate-oxidizable carbon and mineralizable carbon for assessment of organic matter stabilization and mineralization. Soil Science Society of America Journal 80, 1352–1364. [nicht online geprüft]
 24. USDA-NRCS (2019): Recommended Soil Health Indicators and Associated Laboratory Procedures. Soil Health Technical Note No. 450-03. United States Department of Agriculture, Natural Resources Conservation Service. [nicht online geprüft]
 25. Moebius-Clune, B. N. u. a. (2016): Comprehensive Assessment of Soil Health – The Cornell Framework Manual. Edition 3.2. Cornell University, Geneva, NY. [nicht online geprüft]
-26. Kellogg Biological Station LTER, Michigan State University (2014): Procedure for the Determination of Permanganate Oxidizable Carbon. Protokoll 133, überarbeitet 1/2014 (nach Weil u. a. 2003 und Culman u. a. 2012). https://lter.kbs.msu.edu/protocols/133 [online geprüft] – Volumina, Schütteln und Absetzen, Verdünnung, Standards und Rechenformel laut Suchergebnis-Auszügen; CaCl₂-Konzentration und pH der Stammlösung nicht gesehen.
+26. Kellogg Biological Station LTER, Michigan State University (2014): Procedure for the Determination of Permanganate Oxidizable Carbon. Protokoll 133, überarbeitet 1/2014 (nach Weil u. a. 2003 und Culman u. a. 2012). https://lter.kbs.msu.edu/protocols/133 [online geprüft] – Volumina, Schütteln und Absetzen, Verdünnung, Standards und Rechenformel laut Suchergebnis-Auszügen; CaCl₂ in der Stammlösung 147 g je Liter (1 mol/L) laut Suchergebnis-Auszug; pH-Zielwert nicht gesehen.
 27. ANZSoilData (o. J.): 6E1 Potassium permanganate oxidisable C (PPOC). Methodenbeschreibung nach „Soil Chemical Methods – Australasia“. https://raw.githack.com/ANZSoilData/def-au-scma/master/html/06-C/06E1.html [online geprüft] – nur Auszug (KMnO₄ 0,033 mol/L, CaCl₂ 0,1 mol/L, 5 min Absetzen).
 28. o. A. (o. J.): Soil mass and grind size used for sample homogenization strongly … (Titel im Suchergebnis gekürzt). Forschungsdatenbank der University of Illinois. https://experts.illinois.edu/en/publications/soil-mass-and-grind-size-used-for-sample-homogenization-strongly-/ [online geprüft] – nur der Titel; Autoren, Zeitschrift und Ergebnisse nicht eingesehen.
 29. Wade, J. u. a. (2020): Assessing the sensitivity and repeatability of permanganate oxidizable carbon as a soil health metric: An interlab comparison across soils. Geoderma 366, 114235. [online geprüft] – nur Existenz (Titel gekürzt gesehen); Fundstelle aus dem Fachwissen.
@@ -542,7 +542,7 @@ Stand: November 2026
 39. ISO 10694:1995: Soil quality – Determination of organic and total carbon after dry combustion (elementary analysis). International Organization for Standardization, Genf. [nicht online geprüft]
 40. Austrian Standards International: ÖNORM L 1084 – Chemische Bodenuntersuchungen – Bestimmung von Carbonat. Wien; aktuelle Ausgabe prüfen. [nicht online geprüft]
 41. ISO 13878:1998: Soil quality – Determination of total nitrogen content by dry combustion („elemental analysis“). International Organization for Standardization, Genf. [nicht online geprüft]
-42. Austrian Standards International: ÖNORM L 1081 – Chemische Bodenuntersuchungen – Bestimmung des organischen Kohlenstoffs durch Nassoxidation. Wien. [nicht online geprüft]
+42. Austrian Standards International: ÖNORM L 1081 – Chemische Bodenuntersuchungen – Bestimmung des organischen Kohlenstoffs durch Nassoxidation. Ausgabe 2010-03-01 (zurückgezogen). Wien. https://www.austrian-standards.at/en/shop/onorm-l-1081-2010-03-01~p1786461 [online geprüft – Status zurückgezogen, in Rechtsvorschriften zitiert, Anwendungsgrenze 5 % C; nur Shop-Angaben]
 43. Bayerische Landesanstalt für Weinbau und Gartenbau (o. J.): Düngung im Weinbau – Düngeverordnung (DüV) sowie Merkblatt N-Düngebedarfsermittlung (Stand 04.03.2021). https://www.lwg.bayern.de/weinbau/rebe_weinberg/266288/index.php [online geprüft] – Aussage „Bodenuntersuchung 0–30 cm mit Humus und Phosphat, nicht älter als sechs Jahre“ laut Suchergebnis-Auszug.
 44. Franzluebbers, A. J. (2002): Soil organic matter stratification ratio as an indicator of soil quality. Soil & Tillage Research 66, 95–106. [nicht online geprüft]
 45. Ellert, B. H., Bettany, J. R. (1995): Calculation of organic matter and nutrients stored in soils under contrasting management regimes. Canadian Journal of Soil Science 75, 529–538. [nicht online geprüft]
@@ -553,3 +553,5 @@ Stand: November 2026
 50. VDLUFA (2014): Humusbilanzierung – Eine Methode zur Analyse und Bewertung der Humusversorgung von Ackerland. Standpunkt des Verbands Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten, Speyer. [nicht online geprüft]
 51. Durchführungsverordnung (EU) 2021/1165 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang II (Düngemittel, Bodenverbesserer und Nährstoffe), konsolidierte Fassung; aktuellen Text bei EUR-Lex prüfen. [nicht online geprüft]
 52. Kompostverordnung, BGBl. II Nr. 292/2001 in der geltenden Fassung. Rechtsinformationssystem des Bundes (RIS). [nicht online geprüft]
+53. Cornell Soil Health Laboratory (2022): CSH04 Active Carbon – Standard Operating Procedure (Stand 4/2022). Cornell University, Ithaca. https://soilhealthlab.cals.cornell.edu/files/2022/04/CSH04-Active-Carbon-SOP-4-2022.pdf [online geprüft – Stammlösung mit Endkonzentration 1 mol/L CaCl₂; nur Suchergebnis-Auszug]
+54. Bundesministerium für Land- und Forstwirtschaft (o. J.): Humusgehalt, Säuregrad und pflanzenverfügbare Phosphor- und Kaliumgehalte – Auswertungen der Bodenuntersuchungsaktion Oberösterreich (Evaluierungsstudie Nr. 44). Wien. https://www.bmluk.gv.at/dam/jcr:9f8ff40d-e081-4ac5-8a0e-b8c3b4d874cc/44_Auswertungen%20der%20Bodenuntersuchungsaktion%20Ober%C3%B6sterreich.pdf [online geprüft – Humusstufen nach Richtlinie 2006, Mediane auf Weinbauflächen; nur Suchergebnis-Auszug]

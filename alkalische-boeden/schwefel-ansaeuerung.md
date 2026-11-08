@@ -213,7 +213,7 @@ Lesehilfe:
 - Feldwirkungen auf Kalkböden traten in den gesehenen Quellen bei sehr hohen Mengen auf. In einer weiteren Untersuchung stieg der pH-Wert in Feld und Gefäß im Lauf der Zeit wieder an (laut Suchergebnis; Quelle nicht eindeutig zugeordnet).
 - Rebenversuche mit Schwefel gegen Kalkchlorose oder Phosphormangel in Mitteleuropa sind nicht bekannt.
 
-> **Offen:** Effektgrößen der Laborarbeiten (wie stark P, Fe, Mn, Zn stiegen; wie stark der pH-Wert sank) aus den Originalen nachtragen. Gesucht werden außerdem Feld- oder Praxisversuche mit örtlicher Schwefelgabe bei Reben oder Obstbäumen auf Kalkböden.
+> **Offen:** Effektgrößen der Laborarbeiten (wie stark P, Fe, Mn, Zn stiegen; wie stark der pH-Wert sank) aus den Originalen nachtragen. Eine gezielte Online-Suche (November 2026) fand keinen Feldversuch mit elementarem Schwefel bei Reben auf Kalkboden. Am nächsten kommen ein Gefäßversuch mit Schwefelsäure (nicht Schwefel) an Riesling-Pfropfreben auf kalkhaltigem Nachbauboden, in dem behandelte Reben keine Chlorose zeigten (ISHS Acta Horticulturae 477), sowie Versuche mit anderen Kulturen. Feld- oder Praxisversuche mit örtlicher Schwefelgabe bei Reben oder Obstbäumen bleiben gesucht.
 
 ### 3. Schwefel mit Kompost, Trester oder Rohphosphat kombinieren
 
@@ -303,7 +303,7 @@ Säurewirkung je kg ist bei Reinstoffen eigene Rechnung, bei Torf und Trester ei
 | Eisen(II)-sulfat (Heptahydrat) | 7 mol (ein Neuntel von Schwefel) | Eisen fällt als Oxid aus, dabei wird Säure frei | als Spurennährstoff, Bedingungen siehe [Bio-Rechtsrahmen](bio-rechtsrahmen.md) | als Säurequelle teuer; Eisenwirkung kurz, siehe [Eisen-Chlorose](eisen-chlorose.md) |
 | Frischer Traubentrester | grob 0,05–0,15 mol (Annahme) | Fruchtsäuren werden in Wochen abgebaut; der Abbau verbraucht die Säure wieder; Kalium wirkt danach eher basisch [36] | betriebseigenes Pflanzenmaterial bzw. Kompost; Kontrollstelle fragen | Humus ja, Ansäuerung nein |
 | Nadelstreu | gering | langsamer Abbau, kaum freie Säure | Pflanzenmaterial; Entnahme aus dem Wald mit Eigentümer bzw. Forstbehörde klären | nein |
-| Torf | grob 1–1,5 mol je kg Trockenmasse (Annahme) | puffert, wird langsam abgebaut; für 1 % Kalk in 0–20 cm wären 370–560 t nötig | nur Gartenbau (Gemüse, Zierpflanzen, Baumschulen, Saatgut); im Ertragsweingarten nicht zulässig [1] | nein; Moorzerstörung, CO₂ |
+| Torf | grob 1–1,5 mol je kg Trockenmasse (Annahme) | puffert, wird langsam abgebaut; für 1 % Kalk in 0–20 cm wären 370–560 t nötig | nur für Gartenbauzwecke (laut Wortlaut: Gemüsebau, Ziergartenbau, Gehölze, Baumschulen); im Ertragsweingarten nicht zulässig [1] | nein; Moorzerstörung, CO₂ |
 | Kaffeesatz | gering | frisch ausgebracht wachstumshemmend [37] | pflanzliches Nebenerzeugnis, Kontrollstelle fragen; besser kompostieren | nein |
 | Speiseessig (5 %) | 0,8 mol | Essigsäure wird in Tagen abgebaut, Säure verbraucht | als Dünger nicht gelistet, für Boden und Bewässerung nicht zulässig | nein |
 | Zitronensäure | 14 mol | Citrat wird rasch abgebaut; der Abbau verbraucht die Säure [36] | nicht gelistet, nicht zulässig | nein |
@@ -453,7 +453,7 @@ Preise sind Annahmen. Vor dem Kauf aktuelle Angebote einholen.
 - Die meisten Versuchsdaten stammen aus ariden Gebieten (USA, Saudi-Arabien, Südasien) oder aus Laborinkubationen.
 - Die Pufferwerte für kalkfreie Böden und alle Preise sind Annahmen.
 
-> **Offen:** Online prüfen: Feld- oder Praxisversuche mit Schwefel bei Reben und Obstbäumen auf Kalkböden (Suchbegriffe: „elemental sulfur grapevine lime-induced chlorosis field“, „Schwefel Kalkchlorose Rebe Versuch“, „localized soil acidification orchard calcareous“); Oxidationsraten von Schwefel-Bentonit unter mitteleuropäischen Bedingungen; Netzschwefel-Jahresmengen im österreichischen Bio-Weinbau (Pflanzenschutzmittelregister des BAES, Spritzfolgen der Beratung).
+> **Offen:** Online prüfen (eine Suche im November 2026 fand keinen Rebenfeldversuch, siehe oben): Feld- oder Praxisversuche mit Schwefel bei Reben und Obstbäumen auf Kalkböden (Suchbegriffe: „elemental sulfur grapevine lime-induced chlorosis field“, „Schwefel Kalkchlorose Rebe Versuch“, „localized soil acidification orchard calcareous“); Oxidationsraten von Schwefel-Bentonit unter mitteleuropäischen Bedingungen; Netzschwefel-Jahresmengen im österreichischen Bio-Weinbau (Pflanzenschutzmittelregister des BAES, Spritzfolgen der Beratung).
 
 ## Siehe auch
 
@@ -472,7 +472,7 @@ Stand: November 2026
 
 ## Quellen
 
-1. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion und zur Erstellung entsprechender Verzeichnisse. Anhang II (Düngemittel, Bodenverbesserer und Nährstoffe). [nicht online geprüft] (Einträge Elementarer Schwefel, Calciumsulfat, Torf, Gesteinsmehle und Tone, Holzasche, Pflanzenkohle, Spurennährstoffe aus dem Fachwissen; aktuelle Fassung bei EUR-Lex prüfen)
+1. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion und zur Erstellung entsprechender Verzeichnisse. Anhang II (Düngemittel, Bodenverbesserer und Nährstoffe), konsolidierte Fassung Stand 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026: Einträge Elementarer Schwefel, Calciumsulfat, Torf, Steinmehl und Tonminerale, Holzasche, Pflanzenkohle, mineralische Spurennährstoffdünger; für Schwefel, Gips und Pflanzenkohle gelten seit 16.07.2022 die Kontaminanten-Grenzen der VO (EU) 2019/1009]
 2. Modaihsh, A. S.; Al-Mustafa, W. A.; Metwally, A. I. (1989): Effect of elemental sulphur on chemical changes and nutrient availability in calcareous soils. Plant and Soil 116, 95–101. [nicht online geprüft]
 3. DeLuca, T. H.; Skogley, E. O. et al.: Band-applied elemental sulfur to enhance the phytoavailability of phosphorus in alkaline calcareous soils. Biology and Fertility of Soils (Jahr, Band, Seiten nicht geprüft). DOI 10.1007/BF00257831. [online geprüft] (Titel, DOI und Kernaussage der Zusammenfassung)
 4. North Central Extension-Industry Soil Fertility Conference, Tagungsband: Influence of Elemental Sulfur on Soil pH and Soil Test Levels. https://northcentralfertility.com/proceedings/?action=download&item=3691 [online geprüft] (Autoren und Jahr nicht gesehen; Zahlen aus der Suchzusammenfassung, im Original prüfen)

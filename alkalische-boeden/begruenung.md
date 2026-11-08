@@ -42,7 +42,9 @@ Viele Pflanzen geben bei P-Mangel Citrat, Malat oder Oxalat ab. Diese Säuren l�
 
 Ein großer Teil des Boden-Phosphors ist organisch gebunden. Wurzeln und Mikroorganismen geben Phosphatasen ab, die ihn freisetzen [4, 11]. Begrünung erhöht Bodenleben und mikrobielle Aktivität; im Weingarten wurde das gemessen [30]. Hallama et al. werten in einer Übersicht mit Meta-Analyse (überwiegend Ackerbau) aus, dass Zwischenfrüchte vor allem über biologische Prozesse auf den P-Kreislauf wirken – Mikroorganismen, Mykorrhiza, Umsatz organischer P-Formen – und dass die Wirkung stark vom Standort abhängt [11].
 
-> **Offen:** Die Zahlenergebnisse der Meta-Analyse [11] wurden nicht nachgelesen.
+Laut Zusammenfassung wirken Zwischenfrüchte am ehesten dort, wo wenig Phosphor verfügbar ist, und ihre Wirkung auf die P-Verfügbarkeit lässt sich mit Standard-Bodentests schwer nachweisen (Ausnahme: Lupinen) [11].
+
+> **Offen:** Die Effektgrößen der Meta-Analyse [11] stehen nur im Volltext und wurden nicht nachgelesen.
 
 ### 2.4 Mykorrhiza
 
@@ -350,7 +352,7 @@ Stand: November 2026
 
 [10] Li L., Li S.-M., Sun J.-H., Zhou L.-L., Bao X.-G., Zhang H.-G., Zhang F.-S. (2007): Diversity enhances agricultural productivity via rhizosphere phosphorus facilitation on phosphorus-deficient soils. Proceedings of the National Academy of Sciences USA 104. [nicht online geprüft]
 
-[11] Hallama M., Pekrun C., Lambers H., Kandeler E. (2019): Hidden miners – the roles of cover crops and soil microorganisms in phosphorus cycling through agroecosystems. Plant and Soil 434. [nicht online geprüft]
+[11] Hallama M., Pekrun C., Lambers H., Kandeler E. (2019): Hidden miners – the roles of cover crops and soil microorganisms in phosphorus cycling through agroecosystems. Plant and Soil 434, 7–45. [online geprüft – Zusammenfassung]
 
 [12] Horst W.J., Kamh M., Jibrin J.M., Chude V.O. (2001): Agronomic measures for increasing P availability to crops. Plant and Soil 237. [nicht online geprüft]
 
@@ -360,7 +362,7 @@ Stand: November 2026
 
 [15] Schreiner R.P. (2005): Spatial and temporal variation of roots, arbuscular mycorrhizal fungi, and plant and soil nutrients in a mature Pinot Noir (Vitis vinifera L.) vineyard in Oregon, USA. Plant and Soil 276. [nicht online geprüft]
 
-[16] Baumgartner K., Smith R.F., Bettiga L. (2005): Weed control and cover crop management affect mycorrhizal colonization of grapevine roots and arbuscular mycorrhizal fungal spore populations in a California vineyard. Mycorrhiza 15. [nicht online geprüft]
+[16] Baumgartner K., Smith R.F., Bettiga L. (2005): Weed control and cover crop management affect mycorrhizal colonization of grapevine roots and arbuscular mycorrhizal fungal spore populations in a California vineyard. Mycorrhiza 15. [online geprüft – Zusammenfassung: Begrünung erhöhte die Sporenzahl in der Fahrgasse, nicht aber die Mykorrhizierung der Rebe]
 
 [17] Cheng X., Baumgartner K. (2004): Arbuscular mycorrhizal fungi-mediated nitrogen transfer from vineyard cover crops to grapevines. Biology and Fertility of Soils 40. [nicht online geprüft]
 
@@ -416,7 +418,7 @@ Stand: November 2026
 
 [43] Verordnung (EU) 2018/848 über die ökologische/biologische Produktion, Anhang II Teil I (Pflanzenproduktion, Bodenfruchtbarkeit, Saatgut). Aktuelle konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
 
-[44] Durchführungsverordnung (EU) 2021/1165, Anhang II. Aktuelle konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
+[44] Durchführungsverordnung (EU) 2021/1165, Anhang II, konsolidierte Fassung Stand 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026]
 
 [45] Snyder R.L., de Melo-Abreu J.P. (2005): Frost protection: fundamentals, practice and economics. Volume 1. FAO Environment and Natural Resources Series 10, FAO, Rom. [nicht online geprüft]
 

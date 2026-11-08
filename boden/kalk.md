@@ -112,8 +112,8 @@ Nasse Proben brausen weniger sichtbar. Im Zweifel an der getrockneten Probe wied
 | Beobachtung | KA5-Stufe (Deutschland) [14] | Carbonat nach KA5 | ÖBG/AGES-Arbeitsblatt (Österreich) [15] |
 |---|---|---|---|
 | keine Reaktion | c0 carbonatfrei | 0 % | C0 carbonatfrei (unter 0,5 %) |
-| sehr schwach, kaum hörbar, nicht sichtbar | c1 sehr carbonatarm | unter 0,5 % | C1 sehr carbonatarm (siehe „Offen“) |
-| schwach, kaum sichtbar | c2 carbonatarm | 0,5 bis unter 2 % | C2 carbonatarm (siehe „Offen“) |
+| sehr schwach, kaum hörbar, nicht sichtbar | c1 sehr carbonatarm | unter 0,5 % | C1 sehr carbonatarm, 0,5–1 % |
+| schwach, kaum sichtbar | c2 carbonatarm | 0,5 bis unter 2 % | C2 carbonatarm, 1–2 % |
 | deutlich sichtbar, nicht anhaltend | c3 carbonathaltig (c3.2: 2 bis unter 4 %, c3.3: 4 bis unter 7 %, c3.4: 7 bis unter 10 %) | 2 bis unter 10 % | C3 carbonathaltig, 2–10 % |
 | stark, anhaltendes Schäumen | c4 carbonatreich | 10 bis unter 25 % | C4 carbonatreich, 10–30 % |
 | sehr stark, anhaltend | c5 sehr carbonatreich | 25 bis unter 50 % | C5 sehr carbonatreich, über 30 % |
@@ -121,7 +121,7 @@ Nasse Proben brausen weniger sichtbar. Im Zweifel an der getrockneten Probe wied
 
 Die KA5-Stufen wurden über Methodenbeschreibungen deutscher geologischer Landesämter geprüft, die auf KA5, Tabelle 40, verweisen [14]. Die Beschreibung der Reaktion ist zusammengefasst; der genaue Wortlaut steht in der KA5.
 
-> **Offen:** Im ÖBG/AGES-Arbeitsblatt [15] war die Tabelle in der Online-Fassung nur teilweise lesbar. Sicher erkennbar sind C0 (unter 0,5 %), C4 (10–30 %, starkes, anhaltendes Schäumen) und C5 (über 30 %). Für C1 und C2 deutete der Text auf die Grenzen 0,5–1 % und 1–2 % hin. Österreich und die KA5 setzen die oberen Grenzen also verschieden (25 % bzw. 30 %). Im Original nachlesen und im Betrieb einheitlich eine Skala verwenden.
+Die österreichische Skala (AGES, nach Englisch u. a. 1998) lautet vollständig: C0 unter 0,5 %, C1 0,5–1 %, C2 1–2 %, C3 2–10 %, C4 10–30 %, C5 über 30 % [15]. Österreich und die KA5 setzen die Grenzen also verschieden: c1 der KA5 umfasst alles unter 0,5 %, die österreichische Skala beginnt dort erst mit C0; die Obergrenze von „carbonatreich“ liegt bei 25 % bzw. 30 %. Im Betrieb einheitlich eine Skala verwenden und sie dazuschreiben.
 
 ### 3.6 Grenzen
 
@@ -358,7 +358,7 @@ Der Unterschied zur Titration der unbenutzten Oxalatlösung (Blindwert) ergibt d
 | Erlenmeyerkolben | 250 mL | |
 | Heizplatte und Thermometer | bis 100 °C | |
 
-> **Offen:** Die Oxalatkonzentration ist in deutschsprachigen Beschreibungen uneinheitlich angegeben. Französische Unterlagen nennen „0,2 N“, das sind 0,1 mol/L; auch die Angabe 0,2 mol/L ist im Umlauf. Für 0,1 mol/L spricht die Rechnung: Mit 10 g Boden in 250 mL verbraucht ein Gehalt von 13 % aktivem Kalk – die Obergrenze des Verhältnisses 1:25 [9] – rund die Hälfte des Oxalats. Konzentration, Schüttelzeit, Aliquot und Säuremenge vor Verwendung im Normtext NF X31-106 nachlesen.
+> **Offen:** Die gültige Ausgabe der NF X31-106 ist vom September 2002 (ersetzt die Ausgabe von Mai 1982); sie beschreibt Methode A (Drouineau, bis 13 % aktiver Kalk) und Methode B (Drouineau-Galet, darüber) [8]. Die Oxalatkonzentration ist in deutschsprachigen Beschreibungen uneinheitlich angegeben. Französische Unterlagen nennen „0,2 N“, das sind 0,1 mol/L; auch die Angabe 0,2 mol/L ist im Umlauf. Für 0,1 mol/L spricht die Rechnung: Mit 10 g Boden in 250 mL verbraucht ein Gehalt von 13 % aktivem Kalk – die Obergrenze des Verhältnisses 1:25 [9] – rund die Hälfte des Oxalats. Konzentration, Schüttelzeit, Aliquot und Säuremenge vor Verwendung im Normtext NF X31-106 nachlesen.
 
 ### 5.3 Durchführung
 
@@ -448,7 +448,7 @@ Der IPC wird in Frankreich für die Unterlagenwahl verwendet [13]. Die Toleranzw
 
 Die Einstufung zielt auf Kalkungsfragen im Acker- und Grünland. Für den Weinbau heißt „hoch“ (über 5 %) zunächst nur: Der Boden bleibt dauerhaft im Kalkpuffer. Ob die Rebe Probleme bekommt, entscheiden der aktive Kalk, die Unterlage und Standortfaktoren wie Verdichtung und Nässe.
 
-> **Offen:** Die Weinbau-Broschüre „Sachgerechte Düngung im Weinbau“ (3. Auflage 2024) [19] wurde für diesen Text nicht eingesehen. Eigene Kalkklassen für den Weinbau dort nachlesen.
+> **Offen:** Die Weinbau-Broschüre „Sachgerechte Düngung im Weinbau“ (3. Auflage 2024) [19] konnte auch in der Nachprüfung nur über ihr Inhaltsverzeichnis gesehen werden (Einstufung der Bodenuntersuchungsergebnisse in Kapitel 3.1). Ob sie eigene Kalkklassen oder Grenzen für den aktiven Kalk enthält, ist offen.
 
 ### 7.2 Aktiver Kalk, IPC und Unterlagen
 
@@ -563,14 +563,14 @@ Stand: November 2026
 5. Allison, L. E., Moodie, C. D. (1965): Carbonate. In: Black, C. A. (Hrsg.): Methods of Soil Analysis, Part 2. Agronomy 9. American Society of Agronomy, Madison. [nicht online geprüft]
 6. Sherrod, L. A., Dunn, G., Peterson, G. A., Kolberg, R. L. (2002): Inorganic carbon analysis by modified pressure-calcimeter method. Soil Science Society of America Journal 66. [nicht online geprüft]
 7. Drouineau, G. (1942): Dosage rapide du calcaire actif du sol. Annales Agronomiques. [nicht online geprüft]
-8. AFNOR (o. J.): NF X31-106 Qualité des sols – Détermination du calcaire actif. AFNOR, Paris. Ausgabe vor Verwendung prüfen. [nicht online geprüft; Bezug in Quelle 9 online gesehen]
+8. AFNOR (2002): NF X31-106 Qualité des sols – Détermination du calcaire actif. Ausgabe September 2002 (ersetzt Mai 1982). AFNOR, Paris. https://www.boutique.afnor.org/en-gb/standard/nf-x31106/soil-quality-determination-of-active-limestone-content/fa123338/20268 [online geprüft – Ausgabe, Anwendungsbereich, Methoden A (bis 13 %) und B (Drouineau-Galet); Normtext und Reagenzkonzentrationen nicht eingesehen]
 9. INRAE, Laboratoire d'Analyse des Sols d'Arras (o. J.): SOL-0505 Calcaire actif méthode Drouineau-Galet. https://www6.lille.inra.fr/las/Methodes-d-analyse/Sols/05.-pH-Calcaire/SOL-0505-Calcaire-actif-methode-Drouineau-Galet [online geprüft – Verhältnisse 1:25 und 1:100, Grenze 13 g/100 g, KMnO₄ 0,02 mol/L, Bezug NF X31-106]
 10. Baize, D. (2000): Guide des analyses en pédologie. 2. Auflage. INRA, Paris. [nicht online geprüft]
 11. Juste, C., Pouget, R. (1972): Appréciation du pouvoir chlorosant des sols par un nouvel indice faisant intervenir le calcaire actif et le fer facilement extractible. Application au choix des porte-greffes de la vigne. Comptes Rendus de l'Académie d'Agriculture de France. [nicht online geprüft]
 12. Pouget, R. (1980): Breeding grapevine rootstocks for resistance to iron chlorosis. In: Proceedings of the 3rd International Symposium on Grape Breeding, Davis (Kalifornien). [nicht online geprüft]
 13. IFV Occitanie (o. J.): Fiches pratiques „Le 3309 Couderc“ und „Le SO4“ (Cépages et porte-greffes utilisés dans le Sud-Ouest) sowie Angaben zu 333 EM. https://www.vignevin-occitanie.com/fiches-pratiques/cepages-et-porte-greffes-utilises-dans-le-sud-ouest/le-3309-couderc/ und …/le-so4/ [online geprüft – nur Suchergebnis-Auszüge]
 14. Ad-hoc-AG Boden (2005): Bodenkundliche Kartieranleitung. 5. Auflage (KA5), Tabelle 40. Bundesanstalt für Geowissenschaften und Rohstoffe, Hannover. [online geprüft – Stufen c0–c6 und c3.2–c3.4 über Methodenbeschreibungen des LGB Rheinland-Pfalz und des LBEG Niedersachsen; Original nicht eingesehen; ggf. neuere Auflage prüfen]
-15. Österreichische Bodenkundliche Gesellschaft und AGES (o. J.): Carbonatgehalt bestimmen. Arbeitsblatt (Wissen und Bildung). [online geprüft – Feldtest mit 10%iger Salzsäure, verzögerte Reaktion von Dolomit, Klassen C4 und C5; Tabelle teilweise unleserlich]
+15. Österreichische Bodenkundliche Gesellschaft und AGES (o. J.): Carbonatgehalt bestimmen. Arbeitsblatt (Wissen und Bildung). [online geprüft – Feldtest mit 10%iger Salzsäure, verzögerte Reaktion von Dolomit, Klassen C0–C5 (nach Englisch u. a. 1998) im AGES-Dokument „Carbonatgehalt.pdf“ (https://www.ages.at, Wissen und Bildung) bestätigt]
 16. AGES (o. J.): Bodenuntersuchungen. https://www.ages.at/umwelt/boden/bodenuntersuchungen [online geprüft – Ober- und Unterboden vor Neuanlage; Kalkgehalt und Kalkaktivität für die Unterlagenwahl]
 17. AGES (o. J.): Bodenlabors in Österreich. Übersicht (Wissen und Bildung). [online geprüft]
 18. Lagerhaus Weinviertel Ost (o. J.): Bodenprobenzieher – Bodenprobenservice. https://lagerhaus.at/weinviertelost/services/a/bodenprobenzieher [online geprüft – nur Angebot „Kalkaktivität“ und Probenahmetiefe 60 cm; Händlerseite, nur für das Angebot verwendet]

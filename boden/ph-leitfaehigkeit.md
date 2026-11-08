@@ -169,7 +169,7 @@ Zur Norm: Die internationale Norm ISO 10390:2021 (in Österreich ÖNORM EN ISO 1
 | 7,3–8,0 | alkalisch |
 | über 8,0 | stark alkalisch |
 
-> **Offen:** Die Tabelle 7 der Richtlinie (8. Auflage 2022) konnte nur auszugsweise eingesehen werden. Die Klassen ab „schwach sauer“ stimmen in der 7. und 8. Auflage überein. Die Weinbau-Broschüre „Sachgerechte Düngung im Weinbau“ (3. Auflage 2024) [5] hat ein eigenes Kapitel zur Bodenreaktion; ihr Inhalt wurde für diesen Text nicht eingesehen. Vor Verwendung dort nachlesen.
+> **Offen:** Die Tabelle 7 der Richtlinie (8. Auflage 2022) konnte nur auszugsweise eingesehen werden. Die Klassen ab „schwach sauer“ stimmen in der 7. und 8. Auflage überein. Dieselbe Skala (stark sauer unter 4,6 bis stark alkalisch über 8,0) steht auch in einer BML-Unterlage zur Bodenfunktionsbewertung nach ÖNORM L 1076 [33]; die Richtlinie misst den pH-Wert in CaCl₂ nach ÖNORM EN ISO 10390 [33]. Die Weinbau-Broschüre „Sachgerechte Düngung im Weinbau“ (3. Auflage 2024) [5] hat ein eigenes Kapitel zur Bodenreaktion; ihr Inhalt konnte auch in der Nachprüfung nicht eingesehen werden. Vor Verwendung dort nachlesen.
 
 **Zielwerte im Weinbau.** Eine Broschüre der rheinland-pfälzischen Dienstleistungszentren Ländlicher Raum nennt als angestrebte pH-Werte für Weinbergsböden: leichte Böden 5,4–6,3, mittlere 6,1–7,0, schwere 6,4–7,2 [6]. Diese Werte dienen dort der Kalkungsentscheidung auf sauren Böden. Auf kalkhaltigen Böden lässt sich der pH-Wert nicht in diesen Bereich senken (siehe unten). Dort steuert man die Folgen: Unterlagenwahl, Humus, Bodenleben, Wurzelraum (siehe [Grundlagen alkalischer Böden](../alkalische-boeden/grundlagen.md)).
 
@@ -339,7 +339,7 @@ Die Faktoren spiegeln vor allem die Verdünnung wider. Der Auszug 1:5 enthält 5
 
 Richards (1954) bezeichnet Böden ab ECe 4 dS/m als salzhaltig [9].
 
-**Salzverträglichkeit der Rebe.** Maas und Hoffman (1977) beschreiben den Ertrag mit einer Schwelle und einer Steigung [17]. Für die Rebe gilt nach unserem Kenntnisstand: Schwelle ECe 1,5 dS/m, darüber 9,6 % Ertragsverlust je dS/m. FAO 29 übernimmt diese Werte [18].
+**Salzverträglichkeit der Rebe.** Maas und Hoffman (1977) beschreiben den Ertrag mit einer Schwelle und einer Steigung [17]. Für die Rebe gilt: Schwelle ECe 1,5 dS/m, darüber 9,6 % Ertragsverlust je dS/m [17, 32]. FAO 29 übernimmt diese Werte [18]. Die Koeffizienten beziehen sich auf ECe, nicht auf die Bodenlösung [32]. Für einzelne Unterlagen und Standorte wurden in Feldversuchen abweichende Werte gemessen (siehe unten, [20, 21]).
 
 Relativer Ertrag (%) = 100 − 9,6 · (ECe − 1,5) für ECe über 1,5 dS/m
 
@@ -353,7 +353,7 @@ Relativer Ertrag (%) = 100 − 9,6 · (ECe − 1,5) für ECe über 1,5 dS/m
 | 50 % | 6,7 | 4,5 |
 | 0 % | 12 | 7,9 |
 
-> **Offen:** Schwelle 1,5 dS/m und Steigung 9,6 %/(dS/m) stammen aus Fachwissen und wurden nicht online gegen Maas und Hoffman (1977) oder FAO 29 geprüft. Die daraus berechneten Werte stimmen mit den Tabellenwerten in FAO 29 überein, soweit diese aus Fachwissen bekannt sind.
+> **Offen:** Die FAO-29-Tabelle mit den Ertragsstufen (100/90/75/50 %) wurde nicht online eingesehen; Tabelle B-3 ist aus Schwelle und Steigung nachgerechnet.
 
 **Tabelle B-4: Welche EC₁:₅ entspricht der Schadschwelle?** (eigene Rechnung aus Tabelle B-1; in Kalkböden den Grundpegel von etwa 0,1 dS/m beachten)
 
@@ -560,7 +560,7 @@ Stand: November 2026
 14. ISO (1985): ISO 7888:1985 Water quality – Determination of electrical conductivity (EN 27888). [nicht online geprüft]
 15. Slavich, P. G., Petterson, G. H. (1993): Estimating the electrical conductivity of saturated paste extracts from 1:5 soil:water suspensions and texture. Australian Journal of Soil Research 31. [nicht online geprüft]
 16. Hazelton, P., Murphy, B. (2016): Interpreting Soil Test Results. What Do All the Numbers Mean? 3. Auflage. CSIRO Publishing, Melbourne. [nicht online geprüft]
-17. Maas, E. V., Hoffman, G. J. (1977): Crop salt tolerance – current assessment. Journal of the Irrigation and Drainage Division, Proceedings of the American Society of Civil Engineers 103 (IR2), 115–134. [nicht online geprüft]
+17. Maas, E. V., Hoffman, G. J. (1977): Crop salt tolerance – current assessment. Journal of the Irrigation and Drainage Division, Proceedings of the American Society of Civil Engineers 103 (IR2), 115–134. [nicht online geprüft – Rebenwerte 1,5 dS/m und 9,6 % über [32] bestätigt]
 18. Ayers, R. S., Westcot, D. W. (1985): Water Quality for Agriculture. FAO Irrigation and Drainage Paper 29, Rev. 1. FAO, Rom. [nicht online geprüft]
 19. Soil Science Division Staff (2017): Soil Survey Manual. USDA Handbook 18. United States Department of Agriculture, Washington D. C. [nicht online geprüft]
 20. Walker, R. R., Blackmore, D. H., Clingeleffer, P. R., Correll, R. L. (2002): Rootstock effects on salt tolerance of irrigated field-grown grapevines (*Vitis vinifera* L. cv. Sultana). 1. Yield and vigour inter-relationships. Australian Journal of Grape and Wine Research 8. [nicht online geprüft]
@@ -575,3 +575,5 @@ Stand: November 2026
 29. Marschner, P. (Hrsg.) (2012): Marschner's Mineral Nutrition of Higher Plants. 3. Auflage. Academic Press, London. [nicht online geprüft]
 30. Verordnung (EG) Nr. 1272/2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen (CLP), Anhang VI (harmonisierte Einstufungen und spezifische Konzentrationsgrenzen). Konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
 31. Durchführungsverordnung (EU) 2021/1165 zur Zulassung bestimmter Erzeugnisse und Stoffe zur Verwendung in der ökologischen/biologischen Produktion, Anhang II (Düngemittel, Bodenverbesserer und Nährstoffe). Konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
+32. California Department of Water Resources (o. J.): Unterlage DWR-22 im Verfahren der State Water Resources Control Board zu Salzgehalt und Ertrag (Tabelle der Maas-Hoffman-Koeffizienten). https://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/sds_srjf/sds/docs/dwr010807_dwr22.pdf [online geprüft – Rebe: Schwelle 1,5 dS/m, Steigung 9,6 %/(dS/m), Bezug auf ECe; nur Suchergebnis-Auszug; Titel nicht vollständig gesehen]
+33. Bundesministerium für Land- und Forstwirtschaft (o. J.): Bodenfunktionsbewertung: Grundlagen und Erläuterungen zur ÖNORM L 1076. Wien. https://www.bmluk.gv.at/dam/jcr:aed1b6f8-aa98-418b-8529-34534439c975/Bodenfunktionsbewertung.pdf [online geprüft – pH-Skala stark sauer unter 4,6 bis stark alkalisch über 8,0; pH in CaCl₂ nach ÖNORM EN ISO 10390; nur Suchergebnis-Auszug]

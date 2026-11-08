@@ -48,7 +48,7 @@ In der Praxis verbreitet ist eine Tabelle, die den Bedarf mit dem Zucker steigen
 | 25 | 106 | 21,1 | 300 mg N/L |
 | 27 | 115 | 22,8 | 350 mg N/L |
 
-> **Offen:** Die Herkunft der zuckerabhängigen Tabelle ließ sich nicht auf eine begutachtete Arbeit zurückführen. Nur der Wert für 23 °Brix ist durch eine Beratungsquelle belegt [8]. Die Tabelle als Orientierung verwenden, nicht als Grenzwert.
+> **Offen:** Die Herkunft der zuckerabhängigen Tabelle ließ sich auch bei der Nachprüfung (November 2026) nicht auf eine begutachtete Arbeit oder eine Veröffentlichung der UC Davis zurückführen. Online fanden sich dieselben Stufen nur in Nährstofftabellen von Händlern (21 °Brix 200–250, 23 °Brix 250–300, 25 °Brix 300–350 mg/L, als Summe aus Most-YAN und Zusatz). Die Oregon State University Extension nennt für 21 °Brix 120–220 mg N/L und für höhere Mostgewichte mehr [27]. Nur der Wert für 23 °Brix ist durch eine Beratungsquelle belegt [8]. Die Tabelle als Orientierung verwenden, nicht als Grenzwert.
 
 Für die Umrechnung zwischen °Brix, °Oechsle und °KMW siehe [Zucker und Mostgewicht](zucker-mostgewicht.md). Gerechnet wurde mit der verbreiteten Näherung °Oe = °KMW × (4,54 + 0,022 × °KMW).
 
@@ -56,7 +56,7 @@ Für die Umrechnung zwischen °Brix, °Oechsle und °KMW siehe [Zucker und Mostg
 
 Die YAN-Gehalte schwanken zwischen Sorten, Lagen und Jahrgängen um ein Vielfaches [1]. Werte unter 140 mg N/L kommen vor. Deshalb lohnt die Messung in jedem Jahrgang.
 
-> **Offen:** Erhebungsdaten zu YAN in österreichischen Mosten (etwa von der HBLA und BA Klosterneuburg) wurden nicht gefunden. Eigene Messreihen über mehrere Jahrgänge anlegen, getrennt nach Sorte und Lage.
+> **Offen:** Erhebungsdaten zu YAN in österreichischen Mosten wurden auch bei einer gezielten Suche (November 2026) nicht gefunden. In den „Mitteilungen Klosterneuburg“ fanden sich nur Arbeiten zu Nährstoffen in Blatt, Beere und Stielgerüst von Grünem Veltliner, keine YAN-Werte im Most. Bei der HBLA und BA Klosterneuburg oder beim Bundesamt für Weinbau Eisenstadt nachfragen. Eigene Messreihen über mehrere Jahrgänge anlegen, getrennt nach Sorte und Lage.
 
 Einflussfaktoren [1]:
 
@@ -262,18 +262,20 @@ Ammoniumsulfat (NH₄)₂SO₄ (132,14 g/mol) enthält ebenfalls 21,2 % Sticksto
 
 | Mittel | EU-Weinrecht | EU-Bio | Hinweis |
 |---|---|---|---|
-| Diammoniumhydrogenphosphat (DAP) | zulässig, nur für die alkoholische Gärung; Ammoniumsalze zusammen höchstens 1 g/L (als Salz), bei der zweiten Gärung von Schaumwein 0,3 g/L [12] | zulässig [14] | – |
-| Ammoniumsulfat | zulässig, gemeinsamer Höchstwert mit DAP [12] | in der Liste für Bio-Wein nicht gefunden [14] | vor Bio-Einsatz bei der Kontrollstelle nachfragen |
-| Thiaminhydrochlorid (Vitamin B1) | zulässig, nur für die alkoholische Gärung [12]; Höchstmenge laut OIV 0,6 mg/L als Thiamin [13] | zulässig [14] | 0,6 mg Thiamin = 0,763 mg Thiaminhydrochlorid (eigene Rechnung) |
-| Hefeautolysate | zulässig | zulässig [14] | – |
-| Hefezellwände (Hefeschalen) | zulässig | zulässig [14] | binden gärhemmende Fettsäuren [20] |
-| Inaktivierte Hefen, Komplexnährstoffe | zulässig je nach Zusammensetzung | in der geprüften Liste nicht eindeutig gefunden | Zusammensetzung beim Hersteller erfragen |
+| Diammoniumhydrogenphosphat (DAP) | zulässig (Nr. 4.2), nur zur alkoholischen Gärung; bis 1 g/L (ausgedrückt als Salze), bei der zweiten Gärung von Schaumwein 0,3 g/L; Ammoniumsalze (Nr. 4.2–4.4) zusammen ebenfalls höchstens 1 g/L [12] | zulässig [14] | – |
+| Ammoniumsulfat | zulässig (Nr. 4.3), gemeinsamer Höchstwert mit DAP [12] | **nicht zulässig**: in Anhang V Teil D nicht aufgeführt [14] | im Bio-Betrieb nur DAP verwenden; Mischprodukte auf Ammoniumsulfat prüfen |
+| Thiaminhydrochlorid (Vitamin B1) | zulässig (Nr. 4.5), nur zur alkoholischen Gärung; „nicht mehr als 0,6 mg/l (ausgedrückt als Thiamin) bei jeder Behandlung“ [12]; gleicher Wert bei der OIV [13] | zulässig [14] | 0,6 mg Thiamin = 0,763 mg Thiaminhydrochlorid (eigene Rechnung) |
+| Hefeautolysate | zulässig (Nr. 4.6) [12] | zulässig [14] | – |
+| Hefezellwände (Heferinden) | zulässig (Nr. 4.7); die EU-Tabelle nennt keinen Zahlenwert, nach ihrer Fußnote 3 gilt das OIV-Dossier: höchstens 40 g/hL [12, 13] | zulässig [14] | binden gärhemmende Fettsäuren [20] |
+| Inaktivierte Hefen | zulässig (Nr. 4.8) [12] | zulässig [14] | – |
+| Inaktivierte glutathionreiche Hefen | zulässig (Nr. 4.9), nur zur alkoholischen Gärung [12] | **nicht zulässig**: in Anhang V Teil D nicht aufgeführt [14] | – |
+| Komplexnährstoffe (Mischprodukte) | zulässig, wenn jeder Bestandteil zugelassen ist | nur, wenn jeder Bestandteil in Anhang V Teil D steht [14] | Zusammensetzung beim Hersteller erfragen |
 
-> **Offen:** Ob die EU-Verordnung für Thiamin denselben Höchstwert wie die OIV (0,6 mg/L) im Wortlaut nennt, und die EU-Höchstmenge für Hefezellwände (nach Fachwissen 40 g/hL), wurden nicht im Verordnungstext geprüft. Vor der Anwendung in VO (EU) 2019/934, Anhang I Teil A Tabelle 2 in der geltenden Fassung nachlesen.
+Geprüft im konsolidierten Text (VO (EU) 2019/934 Stand 29.12.2024; VO (EU) 2021/1165 Stand 01.01.2026): Die Thiamin-Höchstmenge steht im EU-Text selbst. Für Heferinden nennt die EU-Tabelle keine Zahl; ihre Fußnote 3 verweist auf die Bestimmungen der genannten OIV-Dossiers, und das OIV-Dossier begrenzt auf 40 g/hL [12, 13]. Ammoniumsulfat und glutathionreiche inaktivierte Hefen fehlen in der Bio-Liste.
 
 > **Offen:** Bio-Verbände (Bio Austria, Demeter, Respekt-BIODYN) können strengere Regeln haben. Die Verbandsrichtlinien zu Hefenährstoffen wurden nicht gefunden. Vor dem Einsatz die aktuelle Richtlinie und die Kontrollstelle fragen.
 
-Rechtsgrundlage für Bio-Wein ist VO (EU) 2018/848 [15] mit der Liste der zulässigen Erzeugnisse in VO (EU) 2021/1165, Anhang V Teil D [14]. Weitere Rechtswerte: [Grenzwerte und Recht](grenzwerte-recht.md).
+Rechtsgrundlage für Bio-Wein ist VO (EU) 2018/848, Anhang II Teil VI Nr. 2.2 [15], mit der Liste der zulässigen Erzeugnisse in VO (EU) 2021/1165, Anhang V Teil D [14]. Weitere Rechtswerte: [Grenzwerte und Recht](grenzwerte-recht.md).
 
 ### Thiamin richtig dosieren
 
@@ -285,11 +287,11 @@ Beispiel (eigene Rechnung): Ein Mischprodukt enthält 0,2 % Thiaminhydrochlorid.
 
 - **Nicht ins Rehydrierungswasser:** Ammoniumsalze gehören nicht in das Wasser, in dem die Trockenhefe aufgeweckt wird. Die Hinweise des Hefeherstellers beachten.
 - **Thiamin:** zu Gärbeginn, also mit oder kurz nach der Hefe. Bei Botrytis besonders wichtig, weil der Pilz Thiamin verbraucht [21].
-- **DAP:** Die erste Gabe, wenn die Gärung sichtbar begonnen hat. Eine zweite Gabe spätestens, bevor etwa ein Drittel bis die Hälfte des Zuckers vergoren ist. Später nimmt die Hefe Ammonium schlecht auf; es bleibt im Wein und nährt Verderbsorganismen [1].
+- **DAP:** Die erste Gabe, wenn die Gärung sichtbar begonnen hat. Am wirksamsten ist DAP in der Phase des stärksten Hefewachstums; das AWRI nennt dafür etwa 10–25 % der Gärdauer [28]. Eine zweite Gabe spätestens, bevor etwa ein Drittel des Zuckers vergoren ist. Später nimmt die Hefe Ammonium schlecht auf; es bleibt im Wein und nährt Verderbsorganismen [1].
 - **Organische Nährstoffe und Hefezellwände:** können früh und in der zweiten Gärhälfte eingesetzt werden. Hefezellwände entfernen gärhemmende mittelkettige Fettsäuren und helfen bei schleppenden Gärungen [20].
 - **Bei Gärstockung:** Eine späte DAP-Gabe hilft meist wenig. Ursachen klären (Temperatur, Alkohol, SO2, Bakterien), Hefezellwände einsetzen und mit angepasster Hefe neu starten [19, 20]. Mikroskopische Kontrolle siehe [Mikrobiologie und Mikroskopie](mikrobiologie-mikroskopie.md).
 
-> **Offen:** Der späteste sinnvolle Zeitpunkt für DAP wird in Beratungsunterlagen unterschiedlich angegeben (ein Drittel bis die Hälfte des Zuckerabbaus). Die Angabe hier ist Fachwissen und nicht gegen eine Primärquelle geprüft.
+> **Offen:** Die Grenze „ein Drittel des Zuckerabbaus“ fand sich bei der Nachprüfung nur in Hersteller- und Händlerschemata, nicht in einer begutachteten Arbeit. Belegt ist nur das AWRI-Zeitfenster von 10–25 % der Gärdauer [28], und dieses nur über einen Suchauszug. Die frühere Angabe „ein Drittel bis die Hälfte“ wurde deshalb auf „ein Drittel“ verkürzt.
 
 ## Fehlerquellen und Grenzen
 
@@ -336,10 +338,10 @@ Stand: November 2026
 9. Oregon State University, Oregon Wine Research Institute (2018): VitEno Tech Newsletter, Summer 2018. https://owri.oregonstate.edu/sites/agscid7/files/owri/owri_viteno_tech_newsletter_summer_25june2018_final.pdf [online geprüft]
 10. Penn State Extension: Why, when and how to measure YAN. https://extension.psu.edu/why-when-and-how-to-measure-yan [online geprüft] – nur Existenz und Kernaussage geprüft.
 11. Megazyme/Neogen: Primary Amino Nitrogen Assay Kit (PANOPA), K-PANOPA, Assay Protocol. https://www-docs.megazyme.com/documents/Assay_Protocol/K-PANOPA_DATA.pdf – Herstellerangabe, nur technische Daten [online geprüft]
-12. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (zugelassene önologische Verfahren), Anhang I Teil A Tabelle 2, Nr. 4.2 und 4.5; konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft] – geprüft: Höchstmenge Ammoniumsalze, Beschränkung auf alkoholische Gärung.
-13. OIV: International Code of Oenological Practices – Treatment with thiamin; Promoting secondary fermentation by the use of nutritive salts and of yeast growth factors. https://www.oiv.int/node/2289 und https://www.oiv.int/node/2598 [online geprüft]
-14. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021, Anhang V Teil D; konsolidierte Fassung vom 01.01.2026. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2026-01-01/eng [online geprüft] – geprüft: DAP, Thiaminhydrochlorid, Hefeautolysate, Hefezellwände gelistet.
-15. Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion. [nicht online geprüft]
+12. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (zugelassene önologische Verfahren), Anhang I Teil A Tabelle 2, Nr. 4.2 und 4.5; konsolidierte Fassung vom 29.12.2024. https://eur-lex.europa.eu/eli/reg_del/2019/934/2024-12-29/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Nr. 4.2–4.9 und Fußnoten 3 und 5 der Tabelle 2]
+13. OIV: International Code of Oenological Practices – Treatment with thiamin; Promoting secondary fermentation by the use of nutritive salts and of yeast growth factors; Treatment with yeast ghosts (II.2.3.4). https://www.oiv.int/node/2289, https://www.oiv.int/node/2598 und https://www.oiv.int/node/2290 [online geprüft – für node/2290 nur Suchauszug: Dosis „not greater than 40 g/hl“]
+14. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021, Anhang V Teil D; konsolidierte Fassung vom 01.01.2026. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2026-01-01/eng [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.01.2026: DAP, Thiaminhydrochlorid, Hefeautolysate, Heferinden, inaktivierte Hefen gelistet; Ammoniumsulfat und inaktivierte glutathionreiche Hefen nicht gelistet]
+15. Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion, Anhang II Teil VI. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 25.03.2025: Anhang II Teil VI Nr. 2.2]
 16. Verordnung (EU) Nr. 605/2014 der Kommission vom 5. Juni 2014 (6. Anpassung der CLP-Verordnung an den technischen Fortschritt), Einstufung von Formaldehyd. [online geprüft] – über Sekundärquellen (INSST, ECHA-Einträge) geprüft.
 17. Richtlinie (EU) 2019/983 des Europäischen Parlaments und des Rates vom 5. Juni 2019 (Karzinogene und Mutagene), Anhang III, Formaldehyd. [online geprüft]
 18. Jiranek, V.; Langridge, P.; Henschke, P. A. (1995): Regulation of hydrogen sulfide liberation in wine-producing Saccharomyces cerevisiae strains by assimilable nitrogen. American Journal of Enology and Viticulture 46(1), 75–83. [nicht online geprüft]
@@ -351,3 +353,5 @@ Stand: November 2026
 24. ArbeitnehmerInnenschutzgesetz (ASchG), BGBl. Nr. 450/1994 in der geltenden Fassung; Mutterschutzgesetz 1979 und Kinder- und Jugendlichen-Beschäftigungsgesetz in der geltenden Fassung. RIS. [nicht online geprüft]
 25. Grenzwerteverordnung (GKV) in der geltenden Fassung. RIS. [nicht online geprüft]
 26. Purdue University Cooperative Extension: Concentration of primary amino acids in grape juice (NOPA-Verfahren nach Dukes und Butzke), Arbeitsanleitung. https://ag.purdue.edu/department/hla/extension/winegrapeteam/_docs/nopa98.pdf [online geprüft]
+27. Oregon State University Extension Service: Yeast nutrients and 'stuck fermentations'. EM 9619. https://extension.oregonstate.edu/catalog/em-9619-yeast-nutrients-stuck-fermentations [online geprüft – nur Suchauszug: 120–220 mg/L für Moste mit 21 °Brix]
+28. AWRI (2022): Beitrag zur Stickstoffernährung in Grapegrower & Winemaker, Dezember 2022. https://issuu.com/provincialpressgroup/docs/gw-december-22-web/s/17444704 [online geprüft – nur Suchauszug: DAP-Gabe ideal bei etwa 10–25 % der Gärdauer; Autor und Titel nicht gesehen]

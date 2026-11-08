@@ -29,7 +29,7 @@ Die Gehaltsklassen der Richtlinien gelten nur für die dort genannten genormten 
 | Nitrat, mineralischer Stickstoff (Nmin) | Ja, Nitrat-Teststreifen ([Nährstoff-Schnelltests](naehrstoff-schnelltests.md)) | Nmin-Methode, ÖNORM L 1091 [12] | mittel | nur bei Fragen zur N-Versorgung, im Frühjahr |
 | Kationenaustauschkapazität (KAK), austauschbare Kationen | Nein | Austausch mit Bariumchlorid, ÖNORM L 1086 [12, 19] | mittel bis hoch | einmal; bei Verdacht auf Natrium oder K/Mg-Probleme |
 | Eisen, Mangan, Kupfer, Zink | Nein | EDTA-Auszug, ÖNORM L 1089 [12] | mittel | einmal; bei Mangelsymptomen |
-| Bor | Nein | Heißwasserauszug [17] | mittel | bei Verrieselung oder Symptomen |
+| Bor | Nein | Heißwasserauszug nach Baron, ÖNORM L 1090 [12, 49] | mittel | bei Verrieselung oder Symptomen |
 | Kupfer gesamt | Nein | Königswasseraufschluss, ÖNORM L 1085 [12] | mittel | Bio-Betriebe mit langjährigem Kupfereinsatz alle 5–10 Jahre (Empfehlung, nicht belegt) |
 | Salze (elektrische Leitfähigkeit) | Ja, Leitfähigkeitsmessgerät ([pH und Leitfähigkeit](ph-leitfaehigkeit.md)) | Leitfähigkeit im Wasserauszug | gering | bei Verdacht (Bewässerung, Salzböden) |
 | Bodenstruktur, Verdichtung, Durchwurzelung | Ja, Spatenprobe ([Feldmethoden](feldmethoden.md)) | – | – | jährlich; immer bei Chlorose |
@@ -40,7 +40,9 @@ Die Gehaltsklassen der Richtlinien gelten nur für die dort genannten genormten 
 
 > **Offen:** Aktuelle Preise der österreichischen Labors (AGES, Landeslabors, private Labors) konnten nicht recherchiert werden. Preislisten vor dem Auftrag anfordern und hier nachtragen.
 
-> **Offen:** Die ÖNORM-Nummern außer L 1087 wurden bei der Erstellung nicht online geprüft. Ebenso ist offen, mit welcher Methode österreichische Labors Bor bestimmen. Vor Verwendung beim Labor oder bei Austrian Standards nachsehen.
+Die ÖNORM-Nummern wurden im Normenshop von Austrian Standards und in der Liste der akkreditierten Bodenparameter des Landes Steiermark nachgesehen [12, 49]: L 1061-2 (Korngrößen im Feinboden, Ausgabe 2019), L 1083 (pH, 2006), L 1084 (Carbonat), L 1085 (Königswasser- bzw. Salpeter-/Perchlorsäure-Aufschluss), L 1086-1 (austauschbare Kationen und effektive KAK mit Bariumchlorid), L 1089 (EDTA, 2014), L 1090 (pflanzenverfügbares Bor, 2010), L 1091 (Nmin, 2020), L 1093 (Mg im CaCl2-Auszug, 2010). Das Landeslabor Steiermark bestimmt Bor „nach Baron“ (Heißwasserauszug) nach ÖNORM L 1090 mit ICP-Messung [49].
+
+> **Offen:** Ob ÖNORM L 1080 (trockene Verbrennung) in der Ausgabe 2013 noch gilt, war im Shop nicht eindeutig zu erkennen; für L 1084 und L 1085 werden mehrere Ausgaben gelistet (L 1084: 2006 und 2016; L 1085: 2009 und 2013). Vor Verwendung die gültige Ausgabe bei Austrian Standards nachsehen. Welche Bormethode andere Labors verwenden, beim Labor erfragen.
 
 **Empfohlenes Untersuchungsprogramm für einen Weingarten auf Kalkboden:**
 
@@ -175,7 +177,7 @@ Die Bezeichnungen A bis C stehen in der Acker-Richtlinie [4]. Für Kalium spielt
 - Bei der Neuauspflanzung wird in den Gehaltsstufen A bis C aufgedüngt, gestaffelt nach leichten, mittelschweren und schweren Böden.
 - Bei ungünstigem K/Mg-Verhältnis (unter 1,7 : 1) ist eine Kaliumdüngung wie in der nächsttieferen Stufe zulässig.
 
-> **Offen:** Die genauen Zu- und Abschläge je Klasse und die Entzugswerte stehen in der Weinbau-Broschüre [1, 2] und sind hier noch nicht eingetragen.
+> **Offen:** Die genauen Zu- und Abschläge je Klasse und die Entzugswerte für Reben stehen in der Weinbau-Broschüre [1], Kapitel 3 „Interpretation der Bodenanalyse und Düngung“ (Abschnitt 3.1 Einstufung der Bodenuntersuchungsergebnisse, laut Inhaltsverzeichnis ab S. 84). Die Tabellen konnten online nicht eingesehen werden (nur Inhaltsverzeichnis). Zum Vergleich staffelt die BML-Unterlage zum Hopfenbau: Klasse A +50 %, B +25 %, D −50 %, E keine P- und K-Düngung [50] – das gilt für Hopfen, nicht für Reben.
 
 ### 4.2 Phosphor (CAL)
 
@@ -184,10 +186,10 @@ Die Bezeichnungen A bis C stehen in der Acker-Richtlinie [4]. Für Kalium spielt
 | A | sehr niedrig | unter 26 | unter 6,0 |
 | B | niedrig | 26–46 | 6,0–10,5 |
 | C | ausreichend | 47–111 | 10,8–25,4 |
-| D | hoch | 112–174 † | 25,7–39,9 |
-| E | sehr hoch | über 174 † | über 39,9 |
+| D | hoch | 112–174 | 25,7–39,9 |
+| E | sehr hoch | über 174 | über 39,9 |
 
-Quelle: Acker-Richtlinie, 7. Auflage [4]; Klassen A bis C in den Suchergebnissen gesehen. † D und E aus dem Fachwissen, nicht online geprüft. Die Grenzen entsprechen umgerechnet den alten Grenzen 6 / 10,5 / 25,5 / 40 mg P2O5/100 g; das spricht für ihre Richtigkeit, ersetzt aber keine Prüfung.
+Quelle: Acker-Richtlinie, 7. Auflage [4] (Klassen A bis C); alle Klassen A bis E in mg P/1000 g Feinboden in der Tabelle der BML-Unterlage „Düngung im Hopfenbau“ gesehen, die ausdrücklich für „Ackerland, Wein- und Obstgärten, Feldgemüse“ gilt [50]. Dort lauten die alten Grenzen in mg P2O5/100 g gerundet: A unter 6, B 6–10, C 11–25, D 26–40, E über 40 [50]; die Spalte rechts ist umgerechnet.
 
 **Vergleich mit anderen Weinbauländern:**
 
@@ -200,28 +202,30 @@ Der österreichische Bereich C reicht also höher als der deutsche Weinbau-Zielb
 
 | Klasse | unter 15 % Ton (leicht) | 15–25 % Ton (mittel) | über 25 % Ton (schwer) |
 |---|---|---|---|
-| A sehr niedrig | unter 50 † | unter 66 † | unter 83 † |
-| B niedrig | 50–87 † | 66–112 † | 83–137 † |
+| A sehr niedrig | unter 50 | unter 66 | unter 83 |
+| B niedrig | 50–87 | 66–112 | 83–137 |
 | C ausreichend | 88–178 | 113–212 | 138–245 |
 | D hoch | 179–291 † | 213–332 † | 246–374 † |
 | E sehr hoch | über 291 † | über 332 † | über 374 † |
 
-Angaben in mg K/kg (CAL). Quelle: Acker-Richtlinie [4]; Klasse C in den Suchergebnissen gesehen. † Alle anderen Grenzen aus dem Fachwissen, nicht online geprüft. Umgerechnet ergeben sie runde alte Grenzen in mg K2O/100 g (leicht 6 / 10,5 / 21,5 / 35; mittel 8 / 13,5 / 25,5 / 40; schwer 10 / 16,5 / 29,5 / 45). Das macht sie plausibel, ist aber kein Beleg.
+Angaben in mg K/kg (CAL). Quelle: Acker-Richtlinie [4] (Klasse C) und Richtlinie für den Garten- und Feldgemüsebau [51] (Klassen A und B; dieselbe Einteilung nach Tongehalt) in Suchergebnissen gesehen. † D und E aus dem Fachwissen, nicht online geprüft. Umgerechnet ergeben sie runde alte Grenzen in mg K2O/100 g (leicht 6 / 10,5 / 21,5 / 35; mittel 8 / 13,5 / 25,5 / 40; schwer 10 / 16,5 / 29,5 / 45). Das macht sie plausibel, ist aber kein Beleg.
 
-> **Offen:** Ob die Weinbau-Broschüre für Kalium dieselben Grenzen verwendet, ist nicht geprüft.
+> **Offen:** Ob die Weinbau-Broschüre [1] für Kalium dieselben Grenzen verwendet, ist nicht geprüft (Abschnitt 3.1 nicht eingesehen). Ebenso sind die Grenzen der Klassen D und E für Kalium online nicht gefunden worden.
 
 ### 4.4 Magnesium (CaCl2)
 
-Magnesium wird nach Schachtschabel im CaCl2-Auszug bestimmt und wie Kalium nach der Bodenschwere bewertet [3]. Von der Tabelle konnten nur Bruchstücke aus einer älteren Fassung eingesehen werden [5]:
+Magnesium wird nach Schachtschabel im CaCl2-Auszug bestimmt und wie Kalium nach der Bodenschwere bewertet [3]. Von der Tabelle (8. Auflage, Tabelle 17) konnten nur Teile eingesehen werden [3, 5, 50]:
 
 | Klasse | leicht | mittel | schwer |
 |---|---|---|---|
+| A sehr niedrig | nicht eingesehen | unter 30 | unter 40 |
+| B niedrig | nicht eindeutig | 30–55 | 40–75 |
 | C ausreichend | nicht eingesehen | 56–105 | 76–135 |
-| D hoch | 76–150 | nicht eingesehen | nicht eingesehen |
+| D hoch | 76–150 (unsicher) | nicht eingesehen | nicht eingesehen |
 
-Angaben in mg Mg/kg. Die Spaltenzuordnung stammt aus einer automatischen Suchzusammenfassung und ist unsicher.
+Angaben in mg Mg/kg. A und B für mittlere und schwere Böden stimmen in der 8. Auflage (Tabelle 17) und in der Hopfenbau-Unterlage überein [3, 50]; die Obergrenzen von B schließen lückenlos an die Untergrenzen von C an. Die Werte für leichte Böden und die Zeile D stammen aus Suchzusammenfassungen und sind unsicher.
 
-> **Offen:** Vollständige Mg-Tabelle (Acker-Richtlinie, 8. Auflage, und Weinbau-Broschüre) nachtragen.
+> **Offen:** Spalte „leicht“ sowie die Klassen D und E für mittlere und schwere Böden (Acker-Richtlinie, 8. Auflage, Tabelle 17) und die Mg-Einstufung der Weinbau-Broschüre [1] nachtragen.
 
 ### 4.5 Verhältnisse: Kalium zu Magnesium, Calcium-Dominanz, Stiellähme
 
@@ -245,7 +249,9 @@ Der pH-Wert in CaCl2-Lösung liegt meist niedriger als der in Wasser gemessene, 
 | 6,5–7,2 | neutral bis schwach alkalisch |
 | über 7,2 | alkalisch, fast immer carbonathaltig; P, Fe, Mn, Zn und B weniger verfügbar [39, 40]; nie kalken |
 
-> **Offen:** Die Bewertungsstufen der österreichischen Richtlinien für den pH-Wert wurden nicht eingesehen und sind nachzutragen.
+Die amtliche Einstufung der Bodenreaktion nach der Acker-Richtlinie (8. Auflage, Tabelle 7) steht in [pH und Leitfähigkeit](ph-leitfaehigkeit.md), Abschnitt A7: unter 4,6 stark sauer, 4,6–5,5 sauer, 5,6–6,5 schwach sauer, 6,6–7,2 neutral, 7,3–8,0 alkalisch, über 8,0 stark alkalisch (pH in CaCl2).
+
+> **Offen:** Ob die Weinbau-Broschüre [1] eigene pH-Stufen oder Zielbereiche für Weingärten festlegt, wurde nicht eingesehen.
 
 **Wichtig für alkalische Böden:**
 
@@ -267,7 +273,7 @@ Als Orientierung dient die Einteilung der deutschen Bodenkundlichen Kartieranlei
 | 25 bis unter 50 | sehr carbonatreich |
 | 50 und mehr | äußerst carbonatreich |
 
-> **Offen:** Klassen aus dem Fachwissen (KA5), nicht online geprüft. Die österreichischen Richtlinien und die Bodenkartierung können anders einteilen. Details und die Hofmethode stehen in [Kalk](kalk.md).
+Die KA5-Stufen bis „carbonatreich“ wurden über Methodenbeschreibungen deutscher Landesämter geprüft (siehe [Kalk](kalk.md), Abschnitt 3.5). Österreich teilt anders ein: Die AGES nennt (nach Englisch u. a. 1998) C0 carbonatfrei unter 0,5 %, C1 sehr carbonatarm 0,5–1 %, C2 carbonatarm 1–2 %, C3 carbonathaltig 2–10 %, C4 carbonatreich 10–30 %, C5 sehr carbonatreich über 30 % [52]. Die Acker-Richtlinie bewertet den Scheibler-Wert nur in drei Stufen (unter 1 % gering, 1–5 % mittel, über 5 % hoch; siehe [Kalk](kalk.md), Abschnitt 7.1). Auf dem Befund immer nachsehen, welche Skala gemeint ist.
 
 Das Scheibler-Verfahren gibt den Kalk als CaCO3-Äquivalent an. Dolomit reagiert langsamer mit Salzsäure und kann bei kurzer Messzeit unterschätzt werden [40].
 
@@ -288,7 +294,7 @@ Häufig zitierte Toleranzgrenzen für aktiven Kalk sind etwa: Riparia 6 %, 3309 
 
 ### 4.9 Spurenelemente und Bor
 
-> **Offen:** Die Bewertungsstufen der österreichischen Richtlinien für EDTA-Fe, -Mn, -Cu, -Zn und Bor wurden nicht eingesehen. Bis zur Ergänzung gilt die Einstufung auf dem Laborbefund.
+> **Offen:** Die Weinbau-Broschüre [1] hat laut Inhaltsverzeichnis einen eigenen Abschnitt 3.1.3 „Einstufung der Spurenelemente“ (Bor, Kupfer, Zink, Mangan, Eisen). Die Werte konnten online nicht eingesehen werden. Bis zur Ergänzung gilt die Einstufung auf dem Laborbefund.
 
 Zum Vergleich die international verbreiteten kritischen Werte für den DTPA-Auszug, entwickelt für Feldfrüchte auf neutralen bis kalkhaltigen Böden [16]:
 
@@ -583,7 +589,7 @@ Stand: November 2026
 9. Staatliche Lehr- und Versuchsanstalt für Wein- und Obstbau Weinsberg (2025): Düngung von Ertragsreben (Stand 18.8.2025). https://lvwo.landwirtschaft-bw.de/site/pbs-bw-mlr-root/get/documents_E1557675892/MLR.LEL/PB5Documents/lvwo/pdf/d/Duengung_von_Ertragsreben_2025_08_18.pdf?attachment=true [online geprüft: P-Gehaltsklassen A, C, E; Klasse C 12–20 mg P2O5/100 g (CAL) seit 2018; Erhaltungsdüngung 15 kg P2O5/ha bis 140 dt/ha; Klasse C Erhaltungsdüngung, Klasse E Düngung reduzieren oder aussetzen]
 10. Regierungspräsidium Darmstadt (2024): Beratungsleitfaden für einen gewässerschutzorientierten Weinbau in Hessen. https://rp-darmstadt.hessen.de/sites/rp-darmstadt.hessen.de/files/2024-03/rpda_beratungsleitfaden_fuer_einen_gewaesserschutzorintierten_weinbau.pdf [online geprüft: K2O : Mg ideal 2–2,5 : 1; Untersuchung in 0–30 und 30–60 cm]
 11. Ministerium für Landwirtschaft Luxemburg, Landwirtschaftsportal (o. J.): Düngung im Weinbau. https://agriculture.public.lu/de/weinbau/duengung-und-bodenpflege/duengung-im-weinbau.html [online geprüft: Klasse E ab 30 mg P2O5/100 g im Oberboden; die meisten Weinberge mit Phosphor überversorgt]
-12. Austrian Standards International: ÖNORM-Reihe für chemische und physikalische Bodenuntersuchungen, jeweils aktuelle Ausgabe: L 1061 (Korngrößen), L 1075 (Bewertung von Elementgehalten), L 1080 (organischer Kohlenstoff), L 1083 (pH), L 1084 (Carbonat), L 1085 (Königswasser), L 1086 (austauschbare Kationen), L 1087 (CAL-P und -K), L 1089 (EDTA-Spurenelemente), L 1091 (Nmin), L 1092 (wasserlöslicher P), L 1093 (Mg CaCl2). Wien. [L 1087 und L 1092 online geprüft (Zuordnung in Suchergebnissen gesehen); alle anderen Nummern nicht online geprüft]
+12. Austrian Standards International: ÖNORM-Reihe für chemische und physikalische Bodenuntersuchungen, jeweils aktuelle Ausgabe: L 1061-2 (Korngrößen Feinboden), L 1075 (Bewertung von Elementgehalten), L 1080 (organischer Kohlenstoff), L 1083 (pH), L 1084 (Carbonat), L 1085 (Königswasser), L 1086-1 (austauschbare Kationen), L 1087 (CAL-P und -K), L 1089 (EDTA-Spurenelemente), L 1090 (Bor), L 1091 (Nmin), L 1092 (wasserlöslicher P), L 1093 (Mg CaCl2). Wien. https://www.austrian-standards.at [online geprüft – Nummern, Titel und Ausgaben von L 1061-2, L 1080, L 1083, L 1084, L 1085, L 1086-1, L 1089, L 1090, L 1091, L 1093 im Normenshop (Suchergebnisse) gesehen; L 1087 und L 1092 Zuordnung in Suchergebnissen; L 1075 nicht geprüft; Normtexte nicht eingesehen]
 13. Schüller H. (1969): Die CAL-Methode, eine neue Methode zur Bestimmung des pflanzenverfügbaren Phosphates in Böden. Zeitschrift für Pflanzenernährung und Bodenkunde 123, 48–63. [nicht online geprüft]
 14. Schachtschabel P. (1954): Das pflanzenverfügbare Magnesium des Bodens und seine Bestimmung. Zeitschrift für Pflanzenernährung, Düngung, Bodenkunde 67, 9–23. [nicht online geprüft]
 15. Olsen S.R., Cole C.V., Watanabe F.S., Dean L.A. (1954): Estimation of available phosphorus in soils by extraction with sodium bicarbonate. USDA Circular 939, Washington D.C. [nicht online geprüft]
@@ -612,7 +618,7 @@ Stand: November 2026
 38. Keller M. (2020): The Science of Grapevines. 3. Auflage, Academic Press, London. [nicht online geprüft]
 39. Marschner P. (Hrsg.) (2012): Marschner's Mineral Nutrition of Higher Plants. 3. Auflage, Academic Press, London. [nicht online geprüft]
 40. Amelung W., Blume H.-P., Fleige H., Horn R., Kandeler E., Kögel-Knabner I., Kretzschmar R., Stahr K., Wilke B.-M. (2018): Scheffer/Schachtschabel – Lehrbuch der Bodenkunde. 17. Auflage, Springer Spektrum, Berlin. [nicht online geprüft]
-41. Ad-hoc-AG Boden (2005): Bodenkundliche Kartieranleitung. 5. Auflage (KA5). Bundesanstalt für Geowissenschaften und Rohstoffe, Hannover. [nicht online geprüft]
+41. Ad-hoc-AG Boden (2005): Bodenkundliche Kartieranleitung. 5. Auflage (KA5). Bundesanstalt für Geowissenschaften und Rohstoffe, Hannover. [online geprüft – Carbonatstufen c1 unter 0,5 %, c2 0,5 bis unter 2 %, c3 2 bis unter 10 % über die Methodenbeschreibung des LGB Rheinland-Pfalz; Humusstufen und Original nicht eingesehen]
 42. Pribyl D.W. (2010): A critical review of the conventional SOC to SOM conversion factor. Geoderma 156, 75–83. [nicht online geprüft]
 43. Kopittke P.M., Menzies N.W. (2007): A review of the use of the basic cation saturation ratio and the "ideal" soil. Soil Science Society of America Journal 71, 259–265. [nicht online geprüft]
 44. Richards L.A. (Hrsg.) (1954): Diagnosis and Improvement of Saline and Alkali Soils. USDA Agriculture Handbook 60, Washington D.C. [nicht online geprüft]
@@ -620,3 +626,7 @@ Stand: November 2026
 46. Verordnung (EU) 2018/848 über die ökologische/biologische Produktion und Durchführungsverordnung (EU) 2021/1165, Anhang II (zugelassene Düngemittel, Bodenverbesserer und Nährstoffe), jeweils konsolidierte Fassung; aktuellen Stand bei EUR-Lex prüfen. [nicht online geprüft]
 47. Durchführungsverordnung (EU) 2018/1981 zur Erneuerung der Genehmigung der Wirkstoffe Kupferverbindungen (Begrenzung auf 28 kg Kupfer je Hektar in 7 Jahren); aktuellen Stand bei EUR-Lex prüfen. [nicht online geprüft]
 48. InfoXgen: Betriebsmittelkatalog für die biologische Landwirtschaft in Österreich, jeweils aktuelle Ausgabe. [nicht online geprüft]
+49. Amt der Steiermärkischen Landesregierung, Landwirtschaftliches Versuchszentrum (2025): Akkreditierte Parameter (Stand Februar und Oktober 2025). https://www.verwaltung.steiermark.at/cms/dokumente/11680519_75777056/1d49b1bf/Akkreditierte%20Parameter%2010_2025.pdf [online geprüft – Bor nach Baron mit ICP nach ÖNORM L 1090, EDTA-Extraktion Cu, Zn, Mn, Fe nach L 1089, Nmin nach L 1091:2020; nur Suchergebnis-Auszüge]
+50. Bundesministerium für Land- und Forstwirtschaft (o. J.): Düngung im Hopfenbau. Wien. https://www.bmluk.gv.at/dam/jcr:1df5529b-855c-48c9-9585-70d68ecd60aa/D%C3%BCngung%20im%20Hopfenbau.pdf [online geprüft – P-Gehaltsstufen A–E (unter 26, 26–46, 47–111, 112–174, über 174 mg P/1000 g; gilt laut Tabelle für Ackerland, Wein- und Obstgärten, Feldgemüse), Mg-Stufe A (mittel unter 30, schwer unter 40 mg Mg/1000 g), Zu- und Abschläge für Hopfen; nur Suchergebnis-Auszüge]
+51. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz (o. J.): Richtlinien für die sachgerechte Düngung im Garten- und Feldgemüsebau. Wien. https://www.lko.at/media.php?filename=download%3D%2F2017.03.14%2F1489499141241981.pdf&rn=Richtlinien+f%C3%BCr+die+Sachgerechte+D%C3%BCngung+im+Garten-+und+Feldgem%C3%BCsebau.pdf [online geprüft – K-Klassen A und B nach Tongehalt (unter 50/66/83 bzw. 50–87/66–112/83–137 mg K/1000 g); nur Suchergebnis-Auszüge]
+52. AGES (o. J.): Carbonatgehalt. Hintergrundinformation (Wissen und Bildung, Boden). https://www.ages.at (Download „Carbonatgehalt.pdf“) [online geprüft – Stufen C0–C5 nach Englisch u. a. (1998), Feldtest mit 10%iger Salzsäure; nur Suchergebnis-Auszug]

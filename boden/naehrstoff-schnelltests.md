@@ -36,7 +36,9 @@ In gut durchlüfteten Weingartenböden wird Ammonium rasch zu Nitrat umgewandelt
 
 **Labormethode in Österreich.** Die ÖNORM L 1091 regelt Probenahme, Extraktion mit Calciumchloridlösung und Messung (Nmin-Methode). Sie wird in Rechtsvorschriften zitiert [9]. Die VDLUFA-Methoden lassen unter anderem CaCl₂ 0,0125 mol/L als Extraktionsmittel zu, und der ÖNORM-Entwurf von 1989 sah ebenfalls CaCl₂ 0,0125 mol/L vor; Kuderna u. a. extrahierten im Verhältnis Boden : Lösung 1 : 4 [10]. Landwirtschaftskammern bieten Nmin-Untersuchungsaktionen an, zum Beispiel die LK Niederösterreich [11].
 
-> **Offen:** Konzentration, Extraktionsverhältnis und Schüttelzeit der geltenden Ausgabe ÖNORM L 1091:2020 wurden nicht im Normtext geprüft. Die Angaben oben stammen aus [10].
+Geltend ist die Ausgabe ÖNORM L 1091:2020-08-15 (Vorgänger 2012); sie regelt Probenahme, Extraktion mit Calciumchloridlösung und Messung und wird in Rechtsvorschriften zitiert [9].
+
+> **Offen:** Konzentration, Extraktionsverhältnis und Schüttelzeit der Ausgabe 2020 stehen nur im kostenpflichtigen Normtext und wurden nicht eingesehen. Die Angaben oben stammen aus [10].
 
 **Stickstoffbedarf der Rebe.** Die Rebe braucht im Vergleich zu Ackerkulturen wenig Stickstoff:
 
@@ -44,7 +46,7 @@ In gut durchlüfteten Weingartenböden wird Ammonium rasch zu Nitrat umgewandelt
 - Nach der Hochschule Geisenheim decken 50 kg N/ha und Jahr den Bedarf der Rebe in der Regel [4].
 - Die LK Niederösterreich schreibt, dass ein Boden ab etwa 1,8–2 % Humus die Rebe meist ausreichend mit Stickstoff versorgen kann. Ausführliche Empfehlungen enthält die Broschüre „Sachgerechte Düngung im Weinbau“, 3. Auflage 2024 [5, 12].
 
-> **Offen:** Die Stickstoff-Empfehlungen der österreichischen Richtlinie (3. Auflage 2024) konnten für diesen Text nicht eingesehen werden. Vor Verwendung die Tabellen aus [12] hier nachtragen.
+> **Offen:** Die Stickstoff-Empfehlungen der österreichischen Richtlinie (3. Auflage 2024) konnten auch in der Nachprüfung (November 2026) nicht eingesehen werden; online war nur das Inhaltsverzeichnis zugänglich. Vor Verwendung die Tabellen aus [12] hier nachtragen.
 
 Die Rebe nimmt Stickstoff vor allem zwischen Austrieb und Reifebeginn sowie nach der Lese auf [13]. Zu viel Stickstoff fördert starkes Triebwachstum und dichte Laubwände; zu wenig schwächt den Wuchs und senkt den hefeverwertbaren Stickstoff im Most, was Gärstörungen begünstigt [14].
 
@@ -303,11 +305,11 @@ US-Einheiten: 1 lb/acre = 1,12 kg/ha; 1 ppm = 1 mg/kg (eigene Rechnung).
 
 ### B4 Studienlage
 
-- Faber u. a. verglichen mehrere handelsübliche Testkits für Nitrat-N, Phosphor, Kalium und pH mit Laboranalysen. Schon der Titel fasst das Ergebnis zusammen: Die Genauigkeit schwankt von Kit zu Kit und von Nährstoff zu Nährstoff [6].
+- Faber u. a. verglichen fünf handelsübliche Farbtest-Kits für Nitrat-N, Phosphor, Kalium und pH mit Laboranalysen an kalifornischen Böden (Salinas) mit drei Anbaugeschichten. Die Genauigkeit schwankte von Kit zu Kit und von Nährstoff zu Nährstoff. Nach der Häufigkeit der Übereinstimmung mit dem Labor lagen La Motte und Rapitest vorn, Quick Soiltest im Mittelfeld, Nitty-Gritty und Soil Kit hinten. Beim pH stimmten La Motte und Rapitest durchweg mit dem Labor überein; Kalium erfassten alle Kits außer Soil Kit ähnlich gut. Die Autoren raten, für genaue Werte ein Labor zu nutzen [6].
 - Für Nitrat-Teststreifen mit Reflektometer ist die Übereinstimmung mit dem Labor gut belegt (Teil A).
 - Eine Untersuchung der Kits an österreichischen, kalkhaltigen Weingartenböden ist nicht bekannt.
 
-> **Offen:** Einzelergebnisse von [6] (welche Kits, welche Abweichungen) vor Verwendung nachlesen und hier ergänzen.
+> **Offen:** Die Angaben zu [6] stammen aus dem Abstract (über Suchergebnisse gesehen). Prozentwerte der Übereinstimmung je Kit und die genauen Abweichungen im Volltext nachlesen. Ob die genannten Kits in Österreich erhältlich sind, ist nicht geprüft.
 
 ### B5 Fazit und sinnvoller Einsatz
 
@@ -473,7 +475,7 @@ Stand: November 2026
 3. Regierungspräsidium Darmstadt (2024): Beratungsleitfaden für einen gewässerschutzorientierten Weinbau in Hessen. Darmstadt. https://rp-darmstadt.hessen.de/sites/rp-darmstadt.hessen.de/files/2024-03/rpda_beratungsleitfaden_fuer_einen_gewaesserschutzorintierten_weinbau.pdf [online geprüft] – 50 kg N/ha bei 10 t/ha und angestrebte Humusgehalte laut Suchergebnis-Auszug.
 4. Hochschule Geisenheim, Institut für Bodenkunde und Pflanzenernährung (o. J.): Düngung im Weinbau (Beratung zur Wasserrahmenrichtlinie). https://www.hs-geisenheim.de/forschung/institute/bodenkunde-und-pflanzenernaehrung/ueberblick-institut-fuer-bodenkunde-und-pflanzenernaehrung/wasserrahmenrichtlinie/beratung/duengung [online geprüft]
 5. Landwirtschaftskammer Niederösterreich (o. J.): Düngung (Weinbau). St. Pölten. https://noe.lko.at/d%C3%BCngung+2400+3378941 [online geprüft] – Aussage zu 1,8–2 % Humus und Verweis auf die 3. Auflage 2024 laut Suchergebnis-Auszug.
-6. Faber, B. A., Downer, A. J., Holstege, D., Mochizuki, M. J. (2007): Accuracy varies for commercially available soil test kits analyzing nitrate–nitrogen, phosphorus, potassium, and pH. HortTechnology 17(3), 358–362. [nicht online geprüft]
+6. Faber, B. A., Downer, A. J., Holstege, D., Mochizuki, M. J. (2007): Accuracy varies for commercially available soil test kits analyzing nitrate–nitrogen, phosphorus, potassium, and pH. HortTechnology 17(3), 358–362. [online geprüft – Titel, Heft und Seiten; Ergebnisse nur aus Abstract-Wiedergaben]
 7. Schmidhalter, U. (2005): Development of a quick on-farm test to determine nitrate levels in soil. Journal of Plant Nutrition and Soil Science 168, 432–438. https://mediatum.ub.tum.de/1304776 [online geprüft] – Kurzfassung; Einzelwerte nicht eingesehen.
 8. Amelung, W., Blume, H.-P., Fleige, H., Horn, R., Kandeler, E., Kögel-Knabner, I., Kretzschmar, R., Stahr, K., Wilke, B.-M. (2018): Scheffer/Schachtschabel – Lehrbuch der Bodenkunde. 17. Auflage. Springer Spektrum, Berlin. [nicht online geprüft]
 9. Austrian Standards International (2020): ÖNORM L 1091:2020-08-15 – Nmin-Methode (englischer Katalogtitel: „Determination of mineral nitrogen by extraction with calcium chloride solution – Nmin method“). Wien. https://www.austrian-standards.at/en/shop/onorm-l-1091-2020-08-15~p2542043 [online geprüft] – nur Katalogeintrag (Titel, Ausgabe, Anwendungsbereich, Zitierung in Rechtsvorschriften); Normtext nicht eingesehen.

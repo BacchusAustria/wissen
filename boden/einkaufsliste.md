@@ -86,9 +86,7 @@ Ohne Weinlabor kommen dazu (Schätzung):
 
 **Nitrat genauer messen (optional): ca. 870–1.640 € (Schätzung).**
 - Reflektometer RQflex 20: ca. 800–1.500 €.
-- Reflectoquant Nitrat-Test 1.16995: ca. 70–140 € je 50 Tests.
-
-> **Offen:** Der Messbereich des Reflectoquant-Tests 1.16995 steht in der Anleitung mit 3–90 mg/L NO₃⁻; nach Fachwissen kommt auch ein anderer Bereich vor. Vor der Bestellung im Datenblatt prüfen.
+- Reflectoquant Nitrat-Test 1.16995: ca. 70–140 € je 50 Tests. Messbereich 3–90 mg/L NO₃⁻, nur mit dem RQflex 20; Lagerung bei 2–8 °C [8].
 
 ## Stufe 3 – erweitert
 
@@ -161,3 +159,4 @@ Stand: November 2026
 5. Landwirtschaftskammer Niederösterreich (2025): Bodenuntersuchungsaktion 2025. https://noe.lko.at/bodenuntersuchungsaktion-2025+2400+4246515 [nicht online geprüft – nur als Suchtreffer gesehen]
 6. Verordnung (EU) 2019/1148 über die Vermarktung und Verwendung von Ausgangsstoffen für Explosivstoffe, Anhang I. Konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
 7. Verordnung (EG) Nr. 273/2004 betreffend Drogenausgangsstoffe, Anhang I, Kategorie 3. Konsolidierte Fassung bei EUR-Lex prüfen. [nicht online geprüft]
+8. Merck KGaA / Sigma-Aldrich (o. J.): Produktseite 1.16995 Nitrate Test, reflectometric, 3–90 mg/L (NO₃⁻), Reflectoquant, for use with RQflex 20. https://www.sigmaaldrich.com/AT/de/product/mm/116995 [online geprüft – Messbereich 3–90 mg/L NO₃⁻, Griess-Reaktion, 50 Tests, Lagerung 2–8 °C; Herstellerseite, nur für technische Gerätedaten verwendet]
