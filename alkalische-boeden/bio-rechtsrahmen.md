@@ -84,92 +84,101 @@ Die Kommission nimmt Betriebsmittel über Durchführungsrechtsakte in die Listen
 
 ### 3.2 Lesehilfe für die Tabellen
 
-- **Bedingungen** sind sinngemäß wiedergegeben.
-- **Sicherheit** meiner Angabe:
-  - *hoch* – Eintrag und Bedingung stehen seit der VO (EG) Nr. 889/2008 unverändert im Anhang und sind in der aktuellen Fassung sehr wahrscheinlich gleich; trotzdem nicht online geprüft.
-  - *mittel* – Eintrag bekannt, aber Formulierung, Grenzwert oder Zeitpunkt der Aufnahme unsicher.
-  - *offen* – Bestehen oder Bedingungen des Eintrags nicht gesichert.
+- **Bedingungen** sind verkürzt wiedergegeben. Sie wurden am konsolidierten Text der DVO (EU) 2021/1165, Stand 01.01.2026, geprüft [2]. Wörtliche Zitate stehen in Anführungszeichen.
+- **Prüfstand:**
+  - *geprüft* – Eintrag und Bedingung stehen so im konsolidierten Text (Stand 01.01.2026) [2].
+  - *Auslegung* – Eintrag geprüft, die Anwendung auf den Weinbau ist aber eine eigene Auslegung; vor der Anwendung die Kontrollstelle fragen.
 - **Relevanz für Kalkböden:** ++ wichtig, + nützlich, 0 ohne Bezug, − auf Kalkböden kontraproduktiv.
+- **Zeitstufe 16. Juli 2022:** Viele Einträge nennen Grenzwerte „bis zum 15. Juli 2022“ und verweisen danach auf die „einschlägigen Beschränkungen des Gehalts an Kontaminanten gemäß der Verordnung (EU) 2019/1009“ [2, 6]. Die alten Grenzwerte (z. B. Cadmium 90 mg/kg P₂O₅, PAK 4 mg/kg) gelten also nicht mehr.
 
 ### 3.3 Wirtschaftsdünger, Komposte, Gärreste
 
-| Eintrag (sinngemäß) | Bedingungen (sinngemäß) | Relevanz für Kalkböden | Sicherheit |
+| Eintrag | Bedingungen | Relevanz für Kalkböden | Prüfstand |
 |---|---|---|---|
-| Stallmist (Exkremente mit Einstreu) | Nicht aus industrieller Tierhaltung | ++ Humus, Bodenleben, Nährstoffe; als Kompost geringere Ammoniakverluste ([Grundlagen](grundlagen.md), 4.11) | hoch |
-| Getrockneter Stallmist, getrockneter Geflügelmist | Nicht aus industrieller Tierhaltung | + Phosphor- und stickstoffreich (Pellets); Ammoniakverluste beim Liegenbleiben | hoch |
-| Kompostierte tierische Exkremente, einschließlich Geflügelmist und kompostierter Stallmist | Nicht aus industrieller Tierhaltung | ++ Stabile organische Substanz | hoch |
-| Flüssige tierische Exkremente (Gülle, Jauche) | Nach kontrollierter Fermentation und/oder geeigneter Verdünnung; nicht aus industrieller Tierhaltung | 0 bis − Hohe Ammoniakverluste auf Kalkböden; im Weingarten selten sinnvoll | hoch |
-| Kompostierte oder vergorene Haushaltsabfälle (Bioabfall aus der getrennten Sammlung) | Nur pflanzliche und tierische Haushaltsabfälle; geschlossenes, überwachtes, vom Mitgliedstaat anerkanntes Sammelsystem; Höchstgehalte in mg/kg Trockenmasse: Cadmium 0,7 – Kupfer 70 – Nickel 25 – Blei 45 – Zink 200 – Quecksilber 0,4 – Chrom gesamt 70 – Chrom(VI) nicht nachweisbar | ++ In Österreich praktisch nur Kompost der Qualitätsklasse A+ (Abschnitt 7.2) | hoch (Grenzwerte), mittel (Wortlaut Chrom(VI)) |
-| Kompostierte oder vergorene Gemische pflanzlicher Stoffe | Kompostierung oder anaerobe Vergärung (Biogas) | ++ Grüngut-, Rinden-, Trester-Kompost, pflanzliche Gärreste | hoch |
-| Biogas-Gärreste mit tierischen Nebenprodukten | Tierische Nebenprodukte der Kategorie 3 und Verdauungstraktinhalt der Kategorie 2, nicht aus industrieller Tierhaltung; Verarbeitung nach VO (EU) Nr. 142/2011; nicht auf essbare Teile der Kultur | + Nährstoffreich; flüssige Gärreste mit hohen Ammoniakverlusten | mittel |
-| Substrat aus der Pilzkultur | Ausgangssubstrat nur aus Stoffen dieses Anhangs | + Organische Substanz; enthält oft Kalk oder Gips aus der Deckerde | hoch |
-| Wurmkompost (Wurmhumus) und Insektenexkremente | Ggf. Bedingungen aus dem Recht der tierischen Nebenprodukte (Insektenkot, „Frass“) | + Hochwertig, aber teuer; nur kleine Mengen (Pflanzloch) | hoch (Wurmkompost), offen (Wortlaut Insekten) |
-| Guano | Keine besonderen Bedingungen bekannt | + Stickstoff und Phosphor; Phosphor teils als Calciumphosphat | hoch |
-| Torf | Nur im Gartenbau (Gemüse-, Zierpflanzenbau, Baumschulen) | 0 Im Ertragsweingarten nicht zulässig; ob eine Rebschule als Baumschule gilt, mit der Kontrollstelle klären | hoch |
+| Stallmist („Gemisch aus tierischen Exkrementen und pflanzlichem Material (Einstreu und Futtermittel)“) | Nicht aus industrieller Tierhaltung | ++ Humus, Bodenleben, Nährstoffe; als Kompost geringere Ammoniakverluste ([Grundlagen](grundlagen.md), 4.11) | geprüft |
+| Getrockneter Stallmist und getrockneter Geflügelmist | Nicht aus industrieller Tierhaltung | + Phosphor- und stickstoffreich (Pellets); Ammoniakverluste beim Liegenbleiben | geprüft |
+| Kompost aus tierischen Exkrementen, einschließlich Geflügelmist und kompostierter Stallmist | Nicht aus industrieller Tierhaltung | ++ Stabile organische Substanz | geprüft |
+| Flüssige tierische Exkremente (Gülle, Jauche) | Verwendung nach kontrollierter Fermentation und/oder geeigneter Verdünnung; nicht aus industrieller Tierhaltung | 0 bis − Hohe Ammoniakverluste auf Kalkböden; im Weingarten selten sinnvoll | geprüft |
+| Kompostierte oder fermentierte Bioabfälle (im Sinne der Abfallrahmenrichtlinie 2008/98/EG) | An der Anfallstelle getrennt gesammelt; durch Kompostierung oder Vergärung bei der Biogaserzeugung gewonnen; nur pflanzliche und tierische Bioabfälle; geschlossenes, kontrolliertes, vom Mitgliedstaat zugelassenes Sammelsystem; Höchstgehalte in mg/kg Trockenmasse: Cadmium 0,7 – Kupfer 70 – Nickel 25 – Blei 45 – Zink 200 – Quecksilber 0,4 – Chrom gesamt 70 – Chrom(VI) nicht nachweisbar | ++ In Österreich praktisch nur Kompost der Qualitätsklasse A+ (Abschnitt 7.2) | geprüft (Wortlaut seit DVO 2023/2229 [4]) |
+| Kompostiertes oder fermentiertes Gemisch aus pflanzlichem Material | Durch Kompostierung oder anaerobe Gärung bei der Biogaserzeugung gewonnen | ++ Grüngut-, Rinden-, Trester-Kompost, pflanzliche Gärreste | geprüft |
+| Biogasgärreste mit tierischen Nebenprodukten | Tierische Nebenprodukte (auch von Wildtieren) der Kategorie 3 und Magen- und Darminhalt der Kategorie 2, vergoren mit Material aus diesem Anhang; nicht aus industrieller Tierhaltung; Prozesse nach VO (EU) Nr. 142/2011; „Nicht auf essbare Teile der Pflanze anzuwenden“ | + Nährstoffreich; flüssige Gärreste mit hohen Ammoniakverlusten | geprüft |
+| Substrat von Pilzkulturen | Ausgangssubstrat nur aus Erzeugnissen dieses Anhangs | + Organische Substanz; enthält oft Kalk oder Gips aus der Deckerde | geprüft |
+| Wurmkompost und Substratmischung von Insektenexkrementen | „Gegebenenfalls im Einklang mit der Verordnung (EG) Nr. 1069/2009“ | + Hochwertig, aber teuer; nur kleine Mengen (Pflanzloch) | geprüft |
+| Guano | Keine besonderen Bedingungen | + Stickstoff und Phosphor; Phosphor teils als Calciumphosphat | geprüft |
+| Torf | „Nur für Gartenbauzwecke (Gemüsebau, Ziergartenbau, Gehölze, Baumschulen)“ | 0 Im Ertragsweingarten nicht zulässig; ob eine Rebschule als Baumschule gilt, mit der Kontrollstelle klären | geprüft |
 
 ### 3.4 Holz, tierische und pflanzliche Nebenprodukte
 
-| Eintrag (sinngemäß) | Bedingungen (sinngemäß) | Relevanz für Kalkböden | Sicherheit |
+| Eintrag | Bedingungen | Relevanz für Kalkböden | Prüfstand |
 |---|---|---|---|
-| Sägemehl und Holzhäcksel | Holz nach dem Fällen nicht chemisch behandelt | + Mulch, Humus; bindet anfangs Stickstoff | hoch |
-| Kompostierte Rinde | Holz nach dem Fällen nicht chemisch behandelt | + Mulch; Rinde reagiert sauer, die Wirkung bleibt aber auf die Mulchschicht beschränkt | hoch |
-| Holzasche | Aus Holz, das nach dem Fällen nicht chemisch behandelt wurde | − Stark alkalisch (wirkt wie Kalk) [23]; auf Kalkböden ungeeignet, auch als Kaliumquelle | hoch |
-| Tierische Erzeugnisse und Nebenprodukte: Blutmehl, Hufmehl, Hornmehl, Knochenmehl bzw. entleimtes Knochenmehl, Fischmehl, Fleischmehl, Feder-, Haar- und Chiquettemehl, Wolle, Pelze, Haare, Milcherzeugnisse, hydrolysierte Proteine | Pelze: Chrom(VI) nicht nachweisbar. Hydrolysierte Proteine: nicht auf essbare Teile der Kultur. Recht der tierischen Nebenprodukte beachten [8, 9] | + Horn-, Haar-, Federmehl: langsamer Stickstoff; Blutmehl: rascher Stickstoff; Knochen- und Fleischknochenmehl: Phosphor als Calciumphosphat bzw. Apatit, auf Kalkböden langsam verfügbar ([Phosphor](phosphor.md)) | hoch (Liste), mittel (Fußnoten) |
-| Erzeugnisse und Nebenprodukte pflanzlichen Ursprungs für Düngezwecke (z. B. Ölkuchenmehl, Kakaoschalen, Malzkeime) | GVO-Verbot beachten (Art. 11 VO 2018/848) | + Stickstoffdünger; Rizinusschrot ist für Tiere giftig – Vorsicht bei Schafbeweidung und Hunden | hoch |
-| Schlempe und Schlempeextrakt (Vinasse) | Ammoniakschlempe ausgenommen | + Kalium und Stickstoff, flüssig | hoch |
-| Algen und Algenerzeugnisse | Nur unmittelbar gewonnen durch physikalische Verfahren (Trocknen, Gefrieren, Mahlen), Extraktion mit Wasser oder wässrigen sauren und/oder alkalischen Lösungen oder Fermentation | + Biostimulans, Spurenelemente in kleinen Mengen. Nicht verwechseln mit Algenkalk (gehört zu Calciumcarbonat) | hoch (Verfahren), offen (ob zusätzlich eine Herkunftsbedingung – Bio oder nachhaltige Sammlung – gilt) |
-| Chitin (aus Krebstierschalen) | Nur aus nachhaltiger Fischerei oder ökologischer Aquakultur | 0 bis + Biostimulans | mittel |
-| Muschelschalen, Eierschalen | Herkunftsbedingungen (nachhaltige Fischerei bzw. nicht aus industrieller Tierhaltung) | − Bestehen aus Kalk; auf Kalkböden sinnlos | offen |
+| Sägemehl und Holzschnitt | Holz, das nach dem Einschlag nicht chemisch behandelt wurde | + Mulch, Humus; bindet anfangs Stickstoff | geprüft |
+| Rindenkompost | Holz, das nach dem Einschlag nicht chemisch behandelt wurde | + Mulch; Rinde reagiert sauer, die Wirkung bleibt aber auf die Mulchschicht beschränkt | geprüft |
+| Holzasche | Von Holz, das nach dem Einschlag nicht chemisch behandelt wurde | − Stark alkalisch (wirkt wie Kalk) [23]; auf Kalkböden ungeeignet, auch als Kaliumquelle | geprüft |
+| Produkte oder Nebenprodukte tierischen Ursprungs: Blutmehl, Hufmehl, Hornmehl, Knochenmehl bzw. entleimtes Knochenmehl, Fischmehl, Fleischmehl, Federn-, Haar- und Hautmehl, Wolle, Pelze, Haare, Milcherzeugnisse, hydrolysierte Proteine | Pelze: Chrom(VI) nicht nachweisbar. Hydrolysierte Proteine (tierisch): „Nicht auf essbare Teile der Pflanze anzuwenden“. Recht der tierischen Nebenprodukte beachten [8, 9] | + Horn-, Haar-, Federmehl: langsamer Stickstoff; Blutmehl: rascher Stickstoff; Knochen- und Fleischmehl: Phosphor als Calciumphosphat bzw. Apatit, auf Kalkböden langsam verfügbar ([Phosphor](phosphor.md)) | geprüft |
+| Produkte und Nebenprodukte pflanzlichen Ursprungs (z. B. Filterkuchen von Ölfrüchten, Kakaoschalen, Malzkeime) | Keine Bedingung im Anhang; GVO-Verbot beachten (Art. 11 VO 2018/848) | + Stickstoffdünger; Rizinusschrot ist für Tiere giftig – Vorsicht bei Schafbeweidung und Hunden | geprüft (Wortlaut seit DVO 2025/973 [30]) |
+| Hydrolysierte Proteine pflanzlichen Ursprungs | Eigener Eintrag, **ohne** die Einschränkung „nicht auf essbare Teile“ | + Grundlage pflanzlicher Aminosäure-Blattdünger (Abschnitt 5) | geprüft |
+| Schlempe und Schlempeextrakt (Vinasse) | Keine Ammoniakschlempe | + Kalium und Stickstoff, flüssig | geprüft |
+| Algen und Algenerzeugnisse | Ausschließlich gewonnen durch physikalische Verfahren (Dehydratisierung, Gefrieren, Mahlen), Extraktion mit Wasser oder sauren und/oder alkalischen wässrigen Lösungen oder Fermentation. Tang muss aus ökologischer/biologischer Aquakultur stammen oder nachhaltig nach Anhang II Teil III Nr. 2.4 der VO (EU) 2018/848 gesammelt sein | + Biostimulans, Spurenelemente in kleinen Mengen. Nicht verwechseln mit Algenkalk (gehört zu Calciumcarbonat) | geprüft |
+| Chitin (aus dem Panzer von Krebstieren) | Aus ökologischer/biologischer Aquakultur oder aus nachhaltiger Fischerei nach Art. 2 VO (EU) Nr. 1380/2013 | 0 bis + Biostimulans | geprüft |
+| Muschelabfälle; Eierschalen | Muschelabfälle: nur aus ökologischer/biologischer Aquakultur oder nachhaltiger Fischerei (Art. 2 VO (EU) Nr. 1380/2013). Eierschalen: nicht aus industrieller Tierhaltung | − Bestehen aus Kalk; auf Kalkböden sinnlos | geprüft |
 
 ### 3.5 Humusstoffe, Pflanzenkohle, Sedimente
 
-| Eintrag (sinngemäß) | Bedingungen (sinngemäß) | Relevanz für Kalkböden | Sicherheit |
+| Eintrag | Bedingungen | Relevanz für Kalkböden | Prüfstand |
 |---|---|---|---|
-| Leonardit (huminsäurereiches organisches Sediment) | Nur als Nebenprodukt des Bergbaus | + Huminsäurequelle; Wirkung auf Nährstoffverfügbarkeit uneinheitlich belegt [27] | mittel |
-| Xylit | Nur als Nebenprodukt des Bergbaus (z. B. Braunkohle) | 0 bis + Struktur | mittel |
-| Humin- und Fulvosäuren | Nach meinem Kenntnisstand nur, wenn mit anorganischen Salzen oder Lösungen ohne Ammoniumsalze gewonnen oder aus der Trinkwasseraufbereitung | + Komplexbildner für Eisen und Zink; Feldwirkung uneinheitlich [27] | offen |
-| Organisch reiche Sedimente aus Süßwasser, unter Luftabschluss entstanden (z. B. Sapropel) | Nur als Nebenprodukt der Gewässerbewirtschaftung oder aus ehemaligen Süßwasserflächen; frei von Pestiziden, persistenten organischen Schadstoffen und Mineralöl; Schwermetallgrenzwerte wie bei Bioabfallkompost | 0 Praktisch keine Bedeutung in Österreich | mittel |
-| Pflanzenkohle (Pyrolyseprodukt aus pflanzlichem Material, als Bodenverbesserer) | Nur aus pflanzlichem Material, unbehandelt oder nur mit Mitteln aus Anhang I (Pflanzenschutz) behandelt; höchstens 4 mg polyzyklische aromatische Kohlenwasserstoffe (PAK) je kg Trockenmasse | + Meist selbst alkalisch, daher kein Säureeffekt; Ertragseffekte vor allem auf sauren Böden [24]; sinnvoll eher als Kompostzusatz ([Organische Substanz](organische-substanz.md)) | mittel |
+| Leonardit (organisches Sediment mit hohem Gehalt an Huminsäuren) | Nur als Nebenprodukt aus Bergbautätigkeiten | + Huminsäurequelle; Wirkung auf Nährstoffverfügbarkeit uneinheitlich belegt [27] | geprüft |
+| Xylit | Nur als Nebenprodukt von Bergbautätigkeiten (z. B. Braunkohlebergbau) | 0 bis + Struktur | geprüft |
+| Humin- und Fulvinsäuren | „Nur sofern durch anorganische Salze/Lösungen außer Ammoniumsalze oder aus der Trinkwasseraufbereitung gewonnen“ (Wortlaut nach Berichtigung vom 3.7.2025) | + Komplexbildner für Eisen und Zink; Feldwirkung uneinheitlich [27] | geprüft |
+| Organisches Sediment aus Binnengewässern, unter Ausschluss von Sauerstoff entstanden (z. B. Faulschlamm) | Nur als Nebenprodukt der Binnenwasserwirtschaft oder aus einstigen Binnengewässern; frei von Pestiziden, langlebigen organischen Schadstoffen und benzinähnlichen Stoffen; seit 16.7.2022 Kontaminanten-Grenzwerte der VO (EU) 2019/1009 | 0 Praktisch keine Bedeutung in Österreich | geprüft |
+| Pflanzenkohle (Pyrolyseprodukt aus organischen Materialien pflanzlichen Ursprungs, als Bodenverbesserer) | „Nur aus pflanzlichen Stoffen, sofern diese nach der Ernte ausschließlich mit in Anhang I aufgeführten Erzeugnissen behandelt wurden“. Der frühere Grenzwert von 4 mg PAK/kg Trockenmasse galt nur bis 15.7.2022; seither gelten die Kontaminanten-Beschränkungen der VO (EU) 2019/1009. Für Pyrolysematerial (Komponentenmaterialkategorie CMC 14) sind das unter anderem höchstens 6 mg/kg Trockenmasse PAK₁₆ [6] | + Meist selbst alkalisch, daher kein Säureeffekt; Ertragseffekte im Mittel klein (rund +10 %) und vor allem auf sauren Böden [24]; sinnvoll eher als Kompostzusatz ([Organische Substanz](organische-substanz.md)) | geprüft |
 
-**Hinweis Pflanzenkohle aus Rebholz:** Nach dem Wortlaut (nur mit Anhang-I-Mitteln behandelt) wäre Kohle aus Schnittholz von Bio-Weingärten (Kupfer, Schwefel) grundsätzlich möglich, aus konventionellen Weingärten mit anderen Pflanzenschutzmitteln dagegen nicht. Zusätzlich gelten die Grenzwerte des Düngemittelrechts.
-
-> **Offen:** Der PAK-Grenzwert von 4 mg/kg sollte laut ursprünglichem Text überprüft werden. Ob er geändert wurde, ist nicht geprüft.
+**Hinweis Pflanzenkohle aus Rebholz:** Die Bedingung betrifft Behandlungen **nach der Ernte** des Ausgangsmaterials. Pflanzenschutzbehandlungen im Weingarten während der Vegetation werden vom Wortlaut nicht erfasst. Schnittholz aus konventionellen Weingärten ist deshalb nach dem Wortlaut nicht ausdrücklich ausgeschlossen (Auslegung; Kontrollstelle fragen). In jedem Fall muss die Kohle die Grenzwerte der VO (EU) 2019/1009 einhalten [6]; bei Rebholz sind vor allem Kupfer- und Zinkgehalte zu prüfen.
 
 ### 3.6 Phosphatdünger
 
-| Eintrag (sinngemäß) | Bedingungen (sinngemäß) | Relevanz für Kalkböden | Sicherheit |
+| Eintrag | Bedingungen | Relevanz für Kalkböden | Prüfstand |
 |---|---|---|---|
-| Weicherdiges Rohphosphat | Typ nach Düngemittelrecht; Cadmium höchstens 90 mg je kg P₂O₅ | 0 Löst sich nur im sauren Milieu; auf Kalkböden kaum wirksam [22], außer über Kompostierung oder lokale Ansäuerung ([Phosphor](phosphor.md)) | hoch (Cadmium 90), offen (aktueller Verweis auf Düngemittelrecht) |
-| Aluminium-Calcium-Phosphat | Typ nach Düngemittelrecht; Cadmium höchstens 90 mg je kg P₂O₅; **nur auf basischen Böden (pH über 7,5)** | + Der einzige Eintrag mit ausdrücklichem Bezug auf alkalische Böden. Nach meinem Kenntnisstand in Österreich praktisch nicht im Handel | hoch (Bedingung aus VO 889/2008 bekannt), mittel (Fortbestand in aktueller Fassung) |
-| Thomasphosphat (Thomasmehl, Thomasschlacke) | Typ nach Düngemittelrecht | − Stark basisch, wirkt kalkend; praktisch nicht mehr erhältlich | hoch |
-| Zurückgewonnenes Struvit und gefällte Phosphatsalze | Nach meinem Kenntnisstand: Anforderungen der VO (EU) 2019/1009 für gefällte Phosphatsalze; bei Wirtschaftsdünger als Ausgangsstoff nicht aus industrieller Tierhaltung | + Magnesium-Ammonium-Phosphat; löst sich langsam, in alkalischen Böden langsamer als in sauren [25, 26]; als feines Pulver besser verfügbar als Granulat | offen (Aufnahme vermutlich 2023 mit VO 2023/121; Bedingungen nicht geprüft) |
+| Weicherdiges Rohphosphat | Vermahlenes weicherdiges Rohphosphat (Tricalciumphosphat und Calciumcarbonat); mindestens 25 % P₂O₅, davon mindestens 55 % in 2%iger Ameisensäure löslich; mindestens 90 % Siebdurchgang bei 0,063 mm. Cadmium höchstens 90 mg/kg P₂O₅ **nur bis 15.7.2022**; seither Kontaminanten-Grenzwerte der VO (EU) 2019/1009, für Phosphatdünger (ab 5 % P₂O₅) 60 mg Cd/kg P₂O₅ [6] | 0 Löst sich nur im sauren Milieu; auf Kalkböden kaum wirksam [22], außer über Kompostierung oder lokale Ansäuerung ([Phosphor](phosphor.md)) | geprüft |
+| Aluminiumcalciumphosphat | Thermisch behandelt und gemahlen, amorph; mindestens 30 % P₂O₅, davon mindestens 75 % in alkalischem Ammoniumcitrat (nach Joulie) löslich; Cadmium wie Rohphosphat; „Nur auf alkalischen Böden zu verwenden (pH > 7,5)“ | + Der einzige Eintrag mit ausdrücklichem Bezug auf alkalische Böden. Ob er in Österreich im Handel ist, wurde nicht geprüft | geprüft |
+| Dephosphorationsschlacken (Thomasphosphat) | Mindestens 12 % P₂O₅ (davon 75 % in 2%iger Zitronensäure löslich) oder 10 % zitronensäurelösliches P₂O₅; seit 16.7.2022 Kontaminanten-Grenzwerte der VO (EU) 2019/1009 | − Stark basisch, wirkt kalkend; praktisch nicht mehr erhältlich | geprüft |
+| Zurückgewonnener Struvit und gefällte Phosphatsalze | „Sofern sie die Anforderungen der Verordnung (EU) 2019/1009 erfüllen“; tierische Exkremente als Ausgangsstoff nicht aus industrieller Tierhaltung. Aufgenommen mit DVO (EU) 2023/121 [3] | + Magnesium-Ammonium-Phosphat; löst sich langsam, in alkalischen Böden langsamer als in sauren; fein gemahlen und eingemischt deutlich besser verfügbar als Granulat [25, 26] | geprüft |
+| Calciumphosphat | Nur aus Klärschlammasche; nur Produkte nach VO (EU) 2019/1009. Aufgenommen mit DVO (EU) 2025/973 [30] | 0 bis + Calciumphosphat ist auf Kalkböden voraussichtlich schlecht löslich (nicht belegt) | geprüft |
 
-> **Offen:** Bei Struvit prüfen, (1) seit wann und mit welchem genauen Wortlaut der Eintrag gilt, (2) ob Struvit aus kommunalem Abwasser zugelassen ist, (3) wie sich der Ammonium-Stickstoff im Struvit zum Verbot mineralischer Stickstoffdünger (Nr. 1.9.8) verhält. Nach meinem Kenntnisstand ist Struvit ausdrücklich als Phosphordünger gelistet; der enthaltene Stickstoff ist dann Nebenbestandteil.
+**Struvit im Einzelnen.**
 
-> **Achtung:** Für Cadmium gilt immer der strengste anwendbare Grenzwert. EU-Düngeprodukte (CE-gekennzeichnet) mit Phosphor dürfen nach VO (EU) 2019/1009 höchstens 60 mg Cadmium je kg P₂O₅ enthalten [6]; für nationale Produkte können nach der Düngemittelverordnung eigene Grenzwerte gelten [14].
+1. **Seit wann:** Der Eintrag gilt seit der DVO (EU) 2023/121 (ABl. L 16 vom 18.1.2023) [2, 3].
+2. **Aus kommunalem Abwasser:** Der Bio-Eintrag verweist nur auf die VO (EU) 2019/1009. Deren Komponentenmaterialkategorie CMC 12 (gefällte Phosphatsalze) lässt als Eingangsmaterial ausdrücklich „Abwasser und Klärschlamm aus kommunalen Kläranlagen“ zu und verlangt unter anderem mindestens 16 % P₂O₅ und höchstens 3 % organischen Kohlenstoff in der Trockenmasse [6]. Nach dem Wortlaut ist Struvit aus kommunalem Abwasser damit auch im Bio-Landbau zulässig, sofern er als EU-Düngeprodukt diese Anforderungen erfüllt. Verbände können strenger sein (Abschnitt 8).
+3. **Ammonium-Stickstoff und Nr. 1.9.8:** Der Rechtstext regelt das Verhältnis nicht ausdrücklich. Da Struvit namentlich gelistet ist, ist seine Verwendung als Phosphordünger nach dem Wortlaut gedeckt (Auslegung).
+
+> **Achtung:** Für Cadmium gilt immer der strengste anwendbare Grenzwert. Seit 16.7.2022 verweist der Bio-Anhang bei Rohphosphat, Aluminiumcalciumphosphat und Thomasphosphat auf die Kontaminanten-Grenzwerte der VO (EU) 2019/1009: Phosphatdünger mit mindestens 5 % P₂O₅ dürfen höchstens 60 mg Cadmium je kg P₂O₅ enthalten [2, 6]. Der früher genannte Wert von 90 mg/kg P₂O₅ ist überholt.
 
 ### 3.7 Kalium, Magnesium, Calcium, Schwefel, Natrium, Gesteinsmehle
 
-| Eintrag (sinngemäß) | Bedingungen (sinngemäß) | Relevanz für Kalkböden | Sicherheit |
+| Eintrag | Bedingungen | Relevanz für Kalkböden | Prüfstand |
 |---|---|---|---|
-| Rohkalisalz oder Kainit | Typ nach Düngemittelrecht | 0 bis − Enthält viel Natriumchlorid; Chlorid und Natrium sind für Reben ungünstig | hoch |
-| Kaliumsulfat, ggf. mit Magnesiumsalz | Aus Rohkalisalz durch physikalisches Extraktionsverfahren gewonnen; kann Magnesiumsalze enthalten | ++ Üblicher Kaliumdünger im Bio-Weinbau; pH-neutral, liefert Schwefel | hoch |
-| Calciumcarbonat (Kreide, Mergel, Kalksteinmehl, Algenkalk/Maerl, Phosphatkreide) | Nur natürlichen Ursprungs | − Auf Kalkböden sinnlos | hoch |
-| Calcium-Magnesiumcarbonat (z. B. Dolomit, Magnesiumkalk) | Nur natürlichen Ursprungs | − Auf Kalkböden sinnlos, auch als Magnesiumquelle | hoch |
-| Magnesiumsulfat (z. B. Kieserit) | Nur natürlichen Ursprungs | + pH-neutrale Magnesium- und Schwefelquelle; als Blattdünger (Bittersalz) verbreitet | mittel (ob auch Magnesiumsulfat chemischen Ursprungs zugelassen ist) |
-| Calciumchloridlösung | Blattbehandlung bei Apfelbäumen nach Feststellung von Calciummangel | 0 Im Weinbau auf Kalkböden ohne Bedeutung | mittel (ob der Eintrag inzwischen erweitert wurde) |
-| Calciumsulfat (Gips) | Typ nach Düngemittelrecht; nur natürlichen Ursprungs | + Nur auf Natriumböden sinnvoll (Seewinkel) [28]; senkt den pH gewöhnlicher Kalkböden nicht; liefert Schwefel. Gips aus der Rauchgasentschwefelung (REA-Gips) ist nicht natürlichen Ursprungs | hoch |
-| Industriekalk aus der Zuckerherstellung | Nebenprodukt der Zuckerherstellung | − Kalkdünger | hoch |
-| Industriekalk aus der Vakuumsalzherstellung | Nebenprodukt der Vakuumsalzherstellung aus Sole | − Kalkdünger | hoch |
-| Elementarer Schwefel | Typ nach Düngemittelrecht | ++ Das einzige zugelassene Mittel mit Säurewirkung im Boden; wirkt auf Kalkböden nur örtlich ([Schwefel und Ansäuerung](schwefel-ansaeuerung.md)) | hoch |
-| Natriumchlorid | Nur Steinsalz | − Natrium verschlechtert alkalische Böden | hoch |
-| Gesteinsmehle und Tone | Keine besonderen Bedingungen bekannt | 0 bis + Langsame Nährstofffreisetzung; Tonminerale verbessern leichte Böden; manche Gesteinsmehle enthalten selbst Kalk | hoch |
+| Kalirohsalz (Kainit) | Aus Kalirohsalzen gewonnen; mindestens 9 % K₂O und 2 % MgO | 0 bis − Enthält viel Natriumchlorid; Chlorid und Natrium sind für Reben ungünstig | geprüft |
+| Kaliumsulfat, möglicherweise Magnesiumsalz enthaltend | Aus Kalirohsalz durch physikalische Extraktion gewonnen | ++ Üblicher Kaliumdünger im Bio-Weinbau; pH-neutral, liefert Schwefel | geprüft |
+| Kaliumchlorid | „Nur natürlichen Ursprungs“; aufgenommen mit DVO (EU) 2023/121 [3] | − Chloridreich, für Reben ungünstig ([Weitere Nährstoffe](weitere-naehrstoffe.md)) | geprüft |
+| Calciumcarbonat (Kreide, Mergel, Kalksteinmehl, Algenkalk, Phosphatkreide) | Nur natürlichen Ursprungs | − Auf Kalkböden sinnlos | geprüft |
+| Calcium- und Magnesiumcarbonat (z. B. Magnesiumkalk, Magnesiumkalksteinmehl) | Nur natürlichen Ursprungs | − Auf Kalkböden sinnlos, auch als Magnesiumquelle | geprüft |
+| Magnesiumsulfat (Kieserit) | „Nur natürlichen Ursprungs“ | + pH-neutrale Magnesium- und Schwefelquelle. Bittersalz ist nur zulässig, wenn es natürlichen Ursprungs ist (z. B. aus Kieserit); synthetisch hergestelltes Magnesiumsulfat nicht | geprüft |
+| Calcium- und Magnesiumgluconat | „Aus mikrobieller Fermentation“; keine Kulturbeschränkung; aufgenommen mit DVO (EU) 2025/973 [30] | + Mögliche Blattdünger für Magnesium; Wirkung bei Reben nicht geprüft | geprüft |
+| Calciumchloridlösung | „Nur zur Blattbehandlung bei Apfelbäumen zur Vorbeugung von Calciummangel“ | 0 Im Weinbau nicht zulässig | geprüft |
+| Calciumacetat | Nur zur Blattbehandlung bei Gemüse in Gewächshäusern und bei Apfelbäumen zur Vorbeugung von Calciummangel; aus Calciumcarbonat natürlichen Ursprungs | 0 Im Weinbau nicht zulässig | geprüft |
+| Calciumsulfat (Gips) | Naturprodukt mit Calciumsulfat in verschiedenen Hydrationsgraden; mindestens 25 % CaO und 35 % SO₃; mindestens 80 % Siebdurchgang bei 2 mm | + Nur auf Natriumböden sinnvoll (Seewinkel) [28]; senkt den pH gewöhnlicher Kalkböden nicht; liefert Schwefel. Gips aus der Rauchgasentschwefelung (REA-Gips) ist kein Naturprodukt | geprüft |
+| Industriekalk aus der Zuckerherstellung | Nebenprodukt der Zuckerherstellung aus Zuckerrüben und Zuckerrohr | − Kalkdünger | geprüft |
+| Industriekalk aus der Siedesalzherstellung | Nebenprodukt der Siedesalzherstellung aus bergmännisch gewonnener Sole | − Kalkdünger | geprüft |
+| Elementarer Schwefel | Bis 15.7.2022 wie Anhang I Teil D VO (EG) Nr. 2003/2003; seither Kontaminanten-Grenzwerte der VO (EU) 2019/1009 | ++ Das einzige zugelassene Mittel mit Säurewirkung im Boden; wirkt auf Kalkböden nur örtlich ([Schwefel und Ansäuerung](schwefel-ansaeuerung.md)) | geprüft |
+| Natriumchlorid | Keine Bedingung angegeben | − Natrium verschlechtert alkalische Böden | geprüft |
+| Steinmehl, Sand natürlichen Ursprungs, Ton und Tonminerale (z. B. Perlit, Sand, Vermiculit, auch wärmebehandelt) | Keine besondere Bedingung für den Feldeinsatz; Wortlaut seit DVO 2025/973 [30] | 0 bis + Langsame Nährstofffreisetzung; Tonminerale verbessern leichte Böden; manche Gesteinsmehle enthalten selbst Kalk | geprüft |
+| Natriumnitrat | Nur für die Algenproduktion an Land in geschlossenen Systemen | − Im Weinbau nicht zulässig | geprüft |
+| Selensalze | Nur bei Mangel auf Böden für Tierhaltung, Beweidung oder Futterpflanzen | 0 Im Weinbau ohne Bedeutung | geprüft |
 
 ### 3.8 Spurenelemente
 
-| Eintrag (sinngemäß) | Bedingungen (sinngemäß) | Relevanz für Kalkböden | Sicherheit |
+| Eintrag | Bedingungen | Relevanz für Kalkböden | Prüfstand |
 |---|---|---|---|
-| Spurenelemente | Anorganische Mikronährstoffe nach Düngemittelrecht (ursprünglich: Teil E von Anhang I der VO (EG) Nr. 2003/2003) | ++ Eisen-, Mangan-, Zinksulfat, Borsäure und Borate, Natriummolybdat; auf Kalkböden vor allem als Blattdüngung wirksam (Abschnitt 5) | hoch (anorganische Salze), offen (organische Komplexbildner) |
+| „Mineralische Spurennährstoffdünger“ | Bis 15.7.2022: „wie in Anhang I Teil E der Verordnung (EG) Nr. 2003/2003 aufgeführt“; seit 16.7.2022 gelten die Kontaminanten-Beschränkungen der VO (EU) 2019/1009 | ++ Eisen-, Mangan-, Zinksulfat, Borsäure und Borate, Natriummolybdat; auf Kalkböden vor allem als Blattdüngung wirksam (Abschnitt 5) | geprüft (Eintrag); Umfang bei Chelaten unklar (Abschnitt 5) |
 
 ## 4 Was davon auf Kalkböden hilft – Einordnung nach Ziel
 
@@ -187,27 +196,39 @@ Die Kommission nimmt Betriebsmittel über Durchführungsrechtsakte in die Listen
 
 Bei der Kalkchlorose liegt der größte Unterschied zwischen konventionellem und biologischem Weinbau.
 
-**Was zulässig ist.** Der Anhang lässt Spurenelemente als **anorganische** Mikronährstoffe zu [2], also Salze und Oxide wie Eisen(II)-sulfat, Mangansulfat, Zinksulfat, Borsäure, Natriumborate und Natriummolybdat.
+**Wortlaut des Eintrags.** Anhang II nennt „Mineralische Spurennährstoffdünger“ und verweist für die Zeit bis 15.7.2022 auf Anhang I Teil E der VO (EG) Nr. 2003/2003; seither gelten nur noch die Kontaminanten-Grenzwerte der VO (EU) 2019/1009 [2]. Eine Beschränkung auf bestimmte Verbindungen enthält der Eintrag nicht.
 
-**Was nach meinem Kenntnisstand nicht zulässig ist.** Spurenelemente, die mit **synthetischen Chelatbildnern** gebunden sind: EDTA, DTPA, HEDTA, EDDHA, EDDHMA, EDDHSA, EDDCHA, HBED, IDHA, EDDS. Diese Chelatbildner sind im Düngemittelrecht für Spurenelementdünger zugelassen [6, 7], im Bio-Anhang aber nicht aufgeführt. Fe-EDDHA ist im konventionellen Weinbau das Standardmittel gegen Kalkchlorose [29]; im Bio-Weinbau fällt es weg.
+**Sicher zulässig** sind anorganische Spurenelementsalze und -oxide: Eisen(II)-sulfat, Mangansulfat, Zinksulfat, Borsäure, Natriumborate, Natriummolybdat.
 
-**Ungeklärt: organische Komplexbildner.** Ob Spurenelemente zulässig sind, die mit Lignosulfonaten, Gluconat oder Heptagluconat, Citrat, Aminosäuren, Proteinhydrolysaten oder Huminstoffen komplexiert sind, hängt vom genauen aktuellen Wortlaut des Spurenelement-Eintrags und von anderen Einträgen ab:
+**Synthetische Chelate – nach dem Wortlaut nicht ausdrücklich ausgeschlossen, in der Praxis ungeklärt.** Die bisherige Aussage dieser Datei („nicht zulässig“) lässt sich am Rechtstext nicht belegen:
 
-- Proteinhydrolysate und Aminosäuren aus tierischen Proteinen fallen unter „hydrolysierte Proteine“ mit der Bedingung „nicht auf essbare Teile der Kultur“. Bei der Rebe sind die Trauben essbare Teile; Blattspritzungen ab der Blüte treffen sie zwangsläufig.
-- Huminstoff-Komplexe hängen vom Eintrag „Humin- und Fulvosäuren“ ab (Status offen, Abschnitt 3.5).
+- Teil E der VO 2003/2003 trug selbst die Überschrift „Mineralische Spurennährstoffdünger“ und umfasste ausdrücklich Chelatformen; Abschnitt E.3.1 listete die zugelassenen Chelatbildner [7].
+- Auch die VO (EU) 2019/1009 führt „Spurennährstoff-Chelatdünger“ als Untertyp der *anorganischen* Spurennährstoff-Düngemittel; die Chelatbildner müssen den Anforderungen der Komponentenmaterialkategorie CMC 1 entsprechen [6].
+- Wie Kontrollstellen, InfoXgen und die Verbände Chelate mit EDTA, DTPA, EDDHA, EDDHMA, HBED, IDHA oder EDDS einstufen, wurde nicht geprüft.
 
-> **Offen:** Die Zulässigkeit organisch komplexierter Spurenelementdünger (Lignosulfonat, Gluconat, Aminosäure- und Proteinhydrolysat-Chelate) ist nicht geprüft. Nach meinem Kenntnisstand ist in einer der Änderungen seit 2021 eine Anpassung des Spurenelement-Eintrags denkbar. Bis zur Klärung gilt: Nur Produkte verwenden, die im InfoXgen-Katalog für den Bio-Landbau gelistet sind, oder die Kontrollstelle schriftlich fragen. „Bio-geeignet“ auf dem Etikett reicht als Nachweis nicht.
+Fe-EDDHA ist im konventionellen Weinbau das Standardmittel gegen Kalkchlorose [29]. Ob es im Bio-Weinbau verwendet werden darf, hängt damit von der Auslegung ab.
+
+> **Offen:** Einstufung synthetischer Chelate (EDTA, DTPA, EDDHA, EDDHMA, HBED, IDHA, EDDS) unter dem Eintrag „Mineralische Spurennährstoffdünger“ durch die österreichischen Kontrollstellen, den InfoXgen-Katalog und die Verbände. Der EU-Text (Stand 01.01.2026) schließt sie nicht ausdrücklich aus. Bis zur schriftlichen Auskunft der Kontrollstelle kein Chelatprodukt verwenden, das nicht im InfoXgen-Katalog für den Bio-Landbau gelistet ist. Verbandsrichtlinien können Chelate ausschließen.
+
+**Organische Komplexbildner** (Lignosulfonat, Gluconat, Citrat, Aminosäuren, Proteinhydrolysate, Huminstoffe):
+
+- **Gluconat:** Ausdrücklich gelistet sind nur **Calcium- und Magnesiumgluconat** „aus mikrobieller Fermentation“ (seit DVO 2025/973) [2, 30]. Eisen-, Zink- oder Mangangluconat stehen nicht als eigener Eintrag im Anhang.
+- **Aminosäuren und Proteinhydrolysate:** Hydrolysierte Proteine **pflanzlichen** Ursprungs sind ohne Anwendungsbeschränkung gelistet. Hydrolysierte Proteine **tierischen** Ursprungs dürfen „nicht auf essbare Teile der Pflanze“ angewendet werden [2]. Bei der Rebe sind die Trauben essbare Teile; Blattspritzungen ab der Blüte treffen sie zwangsläufig. Bei Aminosäure-Spurenelementdüngern deshalb die Herkunft der Aminosäuren erfragen.
+- **Huminstoff-Komplexe:** Humin- und Fulvinsäuren sind nur zulässig, wenn sie „durch anorganische Salze/Lösungen außer Ammoniumsalze oder aus der Trinkwasseraufbereitung gewonnen“ wurden (Abschnitt 3.5) [2].
+- **Lignosulfonat, Citrat:** nicht als eigener Eintrag gelistet. Ob sie als Bestandteil eines „mineralischen Spurennährstoffdüngers“ gelten, ist wie bei den Chelaten eine Frage der Auslegung.
+
+> **Offen:** Zulässigkeit von Spurenelementdüngern mit Lignosulfonat, Citrat sowie Eisen-, Zink- und Mangangluconat ist am EU-Text nicht entscheidbar. Vor der Anwendung: Produkt im InfoXgen-Katalog suchen oder die Kontrollstelle schriftlich fragen. „Bio-geeignet“ auf dem Etikett reicht als Nachweis nicht.
 
 **Praktische Folgen auf Kalkböden** (Einzelheiten in [Eisen und Kalkchlorose](eisen-chlorose.md) und [Weitere Nährstoffe](weitere-naehrstoffe.md)):
 
 - Anorganische Eisen-, Mangan- und Zinksalze werden im Kalkboden rasch oxidiert, ausgefällt oder adsorbiert ([Grundlagen](grundlagen.md), Abschnitt 4). Bodengaben wirken deshalb kaum, außer in Verbindung mit organischer Substanz oder örtlicher Ansäuerung.
 - Blattdüngung wirkt, aber nur kurzfristig und auf die behandelten Blätter.
-- Eisen(II)-sulfat ist als Spurenelementsalz zugelassen. Eine Verwendung in großen Mengen als Bodenansäuerungsmittel ist vom Zweck des Eintrags nach meiner Einschätzung nicht gedeckt; vorher die Kontrollstelle fragen.
+- Eisen(II)-sulfat ist als Spurenelementsalz zugelassen. Eine Verwendung in großen Mengen als Bodenansäuerungsmittel ist vom Zweck des Eintrags nach eigener Einschätzung nicht gedeckt; vorher die Kontrollstelle fragen.
 - Kupfer als Spurenelementdünger ist auf Weingartenböden nicht sinnvoll (Abschnitt 9).
 
-**Bedarfsnachweis.** Nr. 1.9.3 beschränkt Zukaufdünger auf das erforderliche Ausmaß und verlangt Aufzeichnungen [1]. Für Spurenelemente sollte der Bedarf deshalb immer belegt sein: Bodenbefund, Blattanalyse, dokumentierte Symptome (Fotos mit Datum und Riede) oder ein Beratungsprotokoll.
+**Bedarfsnachweis und Aufzeichnungen.** Nr. 1.9.3 beschränkt Zukaufdünger auf das „erforderliche Maß“. Seit der Delegierten VO (EU) 2021/1691 verlangt sie Aufzeichnungen über die Verwendung, „einschließlich des Zeitpunkts/der Zeitpunkte der Verwendung des einzelnen Erzeugnisses, der Bezeichnung des Erzeugnisses, der ausgebrachten Menge sowie der betreffenden Kulturen und Parzellen“ [1]. Einen bestimmten Bedarfsnachweis (z. B. eine Analyse) schreibt der EU-Text nicht vor. Der Bedarf sollte trotzdem belegt sein: Bodenbefund, Blattanalyse, dokumentierte Symptome (Fotos mit Datum und Riede) oder ein Beratungsprotokoll.
 
-> **Offen:** Ob Bio Austria oder die Kontrollstellen für Spurenelementdünger einen bestimmten Nachweis (z. B. Analyse nicht älter als eine bestimmte Zahl an Jahren) ausdrücklich vorschreiben, wurde nicht geprüft.
+> **Offen:** Ob Bio Austria, andere Verbände oder die Kontrollstellen für Spurenelementdünger einen bestimmten Nachweis (z. B. eine Analyse nicht älter als eine bestimmte Zahl an Jahren) verlangen, wurde nicht geprüft; die Verbandsrichtlinien waren online nicht einsehbar.
 
 ## 6 Mikroorganismen, Kompoststarter, biologisch-dynamische Präparate
 
@@ -359,21 +380,21 @@ Die deutsche FiBL-Betriebsmittelliste [21] ist eine gute Orientierung, weil sie 
 
 ## 12 Graubereiche und offene Rechtsfragen
 
-> **Offen:** **Ansäuerung von Bewässerungswasser.** Ob Zitronensäure oder Essig im Tropfsystem zur Neutralisierung von Hydrogencarbonat oder zur Reinigung der Leitungen verwendet werden dürfen, ist im Bio-Anhang nach meinem Kenntnisstand nicht geregelt. Vor der Anwendung die Kontrollstelle fragen.
+**Geklärt in der Prüfrunde November 2026** (konsolidierte Texte bei EUR-Lex):
 
-> **Offen:** **Organisch komplexierte Spurenelemente** (Lignosulfonat, Gluconat, Aminosäuren, Proteinhydrolysate): Zulässigkeit nicht geklärt (Abschnitt 5).
+- **Struvit und gefällte Phosphatsalze:** seit DVO 2023/121 gelistet; Bedingungen und Abwasserherkunft siehe Abschnitt 3.6 [2, 3, 6].
+- **Aluminiumcalciumphosphat:** Eintrag und Bedingung „Nur auf alkalischen Böden zu verwenden (pH > 7,5)“ bestehen fort [2].
+- **Humin- und Fulvinsäuren, Muschelabfälle, Eierschalen, Insektenexkremente:** Wortlaut in Abschnitt 3.4 und 3.5.
+- **Kaliumphosphonat:** steht nicht in Anhang I (Pflanzenschutz) und nicht in Anhang II der DVO 2021/1165 (Stand 01.01.2026) [2] und ist damit im Bio-Landbau nicht zulässig.
+- **Änderungen des Anhangs II 2023–2025:** DVO 2023/121, 2023/2229 und 2025/973 sowie eine Berichtigung vom 3.7.2025 (Humin- und Fulvinsäuren) sind in den Tabellen berücksichtigt. Die DVO 2025/2501 ist im konsolidierten Text vermerkt, ändert Anhang II aber nicht [2, 3, 4, 30, 31].
 
-> **Offen:** **Struvit und gefällte Phosphatsalze:** Zeitpunkt der Aufnahme und Bedingungen nicht geprüft (Abschnitt 3.6).
+> **Offen:** **Ansäuerung von Bewässerungswasser.** Zitronensäure und Essig stehen nicht in Anhang II (Stand 01.01.2026) [2]. Ob ihre Verwendung im Tropfsystem zur Neutralisierung von Hydrogencarbonat oder zur Reinigung der Leitungen überhaupt als Verwendung eines Düngemittels oder Bodenverbesserers gilt, regelt der Text nicht. Vor der Anwendung die Kontrollstelle fragen.
 
-> **Offen:** **Aluminium-Calcium-Phosphat:** Fortbestand des Eintrags und der Bedingung „nur basische Böden (pH über 7,5)“ in der aktuellen Fassung nicht geprüft; ebenso, ob das Produkt in Österreich erhältlich ist. Der Rechtstext sagt nach meinem Kenntnisstand nicht, ob der pH in Wasser oder in CaCl₂ gemessen wird ([Grundlagen](grundlagen.md), Abschnitt 1).
+> **Offen:** **Chelate und organisch komplexierte Spurenelemente** (EDTA, EDDHA, Lignosulfonat, Citrat, Eisen-, Zink- und Mangangluconat): Einstufung durch Kontrollstellen und InfoXgen nicht geprüft (Abschnitt 5).
 
-> **Offen:** **Eisen(II)-phosphat (Vivianit)**, das in der Forschung gegen Kalkchlorose erprobt wurde: Bio-Zulässigkeit unklar ([Eisen und Kalkchlorose](eisen-chlorose.md)).
+> **Offen:** **Aluminiumcalciumphosphat:** Der Rechtstext sagt nicht, ob der pH in Wasser oder in CaCl₂ gemessen wird ([Grundlagen](grundlagen.md), Abschnitt 1). Ob das Produkt in Österreich erhältlich ist, wurde nicht geprüft.
 
-> **Offen:** **Kaliumphosphonat:** Über eine Aufnahme in den Bio-Anhang wird seit Jahren diskutiert. Status 2026 nicht geprüft.
-
-> **Offen:** **Humin- und Fulvosäuren, Muschel- und Eierschalen, Insektenkot:** Wortlaut der Einträge nicht geprüft.
-
-> **Offen:** **Weitere Änderungen des Anhangs II 2024–2026** wurden nicht eingesehen.
+> **Offen:** **Eisen(II)-phosphat (Vivianit)**, das in der Forschung gegen Kalkchlorose erprobt wurde, ist nicht namentlich gelistet. Zurückgewonnener Vivianit könnte als „gefälltes Phosphatsalz“ unter den Struvit-Eintrag fallen, wenn er als EU-Düngeprodukt die Anforderungen der CMC 12 der VO (EU) 2019/1009 erfüllt (unter anderem mindestens 16 % P₂O₅, höchstens 3 % organischer Kohlenstoff) [6]. Das ist eine Auslegung; ein solches Produkt ist nicht bekannt ([Eisen und Kalkchlorose](eisen-chlorose.md)).
 
 Stand: November 2026
 

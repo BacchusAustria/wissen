@@ -112,7 +112,7 @@ Mannoproteine, Aminosäuren und Vitamine aus der Hefe fördern Wachstum und Akti
 
 ### 2.8 Adsorption unerwünschter Stoffe – und mikrobiologische Risiken
 
-- **Ochratoxin A (OTA)**, ein Schimmelpilzgift aus faulem Lesegut: Im simulierten Rotweinausbau (2 µg/L OTA, 20 g/L Hefebiomasse, 84 Tage) entfernten Hefezellwände etwa 50 % und hitzeinaktivierte Hefezellen etwa 43 % des OTA. Die Bindung von OTA und Anthocyanen behinderte sich gegenseitig nicht [16]. Die Bindung ist stammabhängig [17]. Gerechnet: von 2 µg/L blieben etwa 1,0 bzw. 1,1 µg/L übrig. Ein Hefelager ist eine Hilfe, aber keine sichere Entgiftung; die zulässige Höchstmenge für Wein in der EU ist 2 µg/kg (VO (EU) 2023/915) [29].
+- **Ochratoxin A (OTA)**, ein Schimmelpilzgift aus faulem Lesegut: Im simulierten Rotweinausbau (2 µg/L OTA, 20 g/L Hefebiomasse, 84 Tage) entfernten Hefezellwände etwa 50 % und hitzeinaktivierte Hefezellen etwa 43 % des OTA. Die Bindung von OTA und Anthocyanen behinderte sich gegenseitig nicht [16]. Die Bindung ist stammabhängig [17]. Gerechnet: von 2 µg/L blieben etwa 1,0 bzw. 1,1 µg/L übrig. Ein Hefelager ist eine Hilfe, aber keine sichere Entgiftung; die zulässige Höchstmenge für Wein in der EU ist 2,0 µg/kg (VO (EU) 2023/915, Anhang I Nr. 1.2.20; Weine ab Lese 2005) [29].
 - **Pflanzenschutzrückstände** werden teilweise an die Hefe gebunden und mit dem Abstich entfernt [1].
 - **Flüchtige Phenole** (4-Ethylphenol, 4-Ethylguajakol, „Pferdestall“): Hefelager können sie im Modell teilweise binden [23]. Das ist kein Mittel gegen einen Brett-Fehler – im Gegenteil (nächster Punkt).
 - **Brettanomyces:** Die Autolyse liefert Nährstoffe; Guilloux-Benatier et al. fanden, dass Brettanomyces/Dekkera in Wein mit autolysierter Hefe besser wächst [22]. Rotweine mit hohem pH-Wert, wenig SO₂ und langem Hefelager im Holz sind besonders gefährdet. Siehe [Brettanomyces und Mäuselton](../weinfehler/brettanomyces-maeuselton.md).
@@ -234,13 +234,15 @@ Alle Hefepräparate unten sind nach der EU-Weinrechtsverordnung VO (EU) 2019/934
 
 | Mittel | Wirkung | Weinrecht (VO 2019/934) | Bio (DVO 2021/1165, Anh. V Teil D) | Beleglage |
 |---|---|---|---|---|
-| Mannoproteine aus Hefezellwänden | Weinstein- und Eiweißstabilität, Mundgefühl | zugelassen ‡ [27]; EU-Zulassung seit 2005 | **zu prüfen** (siehe „Offen“) | gut für den Mechanismus (MP32, Hemmung der Kristallisation) [9, 10]; Handelspräparate sehr unterschiedlich wirksam |
-| Hefezellwände (Heferinden) | Gärhilfe, Bindung von Hemmstoffen und Fettsäuren, OTA-Adsorption | zugelassen, Höchstmenge 40 g/hL ‡ [27] | **zu prüfen** | mittel [16, 17] |
-| Inaktivierte Hefen | Nährstoff, Polysaccharidquelle, Mundgefühl | zugelassen ‡ [27] | **zu prüfen** | mittel [20] |
-| Inaktivierte Hefen mit hohem Glutathiongehalt | Oxidationsschutz, Thiolerhalt | zugelassen mit Begrenzung ‡ [27] | **zu prüfen** | uneinheitlich |
-| Frische Weinhefe aus anderen Weinen | Hefelager „nachrüsten“ | zugelassen für trockene Weine, gesund, unverdünnt, aus der jüngsten Weinbereitung, höchstens 5 % des Volumens ‡ [27] | Verfahren, kein Zusatzstoff; mit Kontrollstelle klären | Praxis |
+| Mannoproteine aus Hefezellwänden | Weinstein- und Eiweißstabilität, Mundgefühl | zugelassen (Tabelle 2 Nr. 6.10, Dossier 3.3.13 von 2005) [27] | **zulässig**, ohne Bio-Bedingung [28] | gut für den Mechanismus (MP32, Hemmung der Kristallisation) [9, 10]; Handelspräparate sehr unterschiedlich wirksam |
+| Hefezellwände (Heferinden) | Gärhilfe, Bindung von Hemmstoffen und Fettsäuren, OTA-Adsorption | zugelassen (Nr. 4.7); keine Zahl in der VO 2019/934, es gilt das OIV-Dossier; die Vorgänger-VO 606/2009 nannte höchstens 40 g/hL [27, 31] | **zulässig**, ohne Bio-Bedingung [28] | mittel [16, 17] |
+| Inaktivierte Hefen | Nährstoff, Polysaccharidquelle, Mundgefühl | zugelassen (Nr. 4.8, 10.5, 11.5) [27] | **zulässig**, ohne Bio-Bedingung [28] | mittel [20] |
+| Inaktivierte Hefen mit hohem Glutathiongehalt | Oxidationsschutz, Thiolerhalt | zugelassen „nur zur alkoholischen Gärung“ (Nr. 4.9); keine Zahl in der VO, es gilt das OIV-Dossier 2.2.9 (2017) [27] | **nicht zulässig** (nicht in Teil D) [28] | uneinheitlich |
+| Frische Weinhefe aus anderen Weinen | Hefelager „nachrüsten“ | zugelassen nur in trockenen Weinen; frisch, gesund, unverdünnt, aus der jüngsten Bereitung trockener Weine, höchstens 5 % vol (Nr. 11.2 „Weinhefen“) [27] | **nur aus ökologischer/biologischer Produktion** [28] | Praxis |
 
-> **Offen:** Ob Mannoproteine, Hefezellwände und inaktivierte Hefen in der aktuell geltenden Fassung von DVO (EU) 2021/1165 Anhang V Teil D für Bio-Wein stehen und mit welchen Einschränkungen (z. B. „aus ökologischer Herstellung, soweit verfügbar“), konnte nicht am Rechtstext bestätigt werden. Die gefundenen Belege betrafen den Lebensmittelteil von Anhang V (Teil A), nicht den Weinteil. Vor dem Einsatz bei der Kontrollstelle nachfragen; Verbände (Bio Austria, Demeter, respekt-BIODYN) können strenger sein. Ebenso offen: die genaue Höchstmenge für glutathionreiche inaktivierte Hefen.
+Geprüft am Wortlaut der konsolidierten Fassungen (2019/934 Stand 29.12.2024, 2021/1165 Stand 01.01.2026) [27, 28]. Verbände (Bio Austria, Demeter, respekt-BIODYN) können strenger sein. Handelspräparate sind oft Mischungen; jeder Bestandteil muss in Teil D stehen.
+
+> **Offen:** Die OIV-Höchstmenge für glutathionreiche inaktivierte Hefen (Dossier 2.2.9) wurde nicht im OIV-Text nachgelesen.
 
 ### 5.1 Mannoproteine
 
@@ -286,8 +288,7 @@ Bei OTA-belastetem Wein (faules Lesegut, warme Jahrgänge) senken Hefezellwände
 
 - Österreichische Versuchsdaten (HBLA und Bundesamt Klosterneuburg) zu Grünem Veltliner und Riesling auf der Feinhefe fehlen; beim Bundesamt nachfragen.
 - Optimale Feinhefemenge und Rührhäufigkeit im Stillwein sind nicht durch Versuche belegt (Praxiswerte).
-- Bio-Zulässigkeit von Mannoproteinen, Hefezellwänden und inaktivierten Hefen im aktuellen Anhang V Teil D der DVO (EU) 2021/1165 bestätigen.
-- Höchstmengen und Bedingungen in VO (EU) 2019/934 (Hefezellwände 40 g/hL, frische Hefe 5 %, glutathionreiche inaktivierte Hefen) am konsolidierten Text prüfen.
+- OIV-Höchstmengen für Hefezellwände und glutathionreiche inaktivierte Hefen im aktuellen OIV-Kodex nachlesen (die VO (EU) 2019/934 verweist nur auf die Dossiers).
 
 Stand: November 2026
 
@@ -319,7 +320,8 @@ Stand: November 2026
 24. Chatonnet, P.; Dubourdieu, D.; Boidron, J.-N. (1992): Incidence des conditions de fermentation et d'élevage des vins blancs secs en barriques sur leur composition en substances cédées par le bois de chêne. Sciences des Aliments 12. [nicht online geprüft]
 25. Breier, N.: Feinhefelagerung – Kurzfassung eines Vortrags. Dienstleistungszentrum Ländlicher Raum (DLR) Rheinland-Pfalz. https://www.dlr.rlp.de/Internet/global/themen.nsf/0/a41d2053a8b6940dc125728000454493/$FILE/Kurzfassung%20Breier.pdf [online geprüft; nur Auszug]
 26. Ribéreau-Gayon, P.; Dubourdieu, D.; Donèche, B.; Lonvaud, A. (2006): Handbook of Enology, Vol. 1 und 2. 2. Aufl., Wiley, Chichester. [nicht online geprüft]
-27. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (önologische Verfahren), Anhang I Teil A. https://eur-lex.europa.eu/eli/reg_del/2019/934/oj [nicht online geprüft; konsolidierte Fassung vor Verwendung lesen]
-28. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 (zulässige Erzeugnisse und Stoffe in der ökologischen Produktion), Anhang V; konsolidierte Fassung Stand 1. 1. 2026. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2026-01-01 [online geprüft; Existenz der Fassung, Weinteil (Teil D) nicht im Wortlaut geprüft]
-29. Verordnung (EU) 2023/915 der Kommission vom 25. April 2023 über Höchstgehalte für bestimmte Kontaminanten in Lebensmitteln, Anhang I (Ochratoxin A). [nicht online geprüft]
+27. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (önologische Verfahren), Anhang I Teil A. https://eur-lex.europa.eu/eli/reg_del/2019/934/oj [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Tabelle 2 Nr. 4.7, 4.8, 4.9 („Nur zur alkoholischen Gärung“), 6.10, 10.5, 11.2 (Weinhefen ≤ 5 % vol), 11.5; keine Zahlen für Heferinden und inaktivierte Hefen]
+28. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 (zulässige Erzeugnisse und Stoffe in der ökologischen Produktion), Anhang V; konsolidierte Fassung Stand 1. 1. 2026. https://eur-lex.europa.eu/eli/reg_impl/2021/1165/2026-01-01 [online geprüft – Wortlaut von Anhang V Teil D im konsolidierten Text EUR-Lex Stand 01.01.2026: Heferinden, inaktivierte Hefen, Hefe-Mannoproteine ohne Bio-Bedingung; Weinhefen nur aus Bio-Produktion; inaktivierte glutathionreiche Hefen nicht gelistet]
+29. Verordnung (EU) 2023/915 der Kommission vom 25. April 2023 über Höchstgehalte für bestimmte Kontaminanten in Lebensmitteln, Anhang I (Ochratoxin A). https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0915 [online geprüft – Wortlaut Originalfassung EUR-Lex: Nr. 1.2.20 Wein und Fruchtwein 2,0 µg/kg, ab Lese 2005]
 30. Guilloux-Benatier, M.; Guerreau, J.; Feuillat, M. (1995): Influence of initial colloid content on yeast macromolecule production and on the metabolism of wine microorganisms. American Journal of Enology and Viticulture 46. [nicht online geprüft]
+31. Europäische Kommission (2009): Verordnung (EG) Nr. 606/2009 (önologische Verfahren), Anhang I A; aufgehoben durch VO (EU) 2019/934. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R0606-20180303 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 03.03.2018: Hefezellwände höchstens 40 g/hL]

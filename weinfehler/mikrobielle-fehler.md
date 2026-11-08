@@ -6,7 +6,7 @@
 - **Nicht hier:** Brettanomyces und Mäuselton stehen in [brettanomyces-maeuselton.md](brettanomyces-maeuselton.md), Böckser in [boeckser.md](boeckser.md), Oxidation in [oxidation.md](oxidation.md). Wie man die flüchtige Säure misst, steht in [fluechtige-saeure.md](../weinanalytik/fluechtige-saeure.md).
 - **Kernaussage:** Fast alle diese Fehler lassen sich im fertigen Wein nicht mehr beheben, vor allem nicht mit den Mitteln, die im Bio-Wein erlaubt sind. Entscheidend ist die Vorbeugung: gesundes Lesegut, zügige und vollständige Gärung, niedriger pH-Wert, ausreichend molekulare SO2, volle Behälter, kühle Lagerung und saubere Geräte.
 - **Aufwand:** Die wichtigsten Kontrollen schafft jeder Betrieb selbst: Sensorik, Dichte, Temperatur, flüchtige Säure, freie SO2 und pH. Ein Mikroskop mit 1000-facher Vergrößerung ist sehr nützlich. Biogene Amine, Ethylcarbamat, Mannit und Acrolein misst nur ein Labor.
-- **Bio:** Sorbinsäure und Lysozym sind im Bio-Wein nach Kenntnisstand nicht zugelassen. Erlaubt sind SO2 (mit niedrigeren Höchstwerten), Inertgase, Filtration mit Poren ab 0,2 µm und Wärmebehandlung bis 75 °C. Chitosan aus *Aspergillus niger* steht laut Kontrollstellen-Merkblättern in der Bio-Positivliste.
+- **Bio:** Sorbinsäure, Lysozym, Fumarsäure, DMDC und β-Glucanase stehen nicht in Anhang V Teil D der DVO (EU) 2021/1165 und sind im Bio-Wein nicht zugelassen [13]. Erlaubt sind SO2 (mit niedrigeren Höchstwerten), Inertgase, Filtration mit Poren ab 0,2 µm, Wärmebehandlung bis 75 °C [17], Chitosan aus *Aspergillus niger* und Hefezellwände [13].
 
 > **Achtung:** Grenzwerte und Zulassungen ändern sich. Vor dem Einsatz eines Mittels den aktuellen Text von VO (EU) 2019/934 und VO (EU) 2021/1165 Anhang V Teil D bei EUR-Lex nachlesen und die Kontrollstelle bzw. den Verband fragen. Eine Übersicht steht in [grenzwerte-recht.md](../weinanalytik/grenzwerte-recht.md).
 
@@ -76,18 +76,18 @@ Wie man Hefen und Bakterien unter dem Mikroskop unterscheidet, steht in [mikrobi
 |---|---|---|---|
 | SO2, Kaliumdisulfit | zulässig, Höchstwerte nach Weinart | zulässig, mit niedrigeren Höchstwerten ([bio-weinbereitung.md](../kellerwirtschaft/bio-weinbereitung.md)) | [12, 13] |
 | Inertgase (Stickstoff, CO2, Argon) | zulässig | zulässig | [13, 14] |
-| Filtration | zulässig | zulässig, Porenweite nicht unter 0,2 µm | [14, 15] |
-| Wärmebehandlung (Kurzzeiterhitzung) | zulässig | höchstens 75 °C laut österreichischem Kontrollstellen-Merkblatt 2025; ältere Merkblätter nennen 70 °C | [14, 15] |
-| Sorbinsäure / Kaliumsorbat | zulässig, höchstens 200 mg/L | nicht in der Positivliste, also nicht zulässig; die Ecovin-Richtlinie schließt sie ausdrücklich aus | [12, 16, 17] |
-| Lysozym | zulässig, höchstens 500 mg/L | nicht in der Positivliste; Ecovin schließt es ausdrücklich aus | [12, 16, 17] |
-| Chitosan aus *Aspergillus niger* | zulässig, u. a. zur Verminderung unerwünschter Mikroorganismen | laut Merkblättern und Betriebsmittelliste zulässig; Verbandsrichtlinie prüfen | [13, 18, 19] |
-| Fumarsäure (hemmt die BSA) | seit 2022 zulässig (VO (EU) 2022/68) | nicht in der Positivliste gefunden | [20] |
-| Dimethyldicarbonat (DMDC) | zulässig | nicht in der Positivliste | [12] |
-| Hefezellwände | zulässig, höchstens 40 g/hL | in der Schweizer FiBL-Liste geführt; EU-Bio-Status siehe Offen | [18] |
-| β-Glucanase | zulässig | nicht gefunden | – |
+| Filtration | zulässig | zulässig, Porenweite nicht unter 0,2 µm (VO (EU) 2018/848 Anhang II Teil VI Nr. 3.3 Buchst. b) | [14, 17] |
+| Wärmebehandlung (Kurzzeiterhitzung) | zulässig | höchstens 75 °C (Anhang II Teil VI Nr. 3.3 Buchst. a); ältere Merkblätter nach VO (EG) 889/2008 nennen 70 °C | [14, 15, 17] |
+| Sorbinsäure / Kaliumsorbat | zulässig (Tabelle 2 Nr. 2.4); höchstens 200 mg/L Sorbinsäure | nicht in Teil D, also nicht zulässig; die Ecovin-Richtlinie schließt sie ausdrücklich aus | [12, 13, 16, 56] |
+| Lysozym | zulässig (Nr. 2.5); höchstens 500 mg/L, bei Most und Wein zusammen | nicht in Teil D; Ecovin schließt es ausdrücklich aus | [12, 13, 16, 56] |
+| Chitosan aus *Aspergillus niger* | zulässig zur Klärung (Nr. 5.13) und zur Korrektur von Mängeln (Nr. 10.3); gegen unerwünschte Mikroorganismen (*Brettanomyces*) höchstens 10 g/hL | in Teil D für Nr. 5.13 und 10.3 gelistet, ohne Bio-Bedingung; Verbandsrichtlinie prüfen | [12, 13, 18, 19, 56] |
+| Fumarsäure (hemmt die BSA) | zulässig (Nr. 6.14, eingefügt durch VO (EU) 2022/68); OIV: 300–600 mg/L | nicht in Teil D, also nicht zulässig | [12, 13, 20] |
+| Dimethyldicarbonat (DMDC) | zulässig (Nr. 2.7), Eintrag ins Kellerbuch | nicht in Teil D | [12, 13] |
+| Hefezellwände (Heferinden) | zulässig (Nr. 4.7); früher höchstens 40 g/hL, heute über das OIV-Dossier | in Teil D gelistet, ohne Bio-Bedingung | [13, 18, 56] |
+| β-Glucanase | zulässig (Nr. 7.7) | nicht in Teil D (nur Enzyme zur Klärung), also nicht zulässig | [12, 13] |
 | Reinzucht-Milchsäurebakterien | zulässig | zulässig | [13] |
 
-> **Offen:** Die Zahlen 200 mg/L (Sorbinsäure), 500 mg/L (Lysozym) und 40 g/hL (Hefezellwände) stammen aus dem Fachwissen. Die Online-Recherche bestätigte die Einträge in VO (EU) 2019/934, nicht aber die Zahlen. Den Volltext von Anhang V Teil D der DVO (EU) 2021/1165 konnte ich nicht einsehen. Der Bio-Status von Hefezellwänden, β-Glucanase, DMDC und Fumarsäure ist mit der Kontrollstelle zu klären. Die Temperaturgrenze (70 oder 75 °C) weicht zwischen den Merkblättern ab; [grenzwerte-recht.md](../weinanalytik/grenzwerte-recht.md) nennt noch 70 °C.
+Die Zahlen für Sorbinsäure, Lysozym, Chitosan und Hefezellwände stehen nicht in der Tabelle der VO (EU) 2019/934 selbst; dort gelten nach Fußnote 3 die Bedingungen der OIV-Dossiers. Wörtlich standen sie in der bis 2019 geltenden VO (EG) Nr. 606/2009 [56]. [grenzwerte-recht.md](../weinanalytik/grenzwerte-recht.md) nennt noch 70 °C für die Wärmebehandlung; maßgeblich sind 75 °C [17].
 
 ---
 
@@ -150,7 +150,7 @@ Die Umrechnungen sind nachgerechnet: 18 meq/L × 0,06005 g/meq = 1,081 g/L und 2
 - **Entsäuern hilft nicht.** Calcium- und Kaliumacetat sind gut löslich und fallen nicht aus. Entsäuern senkt vor allem die Weinsäure.
 - Technische Verfahren zur Senkung der flüchtigen Säure (Membrantechnik) bieten nur spezialisierte Dienstleister an.
 
-> **Offen:** Wieweit Membranverfahren zur Senkung der flüchtigen Säure im EU-Recht geregelt und im Bio-Wein erlaubt sind, wurde nicht im Rechtstext geprüft. Vor einer Beauftragung die Kontrollstelle fragen.
+Rechtslage: Die VO (EU) 2019/934 (Anhang I Teil A Tabelle 1, Stand 29.12.2024) enthält kein Verfahren zur Senkung der flüchtigen Säure; Membranverfahren sind dort nur für andere Zwecke gelistet (Membrankopplung zur Zuckerreduktion im Most, Membrankontaktoren für gelöste Gase, Membran mit Adsorption nur gegen flüchtige Phenole) [12]. Eine Behandlung zur Entfernung von Essigsäure ist damit in der EU nicht zugelassen, im Bio-Wein erst recht nicht (Anhang II Teil VI Nr. 3.1 und 3.4 der VO (EU) 2018/848) [17]. Angebote von Dienstleistern vor einer Beauftragung von der Kontrollstelle bzw. der Bundeskellereiinspektion prüfen lassen.
 
 ---
 
@@ -388,7 +388,9 @@ Ethylcarbamat (Urethan) gilt als wahrscheinlich krebserregend. Es entsteht langs
 
 **Richtwerte:** In der EU gibt es keinen Höchstwert für Wein. Die US-Weinwirtschaft hat sich freiwillig auf höchstens 15 µg/L für Tischwein und 60 µg/L für Dessertwein verpflichtet [45]. Ein Exportmarkt verlangt höchstens 30 µg/L für Tischwein [47]; nach Fachwissen ist das Kanada.
 
-> **Offen:** Der kanadische Wert und das Enzym Urease (konventionell zur Harnstoffsenkung) wurden nicht im Rechtstext geprüft. Urease ist nach Kenntnisstand nicht in der Bio-Positivliste.
+Urease ist im EU-Weinrecht zugelassen (VO (EU) 2019/934 Anhang I Teil A Tabelle 2 Nr. 7.1; höchstens 75 mg Enzymzubereitung je Liter, höchstens 375 Einheiten/L) [12], steht aber nicht in Anhang V Teil D der DVO (EU) 2021/1165 und ist damit im Bio-Wein nicht zulässig [13].
+
+> **Offen:** Der kanadische Wert (30 µg/L) wurde nicht im Rechtstext Kanadas geprüft.
 
 ---
 
@@ -480,7 +482,7 @@ Während der Lese gibt es eine praktische Alternative: den steckenden Wein porti
 | Fässer lagern | Einschwefeln (Schwefelschnitten) oder SO2-Zitronensäure-Lösung | regelmäßig erneuern; vor dem Befüllen wässern |
 | meiden | chlorhaltige Mittel | können zu Chloranisolen (Korkton) im Keller beitragen |
 
-> **Offen:** Konzentrationen und Einwirkzeiten wurden hier nicht belegt. Maßgeblich ist die Gebrauchsanweisung des Produkts. Desinfektionsmittel müssen als Biozid für den Lebensmittelbereich zugelassen sein (VO (EU) Nr. 528/2012, Produktart 4) [53]. VO (EU) 2018/848 sieht für Reinigungs- und Desinfektionsmittel in Verarbeitungsbetrieben eigene Listen vor. Ob und welche Mittel für Bio-Weinkeller derzeit gelistet sind, konnte nicht geprüft werden. Kontrollstelle und Verband (z. B. Bio Austria) fragen.
+> **Offen:** Konzentrationen und Einwirkzeiten wurden hier nicht belegt. Maßgeblich ist die Gebrauchsanweisung des Produkts. Desinfektionsmittel müssen als Biozid für den Lebensmittelbereich zugelassen sein (VO (EU) Nr. 528/2012, Produktart 4) [53]. VO (EU) 2018/848 verlangt, dass im Bio-Weinkeller nur nach Art. 24 zugelassene Reinigungs- und Desinfektionsmittel verwendet und alle Mittel aufgezeichnet werden (Art. 24 Abs. 1 Buchst. g; Anhang II Teil VI Nr. 2.3) [17]. Die DVO (EU) 2021/1165 (Stand 01.01.2026) enthält aber noch keine Liste für Verarbeitungs- und Lagerstätten; geregelt sind dort nur Übergangsregeln für die Tierhaltung [13]. Welche Mittel die Kontrollstelle derzeit akzeptiert und ob der Verband (z. B. Bio Austria) Listen führt, dort erfragen. Weiterführend zur Kellerhygiene und zu den Weinfehlern insgesamt: das österreichische Standardwerk von Eder [55].
 
 ### Checkliste
 
@@ -521,16 +523,16 @@ Stand: November 2026
 9. Bartowsky E.J., Xia D., Gibson R.L., Fleet G.H., Henschke P.A. (2003): Spoilage of bottled red wine by acetic acid bacteria. Letters in Applied Microbiology 36(5), 307 ff. https://academic.oup.com/lambio/article-abstract/36/5/307/6704586 [online geprüft]
 10. du Toit W.J., Pretorius I.S., Lonvaud-Funel A. (2005): The effect of sulphur dioxide and oxygen on the viability and culturability of a strain of Acetobacter pasteurianus and a strain of Brettanomyces bruxellensis isolated from wine. Journal of Applied Microbiology. [nicht online geprüft]
 11. Bartowsky (2009), siehe [2]; Bauer R., Dicks L.M.T. (2004): Control of malolactic fermentation in wine. A review. South African Journal of Enology and Viticulture. [nicht online geprüft]
-12. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (önologische Verfahren), Anhang I Teil A und Teil C, konsolidierte Fassung. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0934 [online geprüft – Struktur und Einträge; Zahlenwerte nach Fachwissen, nicht online geprüft]
-13. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021, Anhang V Teil D (Bio-Wein), konsolidierte Fassung. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R1165 [online geprüft – Existenz, Chitosan gelistet; Volltext Teil D nicht eingesehen]
+12. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (önologische Verfahren), Anhang I Teil A und Teil C, konsolidierte Fassung. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0934 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Tabelle 1 (keine Senkung der flüchtigen Säure), Tabelle 2 Nr. 2.4, 2.5, 2.7, 4.7, 5.13, 6.14, 7.1, 7.7, 10.3, Fußnote 3; Teil C 18/20 meq/L]
+13. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021, Anhang V Teil D (Bio-Wein), konsolidierte Fassung. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R1165 [online geprüft – Wortlaut von Anhang V Teil D im konsolidierten Text EUR-Lex Stand 01.01.2026: Chitosan aus *A. niger* (Nr. 5.13, 10.3), Heferinden, Milchsäurebakterien gelistet; Sorbat, Lysozym, DMDC, Fumarsäure, β-Glucanase, Urease nicht gelistet; keine Liste für Reinigungsmittel]
 14. Bio Garantie (2025): INFO-Blatt Bio-Wein. https://www.bio-garantie.at/docs/transfer/2000737.pdf – Wärmebehandlung höchstens 75 °C, Filtration nicht unter 0,2 µm. [online geprüft]
 15. GfRS (2020): Merkblatt für die ökologische Weinbereitung, gültig ab 07.01.2020. https://www.gfrs.de/fileadmin/files/Merkblatt_Herstellung_von_Bio_Wein_ab_07.01.2020.pdf – nennt noch 70 °C. [online geprüft]
 16. Ecovin (2019): Richtlinien, 14. Fassung. https://www.ecovin.de/wp-content/uploads/2020/03/Richtlinien_2019_14.Fassung.pdf – Sorbinsäure, Lysozym, PVPP, Kaliumhexacyanoferrat(II) nicht erlaubt. [online geprüft]
-17. Verordnung (EU) 2018/848 über die ökologische/biologische Produktion, Anhang II Teil VI. [nicht online geprüft]
+17. Verordnung (EU) 2018/848 über die ökologische/biologische Produktion, Art. 24 und Anhang II Teil VI. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018R0848 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 25.03.2025: Nr. 2.3, 3.1, 3.3 Buchst. a (75 °C) und b (0,2 µm), 3.4; Art. 24 Abs. 1 Buchst. g]
 18. FiBL (2026): Betriebsmittelliste Weinbereitung (Schweiz), Verzeichnis 2026. https://www.fibl.org/fileadmin/documents/shop/1488-bml-weinbereitung.pdf [online geprüft]
-19. siehe [13] und [15]; Chitosan aus *Aspergillus niger* in den Kontrollstellenlisten.
+19. Verweis auf [13] und [15]: Chitosan aus *Aspergillus niger* in Anhang V Teil D und in den Kontrollstellenlisten. [online geprüft – siehe Prüfvermerke bei [13] und [15]]
 20. Delegierte Verordnung (EU) 2022/68 der Kommission (Änderung von 2019/934, Fumarsäure nach Resolution OIV-OENO 581A-2021). https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0068 [online geprüft]
-21. Siehe [fluechtige-saeure.md](../weinanalytik/fluechtige-saeure.md) für die österreichischen Ausnahmewerte.
+21. Verweis auf [fluechtige-saeure.md](../weinanalytik/fluechtige-saeure.md) für die österreichischen Ausnahmewerte; die EU-Grundlage für Ausnahmen steht in VO (EU) 2019/934 Anhang I Teil C Nr. 3. [online geprüft – Teil C Nr. 3 im konsolidierten Text EUR-Lex Stand 29.12.2024; österreichische Werte siehe Prüfvermerke dort]
 22. Guth H. (1997): Quantitation and sensory studies of character impact odorants of different white wine varieties. Journal of Agricultural and Food Chemistry. [nicht online geprüft]
 23. UC Davis, Department of Viticulture and Enology (o. J.): Fermentation Management Guides – Off Characters / Diagnostic Key: Esters. https://wineserver.ucdavis.edu/industry-info/enology/fermentation-management-guides/wine-fermentation/characters – Ethylacetat über 90 mg/L fehlerhaft; *Hanseniaspora*; Kaltmazeration abbrechen. [online geprüft]
 24. Lambrechts M.G., Pretorius I.S. (2000): Yeast and its importance to wine aroma – a review. South African Journal of Enology and Viticulture. [nicht online geprüft; zitiert in 25]
@@ -540,14 +542,14 @@ Stand: November 2026
 28. Siehe [4] und [6]; Sponholz W.R. (1993): Wine spoilage by microorganisms. In: Fleet G.H. (Hrsg.): Wine Microbiology and Biotechnology. Harwood Academic Publishers. [nicht online geprüft]
 29. Huang Y.C., Edwards C.G., Peterson J.C., Haag K.M. (1996): Relationship between sluggish fermentations and the antagonism of yeast by lactic acid bacteria. American Journal of Enology and Viticulture. [nicht online geprüft]
 30. Jussier D., Dubé Morneau A., Mira de Orduña R. (2006): Effect of simultaneous inoculation with yeast and bacteria on fermentation kinetics and key wine parameters of cool-climate Chardonnay. Applied and Environmental Microbiology. [nicht online geprüft]
-31. Bauer R., Dicks L.M.T. (2004), siehe [11].
+31. Bauer R., Dicks L.M.T. (2004): Control of malolactic fermentation in wine. A review. South African Journal of Enology and Viticulture (Dublette, auch unter [11]). [nicht online geprüft – wie [11]]
 32. Walling E., Gindreau E., Lonvaud-Funel A. (2005): A putative glucan synthase gene dps detected in exopolysaccharide-producing Pediococcus damnosus and Oenococcus oeni strains isolated from wine and cider. International Journal of Food Microbiology. https://www.sciencedirect.com/science/article/abs/pii/S016816050400279X [online geprüft]
 33. Dols-Lafargue M., Lee H.Y. et al. (2008): Characterization of gtf, a glucosyltransferase gene in the genomes of Pediococcus parvulus and Oenococcus oeni, two bacterial species commonly found in wine. Applied and Environmental Microbiology. https://doi.org/10.1128/AEM.00673-08 [online geprüft]
 34. Dimopoulou M. et al. (2014): Exopolysaccharide (EPS) synthesis by Oenococcus oeni: from genes to phenotypes. PLoS ONE 9(6), e98898. https://doi.org/10.1371/journal.pone.0098898 [online geprüft]
 35. Coulon J. et al. (2012): Lysozyme resistance of the ropy strain Pediococcus parvulus IOEB 8801 is correlated with beta-glucan accumulation around the cell. International Journal of Food Microbiology. https://www.researchgate.net/publication/230781097 [online geprüft – Titel; Autoren und Jahr nach Fachwissen]
 36. Bauer R., Cowan D.A., Crouch A. (2010): Acrolein in wine: importance of 3-hydroxypropionaldehyde and derivatives in production and detection. Journal of Agricultural and Food Chemistry. https://www.researchgate.net/publication/41654362 [online geprüft – Titel und Inhalt der Kurzfassung]
 37. Bauer R. (o. J.): Acrolein in wine: bacterial origin and analytical detection. Abschlussarbeit, Stellenbosch University. https://scholar.sun.ac.za/server/api/core/bitstreams/914d7bfd-f169-4ac4-89e2-5abcc5a3bc92/content [online geprüft]
-38. Sponholz (1993), siehe [28].
+38. Sponholz W.R. (1993): Wine spoilage by microorganisms. In: Fleet G.H. (Hrsg.): Wine Microbiology and Biotechnology. Harwood Academic Publishers (auch unter [28]). [nicht online geprüft – wie [28]]
 39. Crowell E.A., Guymon J.F. (1975): Wine constituents arising from sorbic acid addition, and identification of 2-ethoxyhexa-3,5-diene as source of geranium-like off-odor. American Journal of Enology and Viticulture 26, 97–102. [online geprüft]
 40. AWRI (o. J.): Wine flavours, faults and taints – Geranium. https://www.awri.com.au/industry_support/winemaking_resources/sensory_assessment/recognition-of-wine-faults-and-taints/wine_faults/ – Mechanismus, *O. oeni*, Schwelle unter 1 ng/L nach Chisholm & Samuels (1992). [online geprüft]
 41. Virginia Tech, Enology (o. J.): Controlling microbial growth in wine, Section 2: Sorbic acid. https://enology.fst.vt.edu/downloads/wm_issues/Wine%20Microbiology/Micro2.pdf [online geprüft]
@@ -565,3 +567,4 @@ Stand: November 2026
 53. Verordnung (EU) Nr. 528/2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten. [nicht online geprüft]
 54. Verordnung (EG) Nr. 852/2004 über Lebensmittelhygiene. [nicht online geprüft]
 55. Eder R. u. a. (2000/2003): Weinfehler. Erkennen – Vermeiden – Beheben. Ulmer, Stuttgart (ISBN 978-3-8001-3535-6) bzw. Österreichischer Agrarverlag, Leopoldsdorf (ISBN 3-7040-1957-7). [nicht online geprüft – bibliografische Angaben online bestätigt, Inhalt nicht eingesehen; österreichisches Standardwerk zum Nachlesen]
+56. Europäische Kommission (2009): Verordnung (EG) Nr. 606/2009 (önologische Verfahren), Anhang I A und Anlage 13; aufgehoben durch VO (EU) 2019/934. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R0606-20180303 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 03.03.2018: Sorbinsäure 200 mg/L, Lysozym 500 mg/L (Most und Wein zusammen), Hefezellwände 40 g/hL, Chitosan gegen *Brettanomyces* 10 g/hL]

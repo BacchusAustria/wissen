@@ -55,7 +55,7 @@ Hinweise zur Tabelle:
 - Die Werte von Goniak und Noble stammen aus Weißwein [3]. Für Rotwein gibt es für Ethanthiol und die Disulfide kaum Vergleichswerte.
 - Dimethylsulfid ist nicht immer ein Fehler. In Syrah und Grenache trägt es in geringer Menge zu fruchtigen Noten bei [20].
 
-> **Offen:** Für Methyl- und Ethylthioacetat konnten keine belastbaren Geruchsschwellen geprüft werden. Wichtig sind sie vor allem als Vorstufen von Thiolen.
+> **Offen:** Für S-Methyl- und S-Ethylthioacetat wurde auch in einer Nachrecherche (November 2026) keine in Wein bestimmte Geruchsschwelle gefunden; online fanden sich nur Stoffdatenbanken ohne Weinbezug. Eine Schwellentabelle mit Thioacetaten soll in der Übersicht [2] stehen, wurde aber nicht im Volltext gesehen. Wichtig sind die Thioacetate vor allem als Vorstufen von Thiolen.
 
 ### 1.3 Reduktion als Stilmittel oder als Fehler
 
@@ -412,14 +412,14 @@ Inertgas treibt freien H₂S und freie Thiole rasch aus. Die Wirkung hielt im Ve
   - Kupfer beschleunigt Oxidationen [33].
   - Kupfer bindet auch erwünschte Sortenthiole (Thiole reagieren allgemein mit Kupfer [33]).
   - Bei zu hoher Dosis Bitterton und erhöhter Kupfergehalt [46].
-- **Bio:** nicht zulässig. Kupfersulfat war im Bio-Wein nur bis 31. Juli 2015 erlaubt [51].
+- **Bio:** nicht zulässig; Kupfersulfat steht nicht in Anhang V Teil D [12]. Laut Kontrollstellen-Merkblatt war es im Bio-Wein bis 31. Juli 2015 erlaubt [51].
 - **Durchführung:** Abgewogenes Salz in wenig Wasser lösen (oder Lösung A verwenden), unter Rühren gleichmäßig einmischen. Nach 1 bis 2 Tagen verkosten. Nach etwa einer Woche filtrieren, Kupfer messen lassen, füllen.
 
 ### 5.5 Kupfercitrat (im Bio-Wein zulässig)
 
 - **Form:** Kupfercitrat (CAS 866-82-0) ist auf einem Träger, meist Bentonit, im Handel. In der EU zur Böckserbehandlung seit 1. August 2009 zugelassen [47].
 - **Recht:** höchstens 1 g/hL; Kupfergehalt des Weins höchstens 1 mg/L [11]. Der kolloidale Kupferniederschlag ist durch Filtration aus dem Wein zu entfernen [44].
-- **Bio:** zulässig [12, 52, 53]. Verbandsrichtlinien prüfen.
+- **Bio:** zulässig, ohne zusätzliche Bio-Bedingung [12, 52, 53]. Verbandsrichtlinien prüfen.
 - **Wirkung:** wie Kupfersulfat nur auf H₂S und Thiole. In Vorversuchen reichte eine um 30 bis 50 % geringere Kupfercitrat-Dosage als bei Kupfersulfat [54]; beim Kupfersulfat stiegen Kupfergehalt und Bitterton [46].
 - **Durchführung:** Dosis aus dem Vorversuch mit dem Präparat (4.2, Teil B) und der Formel in 4.2. Präparat nach Herstellerangabe einrühren, absetzen lassen, abziehen, filtrieren. Kupfer messen lassen.
 
@@ -433,27 +433,28 @@ Inertgas treibt freien H₂S und freie Thiole rasch aus. Die Wirkung hielt im Ve
   - Ascorbinsäure kann bei zu wenig freier SO₂ zusammen mit Kupfer und Eisen die Oxidation fördern (Bildung von Wasserstoffperoxid) und zur Bräunung beitragen [55].
   - Reduktionsmittel, vor allem SO₂, setzen aus Polysulfanen H₂S frei [16]. Die Behandlung kann also neuen Böckser nachliefern.
   - Sie ist die Kombination zweier Eingriffe mit jeweils eigenen Grenzwerten.
-- **Recht:** Ascorbinsäure höchstens 250 mg/L [11]. Kupfer wie oben.
+- **Recht:** Ascorbinsäure höchstens 250 mg/L im Wein. Die VO (EU) 2019/934 nennt dafür keine eigene Zahl, sondern verweist auf das OIV-Dossier [11]; die Zahl stand ausdrücklich in der Vorgänger-VO 606/2009 [60]. Kupfer wie oben.
 - **Bio:** Ascorbinsäure ist zulässig [12], Kupfer nur als Kupfercitrat.
 - **Empfehlung:** Nur nach erfolgreichem Vorversuch über mehrere Tage, mit ausreichender freier SO₂ und mit Kupfermessung. Bei kleinen Partien ist ein Verschnitt (5.9) oft die bessere Lösung.
 
 ### 5.7 Silberchlorid (nicht im Bio-Wein)
 
 - **Prinzip:** Silberchlorid auf einem inerten Träger bindet H₂S und Thiole als schwer lösliche Silberverbindungen. Es ist seit den 1960er-Jahren bekannt [56].
-- **Recht:** höchstens 1 g/hL; der Silbergehalt im Wein muss unter 0,1 mg/L bleiben [56].
+- **Recht:** Für Traubenwein in der EU **nicht zugelassen.** Die geltende VO (EU) 2019/934 (konsolidiert, Stand 29.12.2024) enthält Silberchlorid nicht [11]. Die bis 2019 geltende VO 606/2009 führte es noch (Anhang I A Nr. 55: höchstens 1 g/hL, Silberrückstand unter 0,1 mg/L; Anlage 21) [56, 60]. Das EU-Weinrecht ist für Traubenwein abschließend (Art. 80 VO (EU) 1308/2013). Die österreichische Regelung mit 5 g/hL gegen Schwefel- und Mercaptanböckser betrifft nach dem Suchauszug der Obstweinverordnung (§ 11) **Obstwein** [57, 58]; das passt zum Vermerk „nur in Obstwein“ des Bundesamts für Weinbau [58].
 - **Wirkung:** Weder Kupfer- noch Silbersalze allein entfernten in einer Untersuchung die Böckserstoffe vollständig [47].
-- **Bio:** nach Kenntnisstand nicht in Anhang V Teil D der VO (EU) 2021/1165 enthalten, also nicht zulässig.
+- **Bio:** nicht in Anhang V Teil D der VO (EU) 2021/1165 [12], also nicht zulässig.
 
-> **Offen:** Die Angaben zu Silberchlorid wurden nicht im EU-Rechtstext selbst geprüft. Für Österreich ist die Lage unklar: Die Weinverordnung (RIS, Fassung Oktober 2025) erwähnt Silberchlorid gegen Schwefel- und Mercaptanböckser mit 5 g/hL [57]; die Liste des Bundesamts für Weinbau vermerkt „nur in Obstwein“ [58]. In älteren Sekundärquellen steht, Silberchlorid sei in Österreich seit 2001 verboten; eine Primärquelle dafür wurde nicht gefunden. Vor jeder Anwendung bei Traubenwein die Bundeskellereiinspektion oder das Bundesamt für Weinbau fragen.
+> **Offen:** Die österreichische Fundstelle (Weinverordnung bzw. Obstweinverordnung, § 11) wurde nur als Suchauszug gesehen; der aktuelle Wortlaut im RIS ist nicht eingesehen. Für Traubenwein ändert das nichts, weil das EU-Recht Silberchlorid nicht mehr zulässt.
 
 ### 5.8 Hefezellwände, inaktivierte Hefen, frische Hefe
 
 - Hefe kann flüchtige Thiole binden [38]. Daraus leitet sich der Einsatz von Hefezellwänden oder frischer Hefe gegen leichte Böckser ab.
 - **Beleglage:** schwach; keine geprüften Praxisversuche mit Dosis-Wirkungs-Angaben gefunden.
-- **Recht:** Hefezellwände und die Verwendung frischer Hefe sind in der EU geregelt [11]; Höchstmengen in [Grenzwerte und Recht](../weinanalytik/grenzwerte-recht.md) nachsehen.
+- **Recht:** Heferinden (Hefezellwände, VO (EU) 2019/934 Anhang I Teil A Tabelle 2 Nr. 4.7) und inaktivierte Hefen (Nr. 4.8, 10.5, 11.5) sind zugelassen; eine Zahl nennt die Verordnung nicht, es gelten die OIV-Dossiers [11]. Die Vorgänger-VO 606/2009 nannte für Hefezellwände höchstens 40 g/hL [60]. Frische Weinhefe (Nr. 11.2): nur in trockenen Weinen, frisch, gesund, unverdünnt, aus der jüngsten Bereitung trockener Weine, höchstens 5 % vol [11].
+- **Bio:** Heferinden und inaktivierte Hefen stehen ohne Bio-Bedingung in Anhang V Teil D; frische Weinhefe (Weinhefen) **nur aus ökologischer/biologischer Produktion** [12]. Glutathionreiche inaktivierte Hefen (Nr. 4.9) stehen nicht in Teil D.
 - Im Handel gibt es Hefepräparate gegen Reduktionstöne, zum Teil mit Kupfer. Kupfergehalt beim Lieferanten erfragen und in die Summenkontrolle (4.2) einrechnen.
 
-> **Offen:** Ob Hefezellwände und inaktivierte Hefen im Bio-Wein zulässig sind, konnte nicht geklärt werden. Sie wurden in den geprüften Auszügen von Anhang V Teil D nicht gefunden. Die Liste wird regelmäßig geändert; ein Info-Blatt einer österreichischen Kontrollstelle verweist zusätzlich auf die VO (EU) 2025/405 [59]. Vor Verwendung die Kontrollstelle fragen.
+Hinweis: Die Liste wird regelmäßig geändert; ein Info-Blatt einer österreichischen Kontrollstelle verweist zusätzlich auf die VO (EU) 2025/405 (Entalkoholisierung) [59]. Bei Mischpräparaten (z. B. Hefezellwände mit Kupfer) muss jeder Bestandteil gelistet sein.
 
 ### 5.9 Verschnitt
 
@@ -470,10 +471,10 @@ Inertgas treibt freien H₂S und freie Thiole rasch aus. Die Wirkung hielt im Ve
 | Kupfersulfat | H₂S, Thiole | 1 g/hL; Rest-Cu ≤ 1 mg/L | nein | Kupferbruch, Rückkehr in der Flasche |
 | Kupfercitrat | H₂S, Thiole | 1 g/hL; Rest-Cu ≤ 1 mg/L; Filtration | ja | wie Kupfersulfat |
 | Ascorbinsäure + SO₂ + Kupfer | Disulfide (unsicher) | Ascorbinsäure 250 mg/L | ja (mit Kupfercitrat) | Oxidation, Nachlieferung von H₂S |
-| Silberchlorid | H₂S, Thiole | 1 g/hL; Ag < 0,1 mg/L | nein | Rechtslage in Österreich unklar |
-| Hefezellwände, frische Hefe | Thiole (schwach belegt) | siehe Grenzwerte | unklar | geringe Wirkung |
+| Silberchlorid | H₂S, Thiole | in der EU für Traubenwein nicht mehr zugelassen (bis 2019: 1 g/hL; Ag < 0,1 mg/L) | nein | – |
+| Hefezellwände, frische Hefe | Thiole (schwach belegt) | Hefezellwände nach OIV (früher 40 g/hL); frische Hefe ≤ 5 % vol, nur trockene Weine | ja (frische Hefe nur Bio) | geringe Wirkung |
 | Verschnitt | alles, durch Verdünnung | Bezeichnungsrecht | ja (Bio mit Bio) | Vorstufen bleiben |
-| PVI/PVP (Polyvinylimidazol-Polyvinylpyrrolidon) | Kupfer samt gebundenem Schwefel [49] | siehe Grenzwerte | nach Kenntnisstand nein | Kosten |
+| PVI/PVP (Polyvinylimidazol-Polyvinylpyrrolidon) | Kupfer samt gebundenem Schwefel [49] | zugelassen; Behandlung durch Önologen bzw. Fachtechniker [11] | nein (nicht in Teil D) [12] | Kosten |
 
 ## 6. Symptom – Ursache – Sofortmaßnahme – Vorbeugung
 
@@ -531,13 +532,13 @@ Stand: November 2026
 3. Goniak, O. J.; Noble, A. C. (1987): Sensory study of selected volatile sulfur compounds in white wine. American Journal of Enology and Viticulture 38(3), 223–227. https://www.ajevonline.org/content/38/3/223 [online geprüft]
 4. Bell, S.-J.; Henschke, P. A. (2005): Implications of nitrogen nutrition for grapes, fermentation and wine. Australian Journal of Grape and Wine Research 11, 242–295. [nicht online geprüft]
 5. Linderholm, A.; Dietzel, K.; Hirst, M.; Bisson, L. F. (2010): Identification of MET10-932 and characterization as an allele reducing hydrogen sulfide formation in wine strains of Saccharomyces cerevisiae. Applied and Environmental Microbiology 76(23). DOI 10.1128/AEM.01666-10. [online geprüft]
-6. Kwasniewski, M. T.; Sacks, G. L.; Wilcox, W. F. (2014): Persistence of elemental sulfur spray residue on grapes during ripening and vinification. American Journal of Enology and Viticulture 65(4), 453–462. DOI 10.5344/ajev.2014.14027. [online geprüft – Kurzfassung und Auszüge]
+6. Kwasniewski, M. T.; Sacks, G. L.; Wilcox, W. F. (2014): Persistence of elemental sulfur spray residue on grapes during ripening and vinification. American Journal of Enology and Viticulture 65(4), 453–462. DOI 10.5344/ajev.2014.14027. [online geprüft – Kurzfassung (November 2026 erneut): Rückstände in Rotweingärungen können bei Spritzungen innerhalb von acht Wochen vor der Lese den mit erhöhter H₂S-Bildung verbundenen Bereich überschreiten, im Weißwein geringe Bedeutung; Wert 10 µg/g nur über Sekundärquelle (Wineland) bestätigt]
 7. Kreitman, G. Y.; Danilewicz, J. C.; Jeffery, D. W.; Elias, R. J. (2017): Copper(II)-mediated hydrogen sulfide and thiol oxidation to disulfides and organic polysulfanes and their reductive cleavage in wine: mechanistic elucidation and potential applications. Journal of Agricultural and Food Chemistry 65. DOI 10.1021/acs.jafc.6b05418. [online geprüft – Kurzfassung]
 8. Ugliano, M.; Kwiatkowski, M.; Vidal, S.; Capone, D.; Siebert, T.; Dieval, J.-B.; Aagaard, O.; Waters, E. J. (2011): Evolution of 3-mercaptohexanol, hydrogen sulfide, and methyl mercaptan during bottle storage of Sauvignon blanc wines. Effect of glutathione, copper, oxygen exposure, and closure-derived oxygen. Journal of Agricultural and Food Chemistry 59. DOI 10.1021/jf1043585. [online geprüft – Kurzfassung; Autorenliste aus Fachwissen]
 9. Ugliano, M.; Fedrizzi, B.; Siebert, T.; Travis, B.; Magno, F.; Versini, G.; Henschke, P. A. (2009): Effect of nitrogen supplementation and Saccharomyces species on hydrogen sulfide and other volatile sulfur compounds in Shiraz fermentation and wine. Journal of Agricultural and Food Chemistry 57(11), 4948–4955. DOI 10.1021/jf8037693. [online geprüft – Kurzfassung]
 10. The Australian Wine Research Institute (o. J.): Copper – frequently asked questions. https://www.awri.com.au/industry_support/winemaking_resources/frequently_asked_questions/copper/ [online geprüft – Suchauszug]
-11. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (zugelassene önologische Verfahren), ABl. L 149 vom 7.6.2019, Anhang I Teil A. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0934 [online geprüft nur für Kupfersulfat-Pentahydrat und Kupfercitrat (1 g/hL; Kupfer im Wein ≤ 1 mg/L, bestimmte Likörweine 2 mg/L). Die Werte für Ascorbinsäure (250 mg/L), DAP (1 g/L), Hefezellwände und frische Hefe sind nicht online geprüft; konsolidierte Fassung nachlesen]
-12. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 (zugelassene Erzeugnisse und Stoffe für die ökologische Produktion), ABl. L 253 (2021), Anhang V Teil D; konsolidierte Fassung https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02021R1165-20231115 [online geprüft nur für Kupfercitrat (CAS 866-82-0); übrige Einträge (Luft, Sauerstoff, Inertgase, DAP, Thiamin, Ascorbinsäure, pektolytische Enzyme, Bio-Hefe) aus Fachwissen – aktuelle Fassung prüfen]
+11. Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 (zugelassene önologische Verfahren), ABl. L 149 vom 7.6.2019, Anhang I Teil A. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0934 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Kupfersulfat-Pentahydrat Nr. 10.1 und Kupfercitrat Nr. 10.2 (1 g/hL; Kupfer im Wein ≤ 1 mg/L, bestimmte Likörweine 2 mg/L), DAP 1 g/L, frische Weinhefe ≤ 5 % vol, Heferinden und inaktivierte Hefen ohne eigene Zahl, Ascorbinsäure ohne eigene Zahl (OIV-Dossiers), Silberchlorid nicht enthalten]
+12. Durchführungsverordnung (EU) 2021/1165 der Kommission vom 15. Juli 2021 (zugelassene Erzeugnisse und Stoffe für die ökologische Produktion), ABl. L 253 (2021), Anhang V Teil D; konsolidierte Fassung https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02021R1165-20231115 [online geprüft – Wortlaut von Anhang V Teil D im konsolidierten Text EUR-Lex Stand 01.01.2026: Luft, Sauerstoff, Inertgase, DAP, Thiamin, L-Ascorbinsäure, pektolytische Enzyme nur zur Klärung, Hefen „wenn verfügbar“ Bio, Heferinden, inaktivierte Hefen, Kupfercitrat (CAS 866-82-0), Weinhefen nur aus Bio; nicht enthalten: Kupfersulfat, Silberchlorid, PVI/PVP]
 13. Müller, N.; Rauhut, D. (2018): Recent developments on the origin and nature of reductive sulfurous off-odours in wine. Fermentation 4(3), 62. https://www.mdpi.com/2311-5637/4/3/62 [online geprüft – Titel; Autoren aus Fachwissen]
 14. LVWO Weinsberg (o. J.): Der Böckser – ein abstoßender Weinfehler. Infodienst Landwirtschaft Baden-Württemberg. https://lvwo.landwirtschaft-bw.de/,Lde/Startseite/Fachinformationen/Der+Boeckser+ein+abstossender+Weinfehler [online geprüft – Suchauszug]
 15. The Australian Wine Research Institute (o. J.): Removal of volatile sulfur compounds. https://www.awri.com.au/industry_support/winemaking_resources/storage-and-packaging/pre-packaging-preparation/removal-volatile-sulfur-compounds/ [online geprüft – Suchauszug]
@@ -582,6 +583,7 @@ Stand: November 2026
 54. Görtges, S. (o. J., vermutlich 2001): Weinbehandlung mit Kupfercitrat. Online u. a. als ALVA-Tagungsbeitrag: http://www.alva.at/images/Publikationen/alva2001/goertges.pdf [online geprüft – nur Suchauszug; bibliografische Angaben vor Verwendung prüfen]
 55. Bradshaw, M. P.; Barril, C.; Clark, A. C.; Prenzler, P. D.; Scollary, G. R. (2011): Ascorbic acid: a review of its chemistry and reactivity in relation to a wine environment. Critical Reviews in Food Science and Nutrition 51. [nicht online geprüft]
 56. LW – Landwirtschaftliches Wochenblatt (2016): Altes und Neues zu Schwefel und Kupfer. Heft 41/2016, S. 36. https://www.lw-heute.de/mediaarchiv/grab_pic.php?id=35125 [online geprüft – Suchauszug; Fachpresse, Autor vor Verwendung ergänzen]
-57. Weinverordnung (Österreich), Bundesrecht konsolidiert, Fassung vom 14.10.2025, RIS Gesetzesnummer 10010710. https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010710 [online geprüft – nur Suchauszug; Geltungsbereich der Silberchlorid-Regel nicht geklärt]
+57. Weinverordnung (Österreich), Bundesrecht konsolidiert, Fassung vom 14.10.2025, RIS Gesetzesnummer 10010710. https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010710 [online geprüft – nur Suchauszug; Nachrecherche November 2026: die Regel „Silberchlorid … zur Beseitigung von Schwefel- und Mercaptanböcksern des Obstweines, Höchstmenge 5 g/hL“ erscheint als § 11 der Obstweinverordnung (jusline, Fassung nicht datiert); eine Regel für Traubenwein stand in der Weinverordnung 1992 (VwGH 93/10/0216); aktueller RIS-Wortlaut nicht eingesehen]
 58. Bundesamt für Weinbau, Eisenstadt (o. J.): In Österreich offiziell gemeldete Weinbehandlungsmittel. https://www.bawb.at/images/pdf/weinbeha/weinbeh.pdf [online geprüft – Suchauszug]
 59. Bio-Garantie (2025): Info-Blatt Bio-Wein (Stand 07.03.2025). https://www.bio-garantie.at/docs/transfer/2000737.pdf [online geprüft – Suchauszug; Inhalt der darin genannten VO (EU) 2025/405 nicht geprüft]
+60. Europäische Kommission (2009): Verordnung (EG) Nr. 606/2009 (önologische Verfahren), Anhang I A und Anlage 21; aufgehoben durch VO (EU) 2019/934. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02009R0606-20180303 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 03.03.2018: Nr. 55 Silberchlorid 1 g/hL, Ag < 0,1 mg/L; Ascorbinsäure 250 mg/L; Hefezellwände 40 g/hL]

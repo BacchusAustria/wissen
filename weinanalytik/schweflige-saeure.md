@@ -381,7 +381,7 @@ Natronlauge 0,01 mol/L nimmt Kohlendioxid aus der Luft auf. Flasche geschlossen 
 8. Mit Natronlauge 0,01 mol/L bis zum selben Olivgrün wie in Schritt 2 titrieren. Verbrauch V notieren.
 9. Gelegentlich einen Blindversuch mit Wasser statt Wein fahren. Der Verbrauch sollte unter 0,05 mL liegen.
 
-> **Offen:** Durchflussrate und Austreibdauer der aktuellen OIV-Fassung (04A1) wurden online nicht im Wortlaut gesehen. Die Angaben 1 L/min und 15 Minuten entsprechen der verbreiteten Praxis nach AWRI und Iland et al. [5, 17]. Vor der Einführung im Betrieb mit dem OIV-Text abgleichen.
+> **Offen:** Die ältere, im Amtsblatt veröffentlichte Fassung der OIV-Referenzmethode (Mitteilung der Kommission, ABl. C 43 vom 19.2.2010, Kapitel 24) nennt einen Gasstrom von etwa 40 L/h (≈ 0,7 L/min), einen Unterdruck von 20–30 cm Wassersäule und 15 Minuten Austreiben, für die freie SO2 bei 50 mL Probe mit 15 mL Phosphorsäure 85 % [32]. Die 15 Minuten sind damit belegt; 1 L/min entspricht der Praxis nach AWRI und Iland et al. [5, 17]. Den Wortlaut der aktuellen Fassung OIV-MA-AS323-04A1 (Durchfluss, Säurekonzentration) vor der Einführung im Betrieb noch abgleichen.
 
 ### 4.5 Durchführung: gesamte SO2
 
@@ -541,7 +541,7 @@ Die ausführliche Übersicht mit Fundstellen steht in [Grenzwerte und Recht](gre
 
 ### 7.1 Höchstwerte für Gesamt-SO2 (EU)
 
-Fundstelle: Delegierte Verordnung (EU) 2019/934, Anhang I Teil B [25]. Die Werte gelten für Wein bei der Abgabe an den Verbraucher. „Restzucker“ bedeutet hier die Summe aus Glucose und Fructose.
+Fundstelle: Delegierte Verordnung (EU) 2019/934, Anhang I Teil B, konsolidierte Fassung Stand 29.12.2024 [25]. Die Werte gelten zum Zeitpunkt des Inverkehrbringens zum unmittelbaren menschlichen Verbrauch. „Restzucker“ bedeutet hier die Summe aus Glucose und Fructose. Die Bio-Werte folgen aus der Regel in Kapitel 7.2.
 
 | Erzeugnis | Restzucker | Höchstwert konventionell | Höchstwert Bio (EU) |
 |---|---|---|---|
@@ -556,10 +556,14 @@ Fundstelle: Delegierte Verordnung (EU) 2019/934, Anhang I Teil B [25]. Die Werte
 | Beerenauslese, Ausbruch, Trockenbeerenauslese, Strohwein, Schilfwein, Eiswein (g. U.) | ab 5 g/L | 400 mg/L | 370 mg/L |
 | Qualitätsschaumwein | – | 185 mg/L | 155 mg/L |
 | sonstiger Schaumwein | – | 235 mg/L | 205 mg/L |
+| Likörwein | unter 5 g/L | 150 mg/L | 120 mg/L |
+| Likörwein | ab 5 g/L | 200 mg/L | 170 mg/L |
 
 (g. U. = geschützte Ursprungsbezeichnung)
 
-> **Offen:** Die Werte stammen aus dem Fachwissen und wurden in dieser Runde nicht gegen den Verordnungstext geprüft. Zu prüfen sind: alle Zahlen, die Bedingung „ab 5 g/L Restzucker“ für die Prädikatswerte, die Werte für Schaum- und Likörwein und die Bio-Werte für Schaumwein. Die Bio-Werte sind aus der Regel in Kapitel 7.2 abgeleitet. Außerdem fehlt die Regel, nach der in Jahren mit ungünstiger Witterung höhere Werte erlaubt werden können.
+Alle Zahlen sind gegen den konsolidierten Text geprüft [25]. Die Prädikatswerte stehen in Teil B Abschnitt A Nr. 2 Buchst. c bis e, also unter der Bedingung „Zuckergehalt von 5 g/L oder mehr“. Die Liste in Buchst. e nennt auch „Ausbruchwein“.
+
+**Ausnahmen bei ungünstiger Witterung:** In Jahren, in denen die Witterung es ausnahmsweise erfordert, können die Mitgliedstaaten für Weine bestimmter Flächen zulassen, dass Höchstwerte unter 300 mg/L um höchstens 50 mg/L erhöht werden (Teil B Abschnitt A Nr. 4). Für Schaumweine ist eine Erhöhung um höchstens 40 mg/L möglich, wenn die Weine den Mitgliedstaat nicht verlassen (Abschnitt C Nr. 2). Die Mitgliedstaaten dürfen auch strengere Werte festlegen (Abschnitt A Nr. 5) [25].
 
 Weitere Hinweise:
 
@@ -569,15 +573,15 @@ Weitere Hinweise:
 
 ### 7.2 Bio-Wein
 
-Nach EU-Bio-Recht [26] gilt nach dem Stand des Verfassers:
+Nach DVO (EU) 2021/1165, Anhang V Teil D, Eintrag Schwefeldioxid (konsolidiert Stand 01.01.2026) [26] gilt:
 
 - Rotwein mit weniger als 2 g/L Restzucker: höchstens 100 mg/L (50 mg/L unter dem konventionellen Wert),
 - Weißwein und Rosé mit weniger als 2 g/L Restzucker: höchstens 150 mg/L (50 mg/L unter dem konventionellen Wert),
 - alle anderen Weine: konventioneller Höchstwert minus 30 mg/L.
 
-Die Schwefelung als solche ist zugelassen (Schwefeldioxid, Kaliumdisulfit, Kaliumhydrogensulfit). Verboten ist die Entfernung von SO2 durch physikalische Verfahren (Entschwefelung).
+Die Schwefelung als solche ist zugelassen (Schwefeldioxid, Kaliumbisulfit = Kaliumhydrogensulfit, Kaliummetabisulfit = Kaliumdisulfit) [26]. Verboten ist die Entschwefelung durch physikalische Verfahren (VO (EU) 2018/848, Anhang II Teil VI Nr. 3.2 Buchst. b) [26].
 
-> **Offen:** Fundstelle im Wortlaut prüfen. Nach Kenntnisstand stehen die Werte in der Durchführungsverordnung (EU) 2021/1165, Anhang V, zu den Bedingungen für Schwefeldioxid, bzw. in VO (EU) 2018/848, Anhang II Teil VI. Ebenfalls zu prüfen: ob und wie bei katastrophalen Witterungsverhältnissen höhere SO2-Werte für Bio-Wein genehmigt werden können (Ausnahmeregeln nach Art. 22 VO (EU) 2018/848).
+**Ausnahme im Katastrophenfall:** Erkennt der Mitgliedstaat förmlich einen Katastrophenfall an (z. B. widrige Witterung), kann die zuständige Behörde erlauben, dass Bio-Wein SO2 bis zum konventionellen Höchstwert enthält, wenn der Gesundheitszustand der Trauben im Vergleich zu früheren Jahren mehr SO2 erfordert. Die Ausnahme ist auf höchstens 12 Monate befristet (Delegierte VO (EU) 2020/2146, Art. 1, 2 und 3 Abs. 9, gestützt auf Art. 22 VO (EU) 2018/848) [31].
 
 ### 7.3 Strengere Verbandsrichtlinien
 
@@ -688,11 +692,13 @@ Stand: November 2026
 22. Iowa State University Extension and Outreach (o. J.): Publikation 16425 (Weinbereitung; Aussage zu 0,5–0,8 mg/L molekularer SO2 für Rot- und Weißwein). https://store.extension.iastate.edu/Product/16425-pdf [online geprüft – Aussage gesehen, Titel nicht erfasst]
 23. Howe, P. A. (2015): Dissertation zur Kopfraum-Messung von SO2 mit Gasprüfröhrchen, Cornell University, Ithaca. https://ecommons.cornell.edu/entities/publication/7a66a7bb-69ee-4c57-ac81-0d23e6c83458 [online geprüft – Zusammenfassung gesehen, genauer Titel nicht erfasst]
 24. N. N. (2024): Validation of a fast automated photometric method for the analysis of sulfur dioxide in wines. European Food Research and Technology. DOI 10.1007/s00217-024-04496-x [online geprüft – nur Titel und Fundstelle; Autorinnen und Autoren vor Verwendung ergänzen]
-25. Delegierte Verordnung (EU) 2019/934 der Kommission zur Ergänzung der Verordnung (EU) Nr. 1308/2013 hinsichtlich der Anbaugebiete, in denen der Alkoholgehalt erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen …, Anhang I Teil B. Konsolidierte Fassung auf EUR-Lex. [nicht online geprüft]
-26. Verordnung (EU) 2018/848 über die ökologische/biologische Produktion, Anhang II Teil VI, und Durchführungsverordnung (EU) 2021/1165, Anhang V. Konsolidierte Fassungen auf EUR-Lex. [nicht online geprüft]
-27. Verordnung (EU) Nr. 1169/2011 betreffend die Information der Verbraucher über Lebensmittel, Anhang II Nr. 12. [nicht online geprüft]
-28. Delegierte Verordnung (EU) 2019/33 der Kommission (Kennzeichnung von Weinbauerzeugnissen), Bestimmungen zur Angabe von Allergenen. [nicht online geprüft]
+25. Delegierte Verordnung (EU) 2019/934 der Kommission zur Ergänzung der Verordnung (EU) Nr. 1308/2013 hinsichtlich der Anbaugebiete, in denen der Alkoholgehalt erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen …, Anhang I Teil B. Konsolidierte Fassung auf EUR-Lex, Stand 29.12.2024. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02019R0934-20241229 [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 29.12.2024: Teil B Abschnitte A–C, alle Werte der Tabelle 7.1]
+26. Verordnung (EU) 2018/848 über die ökologische/biologische Produktion, Anhang II Teil VI, und Durchführungsverordnung (EU) 2021/1165, Anhang V Teil D. Konsolidierte Fassungen auf EUR-Lex, Stand 25.03.2025 bzw. 01.01.2026. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex: SO2-Bedingungen in 2021/1165 Anhang V Teil D, Verbot der Entschwefelung in 2018/848 Anhang II Teil VI Nr. 3.2]
+27. Verordnung (EU) Nr. 1169/2011 betreffend die Information der Verbraucher über Lebensmittel, Anhang II Nr. 12. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 01.04.2025: Anhang II Nr. 12 (mehr als 10 mg/L als insgesamt vorhandenes SO2) und Anhang XIV (Umrechnungsfaktoren)]
+28. Delegierte Verordnung (EU) 2019/33 der Kommission (Kennzeichnung von Weinbauerzeugnissen), Art. 41 und Anhang I Teil A (Allergenbegriffe). Konsolidierte Fassung EUR-Lex, Stand 18.01.2025. [online geprüft – Wortlaut im konsolidierten Text EUR-Lex Stand 18.01.2025: Art. 41; die Begriffsliste in Anhang I Teil A nicht einzeln gelesen]
 29. Jackowetz, J. N., Mira de Orduña, R. (2013): Survey of SO2 binding carbonyls in 237 red and white table wines. Food Control 32. [nicht online geprüft]
 30. Richtlinie (EU) 2017/164 der Kommission zur Festlegung einer vierten Liste von Arbeitsplatz-Richtgrenzwerten (Schwefeldioxid); in Österreich umgesetzt in der Grenzwerteverordnung (GKV) in der geltenden Fassung. [nicht online geprüft]
 
 Weiterführend (nicht im Text zitiert): OIV (2021): OIV Collective Expertise Document – SO2 and wine: a review. https://www.oiv.int/public/medias/7840/oiv-collective-expertise-document-so2-and-wine-a-review.pdf [online geprüft – nur Existenz und Inhaltsverzeichnis gesehen]
+31. Delegierte Verordnung (EU) 2020/2146 der Kommission vom 24. September 2020 bezüglich Ausnahmen von den Produktionsvorschriften für die ökologische/biologische Produktion. ABl. L 428 vom 18.12.2020, S. 5. https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32020R2146 [online geprüft – Originaltext EUR-Lex: Art. 1, 2, 3 Abs. 9]
+32. Europäische Kommission (2010): Liste und Beschreibung der Analysemethoden gemäß Artikel 120g Absatz 1 der Verordnung (EG) Nr. 1234/2007, Kapitel 24 „Schwefeldioxid (OIV-AS-323-04-DIOSU)“. Amtsblatt der EU C 43 vom 19.2.2010, S. 58–60. https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:C:2010:043:FULL [online geprüft – Wortlaut: Gasstrom etwa 40 L/h, 15 Minuten, 50 mL Probe + 15 mL Phosphorsäure 85 %, Berechnung 6,4 n bzw. 16 n]
