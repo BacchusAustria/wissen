@@ -51,7 +51,7 @@ Das erklärt zwei Beobachtungen:
 | stark alkalisch | – | 8,5–9,0 |
 | sehr stark alkalisch | – | ab 9,1 |
 
-> **Offen:** Die österreichischen Klassengrenzen sind aus dem Fachwissen wiedergegeben und nicht am aktuellen Text der „Richtlinien für die sachgerechte Düngung“ geprüft. Vor Verwendung dort bzw. in [pH und Leitfähigkeit](../boden/ph-leitfaehigkeit.md) nachsehen.
+> **Offen:** Die österreichischen Klassengrenzen sind aus dem Fachwissen wiedergegeben und nicht am Text geprüft. Die aktuelle Fassung ist die 8. Auflage der „Richtlinien für die sachgerechte Düngung im Ackerbau und Grünland“ (aktualisierte Version 2023); die Einstufung der Bodenreaktion steht dort in Kapitel 2.4.6 (ab S. 30). Zwei Websuchen lieferten nur das Inhaltsverzeichnis, nicht die Tabelle; die PDF war aus dieser Umgebung nicht abrufbar. Bis dahin in [pH und Leitfähigkeit](../boden/ph-leitfaehigkeit.md) nachsehen.
 
 Die im Auftrag genannte Grenze „pH über 7,5“ entspricht damit, in CaCl₂ gemessen, praktisch dem **kalkhaltigen Boden**; in Wasser gemessen dem **schwach bis mäßig alkalischen Boden**.
 
@@ -340,7 +340,7 @@ Viele Bakterien und Pilze lösen Calciumphosphate durch organische Säuren, mine
 
 Die Rebe braucht deutlich weniger Phosphor als Stickstoff oder Kalium; mit der Ernte wird nur wenig Phosphor abgefahren [39]. Auf Phosphordüngung reagieren Reben nur auf sehr phosphorarmen Böden [37, 39]. Ein niedriger Phosphorwert im Bodenbefund ist bei der Rebe deshalb noch kein Grund zur Sorge. Anders kann es bei Begrünungspflanzen (vor allem Leguminosen) sein, die mehr Phosphor brauchen; über sie wirkt Phosphor indirekt auf Stickstoffversorgung und Humusaufbau ([Phosphor](phosphor.md)).
 
-> **Offen:** Konkrete Entzugszahlen für Phosphor je Tonne Trauben sind in dieser Datei bewusst nicht angegeben, weil sie nicht online geprüft werden konnten. Sie stehen in den „Richtlinien für die sachgerechte Düngung im Weinbau“ [11] und bei Keller [39].
+> **Offen:** Konkrete Entzugszahlen für Phosphor je Tonne Trauben sind in dieser Datei bewusst nicht angegeben, weil sie nicht online geprüft werden konnten. Sie stehen in der Broschüre „Sachgerechte Düngung im Weinbau“ [11] (2. Auflage 2014; Volltext online nicht erreichbar) und bei Keller [39].
 
 ### 6.2 Hohe Abhängigkeit von Mykorrhiza
 
@@ -475,7 +475,7 @@ Grundsatz: **Zuerst die Ursachen (Unterlage, Struktur, Wasser, organische Substa
 - **Weniger gut belegt** ist, wie stark einzelne Bio-Maßnahmen (Begrünungsarten, Kompost, Mikroorganismen-Präparate) die Nährstoffversorgung der Rebe auf Kalkböden unter Feldbedingungen verbessern. Vieles stammt aus Versuchen mit anderen Kulturen oder aus Gefäßversuchen. Die Maßnahmen-Dateien bewerten das jeweils einzeln.
 - **Österreichische Feldversuche** zu Nährstofffreisetzung auf Kalkböden im Bio-Weinbau wurden für diese Datei nicht online recherchiert.
 
-> **Offen:** Österreichische Versuchsergebnisse (HBLA und Bundesamt für Wein- und Obstbau Klosterneuburg, Landwirtschaftskammern, Bio Austria, FiBL Österreich) zu Kalkchlorose, Phosphor und Begrünung auf Kalkböden sollten in einer späteren Runde gezielt gesucht und eingearbeitet werden.
+> **Offen:** Österreichische Versuchsergebnisse zu Kalkchlorose, Phosphor und Begrünung auf Kalkböden fehlen weiterhin. Eine Suche (November 2026) fand keinen Klosterneuburger Versuch, der Kalkchlorose und Begrünung direkt untersucht. Ansatzpunkte für eine spätere Runde: Langzeit-Unterlagenbeobachtungen mit Weißburgunder und Welschriesling in den *Mitteilungen Klosterneuburg* 2024 (Renner et al.; ob Chlorose bonitiert wurde, nicht geprüft) und das Merkblatt „Chlorose“ der Landwirtschaftskammer Burgenland.
 
 Stand: November 2026
 
@@ -490,8 +490,8 @@ Stand: November 2026
 7. von Wandruszka, R. (2006): Phosphorus retention in calcareous soils and the effect of organic matter on its mobility. Geochemical Transactions 7, 6. [nicht online geprüft]
 8. Mengel, K. (1994): Iron availability in plant tissues – iron chlorosis on calcareous soils. Plant and Soil 165, 275–283. [nicht online geprüft]
 9. Tagliavini, M., Rombolà, A. D. (2001): Iron deficiency and chlorosis in orchard and vineyard ecosystems. European Journal of Agronomy 15, 71–92. [nicht online geprüft]
-10. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz (Hrsg.) (2017): Richtlinien für die sachgerechte Düngung im Ackerbau und Grünland. 7. Auflage. Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien. [nicht online geprüft; neuere Auflage möglich]
-11. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz (Hrsg.): Richtlinien für die sachgerechte Düngung im Weinbau. Zuständiges Bundesministerium, Wien. Auflage und Jahr nicht verifiziert. [nicht online geprüft]
+10. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz (Hrsg.) (2017): Richtlinien für die sachgerechte Düngung im Ackerbau und Grünland. 7. Auflage. Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft, Wien. Aktuell gilt die 8. Auflage (aktualisierte Version 2023, Bundesministerium für Land- und Forstwirtschaft, Regionen und Wasserwirtschaft). [nicht online geprüft – Existenz der 8. Auflage 2023 und Kapitel 2.4.6 „Bodenreaktion – pH-Wert“ im Suchergebnis gesehen; Inhalt nicht]
+11. Fachbeirat für Bodenfruchtbarkeit und Bodenschutz (Hrsg.): Sachgerechte Düngung im Weinbau. 2. Auflage 2014, Bundesministerium, Wien; eine neuere BML-Fassung ist online, Auflage nicht geprüft. [nicht online geprüft – Titel, Auflage und Inhaltsverzeichnis im Suchergebnis gesehen; Inhalt nicht]
 12. Austrian Standards International: ÖNORM L 1083 – Chemische Bodenuntersuchungen – Bestimmung der Acidität (pH-Wert). Wien. Ausgabe nicht verifiziert. [nicht online geprüft]
 13. Austrian Standards International: ÖNORM L 1084 – Chemische Bodenuntersuchungen – Bestimmung von Carbonat. Wien. Ausgabe nicht verifiziert. [nicht online geprüft]
 14. Austrian Standards International: ÖNORM L 1087 – Chemische Bodenuntersuchungen – Bestimmung von „pflanzenverfügbarem“ Phosphor und Kalium nach der Calcium-Acetat-Lactat(CAL)-Methode. Wien. Ausgabe nicht verifiziert. [nicht online geprüft]

@@ -522,6 +522,6 @@ Stand: November 2026
 
 [56] Pestana M., Correia P.J., de Varennes A., Abadía J., Faria E.A. (2001): Effectiveness of different foliar iron applications to control iron chlorosis in orange trees grown on a calcareous soil. Journal of Plant Nutrition 24. [nicht online geprüft – Kernaussage in Suchergebnis gesehen, bibliografische Angaben aus dem Fachwissen]
 
-[57] Bundesministerium für Land- und Forstwirtschaft (Fachbeirat für Bodenfruchtbarkeit und Bodenschutz): Richtlinien für die sachgerechte Düngung im Weinbau. Wien (aktuelle Auflage prüfen). [nicht online geprüft]
+[57] Fachbeirat für Bodenfruchtbarkeit und Bodenschutz (Hrsg.): Sachgerechte Düngung im Weinbau. 2. Auflage 2014, Bundesministerium, Wien; eine neuere BML-Fassung ist online, Auflage nicht geprüft. [nicht online geprüft – Titel und Auflage im Suchergebnis gesehen; Inhalt nicht]
 
 [58] AFNOR FD X31-146 (Juli 1996): Qualité du sol – Détermination de l'indice de pouvoir chlorosant selon Juste et Pouget. AFNOR, Paris. [online geprüft – Existenz und Ausgabedatum im AFNOR-Katalog (Suchergebnis); Inhalt nicht]
